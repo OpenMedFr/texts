@@ -17,6 +17,7 @@
 #META#  EdEditor        :: Paris, Gaston; Pannier, Léopold
 #META#  EdPlace         :: Paris
 #META#  EdPublisher     :: F. Vieweg
+#META#  EdVol           :: 
 #META#  EdYear          :: 1887
 #META#  EdPages         :: 139-170
 #META#  MsBase          :: L, A, P
