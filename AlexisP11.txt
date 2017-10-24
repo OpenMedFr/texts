@@ -1,0 +1,690 @@
+#META#  TextURI         :: AlexisP11
+#META#  DEAF            :: http://www.deaf-page.de/fr/bibl/bib99a.php#AlexisP
+#META#  TL              :: Alex., Alex. S.
+#META#  FEW        		::
+#META#  ARLIMA          :: https://www.arlima.net/no/114
+#META#  Author          :: nodata
+#META#  AuthorBorn      :: nodata
+#META#  AuthorDied      :: nodata
+#META#  TextTitle       :: La vie de saint Alexis
+#META#  TextSubtitle	:: poème du XIe siècle et renouvellements des XIIe, XIIIe et XIVe siècles publiés avec préface, variantes, notes et glossaire
+#META#  TextVols        :: 1
+#META#  TextSubj        :: hagiography
+#META#  TextDescARL     :: vers décasyllabiques assonancés
+#META#  TextDescVers    :: 10
+#META#  TextDateARL     :: milieu du XIe siècle
+#META#  TextDateAdj     :: m11
+#META#  EdEditor        :: Paris, Gaston; Pannier, L�opold
+#META#  EdPlace         :: Paris
+#META#  EdPublisher     :: F. Vieweg
+#META#  EdYear          :: 1887
+#META#  EdPages         :: 139-170
+#META#  MsBase          :: L, A, P
+#META#  MsOther         :: M1, S
+#META#  MsNum           :: 6
+#META#  ScanURL         :: https://archive.org/details/laviedesaintale03alexgoog
+#META#  ScanURIOther	::
+#META#  ArkID           :: ark:/13960/t1jh3nt8t
+#META#  LccnID          :: 14022514
+#META#  OclcID          :: 67605175
+#META#  MiscInfo        :: the eleventh century version in this volume
+
+
+PageV01P139
+Bons fut li siecles al tens ancienor,
+Quer feit i ert e justise et amor,
+Si ert credance, dont or n’i at nul prot:
+Tot est mudez, perdude at sa color;
+Ja mais n’iert tels com fut as anceisors.
+Al tens Noe et al tens Abraham,
+Et al David que Deus par amat tant,
+Bons fut li siecles : ja mais n’iert si vailanz.
+Vielz est e frailes, tot s’en vait declinant,
+Si’st empeiriez tot bien vait remanant.
+Pois icel tens que Deus nos vint salver,
+Nostre anceisor ovrent cristientet
+Si fut uns sire de Rome la citet;
+Riches hom fut de grant nobilitet:
+Por ço l’vos di, d’un son fil voil parler.
+PageV01P140
+Eufemiens — ensi out nom li pedre —
+Cons fut de Rome del mielz qui donc i eret;
+Sor toz ses pers l'amat li emperedre.
+Donc prist muilier vailant et honorede,
+Des mielz gentils de tote la contrede.
+Pois converserent ensemble Iongement;
+Que enfant n’ovrent peiset lor en forment.
+Deu en apelent andoi parfitement:
+"E reis celestes, par ton comandement
+Enfant nos done qui seit a ton talent."
+Tant li preierent par grant humilitet
+Que la muilier donat feconditet:
+Un fil lor donet, si l'en sovrent bon gret;
+De saint batesme l’ont fait regenerer:
+Bel nom li metent sulonc cristientet.
+Fut batiziez, si out nom Alexis.
+Qui l'out portet volentiers le nodrit;
+Pois li bons pedre ad escole le mist.
+Tant aprist letres que bien en fut guarniz;
+Pois vait li enfes l’emperedor servir.
+Quant veit li pedre que mais n’avrat enfant
+PageV01P141
+Mais que cel sol que il par amat tant,
+Donc se porpenset del siecle a en avant:
+Or volt que prenget muilier a son vivant,
+Donc li achatet filie d'un noble franc.
+Fut la pulcele de molt halt parentet,
+Filie ad un comte de Rome la citet:
+N'at plus enfant, lei volt molt honorer.
+Ensemble en vont li dui pedre parler,
+Lor dous enfanz volent faire asembler.
+Noment le terme de lor asemblement,
+Quant vint al faire, donc le font gentement,
+Danz Alexis l’esposet belement;
+Mais de cel plait ne volsist il nient:
+De tot en tot ad a Deu son talent.
+Quant li jorz passet et il fut anoitiet,
+Ço dist li pedre : "Filz, quer t'en vai colchier.
+Avoc ta ’spose, al comand Deu del ciel."
+Ne volst li enfes son pedre corocier,
+Vint en la chambre od sa gentil muilier.
+PageV01P142
+Com veit le lit, esguardat la pulcele,
+Donc li remembret de son seinor celeste
+Que plus at chier que tot aveir terrestre:
+"E Deus, dist il, com forz pechiez m’apresset!
+S’or ne m’en fui, molt criem que ne t’en perde.
+Quant en la chambre furent tot sol remes.
+Danz Alexis la prist ad apeler;
+La mortel vide li prist molt a blasmor,
+De la celeste li mostret veritet,
+Mais lui ert tart qued il s’en fust alez.
+"Oz mei, pulcele: celui tien ad espos
+Qui nos redenst de son sanc precios.
+En icest siecle nen at parfite amor;
+La vide est fraile, n’i at durable honor,
+Ceste ledice revert a grant tristor."
+Quant sa raison li at tote mostrede,
+Pois li comandet les renges de s’espede
+Et un anel dont il l'out esposede.
+Donc en eist fors de la chambre son pedre,
+En mie nuit s’en fuit de la contrede.
+Donc vint edrant dreitement a la mer;
+La nef est preste ou il deveit entrer:
+PageV01P143
+Donet son pris et enz est aloez.
+Drecent lor sigle, laisent corre par mer,
+La pristrent terre ou Deus lor volst doner.
+Dreit a Lalice, une citet molt bele,
+Iloc arivet sainement la nacele.
+Donc en eisit danz Alexis a terre;
+Mais jo ne sai com longes i converset:
+Ou que il seit de Deu servir ne cesset.
+D’iloc alat en Alsis la citet,
+Por une imagene dont il odit parler,
+Qued angele firent par comandement Deu,
+El nom la virgene qui portat salvetet,
+Sainte Marie qui portat damne Deu.
+Tot son aveir qu’od sei en out portet,
+Tot le depart que giens ne l'en remest:
+Larges almosnes par Alsis la citet
+Donet as povres ou qu’il les pot trover:
+Par nul aveir ne volt estre encombrez.
+Quant son aveir lor at tot departit,
+Entre les povres s’asist danz Alexis,
+PageV01P144
+Receut l’almosne quant Deus la li tramist;
+Tant en retint dont son cors pot guarir,
+Se lui 'n remaint, si l’rent as poverins
+Or reviendrai al pedre et a la medre,
+Et a la ’spose qui sole fut remese:
+Quant il ço sovrent qued il fuiz s’en eret,
+Ço fut granz dois qued il en demenerent,
+Et granz deplainz par tote la contrede.
+Ço dist li pedre: "Chiers filz, com t’ai perdut!"
+Respont la medre: "Lasse, qu’est devenuz?"
+Ço dist la ’spose : "Pechiez le m’at tolut.
+Amis, bels sire, si poi vos ai out!
+Or sui si graime que ne pois estre plus."
+Donc prent li pedre de ses meilors serjanz;
+Par moites terres fait querre son enfant.
+Jusqu’en Alsis en vindrent dui edrant;
+Iloc troverent dan Alexis sedant,
+Mais n’enconurent son vis ne son semblant.
+Si at li enfes sa tendre charn mudede,
+PageV01P145
+Ne l’reconurent li dui serjant son pedre.
+A lui medisme ont l’almosne donede;
+Il la receut come li altre fredre.
+Ne l’reconurent, sempres s’en retornerent.
+Ne l'reconurent ne ne l’ont enterciet.
+Danz Alexis en lodet Deu del ciel
+D’icez sons sers cui il est almosniers.
+Il fut lor sire, or est lor provendiers;
+Ne vos sai dire com il s’en firet liez.
+Cil s’en repairent a Rome la citet,
+Noncent al pedre que ne l’povrent trover.
+S’il fut dolenz ne l’estot demander;
+La bone medre s’en prist a dementer,
+E son chier fil sovent a regreter:
+"Filz Alexis, por quei t’portat ta medre?
+Tu m’ies fuiz, dolente en sui remese.
+Ne sai le leu ne nen sai la contrede
+Ou t’alge querre; tote en sui esguarede.
+Ja mais n’ierc liede, chiers filz, ne n’iert tes pedre."
+Vint en la chambre, pleine de marrement.
+Si la despeiret que n'i remest nient;
+PageV01P146
+N’i laissat palie ne neul ornement.
+A tel tristor atornat son talent,
+Onc pois cel di ne s’ contint liedement.
+"Chambre, dist ele, ja mais n’estras parede,
+Ne ja ledice n’iert en tei demenede."
+Si l’at destruite com s’hom l’oust predede:
+Sas i fait pendre e cinces deramedes,
+Sa grant honor a grant dol at tornede.
+Del dol s’asist la medre jus a terre,
+Si fist la ’spose dan Alexis acertes:
+"Dame, dist ele, jo ai fait si grant perte!
+Ore vivrai en guise de tortrele:
+Quant n’ai ton fil, ensembl' od tei voil estre."
+Respont la medre: "S’od mei te vols tenir.
+Si t’ guarderai por amor Alexis,
+Ja n’avras mal dont te poisse guarir.
+Plainons ensemble le dol de nostre ami,
+Tu del seinor, jo l' ferai por mon fil."
+PageV01P147
+Ne pot estre altre, metent l'el consirrer;
+Mais la dolor ne podent oblider.
+Danz Alexis en Alsis la citet
+Sert son seinor par bone volentet:
+Ses enemis ne l’pot onc enganer.
+Dis e set anz, n’en fut nient a dire,
+Penat son cors el damne Deu servise.
+Por amistet ne d'ami ne d’amie,
+Ne por honors qui lui fussent tramises,
+N’en volt torner tant com il ad a vivre.
+Quant lot son cor en at si atornet
+Que ja son voil n’istrat de la citet,
+Deus fist l'imagene por soe amor parler
+Al servitor qui serveit al alter;
+Ço li comandet: "Apele l'home Deu."
+Ço dist l’imagene: "Fai l’home Deu venir
+En cest monstier, quer il l'at deservit
+Et il est dignes d’entrer en paradis."
+Cil vait, si l’quiert, mais il ne l’set choisir,
+Icel saint home de cui l’imagene dist.
+PageV01P148
+Revint li costre a l’imagene el mostier:
+"Certes, dist il, ne sai cui entercier."
+Respont l'imagene: "Ço'st cil qui lez lus siet;
+Pres est de Deu e del regne del ciel;
+Par nule guise ne s’en volt esloinier."
+Cil vait, si l'quiert, fait l'el mostier venir.
+Es vos l’esemple par trestot le pais
+Que cele imagene parlat por Alexis.
+Trestoit l’honorent, li grant e li petit,
+E toit le preient que d’els aiet mercit.
+Quant il ço veit que l’ volent honorer:
+" Certes, dist il, n'i ai mais ad ester;
+D’iceste honor ne m’ revoil encombrer."
+En mie nuit s’en fuit de la citet,
+Dreit a Lalice rejoint li sons edrers.
+Danz Alexis entrat en une nef :
+Ovrent lor vent, laisent corre par mer.
+Dreit a Tarson espeiret ariver,
+Mais ne pot estre: ailors l’estot aler.
+Tot dreit a Rome les portet li orez.
+PageV01P149
+Ad un des porz qui plus est pres de Rome,
+Iloc arivet la nef a cel saint home.
+Quant veit son regne, durement se redotet
+De ses parenz, qued il ne l' reconoissent
+E de l’honor del siecle ne l’encombrent.
+"E Deus, dist il, bels reis qui tot governes,
+Se tei ploust ici ne volsisse estre.
+S’or me conoissent mi parent d’este terre,
+me prendront par pri ou par podeste;
+Se jo’s en creid il me trairont a perte.
+"Mais ne por hoc mes pedre me desirret,
+Si fait ma medre plus que femme qui vivet,
+Avoc ma ’spose que jo lor ai guerpide.
+Or ne lairai ne m’ mete en lor bailide :
+Ne m’ conoistront, tanzjors at que ne m’ virent."
+Eist de la nef e vait edrant a Rome.
+Vait par les rues dont il ja bien fut cointes,
+PageV01P150
+Altre pois altre, mais son pedre i encontret,
+Ensembl’ od lui grant masse de ses homes;
+Si l’ reconut, par son dreit nom le nomet:
+"Eufemiens, bels sire, riches hom,
+Quer me herberge por Deu en ta maison;
+Soz ton degret me fai un grabaton:
+Empor ton fil dont tu as tel dolor.
+Tot soi enferms, si m' pais por soe amor."
+Quant ot li pedre la clamor de son fil,
+Plorent si oil, ne s’en pot astenir:
+"Por amor Deu e por mon chier ami,
+Tot te dorrai, bons hom, quantque m'as quis,
+Lit et hostel e pain e charn e vin.
+"E Deus, dist il, quer ousse un serjant
+Qui l’me guardast : jo l’en fereie franc."
+Un en i out qui sempres vint avant:
+"Es me, dist il, qui l’ guard par ton comand;
+Por toe amor en soferrai l’ahan."
+Cil le menat endreit soz le degret;
+PageV01P151
+Fait li son lit ou il pot reposer;
+Tot li amanvet quantque bosoinz li ert.
+Vers son seinor ne s’en volt mesaler;
+Par nule guise ne l’en pot hom blasmer.
+Sovent le virent e li pedre e la medre,
+E la pulcele qued il out esposede:
+Par nule guise onques ne l’aviserent;
+N'il ne lor dist, n’il ne li demanderent
+Quels hom esteit ne de quel terre il eret.
+Soventes feiz lor veit grant dol mener,
+E de lor oilz molt tendrement plorer,
+E tot por lui, onques nient por el.
+Il les esguardet, si l’met el consirrer:
+N’at soin que l’veiet, si est a Deu tornez.
+Soz le degret ou gist sor une nate
+La le paist l’hom del relief de la table;
+A grant poverte deduit son grant barnage.
+Ço ne volt il que sa medre le sachet:
+Plus aimet Deu que trestot son lignage.
+De la viande qui del herbere li vient
+PageV01P152
+Tant en retient dont son cors en sostient;
+Se lui ’n remaint si l’rent as almosniers;
+N’en fait musgode por son cors engraissier,
+Mais as plus povres le donet a mangier.
+En sainte eglise converset volentiers;
+Chascune feste se fait acomungier.
+Sainte escriture ço ert ses conseiliers:
+Del Deu servise le rovet esforcier;
+Par nule guise ne s’en volt esloinier.
+Soz le degret ou il gist e converset,
+Iloc deduit liedement sa poverte.
+Li serf son pedre qui la maisniede servent
+Lor lavedures li getent sor la teste:
+Ne s’en corocet ned il ne ’s en apelet.
+Toit l’escharnissent, si l’tienent por bricon,
+L’egue li getent, si moilent son linçol.
+Ne s’en corocet giens cil saintismes hom,
+Ainz preiet Deu qued il le lor pardoinst
+Par sa mercit, quer ne sevent que font.
+Iloc converset eisi dis e set ans.
+Ne l’reconut nuls sons apartenanz,
+PageV01P153
+Ne neuls hom ne sout les sons ahanz,
+Fors sol li liz ou il at geut tant:
+Ne pot muder ne seit aparissant.
+Trente quatre anz at si son cors penet.
+Deus son servise li volt gueredoner:
+Molt li engrieget la soe enfermetet.
+Or set il bien qued il s’en deit aler;
+Cel son serjant ad a sei apelet.
+"Quier mei, bels fredre, et enque e parchamin
+Et une penne, ço pri toe mercit."
+Cil li aportet; receit les Alexis:
+De sei medisme tote la chartre escrist,
+Com s’en alat e com il s’en revint.
+Tres sei la tint, ne la volt demostrer,
+Ne l’reconoissent usqu’il s'en seit alez.
+Parfitement s’ad a Deu comandet:
+Sa fin aproismet, ses cors est agravez;
+De tot en tot recesset del parler.
+En la samaine qued il s’en dut aler,
+Vint une voiz treis feiz en la citet
+PageV01P154
+Hors del sacrarie par comandement Deu,
+Qui ses fideilz li at toz envidez.
+Prest est la glorie qued il li volt doner.
+A l’altre voiz lor vint altre somonse
+Que l’home Deu quiergent qui gist en Rome,
+Si li depreient que la citet ne fondet,
+Ne ne perissent la gent qui enz fregondent.
+Qui l’ont odit remainent en grant dote.
+Sainz Innocenz ert idonc apostolies:
+A lui en vindrent e li riche e li povre,
+Si li requierent conseil d’icele chose
+Qu’il ont odide, qui molt les desconfortet:
+Ne guardent l’hore que terre les enclodet.
+Li apostolies e li emperedor
+— Li uns Arcadie, li altre Honorie out nom—
+E toz li poples par commune oraison
+Depreient Deu que conseil lor en doinst
+D’icel saint home par qui il guariront.
+Ço li depreient, la soe pietet,
+Que lor enseint ou l’ poissent recovrer.
+Vint une voiz qui lor ad enditet:
+"En la maison Eufemien quereiz,
+Quer iloc est, e la le trovereiz."
+PageV01P155
+Toit s'en retornent sor dan Eufemien;
+Alquant le prenent Fortment a blastengier:
+"Iceste chose nos douses noncier
+A tot le pople qui est desconseiliez:
+Tant l'as celet molt i as grant pechiet."
+II s’escondit com li hom qui nel set;
+Mais ne l’en creient, al herberc sont alet.
+Il vait avant la maison aprester;
+Fortment l’enquiert a toz ses menestrels:
+Icil respondent que neuls d’els ne l’set.
+Li apostolies e li emperedor
+Siedent es bans e pensif e ploros;
+Iloc esguardent toit cil altre seinor,
+Depreient Deu que conseil lor en doinst
+D’icel saint home par qui il guariront.
+En tant dementres com il iloc ont sis
+Deseivret l’aneme del cors saint Alexis;
+Tot dreitement en vait en paradis
+A son seinor qu’il aveit tant servit.
+E reis celestes, tu nos i fai venir !
+PageV01P156
+Li bons serjanz qui l'serveit volentiers
+Il le nonçat son pedre Eufemien:
+Soef l’apelet, si li at conseiliet:
+"Sire, dist il, morz est tes provendiers,
+E ço sai dire qu’il fut bons cristiens.
+"Molt longement ai od lui converset:
+De nule chose certes ne l’sai blasmer,
+E ço m’est vis que ço est li hom Deu."
+Toz sols s’en est Eufemiens tornez,
+Vint a son fil ou gist soz son degret.
+Les dras sozlievet dont il esteit coverz,
+Vit del saint home le vis e cler e bel;
+En son poing tient sa chartre li Deu sers
+Ou ad escrit trestot le son convers:
+Eufemiens volt saveir qued espelt.
+II la volt prendre, cil ne li volt guerpir;
+A l’apostolie revint toz esmariz:
+"Ore ai trovet ço que tant avons quis:
+Soz mon degret gist uns morz pelerins;
+Tient une chartre, mais ne li pois tolir."
+Li apostolies e li emperedor
+Vienent devant, getent s’en oraisons,
+Metent lor cors en granz aflictions;
+PageV01P157
+"Mercit, mercit, mercit, saintismes hom!
+Ne t’conoumes n'uncor ne t’conoissons.
+"Ci devant tei estoit dui pechedor,
+Par la Deu grace vochiet emperedor:
+Ço ’st sa mercit qu’il nos consent l’honor;
+De tot est mond somes nos jugedor,
+Del ton conseil somes tot bosoinos.
+"Cist apostolies deit les anemes baillir,
+Ço'st ses mestiers dont il ad a servir:
+Rent li la chartre par la toe mercit;
+Ço nos dirat qu'enz troverat escrit,
+E ço doinst Deus qu’or en poissons guarir."
+Li apostolies tent sa main a la chartre.
+Sainz Alexis la soe li alaschet:
+Lui la consent qui de Rome esteit pape,
+Il ne la list ned il dedenz n’esguardet;
+Avant la tent ad un bon clerc e savie.
+Li chanceliers cui li mestiers en eret
+Cil list la chartre, li altre l’escolterent.
+D’icele gemme qued iloc ont trovede
+PageV01P158
+Lor dist le nom del pedre e de la medre.
+E ço lor dist de quels parenz il eret.
+E ço lor dist com s’en fuit par mer,
+E com il fut en Alsis la citet,
+E com l’imagene Deus fist por lui parler,
+E por l'honor dont ne s’volt encombrer
+S'en refuit en Rome la citet.
+Quant ot li pedre ço que dit at la chartre,
+Ad ambes mains derompt sa blanche barbe.
+"E filz, dist il, com dolcros message!
+Vifs atendeie qued a mei repairasses,
+Par Deu mercit que tu m’reconfortasses."
+A halte vois prist li pedre a crider:
+"Filz Alexis, quels dois m’est presentez!
+Malvaise guarde t'ai fait soz mon degret.
+A las pechables, com par fui avoglez!
+Tant l’ai vedut, si ne l’poi aviser.
+"Filz Alexis, de ta dolente medre!
+Tantes dolors at por tei enduredes,
+E tantes fains e tantes seiz passedes,
+PageV01P159
+E tantes lairmes por le ton cors ploredes!
+Cist dols l’avrat enquoi par acorede.
+"O filz, cui ierent mes granz hereditez,
+Mes larges terres dont jo aveie asez,
+Mi granz palais en Rome la citet?
+Empor tei, filz, m’en esteie penez:
+Pois mon deces en fusses honorez.
+"Blanc ai le chief e la barbe chanude;
+Ma grant honor aveie retenude
+Empor tei, filz, mais n’en aveies cure.
+Si grant dolor oi m’est apareude!
+Filz, la tue aneme seit el ciel absolude.
+"Tei covenist helme e bronie a porter,
+Espede ceindre corne tui altre per,
+E grant maisniede douses governer,
+Le gonfanon l’emperedor porter,
+Com fist tes pedre e li tons parentez.
+"A tel dolor et a si grant poverte,
+Filz, t'ies deduiz par alienes terres,
+E d’icel bien qui toz doust tons estre
+PageV01P160
+Poi en perneies en ta povre herberge.
+Se Deu ploust sire en dousses estre."
+De la dolor que demenat li pedre
+Grant fut la noise, si l’entendit la medre.
+La vint corant com femme forsenede,
+Batant ses palmes, cridant, eschevelede:
+Veit mort son fil, a terre chiet pasmede.
+Qui donc li vit son grant dol demener,
+Son piz debatre e son cors degeter,
+Ses crins derompre, son vis demaiseler,
+E son mort fil detraire et acoler,
+N’i out si dur cui n’estoust plorer.
+Trait ses chevels e debat sa peitrine;
+A grant dol met la soe cliarn medisme:
+" E filz, dist ele, com m’ous enhadide!
+E jo dolente, com par fui avoglide!
+Ne l’conoisseie plus qu’onques ne l’vedisse."
+Plorent si oil e si getet granz criz;
+Sempres regretet: "Mar te portai, bels fils!
+PageV01P161
+E de ta medre que n’aveies mercit?
+Por tei m’vedeies desirrer a morir:
+Ço’st grant merveile que pitet ne t'en prist.
+"A lasse mesre, com oi fort aventure !
+Ci vei jo morte tote ma portedure.
+Ma longe atente a grant dol est venude.
+Que porrai faire, dolente, malfedude?
+Ço’st grant merveile que li miens cors tant duret.
+"Filz Alexis, molt ous dur corage.
+Com adosas tot ton gentil linage?
+Sed a mei sole vels une feiz parlasses,
+Ta lasse medre si la reconfortasses
+Qui si'st dolente, chiers filz, bor i alasses.
+"Filz Alexis, de la toe charn tendre!
+A quel dolor deduit as ta jovente!
+Por quei m’fuiz ? ja t’portai en mon ventre;
+E Deus le set que tote sui dolente:
+Ja mais n’ierc liede por home ne por femme.
+"Ainz que t’ousse si’n fui molt desirrose;
+Ainz que nez fusses si'n fui molt anguissose;
+PageV01P162
+Quant jo t’vid net si’n fui liede e goiose;
+Or te vei mort, tote en sui coroçose:
+Ço peiset mei que ma fin tant demoret.
+"Seinors de Rome, por amor Deu, mercit:
+Aidiez m’a plaindre le dol de mon ami.
+Granz est li dois qui sor mei est vertiz;
+Ne pois tant faire que mes cors s’en sazit;
+Il n’est merveile: n’ai mais filie ne fil."
+Entre le dol del pedre e de la medre
+Vint la pulcele qued il out esposede:
+Sire, dist ele, com longe demorede
+Ai atendude en la maison ton pedre,
+Ou tu m’laisas dolente et esguarede!
+"Sire Alexis, tanz jorz t'ai desirret,
+E tantes lairmes por le ton cors ploret,
+E tantes feiz por tei en loinz guardet,
+Se revenisses ta ’spose conforter,
+Por felonie nient ne por lastet.
+"O chiers amis, de ta jovente bele!
+PageV01P163
+Ço peiset mei que tei podrirat terre!
+E gentils hom, com dolente pois estre!
+Jo atendeie de tei bones noveles,
+Mais or les vei si dures et si pesmes!
+"O bele boche, bels vis, bele faiture,
+Com est mudede vostre bele figure!
+Plus vos amai que nule creature.
+Si grant dolor oi m’est apareude,
+Mielz me venist, amis, que morte fusse.
+"Se jo t’sousse la jus soz le degret,
+Ou as geut de longe enfermetet,
+Ja tote gent ne m’ soussent torner
+Qu’ensembl’ od tei n’ousse converset;
+Se me leust si t’ousse guardet.
+"Or par sui vedve, sire," dist la pulcele,
+"Ja mais ledice navrai, quer ne pot estre,
+Ne ja mais home n’avrai charnel en terre.
+Deu servirai, le rei qui tot governet:
+Il ne m’faldrat s’il veit que jo lui serve."
+PageV01P164
+Tant i plorerent e li pedre e la medre
+E la pulcele, que toit s’en alasserent.
+En tant dementres le saint cors conreerent
+Toit cil seinor e bel l’acostumerent.
+Com felix cel qui par feit l’honorerent !
+"Seinors, que faites?" ço dist li apostolies,
+"Que valt cist criz, cist dois ne cesta noise?
+Cui que seit dols, a nostre os est il goie;
+Quer par cestui avrons bone adjutorie.
+Si li preions que de toz mais nos tolget."
+Trestoit le prenent qui povrent avenir ;
+Chantant en portent le cors saint Alexis,
+E toit li preient que d’els aiet mercit.
+N'estot somondre icels qui l’ont odit:
+Toit i acorent li grant e li petit.
+Si s’en commovrent tote la gent de Rome
+Plus tost i vint qui plus tost i pout corre:
+Parmi les rues en vienent si granz torbes
+Ne reis ne cons n’i pot faire entrerote,
+Ne le saint cors ne povrent passer oltre.
+PageV01P165
+Entr’ els en prenent cil seinor a parler:
+"Grant est la presse, nos n’i podrons passer;
+Por cest saint cors que Deus nos at donet
+Liez est li poples, qui tant l’at desirret:
+Toit i acorent, nuis ne s’en volt torner."
+Cil en respondent qui l'empirie bailissent:
+"Mercit, seinors, nos en querrons mecine:
+De noz aveirs ferons granz departides
+La main menude qui l’almosne desirret:
+S’il nos font presse donc en iermes delivre."
+De lor tresor prenent l'or e l’argent,
+Si l’font geter devant la povre gent;
+Par iço cuident aveir descombrement.
+Mais ne pot estre, cil n’en rovent nient:
+A cel saint home tornet ont lor talent.
+Ad une voiz crident la gent menude:
+"De cest aveir certes nos n’avons cure;
+Si grant ledice nos est apareude
+D’icest saint cors; n’avons soin d’altre mune,
+Quer par cestui avrons nos bone ajude."
+PageV01P166
+Onques en Rome nen out si grant ledice
+Com out le jorn as povres et as riches
+Por cel saint cors qu’il ont en lor bailide.
+Ço lor est vis que tiengent Deu medisme;
+Trestoz li poples lodet Deu e graciet.
+Sainz Alexis out bone volentet:
+Por hoc en est oi cest jorn honorez.
+Li cors en gist en Rome la citet,
+E l’aneme en est enz el paradis Deu.
+Bien pot liez estre qui si est aloez.
+Qui at pechiet bien s’en pot recorder:
+Par penitence s’en pot tres bien salver.
+Bries est cist siecles, plus durable atendeiz.
+Ço preions Deu, la sainte trinitet,
+Qu’od lui ensemble poissons el ciel regner.
+Sorz ne avogles ne contraiz ne lepros
+Ne muz ne orbs ne nuis palazinos,
+Ensorquetot ne neuls langoros,
+Nul n’en i at qui’n alget malendos,
+Cel n’en i at qui’n report sa dolor.
+N’i vint enferms de nule enfermetet,
+Quant il l’apelet sempres n’aiet santet.
+PageV01P167
+Alquant i vont, alquant se font porter;
+Si veirs miracles lor i at Deus mostrez,
+Qui vint plorant chantant l'en fuit raler.
+Cil dui seinor qui l’empirie governent,
+Quant il en veient les vertuz si apertes,
+Il le receivent, si l’portent e si l’servent.
+Alques par pri e le plus par podeste
+Vont en avant, si derompent la presse.
+Sainz Boneface, que l'hom martir apelet,
+Aveit en Rome une eglise molt bele :
+Iloc en portent dan Alexis acertes,
+Et attement le posent a la terre.
+Felix li lius ou ses sainz cors herberget!
+La gent de Rome, qui tant l’ont desirret.
+Set jors le tienent sor terre a podestet.
+Grant est la presse, ne l’estot demander.
+De totes parz l'ont si avironet
+Que a vis onques i pot hom habiter.
+Al sedmejorn fut faite la herberge
+A cel saint cors, a la gemme celeste.
+En sus s'en traient, si alaschet la presse:
+PageV01P168
+Voillent ou non, si l’laissent metre en terre ;
+Ço peiset els, mais altre ne pot estre.
+Ad encensiers, ad ories chandelabres
+Clerc revestut en albes et en chapes
+Metent le cors enz el sarcou de marbre,
+Alquant i chantent, li pluisor getent lairmes :
+Ja le lor voil de lui ne desevrassent.
+D’or e de gemmes fut li sarcous parez
+Por cel saint cors qu’il i deivent poser ;
+En terre l'metent par vive podestet ;
+Ploret li poples de Rome la citet,
+Soz ciel n'at home qui’s poisset conforter.
+Or n’estot dire del pedre e de la medre
+E de la ’spose com il le regreterent,
+Quer toit en ont lor voiz si atempredes
+Que toit le plainstrent et toit le doloserent:
+Cel jorn i out cent mil lairmes ploredes.
+Desor la terre ne l’povrent mais tenir:
+Voillent ou non si l’laissent enfodir,
+Prenent congiet al cors saint Alexis:
+E si li preient que d'els aiet mercit;
+Al son seinor il lor seit bons plaidiz."
+PageV01P169
+Vait s’en li poples. E li pedre e la medre
+E la pulcele onques ne desevrerent;
+Ensemble furent jusqu’a Deu s’en ralerent.
+Lor compainie fut bone et honorede:
+Par cel saint home sont lor anemes salvedes.
+Sainz Alexis est el ciel senz dotance,
+Ensemble od Deu en la compaigne as angeles,
+Od la pulcele dont se fist si estranges;
+Or l’ad od sei, ensemble sont lor anemes;
+Ne vos sai dire com lor ledice est grande.
+Com bone peine, Deus, e si bon servise
+Fist cel saint hom en ceste mortel vide!
+Quer or est s’aneme de glorie replenide:
+Ço at que s’volt, n’en est nient a dire:
+Ensorquetot e si veit Deu medisme.
+Las, malfedut, com esmes encombret!
+Quer ço vedons que toit somes desvet:
+De nos pechiez somes si avoglet
+La dreite vide nos font tresoblider:
+Par cest saint home doussons ralumer.
+Aions, seinors, cel saint home en memorie,
+Si li preions que de toz mais nos tolget:
+PageV01P170
+En icest siecle nos achat pais e goie,
+Et en cel altre la plus durable glorie
+En ipse verbe. Si’n dimes Pater noster.
+Amen!
