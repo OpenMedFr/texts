@@ -27,6 +27,7 @@
 #META#  ArkID           :: ark:/13960/t1jh3nt8t
 #META#  LccnID          :: 14022514
 #META#  OclcID          :: 67605175
+#META#  WebAuthor       :: David Joseph Wrisley
 #META#  MiscInfo        :: the eleventh century version in this volume
 
 
