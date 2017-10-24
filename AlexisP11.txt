@@ -1,20 +1,20 @@
 #META#  TextURI         :: AlexisP11
 #META#  DEAF            :: http://www.deaf-page.de/fr/bibl/bib99a.php#AlexisP
 #META#  TL              :: Alex., Alex. S.
-#META#  FEW        		::
+#META#  FEW        		  ::
 #META#  ARLIMA          :: https://www.arlima.net/no/114
 #META#  Author          :: nodata
 #META#  AuthorBorn      :: nodata
 #META#  AuthorDied      :: nodata
 #META#  TextTitle       :: La vie de saint Alexis
-#META#  TextSubtitle	:: poème du XIe siècle et renouvellements des XIIe, XIIIe et XIVe siècles publiés avec préface, variantes, notes et glossaire
+#META#  TextSubtitle	  :: poème du XIe siècle et renouvellements des XIIe, XIIIe et XIVe siècles publiés avec préface, variantes, notes et glossaire
 #META#  TextVols        :: 1
 #META#  TextSubj        :: hagiography
 #META#  TextDescARL     :: vers décasyllabiques assonancés
 #META#  TextDescVers    :: 10
 #META#  TextDateARL     :: milieu du XIe siècle
 #META#  TextDateAdj     :: m11
-#META#  EdEditor        :: Paris, Gaston; Pannier, L�opold
+#META#  EdEditor        :: Paris, Gaston; Pannier, Léopold
 #META#  EdPlace         :: Paris
 #META#  EdPublisher     :: F. Vieweg
 #META#  EdYear          :: 1887
@@ -23,7 +23,7 @@
 #META#  MsOther         :: M1, S
 #META#  MsNum           :: 6
 #META#  ScanURL         :: https://archive.org/details/laviedesaintale03alexgoog
-#META#  ScanURIOther	::
+#META#  ScanURIOther	  ::
 #META#  ArkID           :: ark:/13960/t1jh3nt8t
 #META#  LccnID          :: 14022514
 #META#  OclcID          :: 67605175
