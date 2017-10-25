@@ -1,0 +1,1572 @@
+﻿#META#  TextURI         :: AlexisPRI
+#META#  DEAF            :: http://www.deaf-page.de/fr/bibl/bib99a.php#AlexisP
+#META#  TL              :: 
+#META#  FEW        		::
+#META#  ARLIMA          :: https://www.arlima.net/no/114
+#META#  Author          :: nodata
+#META#  AuthorBorn      :: nodata
+#META#  AuthorDied      :: nodata
+#META#  TextTitle       :: Li roumans de saint Alessin
+#META#  TextSubtitle	::
+#META#  TextVols        :: 1
+#META#  TextSubj        :: hagiography
+#META#  TextDescARL     :: laisses de vers décasyllabiques assonancés (rédaction interpolée)
+#META#  TextDescVers    :: 10
+#META#  TextDateARL     :: Fin du XIIe ou du XIIIe siècle
+#META#  TextDateAdj     :: f12, 13
+#META#  EdEditor        :: Paris, Gaston; Pannier, Léopold
+#META#  EdPlace         :: Paris
+#META#  EdPublisher     :: F. Vieweg
+#META#  EdVol           :: 
+#META#  EdYear          :: 1887
+#META#  EdPages         :: 222-262
+#META#  MsBase          :: S
+#META#  MsOther         ::
+#META#  MsNum           :: 1
+#META#  ScanURL         :: https://archive.org/details/laviedesaintale03alexgoog
+#META#  ScanURIOther	::
+#META#  ArkID           :: ark:/13960/t1jh3nt8t
+#META#  LccnID          :: 14022514
+#META#  OclcID          :: 67605175
+#META#  WebAuthor       :: David Joseph Wrisley
+#META#  MiscInfo        ::
+
+PageV01P222
+C’EST LI ROUMANS DE SAINT ALESSIN.
+# |
+Signour et dames, entendés un sermon
+D'un saintisme home qui Allessis ot non,
+Et d'une feme que il prist a oissor,
+Que il guerpi pour Diu son Creatour,
+Caste pucele et gloriouse flour,
+Qui ains a li nen ot convercion;
+Pour Diu le fist, s'en a bon guerredon:
+Saulve en est l'ame el ciel nostre signour,
+Li cors en gist a Rome a grant hounor.
+Bons fu li siecles au tans ancienour,
+10 Quar fois i ert et justice et amour,
+Si iert creance dont or n’i a mais prou:
+Si est mués perdue a sa valour,
+[Jamais n’iert tels com fut aus ancesours.]
+Faut i li biens, n'i puet avoir vigour:
+Ne porte foi la moillier son baron,
+Ne li vasals n'est faals au signour.
+A essient perdons nostre signour;
+Fraisle est la vie, ne duerra Ions jours,
+# |
+Al tans Noé et al tans Abraham,
+PageV01P223
+Et a Davi que Dieus par ama tant,
+Fu bons li siécles : jamais n’iert si vaillans.
+S’est empierés, et li biens va morant;
+Ne porte foi li pére son enfant,
+Ne le fius au parrin tant ne quant,
+Et li signour vont lor moillier boisant;
+Li ordené vont le loi mal menant:
+Trespassé ont le Damediu commant.
+Et saintes glises, filles Jherusalem,
+De tout en tout se vont afoibliant.
+La fois del siécle se va toute falant;
+Fraisle est la vie: ne duerra lonc tans.
+Conterai vous del pére et de l'enfant.
+Que de mençoigne n'i a ne tant ne quant.
+Sainte escriture em puis traire a garant.
+Li fius servi bien Dieu a son vivant:
+Li cors en gist en or et en argent
+L'ame est en glore a Diu commandement.
+# |
+Li péres fu preudom et hounerés,
+Diu ama bien, si maintint carité;
+Mais li fius fu meldres de lui assés.
+A son vivant servi si Damedé
+Qu’en blanc argent et en or esmeré
+En gist li cors a Roume la cité:
+Tout cil le sévent ki a Roume ont alé
+Et cerkié ont par les maistres autés.
+Li siens moustiers ne fu mie obliés.
+Puis icel jour que Dius nos vint sauver,
+Nostre ancissour orent crestienté,
+Fu nés uns sires a Roume la cité,
+Rices hom fu de grant nobilité ;
+Pour çou vous di, d’un sien fil voel parler.
+# |
+Eufemiens, ensi ot non li péres.
+Des belisors qui a cel jour i érent,
+Quens fu de Roume, de toute la contrée;
+55 [Donc prist moillier vaillant et honorée,]
+Fille Flourent, o non Boine Eurée.
+# |
+Bone Eurée li pére ot non Flourens.
+Il l’espousa au los de ses parens;
+
+
+PageV01P224
+Puis conversérent ensanle longement.
+Qu’enfant nen orent, poise lor en forment;
+Diu en apèlent andoi parfitement :
+«E! Rois de glore, par ton commandement.
+Soit ta mercis et tes otriemens,
+Qu’enfant nous donnes qui soit a ton talent.»
+# |
+Tant li priérent par grant humilité,
+Que la moillier donna fecondité.
+Un fil lor donne, si l’en seurent bon gré;
+De saint bastesme l’ont fait rengenerer;
+Bel non li misent selonc crestienté.
+# |
+Baptisiés fu, s’ot a non Alessi.
+Qui le porta volentiers le nourri;
+Puis li bons péres a escole le mist;
+Tant aprist letres ke bien en fu garnis;
+Puis l’envoia l'empereour servir.
+# |
+Li emperéres ot non Otevians.
+Illuec servi enfreci a set ans.
+Et puis l'a fait son maistre cambrelenc.
+Se li carja tous ses commandemens,
+Et sa justice deseur toute sa gent,
+Cevaus et murs et palefrois amblans,
+Et plainnes males entre or fin et argent.
+Son pére ama; si l'en a donné tant
+Et a sa mére, rice sont et manant.
+Or voit li pére que mais n’ara enfant,
+Mais que ce seul que il par aimme tant;
+Dont se pourpense del siécle a en avant.
+Si velt qu’il prenge moillier a son vivant.
+Pour li a quise le fille un noble Franc.
+# |
+La pucele iert de moult grant parenté,
+Fille a un conte de Rome la cité ;
+Lesigne ot non, ses pères Signourés;
+N’a plus d’enfans, bien le puet marier.
+Emsamble en vont li doi pére parler.
+Les dous enfans veulent faire asambler.
+PageV01P225
+# |
+Noument le terme de leur assamblement.
+Quant vint au jour, se l' fisent belement:
+Ens el moustier saint Jehan del Latran,
+Sains Alessis, al los de ses parens.
+L'a espousée moult hounerablement.
+Mais de tout çou ne vausist il nient;
+De tout en tout a a Diu son talent,
+Plus aimme Diu que nule rien vivant.
+# |
+Quant çou fu cose que il l'ot espousée.
+De ses alues moult gentement douée,
+105 Mout en fu liés et li pére et li mére.
+Et si ami et cil de la contrée.
+Puis l’emmena a le maison son pére.
+# |
+Quant lor conroi orent aparellié.
+Et fait des noeces le premerain mangier,
+De cel saint houme que Diex par ot tant chier.
+Et de la feme ke il prist a moillier.
+Dont va li jors, e vous la nuit cangier.
+Ce dist li péres: «Biaus fius, alés coucier
+Avoec t’espouse, a Damediu congié.»
+Ne vaut li enfes son pére corecier.
+Sus se leva envis u volentiers.
+Va en la cambre o sa gente moillier.
+Li pére i fu et la mére au coucier.
+Le cambre ont faite encenser et joncier;
+Tendent i pailes a or entrelaciés.
+Quant il s'en issent, si font l’uis verillier;
+A dous sergans les font la nuit gaitier.
+Sains Alessins a parlé tous premiers.
+# |
+Sains Alessins esgarda la pucele.
+Assés i ardent candoiles et lanternes.
+Mout la vit gente et couroiteuse et bele;
+Ses oels en tome vers le signour celestre
+Qu’il amoit plus que nule riens terrestre:
+«Elas», dit-il, «com fors pechiés m’apresse!
+S’or nen m’en vois, jou crien que ne te perde;
+Qui me fesis, pére qui tout gouvernes,
+PageV01P226
+Regarde moi de tes clers ex en terre,
+Que ne perdés ne moi ne la pucele.
+Donnés moi, sire, itel service faire,
+C'onques diables de nous dous n'ait poeste.
+Mes péres m’aime; si cuide grant bien faire.
+Qui me desfie de la vie terestre:
+Tollir me vieut nostre signour celestre.»
+# |
+Quant en la cambre furent andoi remés,
+Sains Alessis prist a li a parler.
+Le mortel vie li prist molt a blasmer;
+De la celestre li moustre vérité.
+Que lui ert tart ke il s’en fust tournés!
+# |
+«Bele», dist il, «celui trai a garant
+Qui nous raienst de son precieus sanc
+Et de la viergene fu nés em Belliant,
+Et baptistere prist el flum de Jordant,
+La soie vie n’ara ja finement.
+# |
+«Bele», dist il, «celui tien a espous
+Qui nous raienst de son sanc precious;
+Car en cest siecle nen a parfite amour:
+A mout grant joie s’asamblent peceour,
+Mais il desoivrent a doel et a tristour.»
+# |
+Quant ses paroles li ot issi contées,
+Et la pucele les ot bien escoutées,
+Del couvretoir Va puis acouvetée;
+Prist un anel dont il l'ot espousée,
+Dous pars en fist al trencant de l'espée;
+L'une partie l’en a recoumandée,
+Se li pria qu’ele soit bien gardée,
+S'on li demande, k’ele soit aprestée;
+Emsamble lui en a l’autre portée.
+Que se jamais revient a sa contrée
+Et il li moustre les ensegnes prouvées,
+Que l' recounoisse entre li et sa mére.
+Dist la pucele : «Or sui molt esgarée;
+PageV01P227
+Mainne me la dunt tu m’as amenée.
+Por coi me lais? Ja m'as tu espousée.
+Que querras ore en estrange contrée?
+Que porai dire ton pére ne ta mére?
+Sempres m’aront de lor terre jetée.
+Puis m’en irai com autre asoignentée.
+Tel honte arai jamais n’iere hounerée.»
+«Bele», dist il, «n’estes mie senée:
+A Diu te tien, si devien s’espousée,
+T’ame iert el ciel roine corounée,
+Em Paradis iert mise et alevée.
+# |
+«Bele», dist il, «ja sés tu bien de fi
+Que l’ame estuet de nos cors departir;
+Que caut del cors, quant en tere porrist?
+L’ame iert moult lie qui Diu ara servi:
+Droit en ira es ciels dont elle vint
+Al Saint Espirt dont Damedius le fist,
+Li cors en tere dont il fu establis......
+Li cars deduist, li os ne puet porrir,
+Doucement flaire comme flors en avril,
+Et del mort home refera Dius le vif.
+Las! li meffait que porront devenir?
+Qui estorra del cors au departir
+Dont li cors put et li os est pouris,
+Ens en abisme trebuce al maleis,
+Sous limo terre dont ja n'iert revertis;
+Ne sains ne sainte nen iert ja si hardis,
+Que ja li proit qu’il li face merci.
+Pour Diu, pucele, enten çou que jou di;
+Car tu ne sés que t’est a avenir:
+Qui plus durra, vivera moult petit
+Envers la vie qui grans est a venir
+Del nouvel siecle qui duerra tondis.
+# |
+« Qui fait le bien se reçoit Damedés,
+Et qui le mal, cil est mal eurés:
+Ens en infer le trebuce maufés.
+PageV01P228
+Sous limo terre dont j a n'iert racatés.
+Sainte escriture ne set avant aler.
+Dotant celui ki ne puet amender;
+S'il ert dolenz ne l'estuet demander.»
+Ot le la bele, ne cesse de plorer:
+«Sire», fait ele, «or te commant a Dé
+Quant autrement ne te puis retorner.»
+Cil fu moult liés, si volt del lit lever;
+Et en apres le prist a rapeler:
+# |
+«Bele pucele», ce dist sains Alessins,
+Or m'en irai en estrange pais,
+Mais jou ne sai com iert del revenir:
+De cest anel que jou ai departi
+Ceste moitié qu'en m'aumoniére ai ci,
+D'ui en un an le renvoierai ci
+Par un mesaige u moi se jou sui vis
+Se ne revieng, puis pues prendre mari;
+Savoir porras que alés sui a fin.»
+Ot le la bele: si a jeté un cri:
+Quide sa mére que il juast a li.
+«Bele», dist il, «vous me volés hounir.»
+«Par Diu», dist ele, «aiés de moi merci.»
+«Sire», dist ele, «moult ai mon cuer mari;
+Se moi en poise pour coi me as plus vil?»
+«Certes nen ai», çou dit sains Alessis,
+«Ains vous aim plus que riens que Dius fesist,
+Sans cel signour qui nous forma et fist;
+Ja le querrai u il fu mors et vis.
+Et au sepulcre u il resurrexi.
+Qu'il nous reçoive ens el saint paradis.»
+«Sire», dist ele, «Dius vous i laist venir!
+# |
+«Frans hom», dist ele, «quel le vauras tu faire?
+Gehis le moi pour Diu et en confesse;
+Se je l' di home, Diu em puisse jou perdre.»
+Quant il oi que pour Diu l'en apele.
+Dont ne l' laissast pour nul avoir de tere:
+«Certes», dist il, «Damediu irai querre.
+PageV01P229
+Qu'il nous reçoive a son regne celestre.
+Il ne faut mie a houme qui le serve.»
+«Au congié Diu, sire», dist la pucele:
+«Grand duel arai et nuit et jors acertes;
+Jou remanrai caitive en ceste terre.»
+# |
+Quant il oi qu'elle l'ot otroié.
+Sous ciel n'a home qui l' peust courecier.
+«Sire», dist ele, «com ert del repairier?
+«Di me le terme, sel ferai metre em brief.
+Mout as dur cuer qui or me veus laiscier,
+Et pére et mére qui par t'ont si trés cier.
+Jou sui moult fole, si ne fas mie bien.
+Quant ne te fai et piés et mains loiier.»
+Dont ploura il des biaus oels de son cief.
+«Certes, pucele, del terme ne sai nient:
+L'en set quant va, mais l'en ne sait quant vient.
+Que que jou face, a Damediu te tien.»
+«Que Dius vous doinst a joie repairier:
+Se ne te voi, mais n'arai mon cuer lié.»
+«Bele», dist il, «pour Diu ne te targier;
+De Diu servir plus ne te voel proiier.
+Car ja peciéres n'en iert si eslongiés.
+Par sainte glise ne puisse repairier:
+C'est li services que Diu par a moult cier.»
+Dist la pucele: «Sire, vous dites bien.
+Car se Diu plaist, or le ferai moult bien.
+Se Diu tant m'aime que m'i laist aprocier.»
+# |
+«Bele pucele,» çou dist sains Alessins,
+«Ne devons mie nos cors si raemplir
+De grans ventrées que veulent recueillir;
+Car endementre que li peciére vit
+Et tient le bien dont li cors doit garir.
+Il en doit bien pour s'ame departir :
+A la grant joie qui est en paradis,
+La est la vie qui ja ne prendra fin.
+Dolant le cors qui tout veut engloutir:
+C'ara dont l’ame quant li cors a trop pris?
+Quant ja li hom n'ara si cier ami
+PageV01P230
+Puisqu'il est mors et alés a sa fin,
+Que ja le veulle plus oir ne veir,
+Ains li est tart que il soit enfouis!
+A mal eur cil est engenuis.
+Qui se travaille pour infer deservir.»
+Dist la pucele: «Sire, voir avés dit.
+Les vos raisons doit on bien retenir.»
+Estes les vous belement departis,
+Plorent des oels, ne se porent tenir,
+Et la pucele gentement li a dit:
+«Or t'en vas, sire, Dieus te laist revenir.
+Quant autrement ne te puis retenir.
+Dolante en ert cele qui te nori,
+Si ert li péres qui toi engenui.
+Et jou meisme qui t'avoie a mari.
+Jou remanrai en estrange pais.
+Et esgarée entre tous mes amis.
+Hui verrai noeces a grant duel departir;
+S'encor ne t' voi, de duel m’estuet morir.
+# |
+«Or t'en va, sire, jou te commant a Dé,
+Quant autrement ne te puis retorner.
+Cil ert dolans qui t’avoit engenré,
+Si iert ta mére qui te porta en lés.
+Et jou meisme qui sui en veveé.
+Hui verrai noeces a grant duel desevrer.»
+Il se signa, si le commande a Dé.
+Ele l'apèle doucement et souef.
+«Sire», dit ele, «jou te commant a Dé.
+Con faitement m'en porrai consirer?
+S'a ten consel le peusse trouver,
+Qu'ensemble toi me laissaisses aler,
+Ja me veroies gentement conreer,
+Tondre mes crins, un capel afubler,
+Et prendre escerpe et un bourdon ferré;
+Servirai toi de tes dras relaver.
+Ne ja luxure ne m’ verras demener,
+Ne adultére, ne autre puteé.»
+«Non ferai, bele, ains te commant a Dé,
+PageV01P231
+Le glorious qui pour nous fu penés
+En sainte crois, pour son pule sauver.»
+Ele commence grant duel a demener.
+Il vint a l'uis, sel deffrema souef;
+A mienuit s’enfuit de la cité,
+Si que ses pére et sa mére ne l’set,
+Ne li serjant qui l'orent a garder.
+De c'est moult liés, s'en loe Damedé,
+Que la pucele l'en a congié douné.
+Quant il fu jors et solaus fu levés.
+Descent un val, s'a un tertre monté
+A quatre liues de Roume la cité;
+Regarde Rome et en lonc et en lé.
+Envers le ciel en a son vis torné,
+Estroitemenl a Jesu reclamé.
+Que la pucele dont issi a esré
+Doinst en cest siécle tel vie demener.
+Que l'ame en soit el saint regne de Dé;
+Puis se li est de son pére membré
+Et de sa mére : si commence a plourer.
+Par lui meisme s'en est reconforté.
+Droit en la mer en aquelt son esrer.
+Preste est la nés u il porra entrer:
+Donne son pris, si est tous seus entrés.
+Drecent lor sigle, laissent courre par mer.
+En Jersalem les conduist Damedés :
+Sains Alessins est issus de la nef.
+# |
+Sains Alessins est de la nef issus;
+Vint al sepulcre u nostre sire fu.
+Fist ses priiéres, si s'est confès rendus.
+Dous jors sejourne et dous nuis i estut,
+Qu'il ne manja ne sa bouce ne but ;
+Après en est al flun Jourdan venus,
+U li baptesmes de nostre signour fu,
+Et li apostle si baptisiérent tuit.
+Il se despoille, si se baigna tous nus;
+Puis prist des palmes, si s'en est revenus.
+Pour les Juis n’i osa estre plus.
+PageV01S232
+Car a cel jour que li sains Iiom i fu
+N’i avoit il des Crestiens nesun.
+Droit a le Lice a son cemin tenu.
+# |
+Droit a le Lice, une cité moult bele,
+Iluec s’en va sains Alessis par terre.
+Mais jou ne sai com longes i converse.
+U que il soit, de Diu servir ne cesse :
+De sa maisnie veut il a toujours estre.
+# |
+Après en va en Aussis le cité,
+Pour une ymaige dont il oi parler
+Que angle fisent par le commant de Dé,
+El non celi qui porta sauveté.
+Onques faiture ne fu de sa biauté
+Sans nostre dame, la mére Damedé.
+# |
+Iceste ymaige, signour, dont je vous cant.
+Cou n'est de fust, ne n'est d’or ne d'argent.
+Mais li sains angles ki fist l'anoncement
+De nostre dame u Dius prist car et sanc
+Esgarda bien son vis et son semblant.
+Si fist l'ymaige par Diu commandement.
+Pour soie amour le mist non Marien.
+# |
+Marie ot non, comme la mére Dé.
+Si vint du ciel, de sainte maisté.
+Par un devenres de la crois aourer.
+Que nostre sire transi pour nous sauver;
+Par itel jour de la passion Dé
+Le mist li angles issi en la cité:
+Ainc en la tere nen ot plus povreté.
+La le requist sains Alessis li ber;
+Tout son avoir que il en ot porté
+A departi: ains rien ne l’en remest.
+Larges aumosnes par Ausi la cité
+Douna as povres u qu’il les pot trouver.
+Pour nul avoir ne vaut estre encombrés
+Ne ne volt perdre del ciel les iretés.
+# |
+Quant son avoir lor a tout departi.
+PageV01P233
+Entre les autres s’asist sains Alessins,
+Reçust l’aumosne la u Dius li tramist.
+Tant en retint que son cors en soustint:
+Le remanant en rent as poverins.
+# |
+Or revenrons au pére et a la mére,
+Et a l’espouse ki seule en est remése.
+Quant il çou sorent ke il fuis s’en ére,
+Çou fu grans deus que il en demenérent,
+Et grans complaintes par toute la contrée.
+# |
+«Fius Alessins de ta dolante mére
+Tu m’es fuis, dolante en sui remése.
+Le liu ne sai ne ne sai la contrée
+U jou te quiére: toute en sui esgarée.
+Ja n’ierc mais lie, biaus fius, si n’iert tes pére,
+Se ne reviens en iceste contrée.»
+Çou fu grans deus que il en demenérent.
+# |
+Vint en la cambre plainne de mariment;
+Si le despoille que n’i laissa nient;
+N’i laisse paile ne nul cier garniment.
+Tost a tourné a grant duel son talent ;
+Par grant dolour se dejète souvent.
+Ains puis cel jour n’en fu lie granment.
+# |
+Vint en la cambre, toute l'a desparée,
+Si l’a destruite comme elle ert la vesprée,
+Ostent les pailes et les courtines lées,
+415 Sa grant ricoise a a grant duel tornée,
+Ains puis cel jour ne fu lie li mére.
+«Cambre, dist ele, mal fuissiés atornée.
+Contre ques nueces vous avoie parée!
+Jamais en vous n’iert leèce trouvée."
+Tel duel en ot, a poi ne ciet pasmée;
+Quant par la main le reliéve li pére.
+
+De la dolour s’asist la mére a tere,
+Ne s'asist mie ne sour banc ne sour sele;
+Si fist l’espouse saint Alessin, la bele:
+«Dame,» dist ele, «jou ai fait moult grant perte.
+PageV01P234
+Jou ai perdu mes nueces les nouveles.
+Or mais vivrai a loi de tourterele
+Qui pert son malle, puis ne veut autre querre.
+Quant n’ai ton fil, ensamble toi voel estre.
+Servirai Dieu, car miex ne puis jou faire.
+S'il ne revient, ne a toi ne repaire,
+Jou me tenrai devers le roi celestre;
+Car a nul houme n'aurai jamais a faire;
+Ne me faura s’il voit que jou le serve.
+# |
+Respont li pére: «Que bone feme as dit:
+S’ensemble moi te voloies tenir
+Servirai toi pour amour a mon fil.
+Ja n’aras mal dont te puisse garir :
+Faille me Diex, se te fait a nul di.»
+Dist la pucele : «Sire, vostre merci.
+Il m'espousa al los de mes amis,
+Or sui malvaise, si me doit Diex hair,
+Si moi ne membre de çou que il me dist
+A icele eure que de moi departi.
+Quant tu pour lui me vauras retenir.
+Très or tenrai Damediu a mari:
+Ne me faura se jou le voel servir.»
+Quant ot la mére que la pucele dit.
+Que Damedeu servira pour son fil,
+Tout em plourant la baise enmi le vis;
+Plourent ensamble del duel de lor ami,
+L’une son fil et l’autre son mari.
+# |
+Pleurent ensamble lor ami c'ont perdu.
+Pleure la mére et la pucele plus.
+«Dius, dist la mére, qu’est mes fiex devenus?»
+Çou dist li péres : « Peciés le m’a tolu.»
+«Dius,» dist l’espouse, «com petit l’ai eu!
+Hier euc signour, mais n’en ai ore nul,
+Sans Damediu, le glorious la sus.»
+# |
+Dont prist li pére de ses millors serjans;
+Par moult de terres fait querre son enfant.
+PageV01P235
+Dedens Ausis vinrent tout droit esrant.
+Illuec trouvérent dant Alessin seant:
+Entre les autres va l'aumosne querant;
+Ne recounurent son vis ne son samblant.
+# |
+Dont ot li enfes sa tenre car muée,
+Sa vesteure desroute et despanée,
+Qu’il ot portée par estranges contrées,
+Nel recounurent li doi sergant son pére,
+A lui meisme ont l’aumosne dounée.
+# |
+Nel reconnurent, ne ne l’ont entercié.
+Sains Alessis en loe Diu del ciel,
+Des sers son pére qui il ert aumoniers.
+Ains fu lor sire: or est lor provendiers :
+Ne vous sai dire comme il par s’en fist liés.
+# |
+Li doi serjant s’en vont a lor ostel;
+Il les poursuit tant que les vit entrer
+Pour l’ocoison de l’aumosne donner
+S’en va a l'uis lor raison escouter
+Li serjant fisent lor oste o els disner.
+Se feme et il prisent a demander:
+«Signour,» dist il, «ques hom est que queres?»
+«Un chevalier, un jovene baceler,
+Un gentil homme, si iert de Roume nés;
+Onques ses péres, qui l’avoit engenré,
+N’ot plus d’enfans; sel pooit moult amer.......
+Sous ciel n’a houme, s’il l’ooit regreter,
+Ne li estuece des iex del cief plourer.
+Avoirs nous faut, n’avons mais que donner.
+Veullions u non, nous en estuet aler.»
+«Dius, dist li ostes, qu’en feriés vous el?"
+Sains Alessis a bien tout escouté.
+"E! cuers, dist il, com estes adurés!
+Gente pucele, mout de mercis et grés:
+Jou t’ai fait mal et tu m’as houneré.»
+PageV01P236
+Pitié en ot: si commence a plourer.
+Li serjant virent qu'il ne l' porrent trouver.
+Trois fois l'ont quis par Ausis la cité.
+Par moult de teres l'ont quis et demandé.
+II nel connurent, si ont a lui parlé.
+Puis s’en repairent en Rome la cité.
+Noncent au pére qu’il ne l' porent trouver
+S’il fut dolans, ne l’estuet demander.
+Veullent u non, metent l'el consirer;
+Mais lor grant duel ne puent oublier.
+Alessis est en Ausis la cité,
+Son signour sert par grant humilité,
+Que anemis ne l'em puet encombrer.
+# |
+Dis et set ans, ainc rien n’en fu a dire,
+Pena son cors en Damedieu service.
+Ce ne fist il pour ami ne amie,
+Ne pour hounor qui li en fust a dire,
+Mais pour celi qui fu nés de la virge.
+Pour nul avoir ne s’en tornera mie.
+# |
+Quant son coraige ot a çou atourné,
+Que ja son vel n’istra de la cité,
+Dius fist l'ymage pour Alessin parler.
+Par un miedi de la Nativité
+Que tous li pules fu par matin levés,
+Pour le service qu'il durent escouter.
+Il i vint ains que sains i fust sonnés
+Si com li hom qui 'n iert acoustumés.
+En es le jour que Damedieus fu nés
+Fist Dieus l'ymaige trois fois pour lui parler,
+L'ymaige en a Ermener appelé.
+Un saige clerc qui servoit a l’autel.
+Çou dist l'ymaige : «Apèle l'oume Dé;
+Car il est digne d'en Paradis entrer.
+Et pére et mére guerpi pour l'amour Dé
+Et son avoir et tout son parenté.
+Bon guerredon l'en rendra Damedés:
+A grant martyre a son cors atourné.»
+PageV01P287
+# |
+Çou dist l’ymaige: "Fai l’ome Diu venir
+En cest moustier, car bien l’a deservi;
+Car il est dignes d’entrer em paradis.»
+Cil va, sel quiert, mais il ne l’ set coisir
+Icel saint home de cui l’ymaige dist.
+Devant l’ymaige revint tous esbahis.
+# |
+Li clers revint esmaris al moustier,
+Devant l’ymaige commença a prier.
+«Gentiels ymaige, ne sai qui entercier;
+Angle te fisent par commant Diu del ciel;
+Tel paour ai, tous sui desconsilliés.»
+Çou dist l’ymaige: «Celuy qui les l’uis siet,
+Près est de Diu et del régne del ciel.
+Par nule guise ne s’en veut eslongier.».
+Ot le li clers, s’est issus del moustier.
+# |
+Ot le li clers, fors del moustier issi.
+Par les ensegnes que l’ymaige li dist
+Le reconnut: onques rien n’i falli;
+Cele part vint, a apeler le prist.
+"Com as tu non? car me dis, biaus amis.»
+«Sire,» dist il, «j’ai a non Alessis,
+Uns peciére hom, se voel espeneir.
+A ceste feste c’on dist Arcedeclin,
+Que nostre sire forma de l’aige vin,
+Adonques iérent dis set ans acompli,
+Que jou issi tous seus de mon pais;
+Ainc puis ne vi nul home de mon lin;
+Ne sai se Dius m’i feroit revenir.
+Car jou fui clers, de letre bien apris,
+Puis fui tant fols, que chevaliers deving;
+Feme espousai et mes nueces en fis:
+Ains le guerpi que li plais departist.
+Qui çou a fait, comment porra garir?
+N’en orés plus, "Alessins li a dit.
+Ot le li clers, si l’en a fait enclin:
+As piés li ciet, et cil le recuelli.
+E vous la noise par trestout le pais
+Que cele ymaige parla pour Alessin.
+PageV01P238
+Tout l'en hounorent, li grant et li petit.
+Si fust evesques se le vausist souffrir.
+# |
+Quant il voit çou que l' veulent hounerer
+Et vesque faire en Ausi la cité,
+«E Dieus», dist il, «ci ne voel mais ester.
+De grant ricoise et d'orguel demener
+Ne puet on mie Damedieu acater.»
+A mienuit s’enfuit de la cité.
+Ne quist congié ne n'osa demander,
+Contre son gré ne l'i facent ester;
+Droit a la mer en aquelt son esrer.
+[Dans Alessis entra en une nef,]
+Donna son pris, si est dedens entrés.
+Drecent lor sigle, laissent courre par mer;
+La prendront terre u Dius l'a destiné:
+Droit a Troholt quidiérent ariver,
+Mais ne puet estre, c’autre part sont torné;
+Tout droit a Roume les conduit li orés,
+A un des pors qui plus près de Roume ert.
+# | 
+A un des pors qui ert plus près de Roume,
+Illuec arrive li nés a cel saint home.
+Quant voit son regne, mout forment s’en redoute.
+Fait ses priiéres, a orisons se coce,
+Diu en apèle et saint Piére de Roume,
+De ses amis, que ne l’ counoissent onques
+Ne de l’onor del siécle ne l’encombrent.
+# |
+«E Dius», dist il, «glorious rois celestres,
+Se toi pleust ici ne vausise estre.
+Se me counoissent la gens de ceste tere,
+II me prendront par force et par poeste:
+Si jou's en croi, il me trairont a perte.
+# |
+«Ajue, Diex qui nous as em baillie:
+Se vel avoir le vraie compaignie.
+Et deservir vostre durable vie.
+PageV01P239
+Se me counoist ma mére l'esmarie
+Et mi parent, et m'espouse, et me sire,
+Il me tolront le vostre compaignie,
+S'il me rembatent en ceste mortel vie.
+Deffent me Diex, de toutes males visces,
+Et del diable que il ne m'escarnisse :
+Ne puis muer le cuer ne m'asousplice.
+Et ne pourquant mes péres me desire;
+Si fait ma mére plus que feme qui vive,
+Si fait l’espouse que je lor ai guerpie
+A tous les jors que jou aroie a vivre:
+N'estoit mais eure, plus lié ne m'en fesisse
+Conduit me done, sire, par itel guise.
+Que bien les voie et sace lor couvine.
+Ne me counoissent, ne nus hom ne lor die;
+Puis m'en iroie faire vostre service,
+Si esteroit l’ame moie garie.»
+Ist de la nef quant s'orison ot dite.
+# |
+Quant issi ot ses priiéres finées
+Si li a Dius de trestout escoutées,
+Qu'envers lui orent lor veues tourblées:
+Ne l' recounurent li pére ne li mére.
+Ne si ami, ne cil de la contrée.
+Ne la pucele que il ot espousée.
+# |
+Sains Alessins est issus de la nef,
+Tout un cemin s'en commence a aler,
+Sous une espine s’asist pour reposer.
+Il est malade, si est moult enfremés;
+Si crient morir par estranges ostés;
+Son sautier a parfondement preé:
+II l’a ouvert, si a dedens gardé.
+Si a tels letres el parcemin trouvé.
+Que la mere a son enfant a garder
+Set ans tous plains: c’est li primiers eés;
+Et puis après, s'il ciel en effretés,
+Toute sa vie que il a a durer;
+PageV01P240
+Or vauroit si son pére araisonner,
+Par itel guise peust a lui parler
+Nel couneust a son roumanc parler,
+Et sa prouvende li vaura demander,
+S’a Dieu pleust que li vausist douner.
+Si vauroit miés ses aumosnes user
+Que les autrui dont il fust encombrés;
+S’en esteroit plus sauls a Damedé,
+N' en son herbec ne vauroit ja ester,
+Mais ça defors gesir sous son degré;
+Puis atendroit le merci Damedé
+Et le juise qu’il li a destiné.
+De sa despoille est tous atapinés.
+Va s’ent en Roume a son pére parler.
+# |
+Si s’atapine que on ne le counoisse,
+Toute la rue s’en est alés en Toivre,
+Parmi les rues u il fu ja bien comtes;
+Autre puis autre, et son pére i encontre,
+Ensamble lui grant masse de ses homes.
+Bien le counut, par son droit non le noume.
+# |
+Son pére encontre ki revient d’orison;
+Si iert sa mére qui le tient par le poing,
+Del moustier vienent saint Piére le baron:
+A messe furent et a pourcession;
+Del fil parloient, mais il n’iert gaires lonc;
+Il l’apela, si l’a mis a raison :
+[«Eufemiens, beaus sires, riches hom,]
+Car me herberges, pour Diu, en ta maison;
+[Sous ton degré me fai un grabaton :]
+Enfers hom sui ; pais moi pour Diu amour
+Et pour ton fil qui Allessis ot non,
+Qui te guerpist, dont tu as tel dolour;
+Que Dieus del ciel itel talent li doinst,
+Que il reviegne a toi en ta maison!»
+# |
+Quant ot li pére ramentevoir son fil,
+PageV01P241
+Pleure des oels, ne s’en pot astenir:
+«Pour Dieu», dist il, «et pour mon cier ami,
+Tot te ferai, bons hom, çou que tu dis,
+Lit et ostel et pain et car et vin ;
+Que Damedius faice tous ciaus merci,
+Qui le herbegent par estrange pais.
+Dis set ans a que de mes oels ne l' vi.
+E las peciére, ne sai s'est mors u vis.»
+Uns rices hom iert la, dans Coustentins,
+Et voit le pére ki herbege le fil.
+Le pére apele: gentement li a dit:
+« Laissiés le moi, sire, vostre merci:
+O moi venés, biaus sire pelerins;
+Herbegiés estes s'o moi volés venir.
+Emsamble moi se vous volés tenir,
+Ne vous faura ne pains ne cars ne vins.
+S’ains muir de vous, Diex ait de moi merci,
+Et vous ament par coi puissiés garir!»
+«Sire», dist il, «de Diu cinc cens mercis:
+Dex herbet toi en son saint paradis!
+Hom sui estranges, si vieng d'autre pais
+Et ostel quier et pour Diu i sui mis....
+Et celui laisse que il a recuelli.
+Et milleur quiert pour son cors miex servir,
+S'en celui muert, pris est a male fin:
+Diu a perdu et son saint paradis.
+La me tenrai u primiers me sui pris.
+Quant on pour Diu m'i volra recuellir. »
+ot le la mére, si l'a al pére dit:
+«Sire», dist ele, «ja t'a il ostel quis:
+Car le herbeges, pour Diu et pour ton fil.»
+«Dame», dist il, «prés en sui et garnis.»
+Ot le la mére, si rapela son fil.
+«Herbegiés estes, biaus sires pelerins.
+Ensamble moi vous em poés venir,
+Et pour l'enfant pour cui lavés requis
+Ja n’arés mal dont vous puissiés garir.»
+«Dame», dist il, «de Diu moult de mercis.
+Et le signour ki vous doit maintenir.
+PageV01P242
+Et a l'enfant c'aviés engenui,
+Doinst tel coraige que il puist revenir.
+Il revenra: pour voir le vous plevis.»
+Ot le la mére, si l'en a fait enclin;
+Pleure des oels, et li pére autresi.
+# |
+«Eufémien, biaus sires, rices ber,
+Herbegiés sui la merci Damedé.
+Enfers hom sui, soufraitous de parler;
+Un grebeton me fai sour ton degré,
+Pour cel enfant ke tu pues tant amer.
+Que Dius li doinst itel home trouver,
+Qui si le saint qu'a li puisses parler.»
+«Bons hom», dist il, «pour amor Damedé,
+Et mon enfant pourcoi l'as demandé,
+Herberc aras et pain et car assés,
+Et puis del vin quant vous boire en vaurés.
+Que Dius assoille toute crestienté
+Qui l' me herbet par estranges ostés!
+Moult a dur cuer que si m'a oublié.»
+# |
+Pleure la mére le duel de son enfant
+Qu’ot ramentoivre, dont ot le cuer dolant.
+Li pére en va ses mains si detorjant
+Que a la tere en cairent si gant.
+Sains Alessins s'abaisse, se li rent.
+«E Dius», dist il, «vrais pére tous poissans!
+Quele amistié entre pére et enfant!
+Ces felonnies que jou lor fac si grans.
+Me sont legiéres, ses trouverai pesans:
+Al grant juise me revenront devant,
+Pour pére et mére qui me pourmetent tant,
+Que si par fac coureciés et dolans.
+Ajue, Diex: s'en sont si desirant!»
+Com il les voit plourer si tenremant.
+Iriés en est, mais il n’en fait samblant.
+Crient et redoute ne l' voisenl ravisant.
+PageV01P243
+De tout a mis en Jesu son talent.
+Mieus aimme Diu ke nul home vivant.
+«Dius», dist li pére, «cor eusse un sergant
+Qui le gardast trestout a son talant!
+S'il estoit sers, jou le feroie franc.»
+Un en i ot qui s’en presente avant.
+«Vés me ci, sire, se Y gare par vo commant,
+[Par toie amour en soufrirai l’ahan.]»
+# |
+Donc le menat endroit sous le degré:
+Fait li son lit ou il puet reposer
+Tout li aporte qanque besoins li est:
+Vers son seignour ne s’en veut mesaler,
+Par nule guise ne l’em puet om blasmer.
+# |
+Souvent le virent et li pére et li mère,
+Et la pucele que il ot espousée:
+Par nule guise onques ne l’ ravisérent.
+Il ne lor dit, n’il ne li demandérent,
+Ques hom estoit et de quele contrée.
+# |
+Souventes fois lor vit grant duel mener,
+Et tout pour lui, et nient tout pour el,
+Et de lor eus souventes fois plourer.
+Il les esgarde: sel met el consirer,
+N’a soig que l’ voie si est a Diu tornés.
+# |
+Sour le degré u gist sour une nate,
+La le paist on del relief de la table;
+Sa povreté deduist a grant barnaige.
+Il ne veult mie que sa mére le sace:
+Miels aime Diu que trestout son lignaige.
+# |
+De le viande qui del ostel li vient,
+Tant en retient que son cors en soustient:
+Le remanant en rent as prouvendiers;
+N’en fait mugot pour son cors encraissier,
+As povres gens le redonne a mangier.
+En sainte eglise converse volentiers;
+[Chascune teste se fait acomungier;
+PageV01P244
+Sainte escriture ço ert ses conseillers,]
+De Diu servir qui le rueve efforcier.
+Sains Alessis ne s’en voelt eslongier.
+# |
+Sous le degré ou il gist et converse,
+La li aporte a mangier la pucele
+Qu'il espousa, et sa feme doit estre.
+A grant barnaige deduit sa grant poverte.
+Li serf son pére, qui le maisnie servent,
+Lévent lor mains, hanas et escueles,
+Les laveures li getent sour la teste.
+Ne s’en courouce ne il nes en apele.
+# |
+Tout l’escarnissent, si l' tienent por bricon:
+L'aige li getent et moillent son liton;
+Ne s’en courece icil saintismes hom,
+Ains prie Diu que trestout lor pardoinst,
+Par sa merci, mais ne sevent qu’il font.
+Par une feste de sainte rouvison,
+Monta li pére tes degrés contremont.
+Et vist gesir son fil el grabaton.
+Il l'apela, si l'a mis a raison:
+«Biaus crestiens, ne savons vostre non.
+Faut vous conrois de coi aiés besoing?»
+«Sire», dist il, «Crestiens ai a non.
+Et trestout cil qui levé sont des fons.
+Qui cest non garde s'en a bon guerredon,
+Et qui ne l' fait, mort morians a non.
+Li cors porist, l'ame toute en pert on
+Fors de la garde des mains nostre signour.
+# |
+«Par mon droit non, sire, m'avés noumé,
+Se tant sui bons que m'en puisse garder.
+En saint baptesme, en fons, me fut donnés,
+Mais jou l' criem perdre par mal siecle mener.
+Conroi ai tant que ne le puis user.
+Celui em puisse grassier et loer,
+PageV01P245
+Pour cui amour le me faites donner!
+II vous ramaint celui ke tant ames!»
+«Bons hom», dist il, «ke me ramentevés?
+N’est mie vis qui tant a demouré.
+Salve en est l’ame, se Dieu l’a commande;
+Et Dius en penst par sa grant pieté.
+Mout a dur cuer qui si m'a oublié.»
+Va sent li pére, et li fils est remés.
+E vous le mére qui descent al degré.
+Et le pucele la fille Signoré,
+Çou fu l’espouse, un mantel affublé
+D'un paile brun, d’un hermin engoulé.
+Quant il les voit, s'est mout espoentés,
+Que par pecié ne lor soit endité.
+Quant il les voit et venir et aler,
+Et vair et gris et bliaus trainer,
+Par desor lui et descendre et monter,
+N'est tant hardis qu'es ost araisonner,
+Que ne l' counoissent a son roumanc parler,
+Que ne l' rembatent ens el pecié mortel.
+Li mére apele la fille Signoré:
+«Savés, pucele, dont m'ara moult pesé?
+Moi est avis cis pelerins me het.
+Mout longement a o nous conversé,
+C'onques nule eure ne me vaut aparler.
+Il est malades, si est moult enfremés;
+Ne vivra gaires, car moult est descarnés.
+Car li faisons ses drapiaus relaver;
+Çou iert aumosne, si nous en sara gré.
+Savoir vauroie de quel pais est nés:
+Nel sarons mais puis k'il iert deviés.»
+Dist li pucele: «Alons li demander.»
+# |
+Çou dist li mére: «Jou i vois moult envis:
+Quant je l' regart, membre moi de mon fil;
+Pour un petit ne l' resamble del vis.
+Lors plour des oels, ne m'en puis astenir:
+Çou est li dels dont m'estora morir.»
+Cele part vint, a apeler le prist:
+«Dont estes vous, biaus sire pelerins?»
+PageV01P246
+«Dame», dist il, «pour amor Dieu, merci.
+Jou sui malades: si suis près de ma fin:
+Je ne devroie vous ne autrui mentir,
+Car par mençoigne pert on saint paradis:
+D'ui a tierc jour le sarés bien de fi.»
+Car or aproce al tans et a sa fin,
+Et au juise ke il devoit morir.
+Mais ains qu’il muire, vaura faire un escrit,
+Si metra tout par letre el parcemin,
+Si com li sire qui bien en est garnis,
+Et trés bien set et letres et escrit.
+«Aprociés moi», dist il, «dame, un petit.»
+Ele s'aproce dusc' au lit u il gist.
+Il s'abaissa; as piés se li cai;
+Puis le baisa, se li cria merci.
+«Sire», dist ele, «quel pardon m’avés quis?»
+# |
+«Sire», dist ele, «quel pardon me querés?»
+«Pour mon malaige quic jou estre encombrés.»
+«Sire», dist ele, «tout vous soit pardonné.»
+« Vostre grant painne que eu en avés,
+Pour amour Diu, si le me pardonnés.»
+Et la pucele les a bien esgardés,
+Se li pardonne, ele fait autretel.
+Ele s’en tourne, cil est moult liés remés.
+# |
+Iluec converse issi dis et set ans.
+Ne l' recounurent ne li serf ne li franc,
+N’onques nus hom ne sot de ses haans,
+Fors sol li lis u il a geu tant:
+Ne pot muer, cil fu aparisans.
+# |
+Dis et set ans a prourendiers esté,
+Et autretant en Ausis la cité.
+Ne but de vin ne de car n'a gousté,
+Mais del relief qui li vint de l'ostel
+Poi en manja a l'eure del souper,
+A tout le mains qu'il s'en pot consirer.
+# |
+Quant li sergant li dounent del relief,
+PageV01P247
+Tout le millour en rent as prouvendiers,
+Et le plus pesme retient a son mangier;
+Dous jors jeune, puis si manjue au tierc.
+Ore est fourment ses cors afoibliés
+Se li a Diu pardonné ses peciés.
+Sa fins aproce, s’en loe Diu del ciel.
+# |
+Trente quatre ans a si son cors pené;
+Dex son service li velt guerredonner:
+Sa fins aproce ke il doit devier;
+Se li a Diex ses peciés pardonnés,
+Ses cors est nés comme argent esmerés.
+Moult li agriéve li soie enfremetés,
+Et si set bien que il s’en doit aler;
+S'en est moult liés, s’en loe Damedé.
+Cel sien serjant a a lui apelé.
+# |
+«Os tu, serjans, qui tant jour m’as servi,
+Dius et sa mére le te puisse merir,
+Povres hom sui, ne l’ai que departir.
+Quier moi, biaus frère, et enche et parcemin,
+Et une penne: si ferai un escrit.
+N’escris pieça: or m’en est talens pris.
+Esbatrai moi; pesans sui de morir."
+«Au congié Diu», li serjans respondi.
+# |
+Cil li va querre, si li a aporté.
+Quant il le tint, s’en loa Damedé.
+Tout i escrit quanqu’ il a manouvré,
+Et çou i mist de quels parens il ert,
+Com s’en ala en Ausi la cité,
+Et com l’imaige fist Dius pour lui parler,
+Et pour l’ounour dont le vaut encombrer
+S’en rafui en Roume la cité;
+Sen boin serjant n’i vaut mie oublier,
+Que mieus l’en sot quant tant jour l’a gardé.
+Les lui le tint, ne vaut pas demoustrer,
+C’om ne l’ counoisse dusqu’il s’en soit alés.
+Car ainc n’ama loenge seculer.
+Sa fin aproce, li cors est agrevés;
+PageV01P248
+Droit entour none s’acoise de parler.
+En es le jour que il dut devier,
+«Diu consumate» em prist a apeler.
+Onques nus hom ne l'oi d' el parler.
+En la semainne que il s’en dut aler
+Vint une vois trois fois en la cité
+Fors del sacraire par commandement Dé,
+Por son ami qu'il en voloit mener:
+Preste est la gloire u il porra entrer.
+Cel jour a dit: «Car querés l'oume Dé.»
+# |
+A haute vois lors vint autre semonse,
+Que l'oume Diu quiérent qui gist en Roume.
+[Si li depreient que la cités ne fonde;]
+Quant il l'oirent, durement le redoutent.
+# |
+Sains Innocens iert adonc apostoiles:
+A lui en vinrent et li rice et li povre,
+Requisent li consel de cele cose
+Qu’il ont oie, qui si les desconforte:
+Ne gardent l’eure que terre les encloe.
+# |
+Li apostoile et li empereour,
+Li uns Acaire, li autre Honoire out non.
+Et tous li pules par commune raison,
+Deprient Diu que consel lor en doinst
+De cel saint home par qui il gariront.
+# |
+Trestout deprient la soie pieté
+Que lor ensaint u le puissent trover.
+Vint une vois qui lor a endité:
+«A le maison Eufemien querés,
+Car illuec est, iluec le trouverés.»
+# |
+Tost s’en tournérent sour dant Eufemien;
+Alquant le prendent forment a blastengier:
+«Iceste cose deussiez anoncier
+A tout le pule qui ert desconsilliés ;
+Tant l'as celé, moult i a grant pecié.»
+PageV01P249
+# |
+II s’escondist com li hom qui ne l’ set;
+Il ne l’en croient, a l’herbec sont alé.
+Il va devant sa maison aprester,
+Si la fait bien torcier et atorner,
+A l’apostoile qui ens devait entrer;
+Forment l'enquiert a tous ses menestrés,
+Mais il respondent que nus d’els rien n'en set.
+# |
+Li apostoile et li empereour
+Sient en banc et pensif et plouros,
+Et entour aus li prince et li baron.
+Deprient Diu que consel lor en doinst.
+De cel saint home par cui il gariront.
+# |
+Endementiers que il ont iluec sis,
+Desoivre l'ame del cors saint Alessin.
+D’iluec en va tout droit em paradis;
+Ja iert en transe quant la pucele vint.
+Adont l’esgarde, si le vit empalir.
+«Sire», dist ele, «moult vous torble li vis.»
+«Bele», dist il, «car près sui de ma fin.
+Grant paour ai, car près sui de morir.
+Car or voi çou que onques mais ne vi;
+Voi quantes mains me voelent recuellir;
+Hui perirai se Dius ne me garist.
+Pense del cors qu’il soit ensevelis:
+L’ame ara çou que ele a deservi.»
+# |
+II li a dit : «Pour amour Diu, pucele,
+Ma fins aproce, ne viverai mais gaires.
+Sains Bonifaces, que on martir apele,
+[Cil a en Rome une eglise mout bele:]
+Porter m’i fai, se m’i fai metre en tere;
+Quant tu morras tu i vauroies estre.»
+«Au congié Diu, sire», dist la pucele.
+# |
+«Bele pucele», çou dist sains Alessins,
+«Se or eusse tant Damediu servi,
+PageV01P250
+Que jou peusse les sains souner oir,
+Dont fuisse liés, si seusse de fi
+Que m'ame eust son liu em paradis.
+Si recouvrast vers Damediu merci.»
+A icele eure que li sains hom le dist,
+Li saint commencent tout ensanle a ferir.
+Soutient a force, la cités retentist;
+N'i avoit saint, tant soit grans ne petis.
+Ne sont plus cler que onques mais ne fist.
+Ains que il muire les a bien cler ois.
+«Bele pucele», çou dist sains Alessis,
+"oiés les sains, le Damediu merci.
+Ma fins aproce, dont je ne puis garir.
+Qui a tous homes fait tous avoirs guerpir.
+Sans les aumosnes, con ne's en puet tollir.
+Vois ci mes palmes que j'ai a tout l'espi:
+De Jersalem l'aportai quant jou ving;
+Bien sont gardées jusqu'au jour de ma fin.
+A mon cavet, quant jou iére enfouis.
+M’en faites crois et as piés autresi:
+Dius pensera del croistre et del tehir;
+L'anoncemens d'un angle le m'a dit.
+Jou ne sui mie de mout lointaing pais,
+Quant mi parent seront al sevelir,
+Si ert mes pére et ma mére autresi,
+Et une espouse que jou ai deguerpi.»
+Ot le la bele, si jeta un souspir.
+«E Dius!» dist ele, «jou quic c’est mes amis!
+Sire,» dist ele, «sont il bien lonc de ci?
+Mandas lors tu par mes qui lor desist?»
+Ne pot parler, s'est transis l'esperis:
+Donc fut dolente que plus ne l'ot enquis.
+Li bons serjans, qui tant jour l’ot servi.
+Il va au pére, si li a tantost dit:
+«Sire, dist il, mors est li pelerins.
+Ma damoisele l’a fait ensevelir.»
+# |
+Li bons serjans, qui servi volentiers,
+Il le nonça son pére Eufemien;
+Souef l'apele, se li a consillié:
+PageV01P251
+«Sire», dist il, «mors est tes prouvendiers.
+Çou m’est avis qu’il ert bons crestiens.
+# | 
+« Mout longement ai o lui conversé,
+De nule cose, certes, neu sai blasmer.
+Çou m'est avis que çou est li hom Dé. »
+Tous seus en est Eufemiens tornés.
+Va a son fil u gist sour sen degré.
+# | 
+Le drap sousliéve dont il estoit couverz,
+Vit del saint hom le vis et cier et bel,
+Et en sa main sa cartre et son seel,
+Ens a escrit trestout le sien couvera.
+Eufemiens veut savoir k’ele espialt.
+# | 
+II le weut prendre, mais ne li pot tolir;
+A l’apostoile revint tous esbahis:
+«Sire, pour Diu, aies de moi merci.
+Or ai trouvé çou que tant avons quis;
+Sous mon degré gist mors uns pelerins;
+Tient une cartre; mais ne li puis tolir.»
+# | 
+Sains Innocens entendi la raison
+Qui apostoile estoit a icel jour,
+Et ot les sains ki sounent a un son
+Dusqu’a la nuit de lor gré toute jour,
+Et des sains angles vit la pourcession,
+Qui portent l’ame cantant nostre signour.
+De cele cartre li prist moult grans paours:
+[ Vers le degré s'en corut a bandon,]
+Et tous li pules esmaris environ.
+Sous le degré vinrent al grabaton;
+N’en apelerent, car ne sorent son non.
+# | 
+Li apostoiles et li empereour
+Devant lui vienent, getent s’a orison,
+Misent lor cors en grans afflictions,
+PageV01P252
+Se li deprient par mout bele raison:
+«Merci, merci, merci, saintismes hon,
+Ne te connumes, ne ne te connisson.
+# |
+«Ci devant toi soumes doi peceour
+Par la diu grasse clamé empereour;
+C’est sa mercis qu’il nous consent l’ounour.
+De cest empire soumes gouvreneour:
+De ton consel soumes moult soufraitous.
+# |
+« Cis apostoiles doit les ames garir ;
+C’est ses mestiers dont il a a servir.
+Rent li la cartre par la toie merci,
+Si nous dira que il treuve en escrit.
+Si nous doinst Dius qu’encor puissons garir.»
+# |
+Li apostoiles mist sa main a la cartre;
+Sains Alessins la soie li alasque,
+Cil le reçut ki ert de Rome pape:
+Quant il le tint, si le moustra as autres.
+Illuec fist Dieus un glorious miracle,
+Que de sa main s’en ala droit la cartre:
+A la pucele s'en ala a la place,
+Ens en son sain en son bliaut de paile:
+Emprès sa car ot vestue la haire.
+Doucement sert le glorious mirable;
+Ele ne veut c'om ne feme ne l' sace:
+Sains Innocens esperdi son coraige;
+Si ot vergoigne des houmes de la place.
+Et paour a ke Damedius ne l'hace.
+# |
+Sains Innocens quant ot la cartre overte
+Et vit les letres que li sains hom ot fètes,
+Ains li escape que le peust espialre:
+Tout droit en va el sain de la pucele,
+Sous son bliaut, entre ses deus mameles,
+U ele pleure les mals et les soufraites
+Que li sains hom sour le degré a traites,
+Ne si ne sait c'a lui eust afaire,
+PageV01P253
+Mais perdre en crient le glorious celeste.
+# |
+Oiés, signour, con grande loiauté
+Tout home doivent a lor moiller porter.
+Car tel monstrance fist le jour Damedés,
+Que a sa mére ne vaut la cartre aler
+Ne a son pére qui l’avoit engenré;
+Mais a l’espouse ki bien avait gardé
+Le compaignie de son ami carnel,
+La va la cartre par le plaisir de Dé;
+Cil qui le virent furent espoenté.
+# |
+Or est remése la cartre a la pucele
+Par le plaisir le glorious celestre.
+Plus tost que pot le prent a la main destre;
+Saint Innocent l’apostoile en apele:
+«Sire», dist ele, «que porra de moi estre?
+Car me consille que n’en soie mesfete.»
+# |
+«Bele», dist il, «buer fuisses tu ains née.
+Toie est la cartre, que Dius le t’a donée,
+Qui que toi plaist doit estre delivrée.»
+«Sire», dist ele, «jou sui moult esgarée.
+Faire quit cose dont li cors sains me hée.»
+Ele esgarda les clers de la contrée.
+A saint Ambroise a la cartre livrée.
+# |
+Cil ert evesques et canceliers saint Pére
+Il list la letre ; li autre l’escoutérent.
+Le non lor dist del pére et de la mére,
+Et de celi que il ot espousée,
+Et si lor dist de ques parais il ére :
+Et la moitié de l’anel ont trouvée,
+Dedens la cartre trés bien envolepée,
+Dont la moitié li ot recommandée.
+Ele l'ot bien estoie et gardée;
+Il li demande; ele l’a aprestée;
+Il les assamble, si se sont acordées.
+Dist l'apostoiles : «Ceste ensegne est prouvée.»
+«Sire», dist ele, «que l' m’aviés tant celée?
+PageV01P254
+Si les eusse rendues et moustrées.»
+Grans fu li diex, a terre ciet pasmée.
+# |
+Et si lor dist com s’enfui par mer,
+Con s’en ala en Ausis la cité,
+Et com l'ymaige fist Dius pour lui parler,
+Et pour l’ounor dont le vaut emcombrer
+S’en rafui a Roume la cité;
+Sen bon serjant n'i vaut mie oublier.
+Que miels l'en soit qui tant jour l'a gardé.
+# |
+Quant ot li pére ke on troeve en la cartre,
+A ses dous mains desront sa blance barbe:
+«E fiels», dist il, «con dolorous mesaige!
+Jou aesmoie ke tu vis repairasses,
+Pour Diu merci, si me reconfortasses.»
+# |
+A haute vois prist li pére a crier:
+«E fius, dist il, quels dels m’est demorés!
+Con male garde ai fait sous mon degré!
+Et jou peciére, com par sui avulés!
+Tant l’ai veu c’ains ne l' soi aviser.
+# |
+« Fiels Alessis, de ta dolante mére!
+Tante dolour a pour toi endurée
+Et tant grant fain et tant soif trespassée,
+Et tantes larmes pour le tien cors plourées !
+Cis dels l’ara sempres par acorée
+Qui est moult grans : anqui sera tuée.
+# |
+«Fils, qui seront mes grandes iretés,
+Mes larges teres dont jou avoie assés,
+Mi grant palais en Rome la cité?
+Par toie amour m’en iére mout penés ;
+Se tu vesquisse, t’en fusses hounerés.
+# |
+«Blanc ai le cief et le barbe kenue,
+Mes grans onors avoie retenues;
+Je vous servoie, mais vous n’en aviés cure.
+PageV01P255
+Si grans dolors m’est hui cest jour venue!
+Fils, la toie ame soit el ciel absolue!
+# |
+«A tel dolour et a si grant poverte,
+Fils, t’es deduis par alienes teres;
+Et de cest bien qui tous deust tiens estre
+Poi em presis en la toie herberge:
+Se Diu pleust, sire en deussiés estre.
+# |
+Toi couvenist lance et escu porter,
+Espée çaindre comme tes autres pers,
+Et grant maisnie ricement conreer,
+Le gonfanon l’empereour porter;
+Si fist tes pére et tous tes parentés.»
+# |
+De la dolour que demenoit li pére,
+Grans fu la noise: si l’entroi sa mére.
+La vint corant comme feme dervée,
+Batant ses palmes, corant, escavelée.
+Voit mort son fil: a terre ciet pasmée.
+# |
+Qui dont le vit son grant duel demener,
+Son pis debatre et son cors degeter,
+Ses crins derompre, son vis desmaiseler,
+Et son mort fil detraire et acoler,
+N’ot si dur cuer ne l’estuece plourer.
+# |
+Desront ses crins, si debat sa poitrine,
+A grant duel met la soie car meisme:
+«E fiex», dist ele, «com m’eus enhaïe!
+Et jou caitive, com par sui avulie:
+Ne l’ recounui, onques tant le veisse.»
+# |
+Pleure des oels, si escrie a haus cris;
+Puis se regrete : « Mar te portai, biaus fils.
+Et de ta mére com n’en eus mercis?
+Pour toi veir desiroie a morir,
+Çou fu mervelle que pitiés ne t’em prist.
+# |
+«Fils Alessins, de la toie car tenre!
+PageV01P256
+[A quel dolour as deduit ta jovente!
+Pour quoi m’ fuis? ja t’ portai en mon ventre;
+Et Dius le set que tote sui dolente ;
+Ja mais n’ier liée pour home ne pour femme.
+# |
+Fils Alessis, mout eus dur corage!]
+Si adosas tout ton gentil lignaige!
+Se une fois a moi seule parlasses,
+Ta lasse mére si le reconfortasses
+Qui ’st si dolante, biaus fiels, buer i alasses.
+# |
+«E lasse mére! comme fort aventure,
+Que ci voi morte toute ma noureture!
+Ma longe atente a quel duel m’est venue!
+Que porrai faire, dolante créature?
+[Ce poise moi que li miens cors tant dure.]
+# |
+«Ains que t’eusse, en fui si desirouse;
+Quant tu fu nés, s’en fui issi joiose!
+Çou poise moi ke ma fins tant demore.
+# |
+«Signor de Rome, pour l’amor Diu, merci.
+Aidiés m’ a plaindre le duel de mon ami.
+Grans est li dels qui sor moi est vertis.
+Ne puis tant faire que mon cuer en sasi:
+Il n’est mervelle, n’ai mais fille ne fil.»
+# |
+Entre le duel del pére et de le mére,
+Vint la pucele qui il ot espousée,
+Que il laissa en la maison son pére ;
+«Sire,» dist ele, «com longe demourée!
+Atendu t’ai en la maison ton pére;
+Tu m’i laissas dolante et esgarée.
+# |
+«Sire Alessis, tant jour t’ai desiré,
+Et tantes larmes pour le tien cors plouré.
+Et tot pour bien et nient tout pour el.»
+PageV01P257
+# |
+«Sire Alessins, de ta jouvente bele!
+Con sui dolante quant toi porrira terre!
+E gentiex hom, si dolante puis estre!
+Jou atendoie de toi bones nouveles,
+Et or les voi dolerouses et pemes.
+# |
+«Se te seusse ça defors le degré
+U as geu de longe enfremeté,
+Nus hom qui vive ne m’en peust tourner,
+Qu’ensamble toi ne m’esteust poser.
+# |
+«Or par sui veve, sire,» dist la pucele:
+«Jamais leece n’arai, car ne puet estre;
+N’a carnel houme n’arai jamais a faire.
+[Diu servirai, le roi qui tout governe :]
+Ne me faura s’il voit ke jou le serve.»
+# |
+Tant i plourérent et li pére et li mére
+Et la pucele, que trestout s'i lassérent.
+Endementiers le saint cors conreérent
+[Tot cil seinor et bel l’acoustumérent:
+Felix tot cil qui par foi l’honerérent!]
+# |
+«Signour, que faites?» çou dist li apostoles,
+«Que vous ajue cil deus ne ciste noise?
+[Qui que soit doels a nostre oes est-il joie,]
+Car par celui arons boine victore. »
+# |
+Trestout le prendent qui porrent avenir; 
+Cantant emportent le cors saint Alessin.
+N’estuet semonre cels qui l’orent oi.
+Tout i acorent, et li enfant petit,
+Et tout li prient que d’aus tous ait merci.
+# |
+Si s’en esmurent toute la gens de Roume;
+Plus tost i vient qui plus tost i puet courre:
+Parmi ces rues en vinrent si grans routes,
+Ne quens ne rois n’i puet faire enterotes,
+Ne cel saint cors ne puent porter outre.
+PageV01P258
+Entr’ els em prisent li signor a parler:
+«Grans est la presse, nous n’i porrons passer;
+Pour cel saint cors que Diex nous a presté
+Liés est li pules qui tant l’a desiré:
+Tant en i vienent, c’om nes en puet torner.»
+# |
+Respondent cil qui le regne baillissent:
+«Estés, signor, nous en querons mecine:
+De nos avoirs faisons grans departies
+La gent menue qui l’aumosne desirent;
+S’or nous font presse, si en iermes delivre.»
+# |
+De lor avoir prisent l’or et l’argent:
+Si l’ont geté devant le povre gent;
+Pour çou quidiérent avoir descombrement.
+Que lor ajue ? il n’en veulent nient:
+A cel saint cors ont torné lor talent.
+# |
+A une vois crient la gens menue:
+«De cest avoir, certes, n'avons nous cure,
+Mais del saint cors que il nous face ajue:
+Car par celui nous iert vie rendue.»
+# |
+Sours, n’avulés, ne contrais, ne lepreus,
+Ne crestiens qui tant soit languereus,
+Ensorque tout nus hom palasinex,
+Icil n’i vint qui ’n alast malendos,
+Ne nus n’i vient qui report sa dolour.
+# |
+N’i vient enfers de cele enfremeté
+A cel saint cors, lues ne soit rasenés;
+Auquant i vienent, auquant s’i font porter.
+Si vraie espesse lor a Dius demoustré,
+Qui vient plorant, cantant l’en fait aler.
+# |
+Li doi signour qui le regne gouvernent,
+Quant il en virent les vertus si apertes,
+Alquant le prendent et li auquant le servent;
+Auques par proi et auques par poeste
+PageV01P259
+Passent avant, si desrompent la presse.
+1305 Sains Bonifiaces que on martire apele
+Avoit en Roume une eglise mout bele;
+Illuec portérent saint Alessin acertes.
+# |
+La gent de Roume qui tant l’ont desiré
+Set jours le tinrent sor terre a poesté.
+Grans fu la feste, ne l’estuet demander.
+De toutes pars l’ont si avirouné,
+Sous ciel n’a home qui i puist habiter.
+# |
+El setme jour fu faite sa herbege . 
+A cel saint cors, a la gemme celestre.
+Traient s’en sus, si alasque la presse.
+Vellent u non, le laissent metre en terre.
+# |
+A encensiers, a oires camdelabres,
+Clerc se revestent en capes et en aubes.
+Cel saint cors metent en un sarcu de marbre.
+# |
+D’or et d’argent fu li sarcus parés
+U cel saint cors veulent metre et poser;
+Si l’enfouirent a vive poesté.
+Pleure li pules de Rome la cité,
+So siés n’a home qui ’s puist reconforter.
+# |
+Ore avons dire du pére et de la mére
+Et de l’espouse comme il le regretérent.
+Le jour i ot cinc cens larmes plorées.
+# |
+Quant sour la tere n’en porent mais tenir,
+Vellent u non, le laissent enfouir.
+Prendent congié au cors saint Alessis:
+«Biaus sire pére, aies de nous merci,
+A ton signour nous soies boins plaidis.»
+# |
+Va s’ent li pules ; et li pére et li mére
+Et la pucele onques ne desevrérent.
+Ensamble furent dusqu’a Deu en alérent.
+PageV01P260
+Lor compaignie est boine et hounerée;
+Pour cel saint home ont lor ames sauvées.
+# |
+Com bones oevres, Diex, et com bon service
+Fist cil sains hom en ceste mortel vie!
+Or en est s’ame de gloire raemplie:
+Quant que veut a, n’en est un point a dire,
+Ensorquetout et si voit Diu meisme
+# |
+[Sains Alexis est el ciel sans doutance
+Ensemble o Dieu en la compaigne as angres]
+Et la pucele dont il se fist estrange ;
+Or sont privé: ensamble sont lor âmes.
+Or sont en glore sans nule repentance:
+Illuec conversent, et si lisent lor salmes:
+Ne vous sai dire comme lor joie est grande.
+# |
+Elas ! caitis ! com somes encombré!
+Que porrons dire? trop sommes apressé:
+Pour nos peciés sommes tout avulé.
+La droite voie nous font entroublier:
+Par cel saint home devoumes ralumer.
+# |
+Tenons, signour, cel saint home en memoire,
+Çou li prions de tous mals nous asoille.
