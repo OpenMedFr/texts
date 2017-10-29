@@ -1,6 +1,6 @@
 ﻿#META#  TextURI         :: AlexisPRI
 #META#  DEAF            :: http://www.deaf-page.de/fr/bibl/bib99a.php#AlexisP
-#META#  TL              :: 
+#META#  TL              ::
 #META#  FEW        		::
 #META#  ARLIMA          :: https://www.arlima.net/no/114
 #META#  Author          :: nodata
@@ -17,7 +17,7 @@
 #META#  EdEditor        :: Paris, Gaston; Pannier, Léopold
 #META#  EdPlace         :: Paris
 #META#  EdPublisher     :: F. Vieweg
-#META#  EdVol           :: 
+#META#  EdVol           ::
 #META#  EdYear          :: 1887
 #META#  EdPages         :: 222-262
 #META#  MsBase          :: S
@@ -29,6 +29,7 @@
 #META#  LccnID          :: 14022514
 #META#  OclcID          :: 67605175
 #META#  WebAuthor       :: David Joseph Wrisley
+#META#  ORCIDWebAuthor  :: orcid.org/0000-0002-0355-1487
 #META#  MiscInfo        ::
 
 PageV01P222
@@ -688,7 +689,7 @@ Droit a Troholt quidiérent ariver,
 Mais ne puet estre, c’autre part sont torné;
 Tout droit a Roume les conduit li orés,
 A un des pors qui plus près de Roume ert.
-# | 
+# |
 A un des pors qui ert plus près de Roume,
 Illuec arrive li nés a cel saint home.
 Quant voit son regne, mout forment s’en redoute.
@@ -1188,26 +1189,26 @@ Souef l'apele, se li a consillié:
 PageV01P251
 «Sire», dist il, «mors est tes prouvendiers.
 Çou m’est avis qu’il ert bons crestiens.
-# | 
+# |
 « Mout longement ai o lui conversé,
 De nule cose, certes, neu sai blasmer.
 Çou m'est avis que çou est li hom Dé. »
 Tous seus en est Eufemiens tornés.
 Va a son fil u gist sour sen degré.
-# | 
+# |
 Le drap sousliéve dont il estoit couverz,
 Vit del saint hom le vis et cier et bel,
 Et en sa main sa cartre et son seel,
 Ens a escrit trestout le sien couvera.
 Eufemiens veut savoir k’ele espialt.
-# | 
+# |
 II le weut prendre, mais ne li pot tolir;
 A l’apostoile revint tous esbahis:
 «Sire, pour Diu, aies de moi merci.
 Or ai trouvé çou que tant avons quis;
 Sous mon degré gist mors uns pelerins;
 Tient une cartre; mais ne li puis tolir.»
-# | 
+# |
 Sains Innocens entendi la raison
 Qui apostoile estoit a icel jour,
 Et ot les sains ki sounent a un son
@@ -1219,7 +1220,7 @@ De cele cartre li prist moult grans paours:
 Et tous li pules esmaris environ.
 Sous le degré vinrent al grabaton;
 N’en apelerent, car ne sorent son non.
-# | 
+# |
 Li apostoiles et li empereour
 Devant lui vienent, getent s’a orison,
 Misent lor cors en grans afflictions,
@@ -1453,7 +1454,7 @@ Felix tot cil qui par foi l’honerérent!]
 [Qui que soit doels a nostre oes est-il joie,]
 Car par celui arons boine victore. »
 # |
-Trestout le prendent qui porrent avenir; 
+Trestout le prendent qui porrent avenir;
 Cantant emportent le cors saint Alessin.
 N’estuet semonre cels qui l’orent oi.
 Tout i acorent, et li enfant petit,
@@ -1516,7 +1517,7 @@ Grans fu la feste, ne l’estuet demander.
 De toutes pars l’ont si avirouné,
 Sous ciel n’a home qui i puist habiter.
 # |
-El setme jour fu faite sa herbege . 
+El setme jour fu faite sa herbege .
 A cel saint cors, a la gemme celestre.
 Traient s’en sus, si alasque la presse.
 Vellent u non, le laissent metre en terre.
