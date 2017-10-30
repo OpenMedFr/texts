@@ -29,7 +29,7 @@
 #META#  OclcID          ::
 #META#  WebAuthor       ::
 #META#  ORCIDWebAuthor  ::
-#META#  MiscInfo        :: unknown edition
+#META#  MiscInfo        :: unknown edition, colons, semicolons, quotation need normalizing
 
 Cil qui fist d'Erec et d'Enide,
 Et les comandemanz d'Ovide
