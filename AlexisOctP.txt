@@ -1,13 +1,13 @@
 #META#  TextURI         :: AlexisOctP
 #META#  DEAF            :: http://www.deaf-page.de/fr/bibl/bib99a.php#AlexisOctP
 #META#  TL              :: SAlex. R
-#META#  FEW        		::
+#META#  FEW        		  ::
 #META#  ARLIMA          :: https://www.arlima.net/no/114
 #META#  Author          :: nodata
 #META#  AuthorBorn      :: nodata
 #META#  AuthorDied      :: nodata
 #META#  TextTitle       :: La vie de saint Alexi en vers octosyllabiques
-#META#  TextSubtitle	::
+#META#  TextSubtitle  	::
 #META#  TextVols        :: 1
 #META#  TextSubj        :: hagiography
 #META#  TextDescARL     :: vers octosyllabiques à rimes plates
@@ -24,7 +24,7 @@
 #META#  MsOther         ::
 #META#  MsNum           :: 1
 #META#  ScanURL         :: http://www.persee.fr/doc/roma_0035-8029_1879_num_8_30_6463
-#META#  ScanURIOther	::
+#META#  ScanURIOther  	::
 #META#  ArkID           ::
 #META#  LccnID          ::
 #META#  OclcID          ::
