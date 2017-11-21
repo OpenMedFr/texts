@@ -1,0 +1,1468 @@
+#META#  TextURI         :: AlexisP13
+#META#  DEAF            :: http://www.deaf-page.de/fr/bibl/bib99a.php#AlexisP
+#META#  TL              :: Alex., Alex. S.
+#META#  FEW        		::
+#META#  ARLIMA          :: https://www.arlima.net/no/114
+#META#  Author          :: nodata
+#META#  AuthorBorn      :: nodata
+#META#  AuthorDied      :: nodata
+#META#  TextTitle       :: La vie de saint Alexis
+#META#  TextSubtitle	:: poème du XIe siècle et renouvellements des XIIe, XIIIe et XIVe siècles publiés avec préface, variantes, notes et glossaire
+#META#  TextVols        :: 1
+#META#  TextSubj        :: hagiography
+#META#  TextDescARL     :: 123 laisses de vers décasyllabiques monorimes (1278 vers)
+#META#  TextDescVers    :: 10
+#META#  TextDateARL     :: XIIIe siècle
+#META#  TextDateAdj     :: 13
+#META#  EdEditor        :: Paris, Gaston; Pannier, Léopold
+#META#  EdPlace         :: Paris
+#META#  EdPublisher     :: F. Vieweg
+#META#  EdVol           ::
+#META#  EdYear          :: 1887
+#META#  EdPages         :: 279-317
+#META#  MsBase          :: Ma, Carlisle Cathedral
+#META#  MsOther         ::
+#META#  MsNum           :: 2
+#META#  ScanURL         :: https://archive.org/details/laviedesaintale03alexgoog
+#META#  ScanURIOther	::
+#META#  ArkID           :: ark:/13960/t1jh3nt8t
+#META#  LccnID          :: 14022514
+#META#  OclcID          :: 67605175
+#META#  WebAuthor       :: David Joseph Wrisley
+#META#  ORCIDWebAuthor  :: orcid.org/0000-0002-0355-1487
+#META#  MiscInfo        :: the thirteenth century version in this volume
+
+
+§LI VIE SAINT ALESIN ET COMMENT IL MORUT.
+PageV01P279
+# |
+Cha en arriére, an tens anchienors,
+Fois fut en tiere et justiche et amors
+Et verités et creanche et donchors;
+Mais ore est frailes et plains de grans dolors.
+Jamais n’iert teus con fut as anchissors.
+Ne portent foit li marit lor oissors,
+Ne li vassal flanche lor signors......
+# |
+Au tens Noé et an tens Moysant,
+An tens David cui Dius par ama tant,
+Bons fut li siécles, n’arons mais si vaillant.
+Vieus est et frailes, tot s’en va defalant:
+Ne portent foit as péres li enfant,
+Et li filleul vont lor parins boisant,
+Li justichier le loi Din malmenant,
+Et li signor lor molliers ahontant.
+Goie et leeche va tote defalant:
+Soz chiel n’est hom ki de l’avoir ait tant
+PageV01P280
+Ne se redote dou tens a en avant.
+Pries est li fins par le mien eschiant.
+En l’honor Diu le glorios poissant,
+Ki nos crea trestos a son semblant,
+Vous vuel conter un exemple mout grant
+D’un saintisme home et d’un sien cier enfant.
+# |
+Li Diu vassaus ot non Eufemiens:
+Cuens fut de Rome et mout bons crestiens,
+Et sages hom des autors anchiens;
+Tos tens mena grans tenchons sor paiens,
+Et sainte eglise ama sor totes riens;
+De felonie n'ot onkes en lui riens;
+Et prist mollier puis k’il fut anchiens....
+# |
+Puis conviersérent ensemble longhement;
+Assés i orent et or mier et argent
+Et vair et gris et viés vin et forment
+Et bors et viles et rice tenement,.......
+Et sainte eglise revisdérent sovent.
+Mais d’une rien lor poise mout forment,
+K’il n’ont enfant; si en sont mout dolent,
+Diu en apielent andoi parfitement."
+"He rois de glore, par ton comandement
+Un fil nos done ki soit a ton talent."
+# |
+Tant li deproient par grant humilitet,
+Et en lor cuer en ont tant sospiret,
+Et en lor ieus tantes larmes ploret,
+Et ont as povres tant viestement donet,
+Ke nostre sire par le siue bontet
+A le mollier tramist feconditet:
+Un fil lor done, si l’en sévent bon gret.
+De saint batesme l’ont tost regeneret,
+Biel non li donent en le crestientet:
+Dant Alexis ont le fil apielet.
+PageV01P281
+# |
+Li gentius kom cui Dius le vaut doner,
+Apries li dame ki tant fist a loer,
+Soingnosement fisent l’enfant warder
+Et tenrement et coucier et lever:
+Mout devint biaus, si fist mout a amer,
+Puis si le fisent a l'escole mener,
+Et l’escriture enseignier et mostrer.
+En poi de tens sot bien lire et canter,
+Et en latin mout sagement parler,
+Et une loi gentement visiter.
+# |
+Et kant li enfes fut des ars bien senés,
+De mout ciers dras s’est ricement parés:
+Droit a le cort le roi en est alés;
+Tant le siervit par ses humilités
+Ke li a armes et warnemens donés,
+Et les honors dont ses pére iert casés
+Li a rendues, et des autres assés.
+# |
+Kant voit li pére ke mais n’ara enfant
+Fors ke chel sol ke il par aime tant,
+Dont se porpense del siécle a en avant:
+Or veut ke prenge mollier en sen vivant.
+Il en a quise une mout avenant,
+Fille a un duc, un rice home vaillant.
+Chius li otroie, et mil livres vaillant
+Et un castiel asasel et manant.
+# |
+Noment lor tierme de lor assemblement:
+Kant vint au faire sel font mout liement
+Mout en sont liet d’ambes pars li parent.
+Dans Alexis l’esposa voirement,
+Mais de chel plait ne vausist il nient:
+De tot en tot a Diu a sen talent;
+Se li loisist il viesquist castement,
+Ke de chel siécle ne quist encombrement.
+# |
+Kant li siens pére ot fait tot apriester
+PageV01P282
+Et ses barons venir et auner
+Et sen palais ricement conreer
+Et fait des noches le premerain soper,
+Li jors s’en va, si prent a l'aviesprer:
+Traient les napes, les tables font oster
+Et lor relief coillir et amasser
+Et a frarins departir et doner.
+# |
+Chou dist li pére: "Biaus fils, va t’ent coucier
+Avuec t’espose: Dius te doinst hiretier!"
+Ne vaut li enfes sen pére corechier:
+Sus se drecha, ne l’osa delaiier;
+Vint en le cambre, si se fait descauchier.
+Li pére i fut et li mére au vis fier;
+Le cambre font enchenser et joincier,
+Et kant s’en issent si l’ont faite vuidier.
+Et Alexis rewarda se mollier.
+# |
+Kant Alexis ot se femme veue,
+Ki tant par est cortoise et bien creue
+Et covoitose et blance en se car nue,
+Et voit le cambre ki si est portendue,
+Dont li ramenmbre de se cheleste drue,
+De sainte eglise ke tant a maintenue;
+S'il chele amie ki dou chiel est venue
+Por carnel femme relenquist.....
+Dont crient il mout ke s’arme soit perdue
+Et au juise Damediu confondue.
+# |
+"He Dius," dist il, "ki nos as a sauver,
+Et en le virgene te laissas aombrer
+Et en le crois te laissas delivrer
+Por nos caitis peceors racater,
+Fai nos, ciers sire, tes commans eswarder,
+Ke ja diables de nos ne puist gaber.
+Dont me cuida bien mes pére aloer
+Kant il me fist cheste dame esposer?
+PageV01P283
+S’or ne m’en fui tot me veut afoler
+Et en infier el plus parfont jeter."
+Dans Alexis sospire mout forment
+Et si reclaime Diu mout parfitement,
+Se france espose castoie douchement.
+Sainte Escriture li despont saintement,
+Et il li blasme cheste vie forment
+Et l'autre voie de glore li aprent:
+Tant veut parler od li tot bielement
+Ke couciet soient par tot le pavement;
+Puis s'en fuira s’il puet cheleement.
+#  |
+Tant le castoie ke li nuis est moie
+Et li waite est endormie et coucie
+Et li puchiele mout forment anuiie;
+Puis prent l’aniel dont il tot enwagie.
+Deus pars en fist par merveille boidie,
+S’en a le dame l’une moitiet baillie
+Et puis a l’autre sor lui bien estoiie:
+S’il jamais a Rome tant aprocie
+Ke il resoit en le sale proisie,
+Et il lor mostre chele seigne asaisie,
+Ke l' reconoisse se femme l'escavie.
+# |
+Dist li puchiele: "Or sui mout eswarée;
+La m’en reporte dont tu m’as aportée.
+Ke quierras ore en estraigne contrée?
+Por coi me lais kant tu m’as esposée?
+Demain serai de te cambre jetée,
+Puis m’en irai comme femme eswarée;
+Tel honte arai jamais n’ierc honorée."
+"Biele," dist il, "tu n’ies mie senée:
+Cheste grant goie t'ara corte durée,
+A Diu te tien, si devien s’esposée:
+T’arme iert el chiel de goie coronée;
+Avuec les angeles iert assise el posée.
+PageV01P284
+"Gentius puchiele, chestui prent a signor
+Ki en le crois soffrit mort por t'amor,
+Por nos jeter de chele grant puor
+Ki fait les armes en infier grant dolor.
+N’a en chest siécle nule parfite amor,
+Mais tot i somes en peine et en dolor;
+Par mout grant goie s’assemblent peceor,
+Mais il departent a duel et a tristor.
+# |
+"France puchiele, or te tien en bontet,
+Si tien net cuer et...................
+......cors ki tant sont bien molet
+Mar virent onkes le lor grande biautet,
+Se por icheste dolente vanitet
+Sont en infier el plus parfont jetet.
+Me biele amie, warde te casteet;
+Il te sera mout bien werredonet,
+K’ensemble as angeles prendras sochietet.
+S’en porteras corone de clartet.
+# |
+"Me biele drue, or me done congiet,
+Jou ai viers Diu mon coraige ficiet;
+Si werpirai et me tiere et men fiet,
+Et tot le liu ou chis grans palais siet
+Ke Diu ne pierge et le soie amistiet.
+Mes pére fait de moi mout grant peciet,
+Ki m’a dou siécle emboet et loiiet:
+Por un seul poi k’il ne m’a engigniet
+Et en infier ou plus parfont lanchiet.
+Dius te soit warde par le soie pitiet,
+Car jou m’en fui en escil a men piet."
+# |
+Kant li puchiele oit de sen signor,
+Ke veut werpir li et tote s’honor,
+Savoir poés k’ele ot au cuer dolor:
+Tel crit jeta k'ele ne pout grignor;
+PageV01P285
+Dont a li sire mervillose paor.
+"Mierchit," dist il, "biele, por Diu amor!
+Ne faire honte Jesu ton creator.
+Se tu me dones de lui siervir loisor,
+En paradis en le glore angelor,
+As de conquierre corone a oriflor.
+# |
+"France puchiele," chou dist sains Alexis,
+"Se jou hui fuisse en un tornoi ochis,
+Ancui seroie apielés et malrnis
+Et en le tiere acovetés et mis;
+Puis si m’aroies en es les quinze dis
+Si obliet ke ainc ne fuisse vis:
+Tot autretel, s’or te prendoit te fins,
+Feroie jou de toi, jou l’te plevis.
+Dolens tos chiaus ki por lor ors delis
+Pierdent le longhe goie de paradis!
+# |
+"France puchiele, n’oblie t’arme mie.
+Car li hon fait mout grande dierverie
+Ki por le car se lasse d’arme oblie;
+Car li fiel cors l’a forment enhaie:
+Ja entre iaus deus ne faura aatie,
+Car li cors aime putaige et glotrenie
+Et vanitet et pereche et folie,
+Si veut avoir tos tens le panche emplie;
+Lui ne caut onkes soit maus ou felonie.
+# |
+"Tantost con l’arme ist de chel cors puant,
+Ki n'ama onkes ne Diu ne sen comant,
+Mais de mal faire se fist fort et poissant,
+Si vinrent lues mil diable acorant
+Ki l’encauchiérent trestot vers le torment
+Ou li vier sont et li sierpent mordant.
+Coi k’il en fachent, chou trovons nos lisant,
+PageV01P286
+Au samedi anchois le coc cantant
+Revient droit l'arme a le fosse criant,
+Le puant cors mout forment maudisant
+Ki l’a conduite en chel tonnent si grant.
+# |
+"He cors, dist l’arme, mar te vi onkes net;
+Mau soit de l’hore ke fumes ajostet,
+Et maudit soient de sainte trinitet
+Andoi li piet ki chou ont poralet,
+Et les deus mains ki ont chou manovret,
+Et ichil cuers ki chou a porpenset,
+Aussi li boce ki chou a porparlet,
+Et li doi uel ki chou ont rewardet
+Et les oreilles ki chou ont escoutet
+Dont li mien membre sont si grief tormentet!
+# |
+"Or giras, cors, en le tiere eniermee,
+Et jou irai come maleuree
+A le dolor ke tu m’as porparlee
+Dusk'au juise. . . ............
+Kant te cars ert de mort resuschitee,
+El en l'aet de trente ans restoree,
+Dont serai, cors, droit a toi ramenee
+Et en ches membres droit a toi restoree,
+Od toi ensemble en le flame embrasee
+Ke li diable nos aront aprestee;
+Puis comparras l’orgueil et le posnee
+Ke tu tos jors as si grant demenee.
+# |
+"France puchiele, pense de Diu servir:
+Donte te car cui estovra porir.....
+Cui estovra et bien et mal sentir
+De li te peine ke le puisses warir.
+Chele a grant goie ki puet a Diu venir;
+Lasse cheli cui covient departir
+PageV01P287
+Et en infier od les maufés gésir
+Et en le flame tos tens adies bruir!
+# |
+"Gentius puchiele, con fors plais la sera,
+Kant nostre sire au jughement venra.
+Et il se crois lés nos establira
+Et il ses plaies totes nos mosterra
+Et le corone d’espine k’il porta !
+Or me di, biele, ke li mauvais fera
+Kant li plus justes a chel jor tremblera.
+Goios chelui ki desiervit ara,
+Ki a chele bore a diestre part sera
+Et od les angeles en paradis ira !
+# |
+"La n’ara ja parlet de ricetet
+Ne de paraige ne de nobilitet
+Ne de grant cors ne de legier costet
+Ne de caucier ne d’ermin engolet:
+Chent mile marc de deniers moneet
+N’i valent mie un boujon empenet,
+S’il en chest siécle ne sont por Diu donet;
+Ne rois ne cuens n’i menra poestet,
+Mais chil seront le jor tot coronet
+Et trait avant et signor apielet
+Ki chi aront vescut en casteet
+Et maintenue droiture et caritet
+Et viers lor proismes par bone foit erret,
+Ckil troveront le postic aornet
+Et le portier de l’ovrir apriestet,
+Et tot li autre iérent en sus botet
+Et as diables en lor mains delivret.
+# |
+"France puchiele, or me laissiés fuir:
+Si vos irai conquierre et desiervir
+Chele grant glore ki ne puet definir,
+Ou caus ne frois ne nos pora suir
+PageV01P288
+Ne fains ne sois ne nule riens nuisir;
+La te ferai de tel conroit viestir
+Ke nus eaiges ne pora enviesir
+Ne lére enmbler ne robére tolir.
+Chil ki la sont ont si tot lor plaisir
+Nus hom ki soit ne lor puet rien tolir.
+# |
+"Gentius puchiele, car me laissiés aler:
+Si vos irai conquierre et aeater
+Chele grant goie ki ne puet tresaler;
+Sos chiel n’esl boce ki le sace conter
+Ne nus euers d’home ki sace porpenser
+Con faite goie Dius a fait apriester
+En paradis por ses amis fiever;
+Ainc uel de car ne l' porent eswarder
+Ne esprit d’home ne le porent trover.
+Goios chelui ki l’ pora porpenser
+Et en chel siécle téle vie mener
+Ke s’arme puist par chele porte entrer,
+Et od les angeles par dedens convierser!"
+Ot le li biele, si laissa le plorer.
+# |
+"France puchiele, por l'amor Diu, mierchit!
+Lai m’ent aler, car tuit sont endormit."
+"Va t’ent a Diu," li biele respondit:
+"Chius ert dolens ki toi engenuit,
+Si iert li mére ki soef te norit
+Et jou meisme ki t’avoie a marit;
+Or verrai plait a grant duel departir.
+Or t’en va, sire, kant ne te puis tenir.
+# |
+"S’en ten conseil le pooie trover
+K’ensemble od toi m’en laissasses aler,
+PageV01P289
+Ja me verroies gentement apriester,
+Tondre mes crins et wimples afubler,
+Et prendre eskerpe et bordon acater:
+Toi siervirai de tes dras relaver,
+En si ke ja ne te quier adeser
+Ne carnelment dalés toi convierser."
+"Non ferai, biele, Jesus te puist sauver!
+# |
+"Ains te comant a le virgene Marie,
+Ke des diables te port tel warandie
+Ke mais ne puisses iestre par iaus honie."
+A tant s’en tome, se voie a acueillie;
+Ne trueve sierf ki pas li contredie,
+Car Darnedius li siens pére l’en wie...
+De le puchiele ke il a conviertie
+Ke il li done poestet et baillie
+De Diu siervir tant ke s’arme iert warie.
+De toi chel plait ne set ses pére mie,
+Non fait se mére ki estoit tote fie
+K’il en se cambre dormist dalés s’amie.
+Kant le saront ke il l’a relenkie,
+Si durement en iert Rome estormie
+K'ainc mais ne fut plus grans dolors oie.
+# |
+Sains Alexis vint a le mer fuiant;
+lluekes trueve une barge flotant
+Ki de passer se vait aparillant:
+Done son pris, si entra ens corant.
+Drechent lor voiles chil maistre maronant;
+Parmi le mer s’en eskipent a tant;
+Droit a Laliche cuident venir siglant,
+Mais Diu ne plot ne le sien cier cornant:
+Uns vens leva sor diestre costiant
+Ki les empeint trois liues bien avant,
+Si k’il aprocent de Jerusalem tant
+Ke de chel port ou il viénent nagant
+PageV01P290
+I vait on bien, che trovon nos lisant.
+En un sol jor a un mulet ambiant:
+Savoir poés k’ ensi plot Diu le grant.
+# |
+Es vos au port saint Alexis venut
+Et de le barge fors a le tiere issut,
+Vint au sepulcre ou nostre sire fut:
+Fait ses proiiéres, si s’a confies rendut;
+Un jor entier et dos nuis i estut
+Ke ne manga de se boce ne but,
+Tant s’en delite ke nostre sire i fut;
+Et au tierc jor viers le flun Jordain mut,
+Si a baigniet sen digne cors tot nut;
+Puis prent les paumes et un espic solut;
+Droit a Laliche vient le camin batut,
+Mais jou ne sai con longhes i estut;
+Ou k’il ala Diu siervit et conut,
+Et nostre sire l’en prieste grant viertut.
+Et si ie warde ensi con le sien drut.
+# |
+Et kant li sire d’iluec se retorna,
+Droit en Alis le chitet s’en ala
+Por une imagene k’on iluec li prisa,
+Ke li sains angeles de ses mains figura
+Ki a le virgene le messaige anoncha:
+Kant nostre sire en sen cors s’aombra:
+Avuec ichou k’il en li eswarda
+Fist si l'imagene ke bien le resembla,
+Et Marien apries si l’apiela,
+Et en Alis le chitet l’emporta
+En ichel jor ke Dius resuschita
+De chel sepulcre ou Josés le posa.
+La le requiert chis hon ki Diu ama.
+Tantost con il ens el mostier entra
+Ou il l’imagene nostre dame trova,
+De devant li s’estendit et posa:
+De ses peciés douchement li proia
+Et de l espose k’il werpit et laissa.
+PageV01P291
+Puis prist l'avoir ke de Rome gieta.
+A povres gens le rendit et dona,
+K’onkes maaile sor lui ne resierva.
+# |
+Kant li sire ot departit sen avoir,
+Entre les povres s’en vait el renc seoir.
+Rechut l'aumosne kant il le pot avoir,
+Si en entra a Diu de tel savoir
+K’onc ne retint sen disner mie au soir,
+Ne dou soper n’ i vout tant rechevoir
+Dont el demain puist un repast avoir.
+Tant a junet ke tot le vis a noir.
+Ne fait se car gaires de sen voloir;
+A Diu siervir met grant peine por voir,
+Et nostre sire li priesta tel pooir
+K’onkes diables ne l’ pot faire encaoir.
+# |
+Or revenrai a chiaus de le contrée,
+Ki tel dolor ont por lui demenée.
+Li dame crie con fame forsenée:
+"Fius Alexis, kel tristor m’as donée!
+Fius, tu t’en vais, s'as laissiet t'esposée
+Ke jou t’avoie si cortoise donée:
+Tel duel me fais ke ja serai diervée."
+Cuert en le cambre, tote l'a deskirée,
+Oste ses pailes et se cortine lée:
+Ja mais par home nen iert reconfortée;
+A ichest duel ariére ciet pasmée,
+Ne mais li sire l’en a sus relevée.
+# |
+Li damoisiele regreta mout sen drut,
+Et li mére a sen paile destendut:
+Andos s’asisent sor un marbre tot nut,
+Si ke tapit n'i ot mis n'estendut.
+"Dius," dist li pére, "ciers fils, con t'ai pierdut!"
+Respont li mére: "Peciés le m’a tolut."
+L’espose crie: "mout petit l’ai eut;
+Si grand duel ai k’onkes mais tés ne fut."
+PageV01P292
+Es vos l’espose dolente et esmarie,
+Si est le mére au piet agenoillie,
+Se biele boce li a trois fois baisie
+Et de ses ieus arosée et moulie:
+"Dame," fet ele, "kant tes fius m'a laissie,
+Or me retien od toi en te maisnie.
+Por soie amor, ki tant m’en a proiie,
+J’ai Damediu casteet otroiie,
+Ke mais d’autre home ne ruis iestre loiie..."
+Tantes fois l’a de pitiet embrachie
+Ke tote en fut lassée et anuiie.
+# |
+Li pére escrie: "Ki nos deseverroit
+Ja mais le fache Damediu ne verroit.
+Kant a men fil veus porter si grant foit,
+Dont est il drois chiertes ke mius t’en soit.
+Or t’asserrai ja ou mes fius seoit:
+L’amor tenras et l'honor k'il tenoit;
+Et si metrai mes biens sor ten destroit,
+Ke s’il est hon ki t’en mostrast bufoit
+Ja mais nul jor mes cuers ne l’ameroit."
+Kant chele entent k’ensi le mainterroit,
+Au cordoan l’en veut aler tot droit;
+Mais li frans hon en ses bras le rechoit,
+Et si l'en baise ansdos les ieus estroit.
+# |
+Dont prent li pére ses messaiges errant;
+Par pluisors tieres fait quierre sen enfant.
+Droit en Alis en vinrent doi errant:
+Iluekes truevent saint Alexis seant
+Entre les povres a l’aumosne seant.
+Si a muet sen vis et sen semblant
+Ke il ne l' pueent raviser tant ne kant,
+Mais lor aumosne li presentent devant;
+Il le rechoit liement en plorant,
+PageV01P293
+Et s’en aore Damediu le poissant
+De ches siens siers cui il est aumosnant.
+# |
+Il fut lor sire, or est lor aumosniers:
+Tel goie en a k’il en fut plus legiers.
+Li siergant cherkent tot adies les mostiers
+Et les grans rues et les palais pleniers,
+Si en demandent borgois et cevaliers;
+Et il les suit et escoute derriers,
+Se dou fuir li seroit pas mestiers.
+# |
+Li siergant sont anuiiet de baer
+Et de l' cherkier et de le demander:
+Ciés un borgois sont alet por disner;
+Car hon ki vait ne puet mie juner.
+II les porsuit tant k'il les vit entrer;
+Por l’ocoison de l’aumosne rover
+Ala a l'uis lor raisons escouter...
+"Signor," dist il, "mout vos voi dementer."
+Et chil respondent: "Ne fait a oblier.
+Pierdut avomes un gentil baceler,
+Le fil au conte ki Rome doit warder;
+N’ot plus d’enfans, mout le devoit amer,
+Tant k’il le fist une dame esposer;
+Mais il le fist a forche...............
+Fuis s’en est en essil decha mer.
+Li pére en cuide esragier et dierver,
+Se douche mére ne l' puet entroublier;
+Et li puchiele ki tant le pot amer,
+Sos chiel n’est hon, s’il li ot regreter,
+Ne li estueve d'ansdos les ieus plorer.
+Or le cuidames chi iluekes trover,
+Mais ne l' poons veir ne encontrer:
+Avoirs nos faut, n'avons mais ke doner;
+Vuelliens ou non, nos en convient aler."
+PageV01P294
+Dist li borgois: "N’en faites a blasmer."
+A ichel mot font lor tables oster,
+Si comenchiérent ariére a retorner.
+# |
+Kant li sains hon les vit si eslonghiés,
+Et si cuida ke ja mais n’iert tociés,
+Ne vos sai dire con forment il fut liés.
+Cuert en l’eglise, si ciet l’imagene as piés...
+Ke le puchiele pardoinst tos ses peciés
+Et ke ses cors ne soit mais vergoigniés,
+Ne de nul home adesés ne tociés,
+Ne par diable soduis ne engigniés.
+Es vos a Rome les siergans repairiés:
+Nonchent au pére ke ja mais n’iert bailliés.
+Or poés croire ke mout en fut iriés.
+# |
+Li siers Diu est en Alis remansus:
+Dis et siet ans s’i est si maintenus
+Ke en ses piés nen ot solers viestus,
+Ne nus iviers n’i est si fors keus
+Ke au mostier ne soit anchois venus
+Ke li provoires soit de sen lit issus
+Ne de matines li premiers cous ferus.
+Ne se fait pas emparlés ne agus,
+Ains est taisans con s’il estoit tos mus,
+Et del diable s'est si escombatus
+K'ainc ne pot iestre por lui si convaincus
+Ke uns sos mos soit de se boce issus.
+# |
+Sains Alexis a se car relenkie
+Et en chest siecle l’a si por Diu honie
+Ke en se boce nen entre de pain mie
+Se cascun jor par les uis ne l' mendie.
+Et le chitet par aime tant et prise
+PageV01P295
+Ke mais par lui, se il puet, n’iert werpie,
+Tot por l'imagene ki’st de sainte Marie
+A cui il siert et de nuit et de die.
+Grant peine mist en le cheleste vie.
+# |
+Kant li sains a le bore si enamet
+Ke ja n'istra mais par se volontet,
+Li sainte imagene dont jou vos ai contet
+Chele a le costre dou mostier apielet:
+"Frére," dist ele, "jou t’ai araisonet
+Por un signor de grant nobilitet
+Ki por moi a en cheste vile estet
+Dis et siet ans en mout grant povretet;
+Le biel sierviche ke il m’a presentet
+A nostre sire mout recoillit en gret.
+Or va, si l' quier tant ke l’aies trovet,
+Car bien est drois ke chil de le chitet
+Le reconoissent et sacent se bontet."
+Es vos le clerc forment espoentet:
+Le mostier cherke et de lonc et de let,
+Et Alexis a trois fois encontret;
+Mais voirement ne cuide ne ne set
+Ke ses cors soit de si grant dignitet:
+Maintes fois l’ot fors dou mostier botet
+Et laidement castoiiet et coset
+Et soduiant el pautonier clamet.
+# |
+Li ciers revint a l’imagene en plorant:
+"Dame," dist il, "par tot vois espiant,
+Mais ne truis home ki soit de tel semblant,
+Ki tant soit dignes ke vos alés disant."
+Ele respont: "Trover le pues seant
+Derrier chel uis, en sen sautier lisant."
+Quiert le li clers, chele part vint corant;
+tot droit au piet keus li est errant:
+"Sire, mierchit por Damediu le grant!
+Te sainte vie tu nos as chelet tant
+PageV01P296
+Ke nos en somes enviers Diu meserrant.
+Sains Alexis en veut aler fuiant,
+Mais li bons ciers le vait bien fort tenant
+Et les canones dou mostier apielant:
+Si lor aconte paoros et tremblant
+De chele imagene ki li fist le comant
+Ke le saint home lor amenast avant,
+Et ses bontés lor fesist entendant.
+# |
+Kant chil oirent le clerc chou raconter
+Ke nostre sire fist l'imagene parler
+Por chel saint home conoistre et demostrer,
+Communeument le cuerent aorer,
+Et si le vuelent a evesque alever:
+Mais il ne l’puet sofrir ne endurer.
+Kant il voit chou que l’vuelent honorer
+Et dou grant fais dou siécle remboer,
+"Chiertes," dist il, "chi ne quier mais ester,
+Car de rikeche ne d’orgueil demener
+Ne puet nus hon paradis acater."
+A mienuit lor escape li ber,
+Et vint fuiant droitement a le mer:
+Pries est li barge ki outre doit aler,
+Done sen pris, si se fait metre en mer:
+Droit viers Corsant en cuidiérent aler,
+Mais nostre sire ne’s i laissa sigler;
+Viers sen pais fist le barge torner
+Et a siet liues pries de Rome ariver.
+# |
+Et kant li sire voit Rome le major
+Ou il fu cuens desos l’empereor,
+Or saciés bien k’il en ot grant paor.
+Se l’voit ses pére et si franc vavassor,
+Se france mére ki meine grant dolor,
+Il le prendront par forche et par vigor,
+Si l’embatront en le tierestre honor.
+PageV01P297
+A orison se couce de paor,
+Si en apiele Jesu le creator:
+"Hai!" dist il, "dous fius sainte Marie,
+Se toi pleust, jou ne vausisse mie
+K’en chest pais fust li barge vertie.
+Se m’voit mes pére ki Rome a en baillie
+Et chele mére ki si en est irie
+Et li puchiele ke jou ai delaisie
+Et me maisnie cortoise et enseignie
+Cui jou avoie si douchement norie
+Il m'embatront en chele mortel vie,
+Si me tauront le toie compaignie.
+# |
+"Ha Dius !" dist il, "biaus pére glorios,
+Or me deffent dou diable engignos
+Ki de mal faire a le cuer si voisos,
+Ke ne m'embate en mil plait perillos
+Dont viers toi soie coupables ne hontos.
+Or sai jou bien, biaus pére glorios,
+Ke mi parent sont forment corechos
+Et de men cors a veir desiros:
+A iaus irai parler un mot ou dos;
+Ne l' saront ja, car tos sui cativos:
+Mes vis est pales et desfais et hisdos.
+# |
+"Conduit me done, sire, par tel devise
+Ke n’i soit m’arme pierdue ne maumise
+Et en infier el fu ardent esprise.
+Kant jou arai lor biele aumosne prise
+Et si lor cose et veue et enquise,
+Lues m’en irai faire le tien siervise
+Tant ke j’arai si te grache conquise
+Ke en ten regne par toi soit m’arme prise
+Et od tes angeles coronee et assise."
+PageV01P298
+Sains Alexis est issus de le mer;
+Tant est malades k’a peine puet aler.
+Or se comenche li ber a porpenser
+K’a Rome ira sen pére araisoner
+Et en grigois en tel wise parler
+K'a sen romanc nel pora aviser,
+Et se provende li vaura demander.
+Se Diu plaisoit ke li vausist doner
+Ja mais de lui ne vauroit remuer.
+Ne en se sale nes une fois entrer,
+Mais cha defors en un pulent angler
+Ou on soloit l'iave des mains gieter
+La i fera un lit tot estorer,
+Si i verra cascun jor au disner
+Les grans deintiés par devant lui porter,
+Nient por ichou k'il en doive goster,
+Ains les fera se bouce desirer;
+Car en chest siécle veut si sen cors pener
+Et de peciés purghier et eslaver
+Ke li diable ne sacent ke clamer.
+Or se despoille por lui atapiner,
+Si vait a Rome a sen pére parler.
+Tres ore ira ses aumosnes user,
+Car des autrui ne se veut encombrer.
+# |
+Sains Alexis s’en vait a abandon,
+Et vint a Rome apoiant d'un bordon.
+Or plot a Diu ki vint a passion
+Ke le sien pére encontre li frans hon
+Et puis se mére par devant lor dognon:
+Dou mostier viénent saint Piére el pret Noiron;
+De lor enfant sont en mout grant frichon.
+Il vint avant, si’s enclina parfont:
+"Eufemien, escoute me raison.
+Herbierghe quier por Diu le roi dou mont
+Et por ten fil Alexis le baron.
+
+PageV01P299
+Ke Damedius ki warit Lasaron
+Et Moysant de le main Pharaon
+Te renge encore ten fil en te maison!"
+# |
+Kant ot li pére de sen fil Alexis,
+Tant forment plore des biaus ieus de sen vis
+Ke tos en fut moilliés li ciers samis
+Et les grans gueles dou bon pelichon gris
+Viers lui s’en tome, si l’a a raison mis:
+"Hostel aras, biaus frére pelerins,
+Tot por l’enfant cui jou soef noris;
+Ne te faura ne pains ne cars ne vins.
+Ke Dius le mire tos chiaus de paradis
+Ki le herbierghent par estrange pais !
+Or a estet dis et siet ans caitis;
+Dolens peciére! ne sai s’est mors ou vis."
+# |
+Es vos iluec dant Costentin venant;
+Viers lui s’aproce, se li vait consillant:
+"Biaus pelerins, onkes n’alés avant.
+Od moi herbierghe por amor Diu le grant;
+Ne te faurai en trestot men vivant."
+Sains Alexis li respont maintenant:
+"Sire", dist il, "nos le trovon lisant
+Ke pèlerins ki vait par tiere errant
+Et Damediu et ses sains requierant,
+Il ne doit pas hostel aler cangant,
+Et s’il herbierghe a hostel mendiant
+Ne le werpir por hostel au manant;
+Et s’il le fait mout se vait foliant:
+Ne puet prisier tote se vie un want."
+# |
+Or voit li mére ke chius li veut tolir;
+Tant est dolente k’ele ne puet sofrir.
+A jointes mains le corit resaillir:
+"Sire", fait ele, "tu nos veus mal baillir,
+PageV01P300
+Kant por l’enfant ke jou tant doi cierir
+T’ai herbierghiet, et or me veus werpir.
+Ja ferai jou trestot le tien plaisir;
+N’i aras mal dont te sace warir."
+"Dame", dist il, "jou ne l’vos puis merir:
+Dius herbiert t’arme quant deveras fenir
+Et le chelui ki t’a a mainburnir,
+Et a l’enfant por cui me veus siervir
+Doinst tel coraige k’a toi puist revenir."
+Ot le li mére, si gieta un sospir.
+# |
+Sains Alexis se waite mout forment;
+Le sien cier pére rapide bielement:
+"Sire", dist il, "un petitet m’entent:
+Jou te proiai trestot premierement
+Por l’amor Diu le pére omnipotent
+Et por l’enfant dont jou te voi dolent;
+Si me priestas chiertes mout bonement.
+Malades sui et enfers durement,
+Si ne puis mie monter el pavement;
+Mais or me fai un poi d’habitement
+Sos le degret ki dou palais deschent,
+Ou jou me puisse gesir paisiblement,
+Et si me pais de chel menut frament
+Ki dou manghier remaint devant te gent;
+Ke Damedius par sen comandement
+Te renge encore l’enfant en ten comant
+Dont tu as si le cuer triste et dolent."
+# |
+Kant s’ot li pére del fil araisoner,
+De ses biaus ieus recomenche a plorer:
+"Boins hon", dist il, "Dius te puist respasser!
+Tot por l’enfant por cui le veus rover
+Trop te ferai et pain et vin doner
+Et un bon lit en chel angle estorer;
+PageV01P301
+Ke Dius le puist tot chiaus werredoner
+Ki bien li font a l’hore dou disner
+Et a le nuit dou lit et dou soper!
+N’est mie saus ki ne veut retorner."
+Ot le li dame, si comenche a pasmer.
+# |
+Li mére pasme trois fois en un tenant,
+Li pére va si ses mains detorgant
+Ke a le tiere l’en sont keut li want:
+Sains Alexis li rendit maintenant.
+Kant il les vit si aler sospirant,
+Iriès en est, mais n’en fait nul semblant
+Car il cremit k’il ne le conoissant:
+De tot en tot a a Diu sen talant.
+"Jesus", dist il, "ki mains en Oriant,
+Kés amistiés est de mére a enfant!
+Chis trés grans dues k’il vont por moi menant
+Or m’est legiers, si l’troverai pesant:
+Au grant juise me revenra devant.
+Ajue, Dius, con en sont desirant !
+S’or me voloie faire a iaus conoissant,
+Tel goie aroient onkes n’orent si grant."
+"Dius", dist li pére, "se j’avoie un siergant
+Ki me wardast chel pelerin errant,
+Jou l’franciroie trestot de maintenant."
+Un en i a ki s’en presente avant:
+"Jou l’warderai, sire, par ten talant,
+Mais nel ferai chiertes ae poi no grant
+Por le francise ke me vais presentant,
+Mais por l’amor au tien gentil enfant
+Le siervirai a trestot men vivant."
+# |
+Atant en est li rices hon alés,
+S’en a se femme et ses barons menés;
+Alexis est en le plache ariestés.
+Li bons siergans cui il fut delivrés
+PageV01P302
+L'en adiestra droit desos les degrés:
+De l’iave caude li a ses piés lavés
+Et ses drapiaus escos et esgratés.
+"Sire", dist il, "un petit m’atendés
+Tant ke uns lis soit ichi aportés
+Et uns lincheus ki mout soit blanc bués."
+Dist li sains hon: "Amis, ne vos penés.
+Ja mais sor lit ne gira mes costés,
+Mais une nate s’il vos plait me quierés."
+"Volentiers, sire, kant vos le comandés."
+Il lui a quise, si s’en est mout hastés:
+De tot en tot li fait ses volentés,
+Viers sen signor n’en veut iestre coupés
+Ne enviers Diu coupables ne damnés.
+Buer vit le jor ke li fut comandés,
+Car il en iert en glore coronés.
+# |
+Puis a li pére sovent sen fil veut
+Et chele mére en cui costet il jut
+Et li puchiele ki tant l’ot atendut,
+Ke onkes nus de rien ne l’reconut;
+Ne ne li ont demandet n’enquesut
+Kés hon il ert ne de kel tiere fut,
+Et le cors saint voirement ne calut
+Sen pére voit mout sovent irascut
+Et en le sale sovent grant duel esmut
+Trestot por lui k’il ont ensi pierdut:
+II les eswarde, et si s'en fait si mut
+Ke s’on l’avoit a un grant pel batut:
+A Diu se tient par itéle viertut
+Ke lui ne caut de parent ne de drut.
+# |
+Signor, mout fait chis sains cors a prisier,
+Ki tote Rome avoit a justichier
+Et qui peust mener tant cevalier,
+PageV01P303
+Et convierser od se gente moillier.
+Et si s’ala por l’araor Diu coucier
+Sos ses degrés a wise d’aumosnier.
+Ki vos vauroit tot sen siécle anonchier
+Ja vos poroit mout forment anuiier.
+Kant li siergant ke il ot a baillier
+Li aportoient le grant relief entier.
+Un poi en prent por se fain apaier
+Et l'autre rent a chiaus ki ’n ont mestier:
+N’en fait musgot por sen cors encraissier.
+Cascune fieste se fait comuniier;
+Tot si conseil repairent au sautier
+Dou Diu sierviche ki le rave efforchier.
+Et li sains hon ne s’en veut atarghier,
+Ains en fait tant c’on s’en puet mervillier.
+# |
+Sains Alexis vit desos le degret.
+Se france mére l’a sovent revisdet
+Et de bien faire sen conseil demandet.
+Mais voirement ne cuide ne ne set
+Ke che soit chil ke tant a regretet.
+Li felon sierf li font mainte viltet:
+Il prendent l’iave kant il ont parlavet,
+Si le reviersent chelui sur le costet
+Cui sierf il sont par droite naitet;
+Mais li sire a le cuer si afermet
+Ke le rechoit trestot par caritet:
+Jesu en proie par bone volentet
+Ke lor pardoinst par le siue bontet
+Tuit l'escarnissent, si l’tiénent por bricon;
+Des laveures li moillent sen plichon,
+Et li Diu siers s’en couce a orison,
+S’en proie Diu par bone entenchion
+K’il lor en fache et mierchit et pardon.
+Par une fieste de sainte rovison
+Deschent li pére cha jus de sen dognon,
+PageV01P304
+Et voit sen fil ki gist el grabaton;
+Chele part vint si l'a mis a raison:
+"Biaus crestiens; ne savomes ten non.
+Faut toi conrois ki soit en me maison?"
+"Chiertes, biaus sire, Crestieu ai a non
+Et tut ichil ki a Diu parverront.
+Ki bien le warde s’en a grant werredon,
+Et chil ki l’piert mar vit onkes le non,
+Car s’arme en iert en infier le parfont.
+# |
+"Chiertes, biaus sire, bien a droit me només:
+Crestiens sui voirement apielés,
+Se tant sui boins ke par moi soit wardés:
+En saint batesme me fut chis nons donés,
+Mais jou l’crien pierdre par mes grans ordeés.
+Trop ai conroit: cliis en soit honorés
+Por cui amor il m’est si apriestés,
+Et il vos renge l’enfant ke tant amés."
+"Boins hon", dist il, "ke me ramentevés?
+N’est mie vis kant il n’est retornés."
+Vait s'ent li pére dolens et effraés,
+Et li fius est remés sos les degrés.
+# |
+Es vos se mére fors de le sale issue
+Et les degrés contreval deschendue,
+Od li l’espose ki si est irascue
+K’ainc puis chele hore ne fut en giu veue
+Ne de cier paile ue d’ermine viestue
+K’ele en le cambre fu sole remansue.
+Kant il les voil tos li sans li remue:
+Crient ke se mére ne soit apercheue
+Et par peciet ne l' conoisse se drue.
+De le paor k’il en a recheue
+Trestot li vis et li cors li tressue.
+# |
+Sovent les voit et venir et aler
+Et de lor ieus mout tenrement plorer,
+PageV01P305
+Trestot por lui ke ne pueent trover:
+N’est tant hardis qu'es ost araisoner,
+Ke au romanc ne l' puissent raviser
+Et ne le fachent dou siécle rencombrer.
+Li dame prent l’espose a apieler:
+"Chiertes, puchiele, mout fort me doit peser:
+Chis hon n’a mie en viers moi le cuer cler;
+Tant ne me voit par dalés lui passer
+K’il me vausist nule cose rover
+Et le color dou visaige mostrer.
+Car li faisomes ses drapiaus relaver."
+Dist li puchiele: "Alon a lui parler
+Et de sen non enquierre et demander.
+S’or le laissomes entre nos devier,
+Et par sen non ne l' savomes nomer,
+Trestos li siècles nos en pora blasmer."
+# |
+"Chiertes, puchiele, jou i vois mout envis:
+Quant jou le voi moi sovient d'Alexis:
+Por un petit ne l' resemble dou vis;
+Li dues de li m'ochira ains mes dis."
+Passa avant, si l’a a raison mis:
+"Con avés non, biaus frére pelerins?"
+"Crestiens, dame, par foit le vos plevis..."
+Tant s’esforcha ke le piet li a pris,
+Si li cria mierchit li Diu amis.
+# |
+"Sire," dist ele, "de coi m'alés proiant?"
+"Me biele dame, jou l' ferai entendant:
+Kant jou premiers vinc en te cort errant,
+Si te proiai l’hostel por Diu le grant
+Et por l’amor Alexis ten enfant;
+Ainc puis chel di n’eus le cuer goiant,
+Ne ne venis par devant moi passant
+Se me veisses n’en alasses plorant.
+PageV01P306
+Dou ruiste duel ke vois ramentevant
+Meffais en sui, jou l' sai a eschiant.
+Pries est me fins, car mout vois agrevant;
+Si l' me pardone por l’amor Diu le grant."
+# |
+Tant a li sire et proiiet et ploret
+K’eles li ont werpit et pardonet
+Ire et descorde et male volentet.
+Atant s’en tornent, ke n’i ont plus parlet,
+Et il remest tos sos sos le degret.
+Dis et siet ans i a si convierset
+Et autretant en Alis le chitet:
+Ne but de vin ne de car n’a gostet,
+N’onkes nus hon ne devit se bontet.
+Or vint li tiermes a chel boneuret
+Ke si travail li iérent presentet
+Et ens el regne Jesu werredonet.
+Pries est se fins si que trés bien le set:
+Sen bon siergant a a lui apielet.
+# |
+"Frére," fait il, "jou morrai le matin;
+Ne te lairai ne argent ne or fin,
+Car jou nen ai fors ke chel sol tapin.
+Mais Damedius, ki ama saint Martin
+Por le mantiel k’il dona au frarin,
+II le te mire au jor de ten defin!
+Or me quier, frére, et encre et parcemin:
+Si escrirai un petit de latin."
+"Volentiers, chiertes, bel frére pelerin."
+# |
+Li bons siergans.................
+Kant il entent ke doit aler de vie
+Et ke pierdra se sainte compaignie,
+Tres ichele hore ke l' prist en mainburnie
+Li a si bien se volentet emplie,
+Onkes n’i ol mautalent ne envie,
+PageV01P307
+Ne a le mort ne l' veut corechier mie:
+L’encre li a destrempée et boulie.
+Et puis le cartre mout tost aparillie;
+Et li sains hon si escrist ens se vie,
+Puis l’a remise en le siue baillie,
+Ke ne puist iestre veue ne oie
+Trueske li arme soit dou cors departie.
+# |
+Kant ot li sire escrit et embrevet
+Trestot le siécle ke il a demenet,
+Et coupe dite et sen peciet ploret,
+Et pris le cors dont nos somes sauvet,
+Dont li tramist li rois de maistet
+Le vois dou chiel ki bien l’a confortet.
+Chou dist li vois a chel boneuret:
+"Vien ent, cier frére, no sire t’a mandet,
+Por cui tu as ten gent cors si penet;
+Si l'as siervit selonc se volentet
+K’en paradis a ten lit estoret."
+# |
+Puis i revint une autre vois cantant,
+Ke tot oirent li petit et li grant
+Ki a chel jor a Rome erent vivant;
+Chou dist li vois: "Peceor nonsaçant,
+Car alés quierre le Damediu siergant
+Ki gist a Rome entre vos languissant,
+Ki doit transir de chel siécle dolant,
+Si s’en ira od les angeles cantant
+La sus el chiel el regne demanant.
+Sos uns degrés le troverés gisant,
+Sor une nate a loi de mendiant:
+Se li proiiés a Damediu le grant
+Vos soit aidans de chel jor en avant,
+K’il vos warisse dou dragon soduiant
+Ke ne vos traie en infier le puant."
+Chil ki l’entendent en vont mout sospirant
+Et l'uns a l’autre achiertes demandant
+PageV01P308
+Ou chis sains cors puet iestre chelés tant
+Dont li vois Diu vait par Rome criant.
+# |
+Sains Innochens estoit donc apostoles,
+Et sains Acaires et li siens frére Honores
+Estoient roi adonc a chel tempore.
+Si ont mandet de Rome tos les ordenes,
+Et tot le puele, les mauvais et les povres,
+Si lor requièrent conseil de cheste cose.
+# |
+Sains Innochens est mout espoentés:
+Od sen clergiet est a le tiere alés,
+Dient lor saumes, si ont lor cans levés.
+Et li doi roi ke jou vos ai només
+Et tos li pueles ki la est asemblés
+Proiérent Diu par grans humilités
+K’il lor demostre par les siues bontés
+Ou chis sains hon pora iestre trovés.
+Iluec ont tant de grans sospirs gietés
+Ke nostre sire par les siues bontés
+Les a trés bien par se vois confortés.
+# |
+Chou dist li vois: "Trop i estés par foit:
+Sempres sera li cors sains a destroit,
+A le maison Eufemien lot droit."
+# |
+"La est li sire dont vos ancui orés:
+Par lui sera chis regnes honorés
+Et tos li pueles de Rome governés."
+# |
+Li apostoles fut mout saintismes hon
+De le vois Diu entent bien le raison,
+K’Eufemiens li cuens de Pret Noiron
+Il chel Diu sierf avoit en se maison.
+En piés se dreche, si fine s'oraison
+Et vint au conte, si conte se raison:
+"Chiertes," dist il, "fait as grant mesprison,
+Ke tant nos as chelet che saint baron
+PageV01P309
+Dont Dius nos fait si grant anonchion.
+Mostre le nos, si le deproieron
+K’il des peciés nos fache vrai pardon."
+# |
+Eufemiens en a mout grant paor,
+Car l’apostoles et li empereor
+Et li abet et li rice contor
+Crient sor lui et meinent grant tenchor:
+"Mostre nos tost le sierf au creator."
+"Baron," dist il, "mierchit por Diu amor.
+Je vos jurrai sor le saint Sauveor
+Ainc mais n’oi parler de se valor."
+# |
+Eufemiens lor a sor tos criet:
+"Ainc mais n’oi parler de se bontet."
+Mais iaus ne caut de kank’il a juret,
+Ne font nes tant kll l'aient escoutet;
+A sen palais en sont trestot alet.
+Il cuert devant et l’a bien enchenset.
+Li apostoles et li saintisme abet
+Et li doi roi et li rice barnet
+Viénent avant et si l'ont demandet;
+Puis si s’asisent es bans ki sont paret; .
+Et li frans cuens ki le cuer a senet
+Prent se maisnie a un conseil privet,
+S’es conjura de sainte caritet
+Ke dou cors saint li dient veritet:
+Il dirent tuit ke nus d’iaus ne le set..
+Ke chou soit chius ki gist sos le degret
+Cui tantes fois ont mouliet et gietet.
+# |
+Li baron sont par le palais assis.
+Et li espose cuert a saint Alexis:
+"Sire," fait ele, "mout vos torble li vis."
+"Chiertes, puchiele, or m’aproce me fins.
+Grant paor ai por chou, le te plevis:
+Vois ke chi a de ches noirs anemis;
+PageV01P310
+Dolent chelui ki en lor mains ert mis!
+Diu en ai jou de mes dos piés requis,
+Le saint sepulcre ou il fut mors et vis:
+Encor est chi li palme et li espis
+K'ai en l’honor saint Abraham cueillis.
+A men cavet, kant en le tiere ierc mis,
+Le me plant on, si sera lues repris.
+Dius le te mire les biens ke me fesis:
+Esforche toi de quierre paradis.
+# |
+"France puchiele, pense d’ensevelir.
+Maint bien m’as fait, Dius le te puist merir!
+Tot mi parent seront a l'enfoir:
+Me mére iert la, ne pora i faillir,
+Si iert li pére ki moi engenuit,
+Et une dame ke jou doi mainburnir;
+mout fut dolente kant de moi se partit."
+Ot le li biele, si gieta un sospir.
+# |
+"Sire," fait ele, "ou sont li tien parent,
+Kant il verront a ten definement?
+Dont sont il chi voisin proçainement?"
+Ne puet parler ne respondre nient:
+Car l’arme en est alée douchement.
+Con buer fut nés ki a chelui se prent
+Ki les siens siers si biele mierchit rent !
+Li angele sont iluec tot en present,
+S’emportent l’arme viers le chiel liement.
+Li sain de Rome sonent communeument,
+Si ke nus hon n’i sace ne n’i tent,
+Mais de lor gret sonent si douchement
+K’ainc mais n’oirent nul son tant douchement.
+Kant l'espose ot le miracle tant gent,
+Ens en sen cuer se pensa et reprent
+K’ele n’i fut venue plus sovent.
+PageV01P311
+Et li siergans ki l’aime si forment
+Il cuert au pére, si li dist coiement:
+# |
+"Sire, Dius a recueillit ten paumier.
+Dis et siet an sont passet tot entier;
+Tu le m’as fait sos ten degret waitier,
+Ains une fois ne l' peuc faire baignier,
+N’ains puis n’en ot autre coute au coucier
+Fors une nale et un poi d’estramier;
+Onkes nul jor ne l' seuc tant anuiier
+K’onkes vausist ke une fois manghier.
+Ch’est li Diu siers, bien le t’os aficier,
+Dont chil signor te vuelent emplaidier,
+Ke Dius nos fait par se vois anonchier."
+Ot le li pére, Diu prent a grachiier.
+Tot soef ist dou grant palais plenier,
+Si ke n'i meine siergant ne escuier;
+Devant sen fil s’en vait agenoillier
+Le brief li veut fors dou poing esracier,
+Mais li sains cors ne li vout pas baillier.
+# |
+Es vos le pére dolent et eswaret;
+Laisse sen fil si com il l'a trovet,
+Si remonta sus el palais listet,
+A haute vois lor a sor tos criet:
+"Uns pelerins gist mors sos men degret:
+Dis e siet ans a od nos convierset;
+K’ains nus de nos ne devit se bontet;
+Et tient un brief en sen poing ensieret:
+Jou le vauc prendre, mais il le m’a veet,
+Ke tres bien sai ke mout forment me het
+Et malement en ai viers lui erret.
+Sire apostoles, vien i par te bontet
+Et si me done conseil de veritet."
+# |
+Li apostoles fut mout saintismes hon,
+Si escouta dou pére le raison,
+PageV01P312
+Et des sains angeles entendit l’orison
+Ki portent l'arme a grant porchession:
+Viers le degret s’en corut a bandon,
+Et apries lui tot li autre baron.
+Apielet l’ont, mais ne sévent sen non,
+Et deviers lui cient a orison,
+Et si se misent en grant affliction.
+# |
+A vois escrient li doi empereor:
+"Mierchit, ciers sire, por le toie douchor.
+En ichest siècle nos fait Dius tel honor
+Ke desos lui somes govreneor;
+Mais l’apostole tenomes a signor.
+Lisiés la cartre, sire, por Diu amor,
+Si nous dirés s’honor et se valor."
+# |
+Kant l’apostoles ot le raison oie
+Ke li doi roi ont por lui obeie,
+Devant le saint s’abaisse et humelie:
+Le cartre a prise a se main saintefie;
+Li sains li a douchement consentie;
+Puis le desploie, si veut lire se vie,
+Mais Diu ne plot le fil sainte Marie:
+Fors de ses mains li est esvanuie.
+Et en le sein l’espose en est salie.
+# |
+Chi puet on bien aprendre et escouter
+Ke esposailles font forment a amer:
+Ke a se mére ne vout li cartre aler
+Ne sor sen pére caoir ne ariester,
+Mais sor l’espose le fist Dius ariester,
+Ke cascuns hon doit se femme honorer,
+Aussi les dames lor signor bien warder;
+Et ki ne l' fait trés bien se puet fier
+Dedens infier l’eu estovra aler
+Od les diables tot de fi convierser.
+PageV01P313
+Or fut li cartre sor l’espose ariestée,
+A l’apostole en est a tote alée:
+"Sire," dist ele, "jou sui mout eswarée."
+"Biele," dist il, "a bien fussiés vos née.
+Toie est li cartre, Jesus le t’a donée
+Et li cors sains ki le t'a presentée.
+Or le fai lire, car a toi est alée:
+Cui ke toi plait doit iestre délivrée."
+Ele eswarda les clers de le contrée:
+Un cardonal a le cartre livrée
+Ki tos jors ot sainte vie menée.
+Chis list le cartre et chil l’ont escoutée:
+D'ichele gemme ke iluec ont trovée
+Lor a le non et le vie contée,
+Et le sien pére et se mére nomée
+Et le puchiele ke il out esposée;
+Et le moitiet de l’aniel ont trovée
+Ens en le cartre tres bien envolepée,
+Dont le moitiet li ot recomandée;
+On li demande, ele l’a aportée;
+L’une part a a l’autre rajostée.
+Et nostre sire l’a tres bien rasoudée.
+Iluekes ot tante vois escriée,
+Et tante barbe desacie et tirée:
+Ains puis ke Rome fut premiers estorée
+N’i ot, jou cuit, si grant dolor menée.
+Kant ses ciers pére ot le brief et entent
+Ke ch'est ses fius ki la gist si forment,
+Si grant duel a a poi d’ire ne fent:
+"Fius Alexis, hui me fais si dolent!
+Ke ja mais n’ierc un sol jor sans torment."
+# |
+Chou dist li pére: "Ai, fius Alexis,
+Encore hui main atendoit chis caitis
+Ke tu deusses a moi repairier vis
+PageV01P314
+Et conforter les tiens dolens amis.
+Mout m’esmerveil ou tu chel cuer presis:
+Ains une fois siervir ne te fesis."
+# |
+A haute vois a li pére escriet:
+"mout male warde t’ai fait sos men degret.
+Dolens peciéres, con eue le sens diervet,
+Ke de tant jor n’ai men fil revisdet!
+# |
+"Fius Alexis, con doleros messaige!
+A kel torment as uset ten eaige!
+Comment eus si vil ten grant paraige
+Et ten espose et ten rice barnaige,
+Ke tant jor as chi giut a tel hontaige?
+Tel duel me fais a poi ke vis n’esraige.
+# |
+"Fius, ki tenra mes larges hiretés
+Et mes alues et mes grans fermetés
+Et les palais dont jou avoie assés?
+Por toie amor m’en estoie penés,
+K’apries me mort en fusses hiretés."
+# |
+Kant li mére a le dolor entendue,
+Par mi le priesse est a sen fil corue,
+Et voit gesir se car trestote nue
+Mout povrement sor le nate velue,
+Par mi le cors fust pasmee keue
+Kant li signor l’ont entre iaus recheue.
+# |
+Li france femme se traveille et demente:
+"Fius Alexis, mout m'as faite dolente.
+Comment eus si trés vil te jovente?
+Ja sui jou ore de chités si manente
+Bien t’en fesisse doner soissante ou trente.
+# |
+"Dius," dist li mére, "con pesant aventure!
+Mout m’esmerveil ke li miens cors tant dure.
+Ke il ne rnuert de duel et de rancure,
+PageV01P315
+Ke chi voi morte tote me porteure:
+Ja mais n’arai chiertes du vivre cure."
+# |
+Par mi le priesse estes vos le puchiele
+Ses crins sacant et batant se forchiele,
+Et si se claime et cailive et mesiele:
+Par mi le priesse fust pasmee li biele,
+Kant l’apostoles le retient et apiele,
+# |
+L’espose crie cou femme forsenee:
+"Frére Alexis, con longhe demoree
+T’ai atendut en le cambre chelee,
+Kant me laissastes dolente et eswaree !
+# |
+"Sire Alexis, tant jor t’ai awardet
+Et tantes larmes por le tien cors ploret!
+Se te seuisse chaiens sos le degret
+Ou tu as giut de si longhe enfretet,
+Jou ne l' laissasse por trestot chest regnet
+K’ensemble od toi n’eusse convierset."
+# |
+Dist li puchiele: "Gentius cors prechios,
+Ou trouvas tu chel cuer si mervillos
+Ke me veis dedevant toi tans jors
+Por le tien cors mener si grans dolors,
+K’ainc ne t'en prist ne pitiés ne douchors?
+# |
+10"Or par sui, sire, keue en veveet:
+Ja mais n’arai chiertes autre esposet;
+Ains siervirai le roi de maistet,
+K’en l’autre siècle en le vraie clartet
+Puissent nos armes avoir sochietet."
+# |
+Mout le regrete chil ki lui engenra,
+Aussi li mére ki a fil le porta,
+Et li puchiele ki tant forment l’ama:
+Ains puis chel jor k'il sole le laissa
+A nes un home dou siécle ne parla.
+PageV01P316
+Endementiers que chil troi le crièrent,
+Li apostoles et li doi roi ki érent
+Mout bielement le Diu sierf atornérent:
+Goiant tos chiaus ki aluec habitérent
+Et ki le jor de bon cuer l’honorérent.
+# |
+Dist l’apostoles: "Signor, car esploitomes:
+Chou est folie ke nos tel duel menomes
+Dont en avant si grant goie atendomes.
+Levés vos sus et si nos en alomes
+Truesk’ el mostier, ke mais n’i sejornomes."
+# |
+Atant le prendent, si ont laissiet le crit;
+Cantant l'en portent et plorant et marit,
+Et si li proient k’il ait d’iaus tos mierchit.
+N’estuet semonre chiaus ki l’orent oit:
+Tuit i acuerent nes li enfant petit.
+# |
+...Ne dus ne rois ne set kel part aler.....
+# |
+Dist l’apostoles: "mout somes encombret.
+Por chest cors saint ke Dius nos a mostret
+Liés est li pueles ki tant l’ont desiret;
+Si ’n i vient tant, se ne sont retornet
+Ja en seromes esteint et afolet."
+# |
+Entre iaus ont pris un hastiu parlement:
+De lor tresor prendent l'or et l'argent.
+Si l’ont gietet devant le povre gent.
+Par ichou cuident venir a sauvement;
+Ke lor ajue? il n’en vuelent nient:
+A chest cors saint ont trestot lor talent.
+# |
+A une vois crient li gent menue:
+"De chest avoir, saciés. n’avon nos cure.
+Fors chel cors saint ne quierons cose nule.
+Car par chestui n'arons cose ki nuise.
+PageV01P317
+Dius, quel grant goie nos est ore venue!
+Onkes a Rome nen ot tele veue."
+# |
+...Tel goie meinent n’est nus ki le vos die...
+# |
+...Ne nus liepros ne malades ne sors
+Ne nus enfers ne nus palasinos
+N’i est alés ki ’n portast ses langors...
+# |
+Aukant i vont, aukant s'i font porter:
+Ki plorant vint cantant s’en est alés
+N’i a enfer de si grant enfertet
+S’il vient a lui ki n’en porte santet.
+# |
+Sains Bonifaches, que on martir apiele,
+Il ot a Rome une eglise mout biele:
+Iluec enfueent saint Alexis li priestre;
+Mout gentement l’ont poset en le tiere,
+# |
+Vait s’ent li pueles; et li pére et li mére
+Et li puchiele onkes ne desevrérent.....
+# |
+Con bones uevres, Dius, et con bon sierviche
+A chius cors sains menet en cheste vie!
+Con buer fut nés ki fait le Diu serviche!
+# |
+Signor, aiés che saint en grant memore;
+Si li proiés por Diu ke vos assoille
+Et en chest siecle nos amoneste goie,
+Et en chel autre de paradis le glore.
+# |
+Et de chelui ki le vie en escrist
+Devés proiier ke Dius en ait merchit.
+Et le siue arme meche en saint paradis;
+Aussi les nostres et de tos nos amis,
+Par le proiiére le boin saint Alexis.
+§Chi define li romans de saint Alesin.
