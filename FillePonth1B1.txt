@@ -1,8 +1,7 @@
 ﻿LA FILLE DU COMTE DE PONTIEU
 VERSION DU XIIIe SIÈCLE
-
-VersionXIIIp001
-1.	folio 205
+PAGEV01P000
+FOLIO205
 Al tans passé ot .j. conte en Pontiu.
 Molt ama le siecle. En ce meïsme tans enclina Saint Pol
 ; n’avoit nul oir de se car, mais il avoit une sereur
