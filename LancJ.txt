@@ -29,6 +29,8 @@
 #META#  OclcID          ::
 #META#  WebAuthor       :: fr.wikisource.org
 #META#  ORCIDWebAuthor  ::
+#META#  WebReviewer     :: 
+#META#  ORCIDReviewer   :: 
 #META#  MiscInfo        :: 
 
 
