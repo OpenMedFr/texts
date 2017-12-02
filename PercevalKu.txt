@@ -29,6 +29,8 @@
 #META#  OclcID          ::
 #META#  WebAuthor       :: Pierre Kunstman
 #META#  ORCIDWebAuthor  ::
+#META#  WebReviewer     :: 
+#META#  ORCIDReviewer   :: 
 #META#  MiscInfo        :: Folio and page numbers need reformatting
 
 (361a.1)
