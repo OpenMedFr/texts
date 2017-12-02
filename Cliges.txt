@@ -29,6 +29,8 @@
 #META#  OclcID          ::
 #META#  WebAuthor       ::
 #META#  ORCIDWebAuthor  ::
+#META#  WebReviewer     :: 
+#META#  ORCIDReviewer   :: 
 #META#  MiscInfo        :: unknown edition, colons, semicolons, quotation need normalizing
 
 Cil qui fist d'Erec et d'Enide,
