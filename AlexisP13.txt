@@ -30,7 +30,7 @@
 #META#  OclcID          :: 67605175
 #META#  WebAuthor       :: David Joseph Wrisley
 #META#  ORCIDWebAuthor  :: orcid.org/0000-0002-0355-1487
-#META#  WebReviwer      :: 
+#META#  WebReviewer      :: 
 #META#  ORCIDReviewer   :: 
 #META#  MiscInfo        :: the thirteenth century version in this volume
 #META#  CCLicense       :: CC BY-NC-SA 4.0 International
