@@ -1,13 +1,13 @@
 #META#  TextURI         :: Yvain
 #META#  DEAF            :: nodata
 #META#  TL              ::
-#META#  FEW        		  ::
+#META#  FEW        		::
 #META#  ARLIMA          :: https://www.arlima.net/ad/chretien_de_troyes.html#lio
 #META#  Author          :: Chrétien de Troyes
 #META#  AuthorBorn      ::
 #META#  AuthorDied      ::
 #META#  TextTitle       :: Yvain
-#META#  TextSubtitle	  :: Le Chevalier au Lion
+#META#  TextSubtitle	:: Le Chevalier au Lion
 #META#  TextVols        ::
 #META#  TextSubj        :: romance
 #META#  TextDescARL     :: vers octosyllabiques à rimes plates
@@ -29,8 +29,8 @@
 #META#  OclcID          ::
 #META#  WebAuthor       ::
 #META#  ORCIDWebAuthor  ::
-#META#  WebReviewer     :: 
-#META#  ORCIDReviewer   :: 
+#META#  WebReviewer     ::
+#META#  ORCIDReviewer   ::
 #META#  MiscInfo        :: unknown edition, page/folio need correction
 
 61a.1
