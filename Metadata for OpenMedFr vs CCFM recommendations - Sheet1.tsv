@@ -1,0 +1,55 @@
+	OpenMedFr term	Sample	CCFM recommendation	Note
+#META#	TextURI	AlexisOctP	Titre	We have chosen the unique ID to be the DEAF code, unless it is non-existant, in which case we have generated one like it in CamelCase.  We do not use super and subscripts.
+#META#	DEAF	http://www.deaf-page.de/fr/bibl/bib99a.php#AlexisOctP		We have listed the sub section URL for the entry, when available in DEAF
+#META#	TL	SAlex. R		Code from Tobler-Lommatzsch
+#META#	FEW			
+#META#	ARLIMA	https://www.arlima.net/no/114		We have listed the persistent URL from ARLIMA
+#META#	Author			Auteur
+#META#	AuthorBorn			
+#META#	AuthorBornAmb			
+#META#	AuthorDied			
+#META#	AuthorDiedAmb			
+#META#	AuthorFl1			
+#META#	AuthorFl2			
+#META#	TextTitle	La vie de saint Alexi en vers octosyllabiques		
+#META#	TextSubtitle			
+#META#	TextVols	1		
+#META#	TextSubj	hagiography	Genre	
+#META#	TextDom		Domaine	
+#META#	Translation		Relation	
+#META#	Collection		Relation	
+#META#	CollectionNo		Relation	
+#META#	TextDescARL	vers octosyllabiques à rimes plates	Type de vers / structure interne	
+#META#	TextDescVers	8		
+#META#	TextDateARL	début du XIIIe siècle	Date du composition 	We have given the ARLIMA date written out
+#META#	TextDateAdj	d13		To facilitate computational translation of dates we have adjusted TextDateARL
+#META#	TextDateMin			
+#META#	TextDateMax			
+#META#	EdEditor	Paris, Gaston	Editeur scientifique	
+#META#	EdPlace	Paris	Editeur commercial	
+#META#	EdPublisher	Romania	Editeur commercial	
+#META#	EdVol	8:30		
+#META#	EdYear	1879	Editeur commercial	
+#META#	EdPages	163-180		For page to page alignment with pdfs
+#META#	MsBase	BnF fr 25408	Identification du manuscrit	From Arlima
+#META#	MsOther			From Arlima
+#META#	MsNum	1		From Arlima
+#META#	MsDateARL			Same as TextDateARL
+#META#	MsDateAdj			Same as TextDateAdj
+#META#	Form		Forme	
+#META#	Complete		Texte intégral/partiel	
+#META#	NoWords		Nombre de mots	
+#META#	NoLines			
+#META#	DialAuth		Dialecte de l'auteur	
+#META#	DialScribe		Dialect du scribe	
+#META#	ScanURL	http://www.persee.fr/doc/roma_0035-8029_1879_num_8_30_6463	Source de la numérisation	
+#META#	ScanURIOther			
+#META#	ArkID			
+#META#	LccnID			
+#META#	OclcID			
+#META#	WebAuthor	David Joseph Wrisley		Attribution of the one preparing and publishing the open plain text version
+#META#	ORCIDWebAuthor	orcid.org/0000-0002-0355-1487		
+#META#	WebReviewer			Attribution of the correction
+#META#	ORCIDReviewer			
+#META#	MiscInfo		Autre	
+#META#	CCLicense	CC BY-NC-SA 4.0 International		Explicit license in line with the source text
