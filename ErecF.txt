@@ -1,37 +1,58 @@
 #META#  TextURI         :: ErecF
 #META#  DEAF            :: http://www.deaf-page.de/fr/bibl/bib99e.php#ErecF
 #META#  TL              :: Erec
-#META#  FEW        		::
+#META#  FEW
 #META#  ARLIMA          :: https://www.arlima.net/ad/chretien_de_troyes.html#ere
-#META#  Author          ::
-#META#  AuthorBorn      ::
-#META#  AuthorDied      ::
+#META#  Author          :: Chrétien de Troyes
+#META#  AuthorBorn      :: 1130
+#META#	AuthorBornAmb   :: c
+#META#  AuthorDied      :: 1180
+#META#	AuthorDiedAmb   :: a
+#META#	AuthorFl1
+#META#	AuthorFl2
 #META#  TextTitle       :: Eric et Enide
-#META#  TextSubtitle	::
-#META#  TextVols        ::
+#META#  TextSubtitle	
+#META#  TextVols        
 #META#  TextSubj        :: romance
+#META#	TextDom         :: lit
+#META#	Translation     :: false
+#META#	Collection
+#META#	CollectionNo
 #META#  TextDescARL     :: vers octosyllabiques à rimes plates
 #META#  TextDescVers    :: 8
 #META#  TextDateARL     :: 1170
-#META#  TextDateAdj     ::
+#META#  TextDateAdj     :: 1170
+#META#	TextDateMin
+#META#	TextDateMax
 #META#  EdEditor        :: Foerster, Wendelin
 #META#  EdPlace         :: Halle
 #META#  EdPublisher     :: Niemeyer
+#META#	EdVol
 #META#  EdYear          :: 1909
-#META#  EdPages         ::
+#META#  EdPages         
 #META#  MsBase          :: H[P8]
-#META#  MsOther         ::
+#META#  MsOther         
 #META#  MsNum           :: 13
+#META#	MsDateARL
+#META#	MsDateAdj
+#META#	Form            :: v
+#META#	Complete        :: true
+#META#	NoWords         :: 39059
+#META#	NoLines         :: 6956
+#META#	DialAuth
+#META#	DialScribe
 #META#  ScanURL         :: https://fr.wikisource.org/wiki/%C3%89rec_et_%C3%89nide
-#META#  ScanURIOther	::
-#META#  ArkID           ::
-#META#  LccnID          ::
-#META#  OclcID          ::
+#META#  ScanURIOther	
+#META#  ArkID           
+#META#  LccnID          
+#META#  OclcID          
 #META#  WebAuthor       :: fr.wikisource.org
-#META#  ORCIDWebAuthor  ::
-#META#  WebReviewer     :: 
-#META#  ORCIDReviewer   :: 
+#META#  ORCIDWebAuthor  
+#META#  WebReviewer     
+#META#  ORCIDReviewer    
 #META#  MiscInfo        :: missing page and folio numbers
+#META#	CCLicense	      :: CC BY-NC-SA 4.0 International
+
 
 LI vilains dit an son respit
 Que tel chose a l'an an despit,
@@ -6990,4 +7011,4 @@ Chevaus et armes et arjant,
 Dras et pailes de mainte guise,
 Por ce qu'il est de grant franchise
 Et por Erec qu'il ama tant.
-Li contes fine ci a tant.
+§Li contes fine ci a tant.
