@@ -1,38 +1,56 @@
 #META#  TextURI         :: OmbreB2
 #META#  DEAF            :: http://www.deaf-page.de/fr/bibl/bib99o.php#OmbreB2
 #META#  TL              :: Ombre2
-#META#  FEW        		::
+#META#  FEW        		
 #META#  ARLIMA          :: https://www.arlima.net/no/234
 #META#  Author          :: Jean Renart
-#META#  AuthorBorn      :: nodata
-#META#  AuthorDied      :: nodata
+#META#  AuthorBorn
+#META#	AuthorBornAmb
+#META#  AuthorDied
+#META#	AuthorDiedAmb
+#META#	AuthorFl1
+#META#	AuthorFl2
 #META#  TextTitle       :: Le lai de l'Ombre
-#META#  TextSubtitle  	::
+#META#  TextSubtitle  	
 #META#  TextVols        :: 1
-#META#  TextSubj        :: lai
-#META#  TextDescARL     ::
+#META#  TextSubj        :: short
+#META#	TextDom         :: lit
+#META#	Translation     :: false
+#META#	Collection
+#META#	CollectionNo
+#META#  TextDescARL     
 #META#  TextDescVers    :: 8
 #META#  TextDateARL     :: début du XIIIe siècle
 #META#  TextDateAdj     :: d13
+#META#	TextDateMin
+#META#	TextDateMax
 #META#  EdEditor        :: Bédier, Joseph
 #META#  EdPlace         :: Paris
 #META#  EdPublisher     :: Firmin-Didot
-#META#  EdVol           ::
+#META#  EdVol           
 #META#  EdYear          :: 1913
 #META#  EdPages         :: 1-50
 #META#  MsBase          :: BN fr. 837
 #META#  MsOther         :: B, C, D, E, F, G
 #META#  MsNum           :: 7
+#META#	MsDateARL
+#META#	MsDateAdj
+#META#	Form            :: v
+#META#	Complete        :: true
+#META#	NoWords         
+#META#	NoLines
+#META#	DialAuth
+#META#	DialScribe
 #META#  ScanURL         :: https://archive.org/details/lelaidelombre00jeanuoft
-#META#  ScanURIOther  	::
+#META#  ScanURIOther  	
 #META#  ArkID           :: ark:/13960/t04x5hv90
-#META#  LccnID          ::
-#META#  OclcID          ::
+#META#  LccnID          
+#META#  OclcID          
 #META#  WebAuthor       :: Yero Niamadio
-#META#  ORCIDWebAuthor  ::
-#META#  WebReviwer      :: David Joseph Wrisley
+#META#  ORCIDWebAuthor  
+#META#  WebReviewer      :: David Joseph Wrisley
 #META#  ORCIDReviewer   :: orcid.org/0000-0002-0355-1487
-#META#  MiscInfo        ::
+#META#  MiscInfo        
 #META#  CCLicense       :: CC BY-NC-SA 4.0 International
 
 
