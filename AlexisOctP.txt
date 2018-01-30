@@ -3,17 +3,27 @@
 #META#  TL              :: SAlex. R
 #META#  FEW        		  ::
 #META#  ARLIMA          :: https://www.arlima.net/no/114
-#META#  Author          :: nodata
-#META#  AuthorBorn      :: nodata
-#META#  AuthorDied      :: nodata
+#META#  Author          :: 
+#META#  AuthorBorn      :: 
+#META#	AuthorBornAmb	  ::
+#META#  AuthorDied      ::
+#META#	AuthorDiedAmb	  ::
+#META#	AuthorFl1	      ::
+#META#	AuthorFl2	      ::
 #META#  TextTitle       :: La vie de saint Alexi en vers octosyllabiques
 #META#  TextSubtitle  	::
 #META#  TextVols        :: 1
 #META#  TextSubj        :: hagiography
+#META#	TextDom	        ::
+#META#	Translation	    ::
+#META#	Collection	    ::
+#META#	CollectionNo	  ::
 #META#  TextDescARL     :: vers octosyllabiques à rimes plates
 #META#  TextDescVers    :: 8
 #META#  TextDateARL     :: début du XIIIe siècle
 #META#  TextDateAdj     :: d13
+#META#	TextDateMin	    ::
+#META#	TextDateMax	    ::
 #META#  EdEditor        :: Paris, Gaston
 #META#  EdPlace         :: Paris
 #META#  EdPublisher     :: Romania
@@ -23,6 +33,14 @@
 #META#  MsBase          :: BnF fr 25408
 #META#  MsOther         ::
 #META#  MsNum           :: 1
+#META#	MsDateARL	      ::
+#META#	MsDateAdj	      ::
+#META#	Form	          :: v
+#META#	Complete  	    :: true
+#META#	NoWords	        :: 5461
+#META#	NoLines	        :: 964
+#META#	DialAuth	      ::
+#META#	DialScribe	    ::
 #META#  ScanURL         :: http://www.persee.fr/doc/roma_0035-8029_1879_num_8_30_6463
 #META#  ScanURIOther  	::
 #META#  ArkID           ::
