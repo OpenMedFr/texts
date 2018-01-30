@@ -1,38 +1,56 @@
-﻿#META#  TextURI         :: AlexisPRI
+#META#  TextURI         :: AlexisPRI
 #META#  DEAF            :: http://www.deaf-page.de/fr/bibl/bib99a.php#AlexisP
-#META#  TL              ::
-#META#  FEW        		::
+#META#  TL              
+#META#  FEW        		
 #META#  ARLIMA          :: https://www.arlima.net/no/114
-#META#  Author          :: nodata
-#META#  AuthorBorn      :: nodata
-#META#  AuthorDied      :: nodata
+#META#  Author          
+#META#  AuthorBorn      
+#META#	AuthorBornAmb
+#META#  AuthorDied
+#META#	AuthorDiedAmb
+#META#	AuthorFl1
+#META#	AuthorFl2
 #META#  TextTitle       :: Li roumans de saint Alessin
-#META#  TextSubtitle	::
+#META#  TextSubtitle	
 #META#  TextVols        :: 1
 #META#  TextSubj        :: hagiography
+#META#	TextDom
+#META#	Translation
+#META#	Collection
+#META#	CollectionNo
 #META#  TextDescARL     :: laisses de vers décasyllabiques assonancés (rédaction interpolée)
 #META#  TextDescVers    :: 10
 #META#  TextDateARL     :: Fin du XIIe ou du XIIIe siècle
 #META#  TextDateAdj     :: f12, 13
+#META#	TextDateMin
+#META#	TextDateMax
 #META#  EdEditor        :: Paris, Gaston; Pannier, Léopold
 #META#  EdPlace         :: Paris
 #META#  EdPublisher     :: F. Vieweg
-#META#  EdVol           ::
+#META#  EdVol           
 #META#  EdYear          :: 1887
 #META#  EdPages         :: 222-262
 #META#  MsBase          :: S
-#META#  MsOther         ::
+#META#  MsOther         
 #META#  MsNum           :: 1
+#META#	MsDateARL
+#META#	MsDateAdj
+#META#	Form
+#META#	Complete
+#META#	NoWords
+#META#	NoLines
+#META#	DialAuth
+#META#	DialScribe
 #META#  ScanURL         :: https://archive.org/details/laviedesaintale03alexgoog
-#META#  ScanURIOther	::
+#META#  ScanURIOther	
 #META#  ArkID           :: ark:/13960/t1jh3nt8t
 #META#  LccnID          :: 14022514
 #META#  OclcID          :: 67605175
 #META#  WebAuthor       :: David Joseph Wrisley
 #META#  ORCIDWebAuthor  :: orcid.org/0000-0002-0355-1487
-#META#  WebReviewer     :: 
-#META#  ORCIDReviewer   :: 
-#META#  MiscInfo        ::
+#META#  WebReviewer     
+#META#  ORCIDReviewer   
+#META#  MiscInfo        
 #META#  CCLicense       :: CC BY-NC-SA 4.0 International
 
 
