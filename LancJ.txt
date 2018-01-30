@@ -1,38 +1,57 @@
 #META#  TextURI         :: LancJ
-#META#  DEAF            :: nodata
-#META#  TL              ::
-#META#  FEW        		::
+#META#  DEAF            
+#META#  TL              
+#META#  FEW        		
 #META#  ARLIMA          :: https://www.arlima.net/ad/chretien_de_troyes.html#cha
 #META#  Author          :: Chrétien de Troyes
-#META#  AuthorBorn      ::
-#META#  AuthorDied      ::
+#META#  AuthorBorn      :: 1130
+#META#	AuthorBornAmb   :: c
+#META#  AuthorDied      :: 1180
+#META#	AuthorDiedAmb   :: a
+#META#	AuthorFl1
+#META#	AuthorFl2
 #META#  TextTitle       :: Lancelot
-#META#  TextSubtitle	:: Le Chevalier de la Charrette
-#META#  TextVols        ::
+#META#  TextSubtitle	  :: Le Chevalier de la Charrette
+#META#  TextVols        
 #META#  TextSubj        :: romance
+#META#	TextDom         :: lit
+#META#	Translation     :: false
+#META#	Collection
+#META#	CollectionNo
 #META#  TextDescARL     :: vers octosyllabiques à rimes plates
 #META#  TextDescVers    :: 8
 #META#  TextDateARL     :: 1178-1181
-#META#  TextDateAdj     ::
+#META#  TextDateAdj     
+#META#	TextDateMin     :: 1178
+#META#	TextDateMax     :: 1181
 #META#  EdEditor        :: Jonckbloet, W. J. A.
 #META#  EdPlace         :: La Haye
 #META#  EdPublisher     :: Belinfante Frère
+#META#	EdVol
 #META#  EdYear          :: 1850
-#META#  EdPages         ::
+#META#  EdPages         
 #META#  MsBase          :: C
-#META#  MsOther         ::
-#META#  MsNum           ::
+#META#  MsOther         
+#META#  MsNum           
+#META#	MsDateARL
+#META#	MsDateAdj
+#META#	Form            :: v
+#META#	Complete        :: true
+#META#	NoWords         :: 42590
+#META#	NoLines         :: 7148
+#META#	DialAuth
+#META#	DialScribe
 #META#  ScanURL         :: https://fr.wikisource.org/wiki/Lancelot_ou_le_Chevalier_de_la_charrette_(%C3%89dition_Belinfante)
-#META#  ScanURIOther	::
-#META#  ArkID           ::
-#META#  LccnID          ::
-#META#  OclcID          ::
+#META#  ScanURIOther	 
+#META#  ArkID           
+#META#  LccnID          
+#META#  OclcID          
 #META#  WebAuthor       :: fr.wikisource.org
-#META#  ORCIDWebAuthor  ::
-#META#  WebReviewer     :: 
-#META#  ORCIDReviewer   :: 
-#META#  MiscInfo        :: 
-
+#META#  ORCIDWebAuthor  
+#META#  WebReviewer     
+#META#  ORCIDReviewer   
+#META#  MiscInfo        
+#META#	CCLicense
 
 Puis que ma dame de Chanpaigne
 Vialt que romans a feire anpraigne,
@@ -7182,4 +7201,4 @@ Ou Lanceloz fu anmurez,
 Tant con li contes est durez :
 Tant en a fet, n’i vialt plus metre
 Ne moins, por le conte malmetre.
-Ci faut li ROMANS DE LANCELOT DE LA CHARRETE
+§Ci faut li ROMANS DE LANCELOT DE LA CHARRETE
