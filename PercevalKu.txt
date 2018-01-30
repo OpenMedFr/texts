@@ -1,37 +1,58 @@
 #META#  TextURI         :: PercevalKu
 #META#  DEAF            :: nodata
-#META#  TL              ::
-#META#  FEW        		::
+#META#  TL              
+#META#  FEW        		
 #META#  ARLIMA          :: https://www.arlima.net/ad/chretien_de_troyes.html#gra
 #META#  Author          :: Chrétien de Troyes
-#META#  AuthorBorn      ::
-#META#  AuthorDied      ::
+#META#  AuthorBorn 
+#META#	AuthorBornAmb
+#META#  AuthorDied
+#META#	AuthorDiedAmb
+#META#	AuthorFl1
+#META#	AuthorFl2
 #META#  TextTitle       :: Perceval
-#META#  TextSubtitle	:: Le Conte du Graal
-#META#  TextVols        ::
+#META#  TextSubtitle	  :: Le Conte du Graal
+#META#  TextVols        
 #META#  TextSubj        :: romance
+#META#	TextDom         :: lit
+#META#	Translation     :: false
+#META#	Collection
+#META#	CollectionNo
 #META#  TextDescARL     :: vers octosyllabiques à rimes plates
 #META#  TextDescVers    :: 8
 #META#  TextDateARL     :: 1182-1190
-#META#  TextDateAdj     ::
+#META#  TextDateAdj     
+#META#	TextDateMin     :: 1182
+#META#	TextDateMax     :: 1190
 #META#  EdEditor        :: Pierre Kunstman
 #META#  EdPlace         :: Ottawa/Nancy
 #META#  EdPublisher     :: Laboratoire de français ancien, ATILF
+#META#	EdVol
 #META#  EdYear          :: 2009
-#META#  EdPages         ::
-#META#  MsBase          ::
-#META#  MsOther         ::
+#META#  EdPages        
+#META#  MsBase         
+#META#  MsOther         
 #META#  MsNum           :: 17
+#META#	MsDateARL
+#META#	MsDateAdj
+#META#	Form            :: v
+#META#	Complete        :: true
+#META#	NoWords
+#META#	NoLines
+#META#	DialAuth
+#META#	DialScribe
 #META#  ScanURL         :: http://txm.ish-lyon.cnrs.fr/bfm/pdf/PercevalKu.pdf
-#META#  ScanURIOther	::
-#META#  ArkID           ::
-#META#  LccnID          ::
-#META#  OclcID          ::
+#META#  ScanURIOther	
+#META#  ArkID         
+#META#  LccnID          
+#META#  OclcID         
 #META#  WebAuthor       :: Pierre Kunstman
-#META#  ORCIDWebAuthor  ::
-#META#  WebReviewer     :: 
-#META#  ORCIDReviewer   :: 
+#META#  ORCIDWebAuthor  
+#META#  WebReviewer     
+#META#  ORCIDReviewer    
 #META#  MiscInfo        :: Folio and page numbers need reformatting
+#META#	CCLicense
+
 
 (361a.1)
 Qui petit seme petit quialt,
