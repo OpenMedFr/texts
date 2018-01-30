@@ -1,37 +1,58 @@
 #META#  TextURI         :: Yvain
-#META#  DEAF            :: nodata
-#META#  TL              ::
-#META#  FEW        		::
+#META#  DEAF            
+#META#  TL              
+#META#  FEW        		
 #META#  ARLIMA          :: https://www.arlima.net/ad/chretien_de_troyes.html#lio
 #META#  Author          :: Chrétien de Troyes
-#META#  AuthorBorn      ::
-#META#  AuthorDied      ::
+#META#  AuthorBorn
+#META#	AuthorBornAmb
+#META#  AuthorDied
+#META#	AuthorDiedAmb
+#META#	AuthorFl1
+#META#	AuthorFl2
 #META#  TextTitle       :: Yvain
-#META#  TextSubtitle	:: Le Chevalier au Lion
-#META#  TextVols        ::
+#META#  TextSubtitle	  :: Le Chevalier au Lion
+#META#  TextVols        
 #META#  TextSubj        :: romance
+#META#	TextDom         :: lit
+#META#	Translation     :: false
+#META#	Collection
+#META#	CollectionNo
 #META#  TextDescARL     :: vers octosyllabiques à rimes plates
 #META#  TextDescVers    :: 8
 #META#  TextDateARL     :: 1178-1181
-#META#  TextDateAdj     ::
-#META#  EdEditor        ::
-#META#  EdPlace         ::
-#META#  EdPublisher     ::
-#META#  EdYear          ::
-#META#  EdPages         ::
-#META#  MsBase          ::
-#META#  MsOther         ::
-#META#  MsNum           ::
+#META#  TextDateAdj     
+#META#	TextDateMin     :: 1178
+#META#	TextDateMax     :: 1181
+#META#  EdEditor        
+#META#  EdPlace         
+#META#  EdPublisher 
+#META#	EdVol
+#META#  EdYear          
+#META#  EdPages         
+#META#  MsBase          
+#META#  MsOther         
+#META#  MsNum
+#META#	MsDateARL
+#META#	MsDateAdj
+#META#	Form
+#META#	Complete
+#META#	NoWords
+#META#	NoLines
+#META#	DialAuth
+#META#	DialScribe
 #META#  ScanURL         :: https://fr.wikisource.org/wiki/Yvain_ou_le_Chevalier_au_Lion
-#META#  ScanURIOther	  ::
-#META#  ArkID           ::
-#META#  LccnID          ::
-#META#  OclcID          ::
-#META#  WebAuthor       ::
-#META#  ORCIDWebAuthor  ::
-#META#  WebReviewer     ::
-#META#  ORCIDReviewer   ::
+#META#  ScanURIOther	  
+#META#  ArkID           
+#META#  LccnID          
+#META#  OclcID          
+#META#  WebAuthor       
+#META#  ORCIDWebAuthor  
+#META#  WebReviewer     
+#META#  ORCIDReviewer   
 #META#  MiscInfo        :: unknown edition, page/folio need correction
+#META#	CCLicense
+
 
 61a.1
 Li boins roys Artus de Bretaigne,
@@ -58,9 +79,6 @@ Car chil qui soloient amer
 Se faisoient courtois clamer,
 Que preu et largue et honnorable;
 Mais or est tout tourné a fable,
-
-
-
 61b.25
 Car tiex y a qui riens n'en sentent,
 Dïent qu'il ayment et si mentent,
@@ -7686,4 +7704,4 @@ Chertains soient ronmancheour,
 C'onques plus conter en nul jour
 N'en oÿrent ne ja n'orront
 Se menchonnes trouver n'i vont.
-Explicit Yvag Explicit
+§Explicit Yvag Explicit
