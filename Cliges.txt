@@ -1,37 +1,56 @@
 #META#  TextURI         :: Cliges
 #META#  DEAF            :: nodata
-#META#  TL              ::
-#META#  FEW        	  	::
+#META#  TL              
+#META#  FEW        	  	
 #META#  ARLIMA          :: https://www.arlima.net/ad/chretien_de_troyes.html#cli
 #META#  Author          :: Chrétien de Troyes
-#META#  AuthorBorn      ::
-#META#  AuthorDied      ::
+#META#  AuthorBorn
+#META#	AuthorBornAmb
+#META#  AuthorDied
+#META#	AuthorDiedAmb
+#META#	AuthorFl1
+#META#	AuthorFl2
 #META#  TextTitle       :: Cligès
-#META#  TextSubtitle	::
-#META#  TextVols        ::
+#META#  TextSubtitle	
+#META#  TextVols        
 #META#  TextSubj        :: romance
+#META#	TextDom
+#META#	Translation
+#META#	Collection
+#META#	CollectionNo
 #META#  TextDescARL     :: vers octosyllabiques à rimes plates
 #META#  TextDescVers    :: 8
 #META#  TextDateARL     :: 1176
-#META#  TextDateAdj     ::
-#META#  EdEditor        ::
-#META#  EdPlace         ::
-#META#  EdPublisher     ::
-#META#  EdYear          ::
-#META#  EdPages         ::
-#META#  MsBase          ::
-#META#  MsOther         ::
-#META#  MsNum           ::
+#META#  TextDateAdj
+#META#	TextDateMin
+#META#	TextDateMax
+#META#  EdEditor        
+#META#  EdPlace         
+#META#  EdPublisher     
+#META#  EdYear          
+#META#  EdPages         
+#META#  MsBase          
+#META#  MsOther         
+#META#  MsNum
+#META#	MsDateARL
+#META#	MsDateAdj
+#META#	Form
+#META#	Complete
+#META#	NoWords
+#META#	NoLines
+#META#	DialAuth
+#META#	DialScribe
 #META#  ScanURL         :: https://fr.wikisource.org/wiki/Clig%C3%A8s
-#META#  ScanURIOther	::
-#META#  ArkID           ::
-#META#  LccnID          ::
-#META#  OclcID          ::
-#META#  WebAuthor       ::
-#META#  ORCIDWebAuthor  ::
-#META#  WebReviewer     :: 
-#META#  ORCIDReviewer   :: 
+#META#  ScanURIOther	
+#META#  ArkID           
+#META#  LccnID          
+#META#  OclcID          
+#META#  WebAuthor       
+#META#  ORCIDWebAuthor  
+#META#  WebReviewer      
+#META#  ORCIDReviewer    
 #META#  MiscInfo        :: unknown edition, colons, semicolons, quotation need normalizing
+
 
 Cil qui fist d'Erec et d'Enide,
 Et les comandemanz d'Ovide
@@ -424,7 +443,6 @@ Et as autres par un et un.
 Mout se fet amer a chascun,
 Nes messire Gauvains tant l'aimme
 Qu'ami et conpaignon le claimme.
-
 En la vile chiés .i. borjois
 Orent pris ostel li Grezois,
 Le meillor qu'il porent avoir.
@@ -513,7 +531,6 @@ Et po me devroie prisier,
 Se nes pooie justisier
 Et feire autre part esgarder.
 Einsi me porrai bien garder
-
 D'Amor, qui justisier me vialt,
 Car cui ialz ne voit cuers ne dialt ;
 Se je nel voi, rien ne m'an iert.
@@ -6697,4 +6714,4 @@ Ne ja avoec li n'avra masle
 Qui ne soit chastrez en anfance.
 De ce n'est criemme ne dotance
 Qu'Amors les lit an son lien.
-Ci fenist l'uevre Crestien.
+§Ci fenist l'uevre Crestien.
