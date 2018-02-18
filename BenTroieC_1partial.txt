@@ -1,0 +1,3178 @@
+#META#  TextURI         :: BenTroieC
+#META#  DEAF            :: http://www.deaf-page.de/bibl/bib99b.php#BenTroieC
+#META#  TL              :: Troie
+#META#  FEW             :: BenSMaure
+#META#  ARLIMA          :: https://www.arlima.net/ad/benoit_de_sainte-maure.html#tro
+#META#  Author          :: Benoît de Saint-Maure
+#META#  AuthorBorn
+#META#	AuthorBornAmb
+#META#  AuthorDied
+#META#	AuthorDiedAmb
+#META#	AuthorFl1
+#META#	AuthorFl2
+#META#  TextTitle       :: Roman de Troie
+#META#  TextSubtitle
+#META#  TextVols        :: 1
+#META#  TextSubj        :: romance
+#META#	TextDom         :: lit
+#META#	Translation     :: true
+#META#	Collection      :: SATF
+#META#	CollectionNo
+#META#  TextDescARL     :: vers octosyllabiques à rimes plates
+#META#  TextDescVers    :: 8
+#META#  TextDateARL     :: 1165
+#META#  TextDateAdj     :: 1165
+#META#	TextDateMin
+#META#	TextDateMax
+#META#  EdEditor        :: Constans, L.
+#META#  EdPlace         :: Paris
+#META#  EdPublisher     :: Didot
+#META#	EdVol
+#META#  EdYear          :: 1904
+#META#  EdPages
+#META#  MsBase
+#META#  MsOther
+#META#  MsNum           :: 58
+#META#	MsDateARL
+#META#	MsDateAdj
+#META#	Form            :: v
+#META#	Complete        :: partial
+#META#	NoWords
+#META#	NoLines
+#META#	DialAuth
+#META#	DialScribe
+#META#  ScanURL         :: http://gallica.bnf.fr/ark:/12148/bpt6k5094q?rk=128756;0
+#META#  ScanURIOther
+#META#  ArkID
+#META#  LccnID
+#META#  OclcID
+#META#  WebAuthor       :: Marielle Del Carmen Caballero Ng
+#META#  ORCIDWebAuthor
+#META#  WebReviewer     ::
+#META#  ORCIDReviewer   ::
+#META#  MiscInfo        ::
+#META#	CCLicense	    :: CC BY-NC-SA 4.0 International
+
+
+PageV01P001
+# | PROLOGUE
+Salemon nos enseigne e dit,
+E sil list om en son escrit,
+Que nus ne deit son sen celer,
+Ainz le deit om si demostrer
+Que l'om i ait pro e honor,
+Qu'ensi firent li ancessor.
+Se cil qui troverent les parz
+E les granz livres des set arz,
+PageV01P002
+Des philosophes les traitiez,
+Dont toz li monz est enseigniez,
+Se fussent teü, veirement
+Vesquist li siegles folement :
+Come bestes eüssons vie ;
+Que fust saveirs ne que folie
+Ne seüssons sol esguarder,
+Ne l'un de l'autre desevrer.
+Remembré seront a toz tens
+E coneü par lor granz sens,
+Quar sciënce que est teüe
+Est tost obliëe e perdue.
+Qui set e n'enseigne o ne dit
+Ne puet muër ne s'entroblit;
+E sciënce qu'est bien oïe
+Germe e florist e frutefie.
+Qui vueut saveir e qui entent,
+Sacheiz de mieuz l'en est sovent.
+PageV01P003
+De bien ne puet nus trop oïr
+Ne trop saveir ne retenir ;
+Ne nus ne se deit atargier
+De bien faire ne d’enseignier ;
+E qui plus set, e plus deit faire :
+De ço ne se deit nus retraire.
+E por ço me vueil travaillier
+En une estoire comencier,
+Que de latin, ou jo la truis,
+Se j’ai le sen e se jo puis,
+La voudrai si en romanz metre
+Que cil qui n’entendent la letre
+Se puissent deduire el romanz :
+Mout est l'estoire riche e granz
+E de grant uevre et de grant fait.
+En maint sen avra l'om retrait,
+Saveir com Troie fu perie,
+Mais la verté est poi oïe.
+Omers, qui fu clers merveillos
+E sages e esciëntos,
+PageV01P004
+Escrist de la destrucion,
+Del grant siege e de l'acheison
+Por quei Troie fu desertee,
+Que onc puis ne fu rabitee.
+Mais ne dist pas sis livres veir,
+Quar bien savons senz nul espeir
+Qu'il ne fu puis de cent anz nez
+Que li granz oz fu assemblez :
+N’est merveille s’il i faillit,
+Quar onc n'i fu ne rien n’en vit.
+Quant il en ot son livre fait
+E a Athenes l’ot retrait,
+Si ot estrange contençon :
+Dampner le voustrent par reison,
+Por ço qu’ot fait les damedeus
+Combatre o les homes charneus.
+PageV01P005
+Tenu li fu a desverie
+E a merveillose folie
+Que les deus come homes humains
+Faiseit combatre as Troïains,
+E les deuesses ensement
+Faiseit combatre avuec la gent;
+E quant son livre reciterent,
+Plusor por ço le refuserent.
+Mais tant fu Omers de grant pris
+E tant fist puis, si com jo truis,
+Que sis livres fu receüz
+E en autorité tenuz.
+Àprès lonc tens que ç'ot esté,
+Que Rome ot ja piece duré,
+El tens Saluste le vaillant,
+Que l'on teneit si a poissant,
+A riche, a pro de haut parage
+PageV01P006
+E a clerc merveillos e sage,
+Cil Salustes, ço truis lisant,
+Ot un nevo fortment sachant :
+Cornelius ert apelez,
+De letres sages e fondez.
+De lui esteit mout grant parole :
+A Athenes teneit escole,
+Un jor quereit en un aumaire
+Por traire livres de gramaire :
+Tant i a quis e reversé
+Qu’entre les autres a trové
+L’estoire que Daire ot escrite,
+En greque langue faite e dite,
+Icist Daires dont ci oëz
+Fu de Troie norriz e nez ;
+Dedenz esteit, onc n'en eissi
+Desci que l'oz s’en departi;
+Mainte proëce i fist de sei
+E a asaut e a tornei.
+PageV01P007
+En lui aveit clerc merveillos
+E des set arz esciëntos :
+Por ço qu'il vit si grant l'afaire
+Que ainz ne puis ne fu nus maire,
+Si voust les faiz metre en memoire :
+En grezeis en escrist l'estoire.
+Chascun jor ensi l'escriveit
+Come il o ses ieuz le veeit.
+Tot quant qu'il faiseient le jor
+O en bataille o en estor,
+Tot escriveit la nuit après
+Icist que je vos di Darès :
+Onc por amor ne s'en voust taire
+De la verté dire e retraire.
+Por co, s'il ert des Troïens,
+Ne s’en pendié plus vers les suens,
+Ne mais que vers les Grezeis fist :
+De l'estoire le veir escrist,
+Lonc tens fu sis livres perduz,
+Qu'il ne fu trovez ne veüz ;
+PageV01P008
+Mais a Athenes le trova
+Cornelius, quil translata :
+De greu le torna en latin
+Par son sen e par son engin.
+Mout en devons mieuz celui creire
+E plus tenir s'estoire a veire
+Que celui qui puis ne fu nez
+De cent anz o de plus assez,
+Qui rien n'en sot, iço savon,
+Se par oïr le dire non.
+Ceste estoire n’est pas usee,
+N'en guaires lieus nen est trovee :
+Ja retraite ne fust ancore,
+Mais Beneeiz de Sainte More
+L'a contrové e fait e dit
+E o sa main les moz escrit,
+Ensi tailliez, ensi curez,
+Ensi asis, ensi posez,
+Que plus ne meins n'i a mestier.
+PageV01P009
+Ci vueil l'estoire comencier :
+Le latin sivrai e la letre,
+Nule autre rien n'i voudrai metre,
+S'ensi non com jol truis escrit,
+Ne di mie qu'aucun bon dit
+N’i mete, se faire le sai,
+Mais la matire e ensivrai.
+# | RESUMÉ DU POÈME
+Dirai vos donc e a bries moz
+De queus faiz iert li livres toz
+E de quei i voudrai traitier,
+Sempres ici al comencier
+Vos parlerai de Peleüs,
+Qui bien vesqui cent anz e plus.
+Gente femme ot, dame Thetis :
+Ensi ot non, ço m’est avis.
+D'icez dous fu Achillès nez,
+Qui mout fu proz e renomez.
+PageV01P010
+Adonc vos redirai après
+Coment Jason e Herculès,
+Par engin e par traïson,
+Alerent querre la Toison ;
+Com Medea par son saveir
+La lor fist conquerre e aveir.
+Puis dirai par quel acheison
+Il craventerent Ylion
+E tote Troie, en iceus anz
+Que ancor n’esteit guaires granz ;
+Com Laomedon fu ocis,
+Qui reis e sire ert del païs.
+Si orreiz com faitierement,
+Après icest destruiement,
+La refonda Prianz li reis,
+Qui mout fu sages e corteis;
+Com el fu grant, com el fu lee
+Et de quel gent el fu poplee ;
+Com li conseil furent puis pris
+A dant Hector e a Paris
+De querre Esiona lor ante;
+PageV01P011
+Come Antenor, le riche cante,
+L'ala en Grece demander.
+Après orreiz dire e conter
+Com danz Paris en espleita,
+Qui dame Heleine en amena,
+E com li temples fu brisiez,
+Ou mil homes ot detrenchiez;
+Les noces e l'assemblement,
+Cui comparerent mainte gent.
+Après orreiz les prophecies,
+Que pas ne voustrent estre oïes
+Ne creües ne tant ne quant,
+Dont puis mesavint a Priant;
+Qu’Agamennon e Menelaus,
+E Telamon e Aïaus,
+Palamedès e Ulixès,
+Li dus d'Athene e Achillès,
+PageV01P012
+E cent riche rei e preisié
+Vindrent sor Troïens irié
+Par mer o navei grant e fier :
+Onc mais tant riche chevalier
+Ne furent josté ainz ne puis,
+Ensi com j'en l'estoire truis.
+Le nombre orreiz de la navie
+E coment el fu establie ;
+Les facons e les contenances,
+Les mors, les teches, les semblances
+Des reis, des princes, des danzeles
+E des dames e des puceles.
+S'orreiz parler d’un grant concire
+E al quel om livra l’empire
+E la seignorie de toz;
+E com danz Achillès li proz
+Ala en Delfon al respons,
+La ou il vit les visions ;
+E com Calcas o lui s’en vint.
+PageV01P013
+Qui dist puis quant qu'il lor avint ;
+E come Agamennon li reis
+Sacrefia veant Grezeis
+Por l’orage faire cesser
+Qui lor toleit mer a passer.
+Après orreiz de Tenedon
+Coment fu pris e coment non;
+L’eirre que fist danz Achillès
+E Telephus. fiz Herculès,
+Sor ceus de Mese, qu'il venquirent,
+E coment il se combatirent ;
+Com Telephus ot le païs,
+Quant reis Teütrans fu ocis.
+Puis vos dirai come Ulixès
+E sis compainz Diomedès
+Alerent porter le message
+E requerre dreit de l’outrage
+Qui en Grece aveit esté faiz,
+E les rampoignes e les laiz
+Qu'il oïrent que dit lor fu,
+E quant qu'il i ot respondu ;
+E com Palamedès revint,
+PageV01P014
+Cil qui l'empire ot puis e tint.
+Après orreiz com faitement
+Josterent Greu lor parlement,
+Com li conseil furent doné
+D’aler aseeir la cité ;
+S’orreiz des riches reis parler,
+E l'un après l’autre nomer,
+Qui la vindrent vers Greus guarnir
+E les batailles maintenir;
+Com les nes furent establies,
+La grant estoire e les navies ;
+Coment Proteselaus li proz
+Corut o cent nes avant toz ;
+Com li autre vindrent après
+O cent mil chevaliers e mais ;
+Des Troïens, quis recoillirent
+E qui les porz lor defendirent;
+Com par force e par estoveir
+S'i logierent sempres le seir.
+S’orreiz com Troie fu asise.
+Que de dis anz ne fu puis prise,
+E la rnerveille e la dolor,
+La bataille e le fier estor
+PageV01P015
+Ou Hector ocist Patroclus
+E bien mil chevaliers e plus;
+E s'orrez come il fu navrez
+E chierement puis comparez ;
+E com fu morz Cassibilant,
+Qui sis frere ert e fiz Priant,
+E com sor Greus tornast li maus,
+Ne fust Telamon Aïaus,
+Qui a Hector se combateit,
+Quant l'uns l’autre ne conoisseit.
+S’orreiz des triues qu’il requistrent,
+Qu’il s’entredonerent e pristrent ;
+Le duel qu'Achillès demena
+De Patroclus que trop ama;
+Com Cassandra, la fille al rei,
+Remist ceus dedenz en esfrei
+Par ses parfonz devinemenz
+E par ses prophetizemenz.
+Adonc vos redirai après
+Com faitement Palamedès
+Fu plaignanz de la seignorie,
+De la princé, de la maistrie
+Qu’Agamennon ot sor Grezeis
+PageV01P016
+Desor son vié e sor son peis,
+La bataille que après vint,
+Que mout redura puis e tint,
+Dirai en ordre mot a mot,
+E ço que chascuns i fist tot ;
+Com Greu en orent le peior
+Par la force e par la vigor
+D’Ector le pro, le merveillos,
+Sor toz hardi e vertuos ;
+Com li conseil refurent pris
+De lui, coment il fust ocis.
+Puis orreiz la quarte bataille,
+La grant peine e la grant travaille
+Que il traistrent o ceus dedenz,
+Dont il i ot treis mil sanglenz;
+Com faitement li rei poissant
+Qui esteient devers Priant
+Josterent o ceus cors a cors
+Qui plus preisié erent defors;
+Coment li reis Thoas fu pris,
+Qu’Ector trencha le nes del vis;
+PageV01P017
+Qu'en voust li reis Prianz puis faire,
+Quil comanda rompre e detraire ;
+Come Antenor e Eneas
+Troïlus e Polidamas
+Furent en Chambre de Beautez,
+Ou assez furent sermonez
+E amonestez de bien faire.
+Après porreiz oïr retraire
+D’un orage, d’un grant, d'un fier,
+Qui les tentes fist trebuchier,
+Les tres de paile e et de samiz.
+Après reconte li Escriz
+Com fu de la quinte assemblee,
+Que par grant ire fu jostee.
+Si vos dirai tot a devise
+Com fu morz li reis de Larise,
+Com fu morz Almenis li reis,
+Uns des plus hauz de l'ost Grezeis;
+PageV01P018
+E com fu morz Epistrophus
+E sis frere reis Scedius,
+E des autres reis set o dis,
+Qui mout esteient de grant pris.
+Après porreiz oïr retraire
+Come i vint puis le Saietaire,
+E sa semblance e ço qu'il fist,
+E com Diomedès l’ocist.
+S’orreiz après de Galatee,
+Com por lui sorst aspre meslee :
+C'ert li chevaus Hector l’eslit,
+Qui son peis valeit d’or recuit;
+Come Antenor fu pris le jor,
+Dont Troïen orent dolor;
+Com la bataille defina,
+Que l’endemain recomença
+Pesme e cruël, orrible e male,
+Dont set mile remestrent pale.
+Après orreiz dire e conter
+PageV01P019
+Com Greu s'en voustrent retorner,
+E com Calcas par son saveir
+Les fist a force remaneir.
+Puis dirai com faitierement
+Erent tuit livré a torment
+De la puӧr des cors porriz,
+Qui n'esteient enseveliz;
+Com triues lor covint requerre
+Por eus ardeir e metre en terre ;
+Com Diomedès i ala
+E Ulixès, que mout ama;
+Com Dolon les prist en conduit
+Endreit hore de mie nuit;
+Com la triue fu de treis meis
+Mal gré Hector e sor son peis ;
+Com li cors furent amassé
+E come en furent grant li ré ;
+Com refu pris li parlemenz
+De ceus defors a ceus dedenz ;
+Com Thoas fu quites de joie
+Por Antenor le vieil de Troie,
+Coment Calcas li devinere
+PageV01P020
+E li tres sages augurere
+Requist sa fille e demanda,
+Qui aveit non Briseïda,
+Que Troïlus aveit amee,
+E com Prianz li a quitee ;
+E come Hector e Achillès,
+Oiant mil chevaliers e mès,
+S'entraatirent cors a cors ;
+Mais cil dedenz e cil defors
+Ne lor voustrent pas consentir.
+Après porreiz avant oïr
+Com la fille Calcas la proz
+Eissi de Troie veiant toz,
+Le duel qu’el fist al desevrer
+E com la preia puis d’amer
+En l'ost defors Diomedès.
+De ço vos traiterai adès,
+Come o son pere fu marrie
+Por sa mauté, por sa folie,
+Des Troïens qu’il ot guerpiz ;
+S’orreiz ses responz e ses diz.
+PageV01P021
+Après dirai le grant tornei,
+La grant bataille e le desrei
+Qu’Ector i fait, qui toz les veint;
+Come il l’ont puis ploré e plaint
+De ço qu’il fu griefment navrez ;
+S’orreiz la Chambre de Beautez,
+Que de labastre fu bastie,
+E coment ei fu establie.
+Iluec orreiz enchantemenz,
+Tresgiez e merveillos e genz,
+Si granz com cuers puet porpenser :
+Mout le fera buen escouter.
+Donc vos dirai la fine amor
+E la destrece e la dolor
+Que sofri li fiz Tydeüs
+Puis por l’amie Troïlus.
+Puis orreiz la bataille oitaine,
+Que plus dura d’une semaine.
+Puis vos dirai la verité
+PageV01P022
+D’une estrange mortalité
+Que en l'ost fu une feiee,
+E saveir com fu esmaiee
+La femme Hector, Andromacha,
+Des forz songes qu'ele sonja;
+E le devié e la dolor
+Qu’ele fist d'Ector son seignor
+Qu’il nen eissist a la bataille :
+De part les deus li dist sans faille,
+S’il i alot, n’en vendrait vis,
+Qu’il i sereit le jor ocis.
+Puis vos dirai les granz dolors
+Qu’en ot sa mere e ses sorors.
+Adonc porreiz oïr avant
+Com nel laissa eissir Priant, —
+N’en pot aveir de lui consence, —
+E com la bataille comence ;
+Com li reis de Frise fu pris,
+Qui a grant peine en estorst vis;
+PageV01P023
+Com Troïen orent le jor
+De la bataille le peior;
+Com li bastart s’i aviverent,
+Qui le jor trop i endurerent ;
+Come Hector navra Achillès
+E com cil le rocist après.
+Après orreiz le fier damage
+Qu'en orent cil de son lignage ;
+Com Troïen sont a duel mis
+Par les portaus de marbre bis ;
+Com reis Mennon, ço savons nos,
+Torna contre Achillès toz sous.
+S’orreiz les dueus, les fiers, les granz
+Cui d’Ector fait li reis Prianz ,
+Paris sis frere e Troïlus,
+Eneas e Deïphebus ;
+Com fu de lui ensevelir,
+Del cors embasmer e vestir.
+Parlerai de la sepouture,
+Que trop fu riche senz mesure :
+PageV01P024
+Ja, quant ele vos iert retraite,
+Ne direiz mais que tel fust faite.
+Après orreiz la descordance,
+La tençon, la malevoillance
+Que Palamedès comença,
+Qui Agamennon desposa :
+Par son porchaz e par ses diz
+Fu de la princé dessaisiz.
+Puis orreiz le complaignement
+Que reis Prianz fait a la gent
+D’Ector son fil, que Greu ont mort,
+E li tolent son regne a tort ;
+S’orreiz come il le vait vengier
+A l’espee trenchant d'acier :
+Mout fist le jor parler de sei,
+Tot le pris ot de cel tornei
+Del rei Sarpedon le vaillant
+E de Telepolon le grant
+Vos conterai le fier estor
+E qui en ot le sordeior;
+PageV01P025
+Après porreiz oïr maneis
+Come i fu morz li reis Perseis,
+Com Troïen estre lor gré
+Furent le jor del champ torné.
+Adonc porreiz oïr avant
+Com faitement le rei persant
+En ont en son païs porté,
+E come il l'ont plaint e ploré
+E enterré a grant hautece.
+Puis parierai d’une destrece,
+D’une chierté que en l’ost fu,
+E come il furent socoru;
+De l'aniversaire, del grant,
+Que d’Ector fist le rei Priant,
+Des sacrefices qu’il i fait
+E com danz Achillès i vait;
+Come il aama la pucele
+PageV01P026
+Polixena, que tant ert bele ;
+Come il en voust l'ost faire aler,
+Tant fu de li sorpris d’amer ;
+Qu’en respondi li reis Thoas,
+Qui ço ne teneit mie a gas,
+Ne nel refist Menesteüs,
+Cil qui d’Athene ert sire e dus.
+Après orreiz la descordance
+E l'ire e la malevoillance
+Qu’a ceus de l’ost a Achillès,
+Qui jure que ja n’avront mais
+Nul jor de lui socors n'aïe :
+A ses hommes viee e chastie
+Que uns toz sous, por rien qu’il oie,
+Ne seit noisanz a ceus de Troie ;
+E si porreiz oïr conter
+Com laissa armes a porter.
+La dozime bataille iert grant,
+Que li Livres retrait avant,
+Si com Resa, li reis d’Aresse,
+PageV01P027
+Vers Troïens point e eslaisse.
+Puis dirai com Deïphebus
+L’ocist, veiant mil Greus e plus,
+E com Telamon Aïaus
+I ert sor toz come vassaus ;
+Coment Palamedès li reis,
+Qui sire e maistre ert des Grezeis,
+Ocist le jor Deïphebus,
+E Paris lui : ne vesqui plus.
+Adonc vos dirai a dreiture
+Con fu de la desconfiture,
+Des paveillons qui furent pris
+E del feu qui fu es nes mis,
+Come els fussent arses le jor
+Tot senz defense e senz retor,
+Ne fust Telamon Aïaus,
+Qu'i perdié mil de ses vassaus.
+Après dirai com faitement
+Li fiz Heber, cui Trace apent,
+Vint el tref Achillès iriez.
+PageV01P028
+Toz decoupez e detrenchiez ;
+Come il le laidenge e folie,
+Por ço que il ne lor aïe ;
+Come il chiet morz, veiant ses ieuz ;
+E cil par est si pleins d’orguieuz
+Qu'il ni guarde ne ne l'en chaut.
+S’orreiz com la bataille faut,
+Com Deïphebus est plorez
+E de toz plainz e regretez,
+E reis Sarpedon autresi,
+E com li Greu resont marri
+De lor prince Palamedès :
+Ja hom si grant duel n'orra mais.
+Après orreiz del grant concire,
+La o josta tot lor empire,
+E come Agamennon li reis,
+Par l'esguart comun des Grezeis,
+Refu esliz a emperere,
+Sor l'ost princes e comandere.
+Puis orreiz del trezime estor,
+PageV01P029
+Com Troïlus le veint le jor,
+E si refist il l’endemain,
+Bien nos en fait Daires certain :
+Après i rot triues donees,
+Que bien furent aseürees.
+S’orreiz coment Diomedès,
+Nestor li vieuz e Ulixès
+Alerent Achillès preier
+Qu’as batailles lor vienge aidier,
+Mais n’i porent nul bien trover :
+Por ço s’en cuiderent raler.
+Mais danz Calcas li devinere
+E li tres sages augurere,
+Par son sen e par son saveir,
+Les a trestoz faiz remaneir.
+Après reconte li Escriz
+Com rajosta li fereïz,
+Li doloros e li mortaus,
+PageV01P030
+Ou morurent mil bons vassaus,
+Ou Troïlus li genz, li proz,
+D’ambedous parz les venqui toz;
+Come il navra Diomedès
+Par mi le cors de plain eslais,
+E si come il le rampogna
+Por s’amie Briseïda :
+Li reproche furent mout lait
+E en mainz lieus dit e retrait.
+Adonc orreiz com faitement
+La fille Calcas se repent
+Por ço qu’ele a d’amor boisié,
+Fausé e menti e trichié.
+Après orreiz le parlement
+Que Greu firent comunaument
+D’Achillès requerre e somondre,
+Mais ne lor voust nul bien respondre :
+Desor son vié e sor son peis,
+Lor bailla ses Mirmidoneis.
+Mais Troïlus, le pro, le sage,
+Mout sovent lor i fait damage,
+PageV01P031
+Sovent lor fait les cors sanglanz :
+De c’est Achillès mout dolenz
+Et mout ainsos e mout iriez,
+Quar trop se veit endamagiez.
+Puis dirai le definement
+De la bataille e del content ;
+Com Troïlus fu desarmez
+Dedenz la Chambre de Beautez,
+Ou sa mere fist si grant duel
+Que morte fust mil feiz son vueil.
+Après orreiz come il se claime
+De. la fille Calcas qui aime
+Son enemi pesme e mortal :
+As puceles en dit grant mal.
+Après porreiz oïr conter
+Come Achillès muert por amer,
+Qui conseil ne confort n’en trueve,
+Ne n'est si hardiz qu’il se mueve
+Ne que il nuise as Troïens.
+Adonc orreiz qu'en poi de tens
+I rot bataille grant e fiere
+PageV01P032
+Tel dont trei mil jurent en biere :
+Antilogus le pro, le bel,
+I geta mort Brun le Gemel.
+Donc vos dirai, quant Troïlus
+I vint, que Greus ne se tint plus.
+Adonc orreiz come Achillès
+Ne pot sofrir n'atendre mais :
+Armé l'en estut eissir fors
+E por mort defendre son cors.
+Donc porreiz merveilles oïr
+De ço qu'il fist a l'avenir,
+Come en l'estor dis e novain
+Ocist Troïlus de sa main
+Par le grant esforz de sa gent :
+Bien vos sera retrait coment.
+Tot en ordre dit vos sera
+La vie cui meine Ecuba :
+Por ses fiz qui sont mort se muert,
+PageV01P033
+S’orreiz quel engin el porquiert :
+En traïson, quar n'en puet mais,
+Fait tot detrenchier Achillès.
+Li granz esmais e li deshaiz,
+E li granz dueus qui en fu faiz,
+Vos sera toz contez e diz,
+E com chascuns s'en fust partiz,
+Ne fust Calcas, qui prist respons
+E qui lor fist par ses sermons
+Querre Pirron, qui mout fu proz,
+Qui d'armes les venqui puis toz.
+Donc vient la bataille mortaus ;
+S'orreiz coment reis Aïaus
+Ocist Paris e Paris lui :
+Ensi finerent ambedui.
+Retraiz vos iert li dueus Heleine :
+PageV01P034
+Mais jo ne cuit que rien humaine
+Feïst onques si angoissos,
+Si pesme ne si doloros.
+Le monde orreiz trestot descrire,
+E retraire e conter e dire
+Coment il est n'en quel mesure,
+Ço qu'on en trueve en escriture.
+Donc vos iert l'uevre recontee,
+Com faitement Panthesilee
+Vint a socorre la cité,
+Mais sa proëce e sa bonté
+Comparerent mout li Grezeis,
+Ainz que passassent li dui meis.
+De li porreiz oïr conter
+Qu'en tot le mont n'ot onc sa per.
+Dit vos sera come el define
+E la grant eve ou l'om traïne
+Son cors a duel e a pechié.
+Après orreiz del grant traitié
+Que fait Ditis d'ore en avant :
+Com l'on traïst le rei Priant;
+PageV01P035
+Coment li traïtor ovrerent,
+Qui la traïson porparlerent,
+Qui il furent, come orent non ;
+Qui embla le Palladion ;
+Com li chevaus fu establiz
+E el temple Minerve ofriz ;
+Come en fu arse la cité
+E Ylion jus craventé,
+E Prianz li reis detrenchiez,
+Dont fu granz dueus e granz pechiez.
+Se orreiz la grant ocision
+Et la fiere destrucion :
+Ja ne direiz que tel fust faite,
+Quant el vos iert dite e retraite ;
+S'orreiz quin fu menez chaitis
+E ceus qui en estorstrent vis.
+La meslee e la contençon
+Que refu del Palladion
+Vos sera contee par diz,
+E com Telamon fu mordriz ;
+Come Ulixès, sor cui fu mis
+PageV01P036
+S'en est de nuit alez fuitis.
+S'orreiz com fu rendue Heleine
+A son seignor a mout grant peine ;
+Com Polixena la pucele,
+La fille al rei Priant, la bele,
+Fu puis al tombel decolee
+D'Achillès, qui tant l'ot amee :
+Ço fu granz dueus e grant dolor ;
+Puis le comparerent plusor.
+Bien est que l'acheison oiez
+Por qu'Eneas fu eissilliez ;
+Coment li Greu s'en repairierent
+E coment il reperillierent ;
+Come il alerent a dolor
+Coment furent mort li plusor ;
+Come Agamennon fu mordriz
+E com le venja puis sis fiz
+De sa mere demeinement,
+Assez orreiz vos bien coment.
+Conté vos sera les ahanz
+PageV01P037
+Que Ulixès sofri set anz ;
+D'Antenor, come il espleita
+De sa cité, que il fonda.
+De Pirrus, le fil Achillès,
+Qui assez fu fel e engrès,
+Porreiz saveir come il l'en prist
+De ses dous oncles, qu'il ocist,
+E com rocist lui Orestès
+Por sa femme lonc tens après ;
+Come Andromacha la vaillant
+En remest grosse d’un enfant,
+Cui li fiz Hector fist puis rei
+Trestot avant qu'il ne fist sei ;
+Les songes qu'Ulixès sonja,
+Que ja nus hom mais teus n'orra ;
+Coment sis fiz Telegonus,
+Qui l'aveit quis treis meis e plus,
+L'ocist puis par mesaventure,
+Ensi com retrait l'Escriture.
+Les uevres que ci sont nomees
+Sont el Livre si recontees
+PageV01P038
+Qu'a tote rien iert a plaisir,
+E mout les fera buen oïr.
+# | LA TOISON D'OR ; AMOURS DE JASON ET DE MÉDÉE.
+Peleüs fu uns riches reis,
+Mout proz, mout sages, mout corteis:
+Par Grece alot sa seignorie
+E del regne ot mout grant partie ;
+Sa terre teneit quitement
+Bien e en pais e sagement.
+Icist reis aveit un suen frere,
+Fil de son pere e de sa mere :
+Eson ert par non apelé ;
+En Penelope la cité
+Ne sai s'ert reis o cuens o dus,
+Quar li Livres ne m'en dit plus.
+Icist Eson un fil aveit
+Qui Jason apelez esteit,
+PageV01P039
+De grant beauté e de grant pris
+E de grant sen, si com jo truis.
+Grant force aveit e grant vertu,
+Par maint regne fu coneü;
+Mout fu corteis e genz e proz
+E mout esteit amez de toz ;
+Mout por demenot grant noblece
+E mout amot gloire e largece ;
+Trop ert de lui grant reparlance,
+E tant aveit fait dès enfance
+Que mout ert coneüz sis nons
+Par terres e par regions.
+Quant ço vit li reis Peleüs
+Que Jason montot plus e plus
+E que chascun jor s'essauçot,
+Dotanz en fu, paor en ot
+Que tant creüst, que tant montast
+Que de la terre le getast,
+Et crient que, s'il vit longement,
+Qu'il ne l’en laissera neient.
+Mout a grant dote Peleüs
+Que le regne ne li laist plus ;
+Quar, se il s’en vueut entremetre,
+PageV01P040
+Bien len porra del tot fors metre.
+Mout ot vers lui le cuer felon,
+Nene faiseit se penser non,
+Saveir par com faite mesure
+Porreit ja prendre engin e cure,
+Come il alast a male voë,
+Si que la terre ne fust soë
+Ne de rien nel poüst gregier.
+Mout se penot de l'engeignier,
+Ja seit ço que mout s'en celot
+Ne nul semblant ne l’en mostrot.
+En icel tens, ço truis lisant,
+Avint une merveille grant
+En l’isle de Colcos en mer,
+Ensi l'oï l’autr’ier nomer.
+La ot, ço set l'om, un mouton
+Qui tote aveit d’or la toison;
+Mais n'esteit rien de cel poëir,
+Ne par force ne par saveir,
+Qu'il seüst engeignier ne faire
+Coment d’iluec le poüst traire.
+A rien n'esteit chose seüe
+PageV01P041
+Coment la Toison fust eüe,
+Onques nus hom saveir nel pot;
+E sacheiz bien teus la guardot,
+Ja de l’aveir n'eüst envie
+Nus hom, qui n'en perdist la vie :
+Maint s’i cuiderent essaier,
+Cui il n'en lut puis repairier.
+Peleüs fu de mal porpens :
+Ne vit engin ne lieu ne tens
+Com faitement poüst ovrer
+De son nevo a mort livrer.
+Ses nies esteit, mout le dotot :
+Mais ne voleit pas ne n'osot
+Mostrer ne faire aucun semblant
+Qu’il le haïst ne tant ne quant.
+Porpensa sei qu'il requerreit
+E en toz sens porchacereit
+Coment Jason la en alast,
+Si que ja mais ne retornast :
+Bien set, s'il l'i puet faire aler,
+PageV01P042
+Ne l’estuet mais de lui doter,
+Ne del repairier n’a dotance,
+Ainz est de ço bien a fiance
+Que la iert sa fin, la morra
+Ne ja mais n'en repairera.
+Ne demora pas puis un meis
+C’une grant feste fist li reis.
+Grant fu la cort qu’il ajosta
+E grant la gent qu'il assembla :
+Assez i ot contes e dus
+E chevaliers set cenz e plus,
+Jason i fu e Herculès,
+Cil qui sostint maint pesant fais
+E mainte grant merveille fist
+E maint felon jaiant ocist
+E les bones iluec ficha,
+Ou Alixandre les trova :
+Ses granz merveilles e si fait
+Seront a toz jorz mais retrait.
+Grant e pleniere fu la corz,
+E quant ele ot duré set jorz,
+S'a li reis Jason apelé,
+Oiant toz l'a areisoné :
+PageV01P043
+« Oies, beaus nies » fait Peleüs,
+« Rien que seit vive n'aim jo plus
+« Com jo faz tei, ço saches bien,
+« Mais mostrer te vueil une rien.
+« Mout par ies beaus, proz e hardiz,
+« S'ies chevaliers granz e forniz ;
+« Mout as gent cors e grant vertu,
+« Si t'ies en maint lieu combatu,
+«Toz jorz en as victoire eüe;
+« Mainte chose t'est avenue,
+« Dont tu te puez mout faire liez
+« E dont tu ies mout essauciez.
+« Nus n'est hui vis de ton aage
+« Qui proëce ne vasselage
+« Ait envers tei de nule terre :
+«Trop par porras ancor conquerre.
+« Mout as grant pris e grant valor,
+« Mout as conquise grant honor,
+« Mais conquerre la puez mout maire.
+« S'une chose poëies faire,
+« S’esteies si proz ne si os
+PageV01P044
+« Que tu la Toison de Colcos,
+« Que de fin or est senz dotance
+« E dont il est tel reparlance,
+« Poüsses par nul sen aveir,
+« Ne par force ne par saveir,
+« Si avreies plus los conquis
+« Que hom qui onc fust nez ne vis.
+« E saches, sor les deus te[l] jur
+« E leiaument t’en faz seür,
+« Se tu la Toison puez aveir,
+« De mon regne te ferai heir,
+« E a mon tens e a ma vie
+« T’en liverrai la seignorie :
+« De tot seras e maistre e sire ;
+« Ja ne voudras penser ne dire
+« Cele chose que jo ne face,
+« Que bel te seit ne que te place. »
+Jason oï que li reis dist
+E la pramesse qu'il li fist ;
+S’ot les granz biens qu’il li retrait
+PageV01P045
+Des granz proëces qu'il a fait.
+Mout li fu bel e mout li plot,
+E mout grant joie en sei en ot ;
+Set qu'il a tant force e vigor
+E sen e proëce e valor
+Que la Toison senz faille avra,
+Dès que il s’en entremetra ;
+Ja ne sera en lieu si fort,
+Ço li est vis, ne l’en aport.
+Grant cuer a e grant volenté
+D’aler en estrange regné
+E de veeir les regions
+Dont a oï nomer les nons ;
+E mout voudreit faire tel rien
+Que l’om li atornast a bien
+E dont il essauçast son nom.
+La pramesse ot e le gran don
+Que sis oncles li prameteit :
+Nul mal engin n’i entendeit,
+Ainz cuidot bien certainement,
+Senz nul autre decevement,
+Que por son bien li loast faire;
+N’i entendeit mal ne contraire.
+Tot bonement li respondi :
+« Sire », fait il, « vostre merci.
+PageV01P046
+« Bien sai e vei, n'en dot de rien,
+« Que m'onor volez e mon bien ;
+« Haute chose me prametez :
+« Granz merciz vos en rent e grez ;
+« La irai jo, quant bel vos est,
+« Mout volentiers, vez m'en tot prest.
+« Ja n’en quier plus lonc sojor faire :
+« Se deus me guarist de contraire,
+« O mei s'en vendra la Toison :
+« Ja n'iert si guardez li mouton. »
+A guari se tient Peleüs :
+Mander e querre fait Argus.
+Engeigniere fu buens provez,
+Li plus tres sages qui fust nez :
+L'om ne saveit soz ciel son per.
+Ne qui si bien seüst ovrer,
+Quant li reis l’ot a sei mandé,
+Preié li a e comandé
+C’une nef seit faite e hastee,
+Fort e siglant e atornee
+A endurer un fort torment
+PageV01P047
+E un orage e un grant vent.
+Argus respont : « Jusqu’a un meis,
+« O, se devient, bien tost anceis,
+« Iert si aprestee la nef,
+« Nen iert a dire mast ne tref. »
+Cil se pena de la nef faire,
+Qui mout en sot bien a chief traire :
+Bele fut mout e grant e fort,
+E bien furent garni li bort.
+Ço vuelent dire li plusor,
+Mais jo nel truis mie en l’autor,
+Que ço fu la premiere nef
+Ou onques ot sigle ne tref,
+Ne que primes corut par mer.
+Cil qu’i osa premiers entrer,
+Ço fu Jason, ço est cuidé,
+Mais n'en truis mie autorité.
+PageV01P048
+Cil ot la nef apareilliee.
+E bien cloëe e chevilliee
+E encordee de funains ;
+E governauz i ot e reins,
+Veiles, utages e hobens,
+E forz chaables e granz drens.
+N'i ot rien plus que aprester :
+Dès or puet om o li sigier
+Par mi la mer a hautes veiles
+E au soleil e as esteiles.
+La novele fu ja alee
+Par Grece et par mi la contree
+Que Peleüs li reis faiseit
+Une nef faire a grant espleit,
+En que Jason deveit entrer,
+Qui en Colcos voleit sigler,
+Car aveir cuide la toison
+PageV01P049
+Que de fin or est el mouton.
+Li plus pro e li plus vaillant
+E cil qui plus erent aidant,
+Plus redoté, plus coneü,
+En sont dreit a Jason venu :
+Ofert, pramis e dit li ont
+Qu'ensemblement o lui iront.
+E il trestoz les en mercie,
+E doucement lor dit e prie
+Que, quant il avreit bon orage
+E il verreient son message,
+Apareillié fussent e prest
+De venir la ou la nef est.
+Ensi li ont tuit otreié :
+Après ont pris de lui congié.
+Quant vint contre le tens novel,
+Que doucement chantent oisel,
+Que la flor pert e blanche e bele,
+E l'erbe est vert, fresche e novele ;
+PageV01P050
+Quant li vergier sont gent flori
+E de lor fueilles revesti,
+L'aure douce vente soëf,
+Lors fist Jason traire sa nef
+Dedenz la mer, ne tarja plus.
+Argo ot non del non Argus :
+Argus l'aveit faite e ovree,
+Por Argus fu Argo nomee.
+Guarnir la fist Peleüs bien :
+Ne lor defailleit nule rien
+De quant que lor esteit mestier.
+Venu furent li chevalier
+E tuit si autre compaignon :
+En la nef entrent a bandon.
+Ensemble o eus vait Herculès,
+Qui parenz ert Jason mout près.
+Li venz corut devers la terre,
+Qui la nef tost del port desserre ;
+La veile ont fait el mast drecier.
+Bon vent orent e dreiturier,
+Donc comencierent a sigler
+Par mi la transe de la mer.
+Tant ont siglé a veile pleine.
+PageV01P051
+Ainz que trespassast la semaine,
+Ariverent as porz de Troie
+A grant leece e a grant joie :
+El havre de Simoënta
+Sai bien que la nef ariva.
+Fors s'en eissirent ambedui,
+Jason e Herculès o lui,
+E tuit lor autre compaignon :
+Grant joie meinent el sablon.
+Lor eve douce ont refreschiee,
+Que la mer aveit empeiriee ;
+Sor le rivage el bel gravier
+Ont fait conreer lor mangier.
+Dous jorz aveient sojorné,
+Quar auques esteient lassé ;
+N’aveient mie grant corage
+De faire el païs lonc estage,
+Mais mout lor ert e buen e bel
+De reposer en lieu novel
+E d'auques sojorner lor cors.
+Tuit esteient de la nef fors :
+Mal ne damage ne faiseient
+PageV01P052
+En la contree ou il esteient.
+Reis de Troie Laomedon
+A oï dire que Jason
+Ert arivez e Herculès,
+E autre chevalier adès
+Plus de set cenz, des plus hardiz
+E de Grece des plus esliz,
+Sont de lor terre ça venu :
+Le païs avront confondu,
+Les chasteaus ars, prise la preie,
+Se il mout tost nes en enveie :
+Nes i vueille ja consentir,
+Quar granz maus l'en porreit venir.
+Laomedon fu de grant sens :
+Crienst e dota en son porpens,
+Se ceus de Grece consenteit
+Ne en nul sen lor amordeit
+Qu’il arivassent a ses porz,
+Il en sereit honiz e morz ;
+Bien en porreit perdre s'onor,
+E quant vendreit al chief del tor,
+Tost li fereient lait damage.
+PageV01P053
+Li reis a pris un suen message :
+Cuens esteit cil de haut parage,
+Pro d'ome aveit en lui e sage,
+Son talent li encharge e dit,
+E cil l’a bien mis en escrit.
+Puis est montez el palefrei,
+Dis compaignons mena o sei ;
+Tant chevauchierent a espleit
+Que al port sont venu tot dreit;
+Le seignor ont tant demandé
+Que li autre lor ont mostré.
+Son message li dist li cuens,
+Qui sire e mestre esteit des suens :
+« Jason, » fait il, entent a mei :
+« Oies que di de part le rei,
+« A tei mande nomeement,
+« E a ces autres ensement,
+« Que tost en eissiez de sa terre,
+« Qu’en pais la vueut tenir senz guerre.
+« Senz son congié e senz son gré
+« Estes en son païs entré :
+PageV01P054
+« Il ne set pas por quel afaire,
+« Mais mout li torne a grant contraire
+« Dont vos onques ci arivastes
+« Ne que dedenz sa terre entrastes.
+« Ne vueut que plus i demoreiz,
+« Ainz vueut tres bien que vos sacheiz,
+« Tost vos torreit a grant folie.
+« Ne vos i aseürez mie :
+« Eissiez vos en grant aleüre,
+« Qu'om ne vos face autre laidure ;
+«S'un sol jor aviëz enfrait
+« Le devié que par mei vos fait,
+« N'en porreit puis un sol baillier
+« Que tot nel feïst detrenchier;
+« De vos sereit faite jostise,
+« Ja n'en sereit raençon prise. »
+Jason oï la desfiance,
+Grant duel en ot e grant pesance :
+« Par Deu, » fait il, « seignor Grezeis,
+« Grant honte nos a fait li reis,
+« Qui de sa terre nos congiee,
+« E ço nos mande e nos deviee
+PageV01P055
+« Que demain n'i seions trové.
+« Nos deüssons estre honoré
+« Par lui e par la soë gent,
+« Mais de tot ço n’a il talent :
+« Mauvaisement nos i honore ;
+« Mais ancor cuit veeir tel hore
+« Qu'il s'en repentira mout chier.
+« Vassaus, » fait il al messagier,
+« Dire poëz a vostre rei
+« Que, par les deus de nostre lei,
+« Quant nos ici preïmes port,
+« Damage, orgueil, honte ne tort
+« Ne volions faire en sa terre,
+« Ne n'avions talent de guerre ;
+« E s’il en Grece fust venuz,
+« A grant joie fust receüz:
+« Il n’en fust mie congeez,
+« Anceis i fust mout honorez.
+« A mainz sera ancor retraite
+« Ceste honte qu'il nos a faite,
+« A teus cui mout en pesera :
+PageV01P056« Ço cuit, ja faille n’i avra. »
+Herculès a dit al message :
+« Vassal, le port e le rivage
+« Guerpirons nos hui o demain,
+« Mais d’une chose faz certain
+« Laomedon vostre seignor :
+« Jusqu'a treis anz verra tel jor
+« Qu’en cest païs ariverons,
+« Que ja congié ne l'en querrons,
+« Ne ja por vié ne por manace,
+« O li seit bel, o li desplace,
+« N'i laisserons a sojorner.
+« Enoier nos deit et peser
+« De la honte qu'il nos a fait.
+« Meü devreit aveir tel plait
+« Qui li tornast a deshonor,
+« Ainz que venist al chief del tor,
+« E dont toz jorz se poüst plaindre :
+« Si fera il, ne puet remaindre. »
+Li messages fu mout corteis :
+« Par Dieu », fait il, « seignor Grezeis,
+« Laide chose est de manacier
+PageV01P057
+« Jo ne ving pas a vos tencier :
+« Mon message vos ai dit bien,
+« Ne cuit qu'i obliasse rien;
+« Jo n'en ai plus o vos que faire,
+« Dès or me metrai el repaire :
+« Se il vos plaist, vos en ireiz,
+« E, s’il vos plaist, vos remandreiz ;
+« Mais, ço sacheiz, jo loëreie
+« Que vos meïsseiz a la veie. »
+A tant s’en part, si s'en retorne,
+E cil remestrent trist e morne.
+Une chose puet om saveir :
+S’il en eüssent le poëir,
+Ja de la terre nen eississent
+Desci que damage i feïssent ;
+Mais poi sont gent al comencier :
+Iço le lor a fait laissier.
+N'i oserent plus remaneir :
+En lor nef entrent vers le seir,
+Fortment siglerent e nagierent,
+De la contree s'esloignierent.
+PageV01P058
+Mout regrete sovent Jason
+Ço que lor fait Laomedon
+A lui et a ses compaignons.
+Tant ont tiré as avirons
+Et tant siglé as pleines veiles
+E a la lune e as esteiles,
+Qu'il ariverent en Colcon.
+De la nef est eissuz Jason,
+Herculès e si compaignon.
+Sor le rivage, el bel sablon,
+Vestirent lor cors gentement :
+Riche furent lor garnement
+De dras de seie a or brosdez,
+De gris e d’ermine forrez ;
+Li plus povres ot vesteüre
+Riche e bien faite a sa mesure.
+Une cité ot iluec près,
+Que l’om clamot Jaconitès :
+Bele ert e grant e fort e gente,
+Tors i aveit bien plus de trente;
+Close esteit tote de bon mur
+De fin marbre, serré e dur;
+PageV01P059
+Mout i aveit riches maisons
+E granz palais e hauz donjons,
+E chevaliers e marcheanz
+Riches e sages e mananz ;
+Dames i ot mout e puceles,
+E borgeises cointes e beles.
+Mout fu la cité bien fondee,
+E mout fu riche la contree :
+De fruiz, d’oiseaus e de peissons
+I ot, ço sacheiz, granz foisons.
+Bele e riche ert Jaconitès,
+Li reis aveit non Oëtès :
+Assez aveit riche tenue,
+Quar mout ert bien l'isle vestue.
+Beaus fu li tens e cler le jor,
+Come el termine de pascor,
+Jason li proz e Herculès
+Et tuit lor compaignon après
+Sont venu dreit a la cité :
+Gentement furent conreé ;
+Bien semblerent bone maisniee,
+Quar trop fu bien apareilliee.
+PageV01P060
+A merveille les esguarderent,
+Quant il en la cité entrerent,
+Cil des rues e des soliers
+Des fenestres e des planchiers,
+Et mout par sont en grant d'enquerre
+Dont il vienent ne de quel terre ;
+Mais cil ne pristrent fin ne cès
+Desci qu'il vindrent el palais
+Ou Oëtès li reis esteit,
+Qui un grant plait le jor teneit.
+Devant la sale de la tor,
+Fors des arvous del parleor,
+Ot une place grant e lee,
+De haut mur tote avironee;
+Le trait durot a un archier :
+La joërent maint chevalier
+As dez, as eschès e as tables,
+E as autres gieus deportables.
+PageV01P061
+Assez en i aveit le jor :
+Maint bon cheval, maint bon ostor
+E maint chier riche guarnement
+I poüst l'on veeir sovent.
+Par la porte entrent li Grezeis :
+Oëtès vait contre eus li reis;
+Si baron e si vavassor
+Les reçurent a grant honor.
+Quant li reis sot qui il esteient,
+Ou aloënt e dont veneient,
+Honora les de grant maniere
+Et mout par lor fist bele chiere ;
+La nuit lor fist si bel ostel
+Qu’onc puis qu'il murent n'orent tel.
+A mangier lor dona assez
+E mout les a bien conreez :
+Assez i sistrent longement,
+Pro i ot claré e piment.
+Li reis es chambres enveia,
+E si tramist por Medea :
+C’est une fille qu'il aveit,
+Que de mout grant beauté esteit ;
+II n'aveit plus enfant ne heir.
+PageV01P062
+Trop ert cele de grant saveir :
+Mout sot d’engin e de maistrie,
+De conjure e de sorcerie ;
+Es arz ot tant s'entente mise
+Que trop par ert sage e aprise;
+Astronomie e nigromance
+Sot tote par cuer dès enfance ;
+D'arz saveit tant e de conjure,
+De cler jor feïst nuit oscure;
+S'ele vousist, ço fust viaire
+Que volisseiz par mi cel aire ;
+Les eves faiseit corre ariere :
+Scientose ert de grant maniere.
+Sot que li reis la demandot,
+Si s’atorna plus bel que pot :
+D'une porpre inde a or gotee,
+Richement faite e bien ovree,
+Ot un bliaut forré d'ermines,
+E un mantel de sambelines
+PageV01P063
+Covert d'un drap outremarin
+Qui ses set peis valeit d'or fin.
+Quant gentement se fu vestue,
+Si est des chambres fors eissue;
+Ses puceles mena o sei,
+Desci qu'el fu devant le rei.
+Trop fu bele de grant maniere
+De cors, de façon e de chiere.
+Bendee fu d'un treceor,
+Onques nus hom ne vit meillor ;
+A ses cheveus esteit orlaz.
+Autre parole ne vos faz,
+Mais el païs ne el regné
+N'aveit dame de sa beauté.
+Par mi la sale vint le pas ;
+La chiere tint auques en bas,
+Plus fine e fresche e coloree
+Que la rose quant ele est nee :
+Mout fu corteise e bien aprise.
+Oëtès l'a lez lui asise.
+Bien ot enquis e demandé
+Dont cil erent, de quel regné.
+Quant ele certainement sot
+PageV01P064
+Que c'ert Jason, mout par li plot :
+Mout en aveit oï parler
+E mout l'aveit oï loër.
+Mout l'aama enz en son cuer :
+Ne poëit pas a nesun fuer
+Tenir ses ieuz se a lui non ;
+Mout li ert de gente façon.
+La forme esguarde de son cors :
+Cheveus recercelez e sors
+A e beaus ieuz e bele face, —
+Dès or criem que trop ne li place; —
+Bele boche a e dous reguarz,
+Bel menton, bel cors e beaus braz ;
+Large e grant a la forcheüre,
+Si a mout simple parleüre,
+Sage est e de bone maniere.
+Mout le reguarde en mi la chiere.
+PageV01P065
+Mout i a Medea ses ieuz
+Douz, frans e simples, senz orguieuz ;
+Mout le remire doucement :
+Sis cuers de fine amor esprent :
+Mout par li plaist, mout li agree.
+Tost li avreit s’amor donee,
+S'il fust en lieu qu’il li queïst :
+Ne cuit ja l'en escondeïst.
+Onc mais nul jor n'i entendi,
+N’amer ne voust ne n'ot ami :
+Or i a si torné son cuer
+Qu'el ne laira a nesun fuer
+Qu'ele n'en face son poëir ;
+Poi preisera tot son saveir,
+S'ele n'aemplist son corage :
+Mout le desire a mariage.
+Ensi sofri a mout grant peine
+Toz les uit jorz de la semaine ;
+N'ot bien ne repos ne solaz :
+PageV01P066
+Dès or la tient bien en ses laz
+Amors, vers cui rien n'a defense.
+Sovent esguarde e se porpense
+Coment ele ait joie pleniere,
+Quar destreite est de grant maniere :
+Mout en dote le comencier.
+Un jor, quant vint après mangier,
+Si l'ot li reis a sei mandee
+En la sale pavementee,
+Assez la conjot e embrace,
+Cent feiz li a baisié la face ;
+Comande li e dit après
+Que o Jason e Herculès
+Parout par bien, tant li consent.
+E cele, que d'amor esprent,
+S'en vient a eus mout vergondose,
+De parler sage e sciëntose.
+Mout par li fait Jason grant joie;
+Soëf, basset, que l'om ne l'oie,
+Li dist : « Vassaus, ne tenez mie
+« A mauvaistié n'a legerie,
+« Se a vos me vieng acointier :
+PageV01P067
+« II ne vos deit pas enoier.
+« Dreiz est e biens, ço m’est avis,
+« Qui home veit d’autre païs,
+« Qu'il l’aparout e areisont
+« E que leial conseil li dont. »
+— Dame, » fait il, « vos dites bien :
+« Merci vos rent sor tote rien
+« Dont il vos plot qu’a mei parlastes
+« E que premiere m’areisnastes.
+« Fait i avez que de bon aire,
+« E quant tant vos en plot a faire,
+« A toz les jorz de mon aé
+« Sacheiz vos en savrai mais gré.
+« Mout par poëz grant joie aveir,
+« Quar pleine estes de grant saveir,
+« Beauté avez mout e franchise
+« E de haut sen estes aprise.
+—Jason, » fait ele, « bien savon
+« Que vos venez por la Toison :
+« Onques por el ça ne venistes.
+PageV01P068
+« Mais grant estoutie empreïstes,
+« Quar, se erent tuit assemblé
+« Cil qui furent e qui sont né,
+« Ne porreient il engeignier
+« Ne porquerre ne porchacier
+« Par qu'il la poüssent aveir :
+« De ço n'aiez vos ja espeir,
+« Por neient le cuideriëz.
+« Por quei vos travailleriëz ?
+« Essaié s'i sont ja plusor,
+« Quin furent mort al chief del tor :
+« Onques n'oï qu’en eschapast
+« Nus, qui de l'aveir se penast.
+« Li deu i ont lor guarde mise
+« Par tel maniere e par tel guise
+« Com te dirai, quar bien t'est ues.
+« Mars i a mis d'arain dous bues :
+PageV01P069
+« Quant ire e mautalenz les toche,
+« Par mi les nes e par la boche
+« Gietent de lor cors feu ardant :
+« Ja de la mort n'avra guarant
+« Quin iert atainz ne conseüz,
+« Sempres n’arde com se c'ert fuz.
+« Par art e par conjureison
+« Ont cil en guarde le mouton :
+« Qui la Toison voudra aveir,
+« Si covendra par estoveir
+« Que il les puisse si danter
+« Que traire les face e arer.
+« Mars, li poissanz deus de bataille,
+« Les i a mis ensi senz faille.
+« Ancore i a el a passer
+« Que fait assez plus a doter :
+« Quar uns serpenz qui toz jorz veille,
+« Qui pas ne dort ne ne someille,
+« Le reguarde de l'autre part
+« Par tel engin e par tel art,
+PageV01P070
+« Que ja rien n'i aprochera
+« Si tost come sempres morra ;
+« Quar feu giete ensemble e venin,
+« Qui tost li a doné la fin.
+« Granz est e fiers e trop hisdos,
+« Onc hom ne vit si merveillos :
+« Ne porreit mie estre conquis
+« Ne engeigniez a estre ocis.
+« Que t’en fereie lonc sermon ?
+« Saches ja n'avras la Toison
+« Por rien que seit, nel cuider mie :
+« Guar come as empris grant folie !
+« Ainz te di bien, se tu i vas,
+« Que ja mais n'en retorneras. »
+Jason respont come afaitiez :
+« Dame », fait il, « ne m'esmaiez :
+« Ne sui mie por ço venuz
+« Que m’en torge come esperduz ;
+« Mieuz vueil morir que jo n'essai
+« S’en nul sen aveir le porrai.
+PageV01P071
+« Se o mei ne l’en puis porter,
+« Ja mais ne m'en quier retorner;
+« Quar a toz jorz honiz sereie,
+« Si que ja mais honor n'avreie.
+« Par ci m'en covient a passer :
+« Tant en ai fait nel puis muër ;
+« Seit maus, seit biens, que que m'en vienge,
+« Ne puet estre que jo m'en tienge.
+— Jason, » fait ele, « bien entent
+« N'en querreies chastiëment.
+« Seürs puez estre de morir :
+« De ço ne te puet nus guarir.
+« Dueus e pitiez me prent de tei :
+« La en iras, ço sai e vei ;
+« Mais se de ço seüre fusse
+« Que jo t'amor aveir poüsse,
+« Qu'a femme espose me preisses,
+« Si que ja mais ne me guerpisses,
+« Quant en ta terre retornasses,
+« Qu’en cest païs ne me laissasses,
+« E me portasses leial fei,
+PageV01P072
+« Engin prendreie e bon conrei
+« Com ceste chose parfereies,
+« Que mort ne mahaing n'i prendreies.
+« Fors mei ne t'en puet rien aidier
+« Ne aveier ne conseillier.
+« Mais jo sai tant de nigromance,
+« Que j'ai aprise dès m'enfance,
+« Que, quant que jo vueil, tot puis faire :
+« Ja ne m'iert peine ne contraire.
+« Quant que est grief, tot m'est legier :
+« Ja n'i troverai encombrier.
+« Or esguarde que tun feras,
+« Saveir se tu[l] m'otreieras :
+« Ton cuer m'en di senz deceveir,
+« Tot ton corage en vueil saveir.
+— Dame, » fait il, « jo qu'en direie ?
+« Sor toz les deus vos jurereie
+« E sor trestote nostre lei
+« Amor tenir e porter fei ;
+PageV01P073
+« A femme vos esposerai,
+« Sor tote rien vos amerai.
+« Ma dame sereiz e m'amie,
+« De mei avreiz la seignorie :
+« Tant entendrai a vos servir
+« Que tot ferai vostre plaisir.
+« Menrai vos en en ma contree,
+« Ou vos sereiz mout honoree :
+« Tuit vos i porteront honor,
+« E li plus riche e li meillor ;
+« Plus i avreiz joie a plaisir
+« Que li cors n'en porra sofrir. »
+La pucele respont a tant :
+« Or sai », fait el, « vostre talant.
+« Ço remandra jusqu'eneveis
+« Que se sera couchiez li reis.
+« En ma chambre vendreiz toz sous :
+« Ja compaignon n’avreiz o vos,
+« La me fereiz tel seürance
+« Que vers vos n'aie plus dotance ;
+« Puis vos dirai com faitement
+« Porreiz les bues e le serpent
+« Veintre e danter e justisier :
+PageV01P074
+« Ja puis n'avreiz d'eus encombrier.
+— Dame », fait il, « ensi l'otrei :
+« Mais enveiez, sos plaist, por mei;
+« Quar ne savreie ou jo alasse,
+« Ne a quel hore jo levasse. »
+Dist la pucele : « C'iert bien fait. »
+Congié a pris, puis si s'en vait;
+Ariere en ses chambres s’en entre.
+Mout li tressaut li cuers el ventre;
+Esprise l'a forment Amors.
+Mout li enuie que li jors
+Ne s'en vait a greignor espleit :
+Mout se merueille que ço deit.
+Tant a le soleil esguardé
+Que ele le vit esconsé.
+Mout li tarja puis l'anuitier,
+Que son plait li fait porloignier;
+PageV01P075
+E quant le jor en vit alé,
+N'ot ele pas tot achevé :
+Soventes feiz a esguardé
+La lune s'ele esteit levee.
+Crient que sempres s'en aut la nuit :
+Ne li torne mie a deduit
+Ço que par la sale veillierent
+E ço que pas ne se couchierent.
+Son vuel, fussent tuit endormi :
+Mout par en a son cuer marri.
+As uis des chambres vait oïr
+S'ancor parolent de dormir ;
+Iluec escoute, iluec estait.
+N'en ot tenir conte ne plait :
+« Iço, » fait ele, « que sera ?
+« Ceste gent quant se couchera ?
+« Ont il juré qu'il veilleront
+« E que mais ne se coucheront ?
+« Qui vit mais gent que tant veillast,
+« Que de veillier ne se lassast ?
+PageV01P076
+« Mauvaise gent, fole provee,
+« Ja est la mie nuit passee,
+« Mout a mais poi desci qu'al jor.
+« Certes mout a en mei folor :
+« De quei me sui jo entremise ?
+« Mieuz en devreie estre reprise
+« Que cil qui est trovez emblant.
+« Fol corage e mauvais semblant
+« Porreit l'om or trover en mei,
+« Que ci m'estois ne sai por quei.
+« Estuet me il estre en esfrei
+« Que volentiers ne vienge a mei
+« Jason, quel hore qu'i envei ?
+« O il, mout volentiers, ço crei.
+« Que faz jo ci ne cui atent?
+« Tant en ai fait qu'or m’en repent. »
+De l’uis se part en itel guise.
+Vint a son lit, si s’est asise ;
+Mais jo cuit bien certainement
+Qu'el n'i serra pas longement.
+PageV01P077
+Relieve s'en, n'i puet plus estre,
+S’ala ovrir une fenestre.
+Vit la lune, que ert levee,
+Lores li est s'ire doblee :
+« Dès or, » fait ele, est il enuiz :
+« Passee est ja la mie nuiz. »
+Clot la fenestre, ariere torne :
+Iriee est mout, pensive e morne.
+En mi la chambre s’aresta
+Tot en estant, si escota :
+La noise oï auques baissiee,
+Quar ja departeit la maisniee.
+A l’uis s’en vait pensive e pale,
+Si esguarda par mi la sale.
+As chamberlens vit les liz faire :
+Lores li est bien a viaire
+Que jusqu'a poi se coucheront
+E que guaires plus n'i serront.
+Par la chambre vait sus e jus,
+E sovent reguarde al pertus,
+Tant que trestuit furent couchié.
+PageV01P078
+Bien a veü e aguaitié
+Le lit ou Jason se coucha.
+Une soë maistre apela :
+Tot son conseil li a gehi,
+Car el se fiot mout en li :
+« Dreit a cel lit, » fait ele, « iras
+« Tot soavet, le petit pas ;
+« Celui qu'i gist m'ameine o tei :
+« De noise te guarde e d'esfrei.
+— Dame, » fait el, « premierement
+« Vos couchiez, si sera plus gent,
+« De la nuit est alé partie,
+« Sil tiendreit tost a vilenie
+« Qu'a couchier fusseiz a tel hore,
+« Quar bien en est mais tens e hore. »
+Fait la pucele : « Jo l'otrei. »
+Ne firent mie lonc conrei.
+En un chier lit d'or et d’argent,
+Qu’onques nus hom ne vit plus gent,
+Dont li quatre pecol egual
+PageV01P079
+Furent tuit ovré a esmal,
+A esmeraudes verdeianz
+E a rubins clers e luisanz ; —
+Coute i ot grant vouse de paile,
+Onc meillor n'en ot en Thesaile,
+Elençueus blans deugiez de seie,
+Ne cuit que nus hom meillors veie ;
+Mout i ot riches oreilliers,
+Onques pucele n'ot si chiers;
+Li covertors fu riche assez,
+D'unes bestes fu toz orlez
+Que reluisent come orpimenz;
+D'autres mout chieres fu dedenz ;
+Vous fu d’un drap sarragoceis
+D'or e de seie trestot freis ; —
+El lit se coucha la pucele,
+Que mout fu sage e gente e bele :
+Bien esteit digne d'itel lit.
+La vieille, senz autre respit,
+PageV01P080
+De la chambre s'en est eissue,
+Dreit au lit Jason est venue;
+Tot belement e en secrei
+Le traist par mi la main a sei.
+E cil s'en leva mout isnel,
+Si s'afubla de son mantel
+Tot soavet et a celé
+S'en sont dedenz la chambre entré.
+Clarté i ot, tres bien i veient,
+Car dui cierge grant i ardeient.
+La maistre a l'uis clos e serré,
+Puis l'a desci qu’al lit mené.
+Medea le senti venir,
+Si a fait semblant de dormir,
+E cil ne fu pas trop vilains :
+Le covertor lieve o ses mains.
+Cele tressaut, vers lui se torne ;
+Auques fu vergondose e morne :
+« Vassaus, » fait el, « qui vos conduit ?
+« Mout par avez veillié anuit.
+« Tel noise ai tote nuit oïe
+PageV01P081
+« Qu'or m'ere a grant peine endormie.
+— Dame, » fait il, « n’i quier guion
+« Se vos e vostre maistre non :
+« S’en vostre prison me sui mis,
+« II ne m’en deit pas estre pis. »
+La vieille ensemble les laissa,
+En autre chambre s’en entra.
+Jason a parlé toz premiers :
+« Dame, li vostre chevaliers,
+« Icil qui quites senz partie
+« Sera toz les jorz de sa vie,
+« Vos prie e requiert doucement
+« Quel receveiz si ligement,
+« Qu’a nul jor mais chose ne face
+« Que vos griet ne que vos desplace. »
+Medea respont : « Beaus amis,
+« Grant chose m’avez mout pramis :
+« Se vos le voliëz tenir,
+« Ne me porriëz plus ofrir.
+« Seürté vueil que jo en aie :
+« Puis atendrai vostre manaie.
+PageV01P082
+— Dame, a trestot vostre plaisir ;
+« Senz fauseté e senz mentir,
+« Vos en ferai tel seürtance
+« Qu’a tort avreiz vers mei dotance. »
+Une pelice vaire e grise
+Vest Medea sor sa chemise,
+Del lit s’en est a tant levee,
+Si a une image aportee
+De Jupiter le deu poissant :
+« Jason, » fait el, « venez avant.
+« Vez ci l’image al deu des cieus :
+« Jo ne vueil mie faire a gieus
+« De mei e de vos l’assemblee ;
+« Par ço vueil estre aseüree.
+« Sor l'image ta main metras,
+« E sor I'image jureras
+« A mei fei porter e tenir
+« E mei a prendre senz guerpir ;
+« Leial seignor, leial amant
+« Me seies mais d’ore en avant. »
+PageV01P083
+Jason ensi li otreia,
+Mais envers li s'en parjura ;
+Covenant ne lei ne li tint :
+Por ço, espeir, l’en mesavint.
+Mais jo n'ai or de ço que faire,
+Del reconter ne del retraire :
+Assez i a d'el a traitier,
+Ne le vos quier plus porloignier.
+Tote la nuit se jurent puis,
+Ensi com jo el Livre truis,
+Tot nu a nu e braz a braz.
+Autre celee ne vos faz :
+Se il en Jason ne pecha,
+Cele nuit la despucela ;
+Quar, s'il le voust, ele autretant.
+E quant ço vint à l'ajornant :
+« Dame, » fait il, « ne targera,
+« Desci qu’a poi ajornera;
+« Ne porrai mais guaires ester
+« Qu'il ne m'en estuisse torner.
+« Or m'est mestiers, or me bosoigne
+PageV01P084
+« Que de mei penseiz sens aloigne,
+« Quar en vos en est m’esperance
+« E mis conseuz e m’atendance. »
+Fait la danzele : « Beaus amis,
+« Sacheiz, j'en ai bien conseil pris. »
+Andui se sont del lit levé,
+Quar ja pert del jor la clarté.
+Un escrin d’or prist Medea,
+Veiant Jason le desferma,
+Si en a trait une figure
+Faite par art e par conjure :
+« Ço, » fait el, « porteras o tei;
+« Quar jo te di en dreite fei,
+« Ja, tant com tu sor tei l’avras,
+« Rien nule en terre ne criembras. »
+Après li baille un oignement,
+Ne sai com fu faiz ne coment :
+« De ço, » fait ele, « seras oinz,
+« Car de ço t’est graindre bosoinz.
+PageV01P085
+« Puis n'avras ja de feu dotance
+« Qui a ton cors face noisance.
+« Or te baillerai un anel,
+« Si ne verras ja mais plus bel ;
+« E si saches bien que la pierre
+« Ne puet estre en nul sen plus chiere.
+« Soz ciel n'a home qui seit vis,
+« Dès qu'il l'avra en son deit mis,
+« Qui ja puis crienge enchantement,
+« Feu, arme, venin ne serpent :
+« Ne li pueent faire emcombrier,
+« Ne en eve ne puet neier.
+« Tant com l'anel avras sor tei,
+« Mar avras dote ne esfrei.
+« Ancore a il autres vertuz :
+« Se tu ne vueus estre veüz,
+« La pierre met defors ta main :
+« Adonc puez bien estre certain
+« Que ja rien d'ueil ne te verra.
+« E quant ço iert qu'il te plaira
+PageV01P086
+« E que tu n'avras d'iço soing,
+« Clo la pierre dedenz ton poing :
+« Si te verra l'om come autre home.
+« Onques Oteviens de Rome
+« Ne pot conquerre cel aveir,
+« Qui cest poüst contrevaleir.
+« L'anel » fait el, « me guarde bien,
+« Quar jo l’aim plus que nule rien. »
+Après li rebaille un escrit,
+E si li a mostré e dit :
+« Jason, quant le mouton verras,
+« Ne faire ja avant un pas
+« Desci qu'aies sacrefiié,
+« Que n'en seient li deu irié :
+« Crieme sereit, se nel faiseies,
+« Que chierement le comparreies.
+« Par iço les apaieras,
+« E dementres que tul feras,
+« Cest escrit di tot belement
+PageV01P087
+« Treis feiees contre Orient :
+« Guart bien seies amenteüz.
+« Or te baillerai ceste gluz
+« Par tel maniere destempree,
+« Que ja a rien n'iert adesee
+« Dont ja mais desevree seit.
+« Grant aleüre va tot dreit ;
+« As nes e as boches as bues
+« L'espant tote, quar bien t'est ues :
+« Par ço les avras si conquis,
+« Ja feus de lor cors n'istra puis.
+« Arer les feras quatre reies,
+« Mais clo tes ieuz, que tu nes veies ;
+« Puis t'en va tot seürement
+« Combatre contre le serpent.
+« Bataille grant i troveras,
+« Mais ja mar le redoteras,
+« Quar ja vers tei n'avra poëir.
+« Or te vueil bien faire saveir :
+PageV01P088
+« Trestoz les denz fors li trairas,
+« En la terre les semeras
+« Que o les bues avras aree,
+« Qu'ensi est chose destinee
+« Qu’en autre sen ne puet pas estre.
+« Sempres verras a tez ieuz naistre
+« Des denz chevaliers toz armez
+« E de lor armes adobez:
+« En poi d'ore seront nascuz,
+« E d'eumes, d’aubers e d’escuz
+« Seront mout bien apareillié ;
+« Mais mout seront entre eus irié.
+« Veiant tes ieuz s'entrociront,
+« Si tost come il s'entreverront.
+« Adonc avras tot achevé,
+« Mais guar n'i scies oblié :
+« Por ço qu'avras eü victoire,
+« Si rent as deus merci et gloire ;
+PageV01P089
+« Treiz feiz lor fai afïlicion,
+« Après iras vers le mouton.
+« LaToison prent, lui laiester,
+« E net'i chaut plus demorer:
+« Isnelement si t’en repaire,
+« Qu'enui n'i aies ne contraire.
+« Ne te sai plus que enseignier,
+« Mais doucement te vueii preier
+« Que de tot ço rien n'obliër.
+« Dès or t’en puez hui mais aler;
+« Ne poons or plus estre ensemble :
+« Granz jorz est ja, si com mei semble. »
+Entre ses braz Jason la prent,
+Cent feiz la baise doucement ;
+Après apris deli congié,
+Dreit a son lit est repairié.
+Bien a repost e bien mucié
+Ço que cele li ot baillié :
+A grant maniere se fait liez.
+PageV01P090
+Quant en son lit se fu couchiez,
+Endormi s'est en es le pas,
+Quar de veillier esteit toz las;
+E quant il ot dormi grant piece,
+Il pot estre ja haute tierce.
+Levez s’est, e si s'apareille :
+Aler en vueut a la merveille.
+Grant paor et grant sospeçon
+Ont de lui tuit si compaignon.
+Quant Oëtès veit qu’il vueut faire,
+Bonement li prent a retraire :
+« Jason, ço saches, de ta mort
+« Ne vueil estre blasmez a tort :
+« Por çol te di, se m'en creeies,
+« Ja la le pié ne portereies.
+« Onc ne vi nul, qui i alast,
+« Qui ariere s'en retornast.
+« Li deu i ont lor guarde mise,
+« Qui ne vuelent en nule guise
+« Que hom charneus i mete main.
+« De ço somes nos bien certain :
+« Se tu i vas, fins iert de tei,
+PageV01P091
+« Mais ja ne t'iert veé par mei.
+« Force sereit que te fereie,
+« Si sai que blasmez en sereie.
+« Fai en tot ço que tu voudras :
+« Ja mar por mei le laisseras.
+Tot quant qu'Oëtès li reis dit
+Prise Jason assez petit.
+II ne se vueut plus atargier :
+De la cité s'en ist premier.
+Li reis, li prince e li baron,
+Herculès e si compaignon
+Le conveient jusqu'al rivage,
+Ou il devait prendre passage.
+Iluec li covint a passer,
+Vousist o non, un braz de mer;
+Mais estreiz ert, ne durot mie
+Guaires plus de liue e demie.
+De l'autre part ert li isleaus :
+N'ert guaires granz, mais mout ert beaus.
+Ço li ont dit, la trovera
+Ço que il quiert e ou il va.
+Lez le rivage, el sablonei,
+Prist ses armes e son conrei.
+PageV01P092
+Primes chauça ses genoillieres :
+Onc el siegle nen ot si chieres.
+D'or fin furent li esporon,
+Taillié de l'uevre Salemon.
+Après a un hauberc vestu,
+Onques mieudres forgiez ne fu :
+Tailliez ert bien a sa mesure ;
+La maille en ert serree e dure.
+Poi li pesa, quant l'ot vestu.
+Après laça un heaume agu,
+Resplendissant, de bone taille :
+Ja por arme ne fera faille.
+Li cercles ert d'or esmerez
+E des nons as deus toz letrez :
+Mout l'en teneit om a plus riche.
+Li nasaus fu d'un chier oniche :
+Qui meillor ne plus beau queïst
+PageV01P093
+De folie s'entremeïst.
+Après a ceint un brant d’acier, —
+Onques nus om ne vit plus chier,
+Si riche ne de sa valor, —
+Cler e tranchant come rasor.
+Un escu ot d'os d'olifant,
+Fort e bien fait e riche e grant :
+La bocle en fu d’or Espaneis
+E la guige tote d’orfreis.
+Un grant espié cler e luisant
+Li baillierent d’acier trenchant.
+Quant bien l'orent apareillié,
+Si a d'eus toz pris le congié.
+Baise Herculès e sa maisniee,
+Qui de lui remaint mout iriee :
+Grant duel demeinent li plusor,
+Quar paor ont de lor seignor.
+En un batel s'en est entrez,
+De la terre s'est esquipez.
+N'ot o sei autre marinier,
+Ne n'i mena point de destrier :
+PageV01P094
+Ço saveit bien, n'i vausist guaire
+A tel bosoing n'a tel afaire,
+Dreit vers l'isle nage a expleit,
+Al mieuz qu'il sot e al plus dreit.
+Medea fu en une tor :
+Vit le, si mua la color.
+Des ieuz plora, nel pol muër,
+Quant elel vit en mi la mer.
+Belement dist entre ses denz :
+« Jason, sire, beaus amis genz,
+« Mout sui por vos en grant error,
+« Quar jo vos aim de grant amor.
+« En grant dotance m'avez mise :
+« Ne puet mais estre en nule guise
+« Que jo m'en puisse aseürer,
+« Tant que vos veie retorner.
+« Grant paor ai e grant dotance
+« Que de ço n'aiez remembrance
+« Que vos ai dit e enseignié :
+« Ja mais nen avrai mon cuer lié
+« Desci que vos tienge en mes braz.
+« A toz les deus oreison faz
+« Qu'il ne seient vers vos irié. »
+PageV01P095
+A tant en plore de pitié.
+Jason a ja tant espleitié
+Que en l'isle fu essaivié.
+N’i ot puis autre demorance :
+Son escu a pris e sa lance,
+Eissuz s'en est fors del batel,
+Puis est poiez sus en l’islel.
+Les bues choisi e le serpent
+E le mouton, qui mout resplent :
+Grant clarté done l'or vermeil
+Contre la raie del soleil.
+Des nes e des boches as bues
+Eissi tel flambe e teus feus lues,
+PageV01P096
+Ço ert avis, qui l’esgardot,
+Que toz li isles embrasot.
+Jason son oignement a pris,
+Son cors en a oint e son vis.
+La figure a sacrefiiee
+Que Medea li ot bailliee ;
+Mist la sor l'eaume e atacha,
+Si come ele li enseigna.
+Après fist as deus sacrefise
+A la maniere e a la guise
+Que la pucele li ot dit,
+E treis feiees list l'escrit.
+Vers les bues ala maintenant
+Tres par mi le grant feu ardant.
+Sempres fu toz arz sis escuz,
+Mais il ne fu mie esperduz :
+La gluz es boches espandi,
+Onques puis flambe n'en eissi ;
+Lor vertu ne monta puis guaire.
+PageV01P097
+Quatre reies lor a fait faire,
+Si com li ot dit Medea ;
+Mais onc nel vit, bien s'en guarda;
+Onques n'i osa esguarder :
+Ne voleit mie trespasser
+Ço que li aveit dit s'amie,
+Quar il feïst mout grant folie.
+Quant ço ot fait, delivrement
+Ala requerre le serpent.
+Quant li serpenz le vit vers sei,
+En haut sifla e fist esfrei :
+Ses escherdes herice e tremble,
+Feu e venin li gete ensemble;
+Sovent trait fors son aguillon,
+Tote la terre art environ :
+Soz ciel n'a rien, que onc fust nee,
+Que ja eüst vers lui duree.
+Ne fust Jason si bien guarniz,
+En petit d'ore fust feniz :
+Que de l'arson, que del venin
+Sempres fust alez a sa fin;
+PageV01P098
+Mais l'oignemenz e la figure,
+Ou erent escrit li conjure,
+E li aneaus d'or qu'il portot
+Le defendeit e porguardot.
+Sor lui peceie son espié
+Sanz ço que de rien l'ait plaié;
+En mainte guise s'i essaie,
+Ainz qu'il li puisse faire plaie.
+De l’espee teus cous li done
+Que toz li isles en resone :
+N'i puet entrer, ainz s'en resort,
+Tant a la pel e dure e fort.
+Soz sei l'abati mainte feiz,
+Si angoissos e si destreiz,
+Que assez en failleit petit
+Qu’il ne l'esteint e ne l'ocit.
+Tel angoisse a, quant il l’atoche,
+Que le sanc rent par mi la boche :
+Tel angoisse a, toz en tressue ;
+Mais tant s’esforce e s'esvertue
+E tant i chaple de s'espee
+PageV01P099
+Que la teste li a coupee.
+S'un poi durast plus la bataille,
+Sempres fust morz Jason senz faille.
+Les denz en traist, sin a semee
+La terre qu'il aveit aree :
+Tantost en sont chevalier né,
+De lor armes tuit adobé.
+En es le pas se corent sore,
+Ocis se sont en petit d'ore.
+Donc ot Jason tot achevé
+E son grant travail afiné :
+Granz merciz a as deus rendues
+Des victoires qu'il a eües.
+II est venuz dreit al mouton,
+Si en a prise la toison.
+N'i voust puis faire lonc estage :
+Tost i poüst aueir damage.
+A son batel vint dreit errant,
+Si entra enz de maintenant;
+Destachié l’a, e si s'empeint,
+PageV01P100
+De tost nagier pas ne se feint.
+Medea le vit el retor,
+Que fu as estres de la tor.
+S’ele ot joie, nus nel demant,
+Quar onc greignor n’ot rien vivant :
+Li sans li revint en la chiere,
+Dès ore ataint joie pleniere.
+Herculès e li chevalier
+Virent lor seignor repairier :
+Tel joie en ont, nel set nus dire,
+Mais mout en a li reis grant ire.
+Jason est a terre venuz,
+Forz del batel s'en est eissuz.
+Receivent le joiosement
+Tuit ensemble comunaument;
+Isnelement le desarmerent
+lcil des suens qui plus l'amerent.
+Tote la gent de la contree
+I est venue e assemblee
+PageV01P101
+Por esguarder la grant merveille,
+Qu'onques ne vit nus sa pareille,
+Ne ja nen iert mais tel veüe :
+Fiere parole en ont tenue.
+La Toison ont mout esguardee ;
+Diënt que c'est chose faee.
+Bien afichent veraiement,
+S'as deus ne venist a talent,
+Ne poüst pas estre engeignié.
+Se d’eus ne li fust otreié,
+Com faitement e en quel guise
+Poüst par home estre conquise ?
+Mout ont Jason entre eus loé :
+Bien le tienent tuit a faé.
+En la cité li reis l'en meine,
+De lui honorer mout se peine.
+Si come il el palais entra,
+Encontre li vint Medea:
+Cinq cenz feiees le baisast
+PageV01P102
+Mout volentiers, se ele osast,
+Par mi les flans l'a embracié;
+Soavet li a conseillié
+Que la nuit venge a li parler,
+Quant il iert lieus, senz demorer :
+« Dame », fait il, « mout le desir ;
+« Del tot ferai vostre plaisir. »
+Li bainz li fu apareilliez :
+Quant lavez se fu e baigniez
+Isnelement s'en est eissuz ;
+Mout est de riches dras vestuz
+Que s'amie li ot transmis.
+Après sont al mangier asis ;
+Servi furent mout hautement,
+N'i ferai plus porloignement :
+Tote la quinzaine e le meis
+S'i sojornerent li Grezeis.
+Grant leisir ont li dui amant
+De faire ensemble lor talant :
+Sovent demeinent bele vie.
+Jason en a mené s’amie,
+Quant ço avint qu'il s'en ala.
+Grant folie fist Medea:
+PageV01P103
+Trop ot le vassal aamé,
+Por lui laissa son parenté,
+Son pere e sa mere e sa gent.
+Assez l'en prist puis malement ;
+Quar, si com li Autors reconte,
+Puis la laissa, si fist grant honte.
+El l’aveit guardé de morir:
+Ja puis ne la deüst guerpir.
+Trop l’engeigna, ço peise mei;
+Laidement li menti sa fei.
+Trestuit li deu s'en corrocierent,
+Qui mout asprement l’en vengierent.
+N’en dirai plus, ne nel vueil faire,
+Quar mout ai grant uevre a retraire.
+Quant en Grece furent venu,
+AI port dont il erent meü
+Ariverent joiosement :
+De grant peine e de grant torment
+Furent estors, ço lor est vis.
+Grant joie en firent lor amis :
+Fiere parole en demenerent,
+PageV01P104
+Quant la merveille remirerent.
+Mout en reçut Jason grant pris
+E grant honor, si com jo truis.
+Sis oncles l'a mout honoré ;
+Ne li a nul semblant mostré
+Qu'il fust iriez de sa venue :
+N'esteit pas chose aperceüe
+Qu'il le haïst ne qu'il vousist
+Que damages li avenist.
+De sa vie ne de son fait
+Ne sera plus par mei retrait :
+Jo ne le truis pas en cest livre,
+Ne Daires plus n'en voust escrire,
+Ne Beneeiz pas ne l'alonge,
+Ne pas n'i acreistra mençonge.
+Daires n'en fait plus mencion :
+Mais qui or veut oïr chançon
+De la plus haute uevre que seit
+Ne que ja mais oïe seit,
+PageV01P105
+Des plus granz batailles crueus,
+Des plus fieres, des plus morteus,
+Dont la riche chevalerie
+Que a cel tens ert fu perie,
+E destruite la grant cité,
+Jo l'en dirai la verité
+E retrairai trestote l’uevre,
+Si com li Autors la descuevre.
+# | PREMIÈRE DESTRUCTION DE TROIE
+Cil orent conté e retrait
+Ço qu’a Troie lor ot om fait,
+Si com li reis les congea,
+Qui sa terre lor devea,
+Ne pas nes i voust consentir
+E assez les cuida laidir :
+Mout par en ont tenu grant conte.
+PageV01P106
+Grant tort, grant despit e grant honte
+Lor fist Laomedon li reis :
+Mout en a pesé a Grezeis,
+En desdeing pristrent e en gros
+De ço qu'il onques fu si os,
+De sa terre lor fist devié ;
+Mout par en sont trestuit irié.
+Juré ont bien tuit e pramis
+Qu'il en destruiront son païs,
+Tote l’en confondront sa terre :
+Seürs puet estre de tel guerre,
+Dont il sera honiz e morz :
+Mal lor i devea ses porz.
+Ne s'en voust pas taire Herculès :
+Sor sei en prist le greignor fais,
+A toz ses amis le mostra ;
+Tant dist, tant fist, tant porchaça
+Que ceus de Grece a esmeüz
+Vers Troïens toz irascuz.
+Par son porchaz e par ses diz,
+Si com reconte li Escriz,
+Mut le damage e tot l'afaire
+PageV01P107
+Que vos orreiz hui mais retraire.
+A Parte ala, ne tarja plus;
+La trova Castor e Pollus :
+Frere esteient e andui rei,
+Riches ert chascuns endreit sei.
+Cist ont grant joie fait de lui.
+Tant lor a dit que ambedui
+Li ont pramis a aïdier :
+« Prest sont » ço diënt, « del vengier;
+Ja por eus n'i avra tarjance,
+Mout en iert prise grief venjance.
+Bien puet estre li reis seürs,
+Ja si forz tors ne si forz murs
+N'avra, que par force nes prengent
+E que sa honte ne li vengent. »
+Mout par s'en fait Herculès liez
+E mout les en a merciiez
+E parfondement les encline;
+PageV01P108
+Puis est alez a Salemine.
+Telamon trueve le corteis :
+N’ot en Grece meillor Grezeis,
+Ne plus riche, ne plus hardi,
+Ne Mieuz aidant a son ami.
+Tote l'uevre li a retraite
+E la honte que lor fut faite :
+« Se vos », fait il, « de rien m'amez,
+« Or i parra ; si en venez
+« A Troie, quar nos i alons :
+« Pro avrons gent, se vos avons.
+« Trop sereit lait tot a estros
+« Que nos i alissiens senz vos ;
+« Mout iert honiz qui remandra. »
+Tant li a dit, tant li preia
+Que de l’aler cil li afie ;
+E Herculès mout l'en mercie.
+Puis est venuz en Fice ariere.
+A Peleüs fait grant preiere
+Que de l’aler prenge conrei,
+E de mener ensemble o sei
+Les meillors homes de sa terre
+E ceus qui plus sevent de guerre.
+PageV01P109
+« La terre est riche e d'aveir pleine :
+« Senz grant travail e senz grant peine
+« Porrons le païs eissillier
+« E nostre grant honte vengier.
+— Par fei », ço respont Peleüs,
+« Tant i menrai contes e dus
+« E chevaliers proz e hardiz, —
+« De ço seiez seürs e fiz, —
+« Qu'en la terre sojornerons
+« Un an o dous, se nos volons. »
+Fait Herculès : « Vos dites bien :
+« Ne me poüsseiz dire rien
+« Dont me feïsseiz si grant joie,
+« Come d’aler sor ceus de Troie. »
+A Nestor est tot dreit alez,
+Qui riches ert e renomez.
+L’uevre li prent tote a retraire
+E ço que il voleient faire.
+Cil ne s'en fait de rien eschis,
+Ainz dit : « Senz faille vos plevis
+« Que jo serai li premerains
+« A destruire les Troïains.
+« Ja ne verrai vostre message,
+« Sempres ne m’aiez al rivage ;
+PageV01P110
+« Teus compaignons menrai o mei,
+« Qui tost movront un grant desrei.
+« Jo n'oï onques mais novele
+« Que plus me fust bone ne bele ».
+Or a quant que vueut Herculès :
+Nule chose ne li faut mais.
+As porz font faire quinze nes ;
+D'ancres, de veiles e de tres
+Les apareillent e guarnissent
+E de vitaille les emplissent.
+Quant vint el tens qu'iverz devise,
+Que l'erbe vert pert en la lise ;
+Lan que florissent li ramel,
+Que doucement chantent oisel,
+Merle, mauviz e oriol
+E estornel e rossignol,
+La blanche flor pert en l’espine
+E reverdeie la gaudine ;
+Quant li tens est douz e soés,
+Lors partirent des porz les nes.
+Ceus qu'Herculès aveit somons,
+Les dus, les princes, les barons,
+PageV01P111
+Ot toz mandez e atenduz,
+Ainz que des porz se fust meüz.
+Puis s'empeignent es hautes ondes;
+Par la ou els sont plus parfondes,
+Traient e siglent a esforz.
+Dès qu'il furent parti des porz,
+Onques ne pristrent ces ne fin,
+Nul jor ai seir ne al matin,
+Desci qu'il virent la contree
+Qu’il aveient tant desiree :
+Mout par orent trestuit grant joie
+Quant le païs virent de Troie.
+Le jor laissierent trespasser,
+E quant ço vint a l’avesprer,
+Al port de Sigeon tornerent,
+Totes lor nes i ariverent.
+Quant il les orent aancrees,
+Si les ont bien achastelees :
+Par les bretesches metent armes,
+Haches, darz, javeloz, gisarmes,
+PageV01P112
+Que, se ço esteit aventure
+Que d'eus fust fait desconfiture,
+As nes refust lor forterece,
+S'il lor tornot a grant destrece.
+Quant la nuit fu tres bien meiee
+E la lune se fu couchiee,
+Sor le rivage, el bel sablon,
+S’en eissirent fors li baron.
+Un parlement ont d'eus josté ;
+Peleüs a premiers parlé :
+« Oëz, » fait il, « seignor ami,
+« Riche, sage, pro e hardi.
+« En tot le siecle ne sai taus,
+« Si corajos ne si vassaus,
+« Ne qui aient le tierz conquis
+« Riches terres ne bons païs.
+« Mainte bataille avez vencue
+« E mainte terre escombatue :
+PageV01P113
+« Par tot vos est bien avenu,
+« Quar onques ne fustes vencu,
+« Ne ne sereiz ja por nul plait.
+« Tant avons espleitié e fait
+« Qu'en cest païs some entré,
+« Nel sevent ancore home né.
+« A ço nos covient ore entendre
+« E entre nos tel conseil prendre
+« Que nos ensi le poissiens faire.
+« E de ceste chose a chief traire,
+« Que nostre en seit or la victoire,
+« L’onor e le pris e la gloire.
+« Treis choses vos i vueil mostrer,
+« Que bien i font a esguarder
+« E que chascuns deit bien saveir
+« Que faire en deit tot son poëir.
+« L’une est de prendre vengement
+« Del lait qu'il firent nostre gent,
+« Quant de cest païs les chacierent
+« E laidement les manacierent.
+PageV01P114
+« L'autre est des terres chalongier,
+« Qu‘il ne nos puissent damagier :
+« N'avra en eus que corrocier,
+« Quant verront lor terre eissillier ;
+« Mout se peneront del defendre
+« E de nos cors ocire e prendre;
+« Mais de ço ne m'esmai de rien,
+« Quar vos le fereiz par tot bien.
+« La tierce chose que vos dis,
+« Se nos vencons noz enemis :
+« A Troie sont li grant tresor
+« De pailes e d’argent e d'or
+« E de tote autre manantie,
+« Ne nos n’avons pas la navie
+« Ou la meitié en portissons,
+« Quant nos nos en retornerons ;
+« Toz jorz en serons mais manant
+« En noz terres e nostre enfant,
+« E tote Grece en vaudra mais,
+« Quant serons mort, mil anz après.
+PageV01P115
+« Or n'i a plus : la nuit s’en vait;
+« Ne covient pas faire lonc plait.
+« Tens est mais hui de nos armer :
+« Jusqu'a poi verrons ajorner.
+« Partons noz genz e ordenons
+« E nos eschieles devisons
+« Par tel sen e par tel maniere,
+« Com plus nos seit chose legiere,
+« Que, quant ço vendra a la feire,
+« Qu'il nen i ait rien a refaire,
+« Que ne seiens gent esbaïe.
+« E qui le mieuz savra, sil die. »
+Herculès respondi premier :
+« Leial conseil e dreiturier
+« Donez, sire, senz nule dote.
+« Faisons armer nostre gent tote :
+« A Troie en auge une partie,
+« L'autre remaigne a la navie.
+« Jo e Telamon veirement
+PageV01P116
+« Irons devant o nostre gent ;
+« Vos vendreiz el conrei après
+« A  sostenir le greignor fais :
+« Chascuns avra sa compaignie.
+« Ainz que l'aube seit esclarcie,
+« Nos embuscherons près del mur
+« En lieu covenable e seür.
+« Li autre, qui ci remandront,
+« En treis conreiz se partiront :
+« En l'un sera li reis Nestor,
+« E en l’autre sera Castor ;
+« Pollus avra le tierz conrei.
+« Devant les nes, el sablonei,
+« Tendreiz o eus torneiement.
+« Ço sai jo bien certainement,
+« Dès que li reis ci nos savra,
+« O quant que il aveir porra,
+« S'en istra sempres o le cri :
+« En es le pas les avreiz ci.
+« Tant voudront estre a la meslee,
+« Ja la cité n'iert reguardee,
+« E qui ainz ainz ça en vendront,
+PageV01P117
+« Dès que la novele en orront :
+« Mout sera tart as Troïans
+« Qu’il nos truissent ça fors es chans.
+« Ja n'i avra resne tenue
+« Desci que targe i ait fendue.
+« Vos, n'aiez cure de desrei :
+« Ici mantenez le tornei.
+« Nostre gent sera embuschiee :
+« Quant la vile sera voidiee,
+« De nostre embuschement saudrons,
+« Tot a delivre i entrerons ;
+« Ja n'i troverons grant content,
+« Quar fors sera tote lor gent.
+« Quant les portes avrons saisies
+« E de nos chevaliers guarnies,
+« Après lor dos nos apoindrons ;
+« En itel sen les forsclorons,
+« Sorpris seront de grant maniere,
+« Quant escrié seront deriere;
+« Estrangement seront enclos,
+PageV01P118
+« Quant nos les assaudrons as dos :
+« Se ariere vuelent torner,
+« Par nos les covendra passer.
+« Onc ne virent si fort passage,
+« Ne qui lor tort a tel domage :
+« Leiaument vos jur et plevis
+« Qu’ensi seront tuit mort e pris.
+« Qui mieuz savra, si m’i ament;
+« Mais, solonc le mien esciënt,
+« Jo cuit aveir auques bien dit. »
+N’i ot un sol, grant ne petit,
+Qui li conseil a buen ne tienge,
+Coment que il lor en avienge,
+As armes corent a eslais,
+Quar le jor criement, qui est près.
+Sor le rivage, el sablonei,
+A chascuns d’eus pris son conrei.
+PageV01P119
+De blans haubers, d'eaumes aguz
+E de maintes colors escuz
+S'apareillierent gentement;
+Après desevrerent lor gent.
+Herculès chevaucha premiers
+Bien o dou mile chevaliers.
+Dus Telamon avuec sa gent
+Chevauche après serreement :
+Trei mile en i ameine o sei,
+Qui soz Ies heaumes furent quei.
+Après chevauche Peleüs,
+Qui des chevaliers ot le plus :
+Quatre mile, tuit alosé,
+En vont o lui vers la cité.
+Mout sont riches les treis compaignes :
+Covertures et entreseignes
+Aveient de maintes colors.
+Anceis que pareüst li jors,
+PageV01P120
+Se repostrent par les vergiers,
+Qu'il troverent granz e pleniers.
+Contre le tens d’esté novel,
+Esteient flori li ramel,
+E li arbre vert e foillu
+Les ont guardé e defendu,
+Que nus ne les i aparçut.
+Li clers rnatins, qui venir dut,
+Ne tarja guaires : l’aube crieve
+E li soleuz s’espant e Iieve.
+Li païsant de la contree
+Virent la grant gent aünee,
+Virent les nes e les armez :
+Ço les a fortment esfreez.
+Li criz lieve par le païs,
+Dès qu'il virent lor enemis;
+Grant fut la noise e granz li sons;
+Fuient as bois e as boissons.
+A la cité en vait li criz :
+Li plus seürs fu esfreïz.
+Laomedon ot mout grant ire,
+PageV01P121
+Quant il oï noncier e dire
+Que li Greu erent retorné
+Por lui destruire e son regné.
+Isnelement arma son cors,
+De la vile s'en eissi fors,
+O itant de gent come il ot
+E come il onques aveir pot.
+Vers eus chevauche a grant espleit,
+E dès que il les aparceit,
+Ferir les vait demaintenant :
+La ot maint chevalier sanglant,
+E maint navré e maint maumis,
+E maint abatu e ocis ;
+E dès qu'il vindrent as espees,
+Mout s’entredonent granz colees.
+La ot maint heaume esquartelé
+E maint chevalier decoupé :
+Par grant ire se requereient.
+PageV01P122
+Espessement s’entrociëient.
+Nestor avuec la soë gent
+Les encontra premierement.
+Le pis en ot al comencier :
+Mout i ot as suens grant mestier.
+Grant piece tindrent le tornei,
+Ainz que venissent li conrei
+Ou Castor e Pollus esteient;
+Mais puis que il le bosoing veient,
+Si secorent lor compaignons.
+Lors mut Castor o tot les sons :
+Lances baissiees, escuz pris,
+Vont encontre lor enemis.
+La ot grant presse e grant huëe
+E mainte fort targe esfondree.
+Mout se tindrent li Troïien,
+Estrangement le firent bien :
+Onc de la place ne se murent,
+Toz tens espessierent e erurent.
+Lor gent veneit a granz compaignes
+PageV01P123
+Par valees e par montaignes:
+Une envaïe lor ont faite,
+Ou mainte espee ot nue traite.
+La ot mainte sele voidiee ;
+Chaciez les ont plus d'une archiee.
+Se ne fust li conreiz Pollus,
+Qui a venir ne tarja plus,
+Sempres i perdissent Grezeis:
+Mais li autre, qui vindrent freis,
+Lor laissierent chevaus aler:
+La veïsseiz estor lever
+Estrange e pesme e doloros,
+Lait e mortel e angoissos.
+Grant sont li hu, grant sont li cri ;
+La s'aïdent li plus hardi :
+Al departir sont les colees.
+Quant les compaignes sont jostees,
+Si ront recovree la place;
+Mais mout dura petit la chace,
+E ne por quant li Troïien
+I perdirent, ço sai jo bien,
+PageV01P124
+Cent chevaliers proz e vaillanz
+E de toz les mieuz combatanz.
+Laomedon, de Troie reis,
+A esguardé que li Grezeis
+Damagereient mout sa gent,
+S'il ne les teneit autrement.
+Trop folement se desreoënt,
+Nule mesure n'i guardoënt :
+Mout i perdeient por ço plus.
+Li reis les a fait traire en sus,
+Sevrez les a e faiz conreiz :
+Dès or sera beaus li torneiz;
+Or i avra joste senz faille,
+Ainz que departe la bataille.
+Li reis Nestor fu mout hardiz
+E chevaliers granz e forniz.
+Armez fu bien el milsoudor,
+PageV01P125
+Soz ciel n'en aveit nul meillor :
+Uns sors baucenz ert de Castele,
+Ne s’i tenist pas arondele.
+Les menuz sauz en vient es rens:
+En corage ot e en porpens
+Qu'il ira ja ferir les lor.
+Laomedon mantint l'estor,
+Ses homes chadele e estreint :
+De bien faire pas ne se feint.
+Onques nus hom de mere nez
+Plus richement ne fu armez ;
+Riches armes ot a merveille.
+D'une chiere porpre vermeille
+Ot coverture e entreseigne
+E en sa lance grant enseigne ;
+Les lengues l’en batent as poinz.
+Nestor broche vers lui toz joinz.
+Li reis le vit vers lui venir,
+De plain eslais le vait ferir :
+Tant com cheval porent aler,
+PageV01P126
+Se vont granz cous entredoner ;
+Par mi les bocles des escuz
+Se passserent e fers e fuz.
+Li reis a peceié sa lance,
+Mais jo vos di bien senz dotance,
+Nestor eüst navré a mort,
+Se il n’eüst hauberc si fort.
+Cil refiert lui par grant vigor,
+Si que la targe peinte a flor
+Li a fendue e dequassee
+E la broine li a fausee ;
+Auques l'a navré tot de plain
+Par mi le braz e par la main;
+Puis l'a empeint de tel vertu
+Qu’a la terre l'a abatu.
+Li reis fu merveilles iriez :
+Isnelement sailli en piez.
+Ainz que Nestor feïst son tor,
+Ot trait le vert brant de color ;
+Treis cous l’en dona granz e fiers :
+PageV01P127
+Mout ert li reis bons chevaliers.
+Uns Troïens, Cedar ot non,
+Jovnes senz barbe e senz grenon, —
+N'ert ancor pas li anz passez
+Qu’il aveit esté adobez. —
+Mout ot grant duel, mout fu marri,
+Por poi li cuers ne li parti,
+Quant son seignor vit a la terre :
+Par ire vait Nestor requerre.
+Tel li dona en mi le piz
+Que de sa lance vole escliz :
+Outre en passast le confanon,
+Se il n’eüst hauberc si bon ;
+Mais ne por quant al par hurter
+L’a fait a la terre enverser.
+Li heaumes feri el gravier,
+Si quel virent mil chevalier.
+Toz li premiers qui i avint,
+PageV01P128
+Ço fu li reis, qui le brant tint
+Cler e trenchant el poing tot nu :
+Parmi l’eaume l’en a feru
+De tel aïr que le nasal
+L'en a abatu contre val,
+Que de la levre e del menton
+Puet om veeir sor le sablon.
+Bien cuit que s'en venjast li reis,
+Se nel hastassent li Grezeis ;
+Mais tant i a d’eus assemblé
+Que l’un de l’autre ont dessemblé.
+Mais ainz qu'il fussent remonté,
+I ot maint chief de bu sevré.
+Li Troïen bien s’i aidierent
+E des Grezeis mout damagierent :
+Ocis en ont tens trente sis,
+Qui mout esteient de grant pris.
+Castor a bien Cedar veü,
+Qui Nestor aveit abatu ;
+Mout le vit bien aidier e poindre
+E mout sovent o les suens joindre.
+Devers le roi n'a en la place
+PageV01P129
+Un sol des suens qui mieuz la face.
+Sor un cheval d'Espaigne sor
+Sist bien armez li reis Castor :
+Par mi les rens vint eslaissiez
+Vers Troïens fel e iriez,
+Prez del damagier senz demore.
+Uns Troïens li corut sore :
+Seguradon aveit cil non;
+Bel cors, bel vis, bele façon
+Aveit sor tote creature ;
+Riches hom ert a desmesure.
+Il e Cedar erent cosin,
+Mout i aveit noble meschin.
+Cil e Castor s'entrecontrerent ;
+Enz el mi lieu des rens josterent
+De tel aïr com li cheval
+Porent moveir de lor estal :
+Bien i parut a lor escuz,
+Qu'estroëz orent e fenduz.
+Seguradon sa lance brise,
+PageV01P130
+Onques n’i ot autre devise :
+Bien cuit, s’ele ne peceiast,
+Que del cheval jus le portast.
+Castor le navra al joster ;
+Onc li haubers nel pot sauver :
+Son confanon el cors li baigne,
+Li dueus des suens creist e engraigne.
+Cedar vit son cosin navrer,
+Sempres cuida del sens desver ;
+Ja morra, s’il nel puet vengier.
+Isnelement point le destrier,
+Castor a pris bien en travers.
+De la lance trencha li fers :
+L’escu li perce e la ventaille,
+Iluec li fist sis haubers faille ;
+Par mi la chiere l’a navré
+E del cheval jus enversé.
+Par la regne prent le destrier,
+Si l’a baillié un escuier :
+Par grant proëce l’a conquis.
+Castor dut bien estre entrepris :
+A terre fu entre tel gent,
+PageV01P131
+Qui ne l'amoënt de neient.
+Cedar li dist : « Sire vassal,
+« N'en menreiz mie del cheval.
+« Auques ai mon cosin vengié,
+« Dont mout m’aviëz fait irié.
+« Ja del guaaing d'este contree
+« N'avreiz la perte restoree :
+« Guage nos i avez laissié
+« E plus perdu que guaaignié ;
+« Mil en gisent sor la marine,
+« Dont ja mais jor n'avrons haïne :
+« En cest païs nos remandront,
+« Ja mais Grece ne reverront. »
+Castor ert pris e retenuz,
+Qui mout s'ert a pié combatuz,
+Quant reis Pollus l'a socoru.
+Cele part as le vos venu :
+Son frere ne lor laira mie,
+PageV01P132
+Tant come il ait el cors la vie.
+D'ire desvez, en es le pas,
+Les est alez ferir el tas ;
+Set cent Grezeis de grant valor
+Le sivent après en l'estor.
+Ja i avra fiere meslee :
+Trop iert la joste comparee
+Que Castor fist. Jo n'en sai al :
+La s'entrevienent li vassal,
+La s'entredonent, la s'empeignent ;
+D'eus entrocire ne se feignent.
+La terre est cbverte des morz.
+Jo qu'en direie ? Par esforz
+Fu Castor rescos e montez,
+Qui bien fu en set lieus navrez :
+Par vive force lor tolirent,
+As branz la presse departirent.
+Pollus lor i fist grant damage,
+Quar le fil al rei de Cartage
+Lor i ocist : ço fu dolor.
+PageV01P133
+Nies ert le rei, fiz sa soror ;
+Jovnes esteit, de poi d’aage,
+Mais bel vaslet i ot e sage.
+Assez fu plainz e regretez :
+Eliachim ert apelez.
+Quant li Troïen mort le virent,
+Poëz saveir grant duel en firent :
+Criënt, plorent e font granz dueus,
+Por lui derompent lor cheveus.
+Li reis trova mort son nevo :
+Plora des ieuz e fist un vo
+Que ja mais Troie ne verreit
+Desci que il vengié l’avreit.
+Ses homes a trestoz somons :
+« Poignons, » fait il, « fil a barons;
+PageV01P134
+« Quar destruions noz enemis,
+« Sin delivrons nostre païs,
+« Que cist coilvert vuelent destruire
+« E metre a duel et a martire.
+« Veez voz freres, voz amis,
+« Vez mon nevo, qu'il m’ont ocis.
+« Or i parra qui me sivra
+« E qui mon enui vengera. »
+A tant a fait li reis soner
+Un cor d'olifant haut et cler.
+Li renc fremissent environ,
+N’i set coarz sa guarison :
+Jas troveront feus e engrès,
+Hui mais les requerront de près.
+Li reis chevauche o les premiers :
+Bien ot set mile chevaliers.
+Les escuz pris, lances baissiees
+PageV01P135
+S'entrassemblerent les maisniees :
+La veïsseiz estor mortel,
+Ja mais nus hom ne verra tel.
+Nel porent li Grezeis sofrir,
+Le champ lor covint a guerpir :
+Jusqu’a la mer ne tindrent place,
+Assez perdirent en la chace.
+Ja ne tenissent mais conrei,
+Quant uns messages vint al rei :
+Dircès ot non de Salemine,
+Parenz prochains ert la reïne.
+Par mi le cors ot une plaie
+Que de la mort fortment l’esmaie :
+« Laomedon, » fait il, « que fais?
+« Sire, por quei ne t’en revais ?
+« Hui cest jor ies morz e traïz,
+« Tu seras sempres desconfiz.
+« Vez lor gent venir après mei :
+« Set mile sont e plus, ço crei.
+PageV01P136
+« Troie ont prise par traïson,
+« Ja mais nul jor n'i rentreron :
+« Es tors, es murs e es portaus
+« A plus de mil de lor vassaus ;
+« La vile ont prise e si guarnie
+« Que perdue l'as a ta vie.
+« Part tei de ci delivrement,
+« Si chevauche contre lor gent :
+« Mieuz est qu'encontre lor ailleiz
+« Que vos ici les atendeiz. »
+Mout fu espoëntez li reis,
+Quant il oï que li Grezeis
+Aveient sa cité saisie :
+S’il s'esmaia, n'en merveil mie.
+Si grant duel a e si grant ire,
+Ne set que faire ne que dire ;
+Bien veit n'en puet senz perte aler.
+Un graile a fait a tant soner.
+Sa gent restreint environ sei,
+Mais onc n'en puet sevrer conrei,
+Quar li Grezeis ne li laissoënt,
+PageV01P137
+Qui de neient nes espargnoënt :
+De près lor esteient veisin,
+Sis font morir de male fin.
+Li reis, dolenz e entrepris,
+Vait encontre ses enemis :
+D'ire et d’angoisse, vueille o non,
+Li chiet l'eve a val le menton ;
+Sa perte veit e son damage,
+Por poi que toz vis n'en enrage.
+Teus mil en veit vers sei venir,
+Qui maintenant l'iront ferir :
+Ne puet mais estre en autre sen,
+Dès or i perdront Troïen.
+Nestor e Castor e Pollus
+Les asaillent, ne pueent plus.
+Danz Herculès e sa maisniee,
+Que mout fu gent apareilliee,
+Les ont devant si aprochiez,
+PageV01P138
+Mil confanons i a baissiez.
+De plain eslais lor corent sore,
+Mout en ociënt en poi d’ore.
+Cil furent las, cist furent freis ;
+Enclos les orent li Grezeis :
+Derier les fierent e devant,
+Mout en ociënt maintenant.
+Mout i oïsseiz granz criëes
+E granz retenteïz d'espees.
+Sor un cheval sist Herculès,
+E si n’orra parler jamais
+Nus hom de tel ne de son per :
+Pro vos en porreit om conter,
+Mais a peines creü sereit
+Come il fu nez ne qu'il valeit.
+Iriez, le brant d’acier nu trait,
+S'embat es presses, si lor vait :
+Fiert e chaple, bote e empeint,
+Tot detrenche quant qu'il ateint ;
+Dous meitiez fait d'un chevalier.
+PageV01P139
+Si granz cous fiert del brant d'acier,
+Entor lui muerent e fenissent,
+Tote la place li guerpissent.
+Tant a venu, tant a alé,
+Laomedon a encontré.
+Il ne l’ala plus loing querant :
+Si grant li a doné del brant
+Que la teste li a tranchiee,
+Veiant le mieuz de sa maisniee.
+Quant il virent mort lor seignor,
+Onc puis ne pristrent d'eus retor :
+Chascuns de sei guarir se peine,
+Dès qu'il furent senz chevetaine;
+Le champ guerpissent maintenant,
+Vers la vile s'en vont fuiant.
+Mais devant lor sont li Grezeis,
+Qui les abatent treis e treis,
+Jo qu’en direie? A grant dolor
+Furent mort e destruit le jor ;
+Laomedon i fu ocis,
+Poi eschapa des autres vis.
+Quant partie fu la meslee
+PageV01P140
+E la bataille fu finee,
+En la cité trestuit entrerent :
+Onques contredit n'i troverent.
+De femmes e d'enfanz petiz
+I ert trop granz li ploreïz;
+Es temples as deus s'en fuieient,
+Quar aillors guarir ne saveient.
+Mainte dame, mainte pucele,
+Mainte borgeise riche e bele
+Veïst om foïr par les rues,
+Paoroses e esperdues :
+En lor braz portent lor enfanz.
+Tant par i esteit li dueus granz,
+Onques ne fu en nul lieu maire,
+Ne nus nel vos savreit retraire.
+Totes ont les maisons guerpies
+Pleines de riches mananties :
+Mout en troverent li Grezeis.
+Bien i esturent plus d'un meis :
+Maint riche aveir, maint bon tresor
+De pailes e d'argent e d'or,
+PageV01P141
+E mainte pierre e maint anel,
+E d’or et d'argent maint vaissel,
+Et maint cheval e maint ostor,
+E maint riche drap de color
+En porterent en lor contree.
+Trestote ont la vile guastee,
+Les fortereces ont fondues
+E les riches tors abatues :
+Onc n’i remest meison entiere
+Ne mur ne temple ne maisiere,
+Ne bon palais ne bei maneir.
+Des femmes firent lor voleir :
+Assez i ot des vergondees,
+Sin ont des plus beles menees.
+La fille al rei, Esiona, —
+Ja mais plus bele ne naistra,
+Ne plus franche ne plus corteise,
+Grant ire en ai e mout m'en peise, —
+Cele en a Telamon menee :
+Danz Herculès li a donee,
+PageV01P142
+Por ço qu’en Troie entra premier.
+N’en ot mie mauvais loier,
+E s'il a femme l’esposast,
+Ja guaires donc ne m’en pesast;
+Mais puis la tint en soignantage,
+Ço fu grant duel e grant damage.
+Quant lor buens orent acompliz
+E li navies fu guarniz,
+Es nes entrerent a grant joie,
+Puis partirent des porz de Troie ;
+Par mer siglerent e nagierent
+Tant que en Grece repairierent.
+Grant joie en firent lor ami
+E trestuit li autre autresi.
+Granz graces ont as deus rendues
+De ço qu'ont victoires eües :
+Mout lor ont faiz granz sacrefises
+PageV01P143
+E voz renduz e granz servises.
+Mout ont granz aveirs departiz
+A lor peres e a lor fiz;
+Tant en donent a lor maisniees
+E as prochains de lor ligniees,
+Onc puis povreté ne conurent :
+Riche, asazé e manant furent;
+De Troie e de sa manantie
+Fu tote Grece replenie.
+Or vient uevre, s'est qui la die,
+Ja mais teus ne sera oïe.
+L’uevre e la chanson vos ai dite,
+Si com jo l’ai trovee escrite,
+Saveir par com faite acheison
+Avint ceste destrucion.
+Par assez petit d'uevre mut,
+Mais mout par monta puis e crut:
+PageV01P144
+Onques chose, si com jo truis,
+A tant n'ala ne ainz ne puis,
+Quar d'icel tens tuit li meillor
+En furent mort a grant dolor.
+Por assez petit comença
+La guerre, que tant puis dura ;
+Mout par en fu l’uevre dotose,
+E la fin en fu dolorose.
+Or est la chose comenciee,
+Que mout sera griefment vengiee ;
+Mais li respiz al vilain dit,
+Qui onques de rien n’i faillit:
+Teus cuide sa honte vengier,
+Cui en avient grant encombrier.
+Mais ço puet or bien remaneir.
+Qui la chose voudra saveir,
+Si atende : nos li dirons,
+Solonc ço qu’el Livre trovons,
+Com faitement iço ala,
+PageV01P145
+Qui perdi e qui guaaigna,
+Qui fu ocis e qui ocist,
+E saveir qui venjance prist :
+Qui fu riches e qui fu proz,
+E qui fu plus loëz de toz,
+E qui fu tenuz al plus sage,
+E qui de plus hardi corage,
+E qui i reçut greignor pris.
+Iço que j’en l'Estoire en truis
+Me porra oïr reconter
+Qui bien me voudra escouter.
+# | RECONSTRUCTION DE TROIE ; AMBASSADE D'ANTÉNOR EN GRÈCE POUR RÉCLAMER HÉSIONE
+Laomedon un fil aveit,
+Qui riche e sage e pro esteit :
+PageV01P146
+Icil ert apelez Prianz,
+De sa femme aveit uit enfanz.
+En ost esteit loing del païs,
+Ou sis pere l’aveit tramis :
+Un chastel aveit asegié.
+Quant il li fu dit e noncié
+Que Troie esteit e la contree
+Tote arse e destruite e robee,
+E sis pere ocis e sa mere
+E ses sorors e tuit si frere,
+Fors une, dont ert grant domage,
+Qu'en esteit menee en servage ;
+Quant la novele fu seüe
+E Priamus l'ot entendue,
+S’il ot dolor, nus nel demant :
+Rien que vesquist n'en ot si grant.
+Assez plora e fist grant duel :
+Iluec vousist morir, son vuel.
+Mout a son pere regreté
+E sa valor e sa bonté :
+« Laomedon, chier pere, sire,
+PageV01P147
+« Tant a mon cuer mis en grant ire
+« Qui vos a mort, ja mais nul jor
+« Ne porrai vivre senz dolor.
+« Onc mais ne fu faiz teus outrages :
+« Meie est la honte e li damages;
+« Poi pris e aim tote ma vie.
+« Haï! bone chevalerie,
+« Come estes morte en poi de tens !
+« Bien devreie perdre le sens :
+« Tenir se deit por confondu,
+« Qui tel damage a receü.
+« Haï! la noble gent de Troie,
+« De vos parti a si grant joie !
+« Come estes a honte eissilliee,
+« Morte e ocise e detrenchiee !
+« Franches dames, franches puceles,
+« Tant par a ci freides noveles !
+« Tant sont malement departi
+« De vos vostre riche mari!
+« Voz fiz, voz freres, voz nevoz
+« E voz amis les beaus, les proz,
+« Toz les ont li Grezeis ocis
+PageV01P148
+« E eissillié le bel païs.
+« Tote ont destruite la contree
+« E ma soror en ont menee :
+« Bien sai vilment la tendra cil
+« Qui l'en a menee en eissil.
+« Ha ! las, com puis de duel morir!
+« E coment puis jo ço sofrir ?
+« Com porrai jo mais joie aveir ?
+« S'eüsse force ne poëir
+« Coment j'en preïsse venjance,
+« Ço me donast grant alejance ;
+« E se Deu plaist, ainz que jo muire,
+« Lor cuit jo tant forfaire e nuire
+« Dont il avront assez que plaindre :
+« Ne puet la chose anceis remaindre. »
+Ses genz mande, ne tarja plus,
+Tant come il en puet aveir plus,
+E ses veisins e ses amis,
+Si chevauche vers son païs.
+PageV01P149
+Sa femme ovuec sei en mena,
+Que aveit a non Ecuba.
+Bele dame ert, proz e vaillanz,
+Si aveit del rei uit enfanz,
+Les cinc vaslez, lez treis meschines :
+Dignes fussent d'estre reïnes.
+Hector ot non li ainz nez fiz :
+Onques plus proz ne fu norriz;
+Tant fist de sei, tant ot bonté,
+Toz jorz en sera mais parlé.
+Li autre après ot non Paris :
+Cil fu mout beaus e de grant pris.
+Li tierz ot non Deïphebus,
+E li quarz après Helenus :
+Cil fu devins, deviner tot ;
+Mout par fu sages, grant sen ot.
+Li quinz Troïlus aveit non :
+Gent ot le cors e la façon,
+Trop fu de grant chevalerie;
+Assez sera avant oïe
+PageV01P150
+La merveille qu'il fist de sei ;
+Cil ot le pris de maint tornei.
+Des treis filles ot non l'ainz nee
+Andromacha : mout fu senee,
+Mout fu bele, mout fu corteise,
+Mout ama honor e proëise.
+Cassandra ot non cele après :
+De deviner sot cele adès.
+Polixena fu la puis nee :
+Mais a Troie n’en la contree,
+Ço vos di bien de verité,
+N'ot onc femme de sa beauté.
+Ço dit l'Escriz, que trente enfanz
+Aveit ancor li reis Prianz,
+Qui esteient bon chevalier,
+Mais n'erent mie de moillier.
+O tant de gent com li reis ot,
+Vint a Troie come il ainz pot.
+La cité trova eissilliee
+E la gent morte e detrenchiee;
+Tot trova ars, guast e fondu,
+Robé, maumis e abatu ;
