@@ -12,7 +12,7 @@
 #META#	AuthorFl2
 #META#  TextTitle       :: Roman de Troie
 #META#  TextSubtitle
-#META#  TextVols        :: 1
+#META#  TextVols        :: 5
 #META#  TextSubj        :: romance
 #META#	TextDom         :: lit
 #META#	Translation     :: true
@@ -27,7 +27,7 @@
 #META#  EdEditor        :: Constans, L.
 #META#  EdPlace         :: Paris
 #META#  EdPublisher     :: Didot
-#META#	EdVol
+#META#	EdVol           :: 1
 #META#  EdYear          :: 1904
 #META#  EdPages
 #META#  MsBase
