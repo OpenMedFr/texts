@@ -1,0 +1,742 @@
+#META#  TextURI         :: BenTroieC
+#META#  DEAF            :: http://www.deaf-page.de/bibl/bib99b.php#BenTroieC
+#META#  TL              :: Troie
+#META#  FEW             :: BenSMaure
+#META#  ARLIMA          :: https://www.arlima.net/ad/benoit_de_sainte-maure.html#tro
+#META#  Author          :: Benoît de Saint-Maure
+#META#  AuthorBorn
+#META#	AuthorBornAmb
+#META#  AuthorDied
+#META#	AuthorDiedAmb
+#META#	AuthorFl1
+#META#	AuthorFl2
+#META#  TextTitle       :: Roman de Troie
+#META#  TextSubtitle
+#META#  TextVols        :: 5
+#META#  TextSubj        :: romance
+#META#	TextDom         :: lit
+#META#	Translation     :: true
+#META#	Collection      :: SATF
+#META#	CollectionNo
+#META#  TextDescARL     :: vers octosyllabiques à rimes plates
+#META#  TextDescVers    :: 8
+#META#  TextDateARL     :: 1165
+#META#  TextDateAdj     :: 1165
+#META#	TextDateMin
+#META#	TextDateMax
+#META#  EdEditor        :: Constans, L.
+#META#  EdPlace         :: Paris
+#META#  EdPublisher     :: Didot
+#META#	EdVol           :: 4
+#META#  EdYear          :: 1904
+#META#  EdPages         :: 1-36
+#META#  MsBase
+#META#  MsOther
+#META#  MsNum           :: 58
+#META#	MsDateARL
+#META#	MsDateAdj
+#META#	Form            :: v
+#META#	Complete        :: partial
+#META#	NoWords
+#META#	NoLines
+#META#	DialAuth
+#META#	DialScribe
+#META#  ScanURL         :: http://gallica.bnf.fr/ark:/12148/bpt6k5097n
+#META#  ScanURIOther
+#META#  ArkID
+#META#  LccnID
+#META#  OclcID
+#META#  WebAuthor       :: NYU Buenos Aires TallerHD
+#META#  ORCIDWebAuthor
+#META#  WebReviewer     ::
+#META#  ORCIDReviewer   ::
+#META#  MiscInfo        ::
+#META#	CCLicense	    :: CC BY-NC-SA 4.0 International
+
+PageV04P001
+# | DESCRIPTION DE L'ORIENT; LE ROYAUME DES AMAZONES
+Ҫo que terre e mer avirone,
+Si com la Letre dit e sone,
+Est Ocean dreit apelé.
+En quatre parz est devisé
+Li mondes toz : c’est Oriënz,
+Meridïès e Occidenz,
+Septentrion; en co contient
+Li cercles qu’Abismes sostient.
+PageV04P002
+Julius Cesar, li senez,
+Qui tant fu sages e discrez,
+Fist tot cerchier e mesurer.
+Soz ciel nen ot terre ne mer,
+Isle, province, pui ne flun,
+Ne pueple en tot le mont nes un,
+Qu’il ne meïssent tot en letre.
+Grant chose fu de l’entremetre :
+Trente dous anz i demorerent
+Cil qui grant peine i endurerent.
+Trente mers distrent qu’i aveit,
+En tant com li mondes teneit :
+N’en i a plus ne plus n’en distrent
+Ne, ço sacheiz, plus n’en escristrent.
+Devises sont e totes un :
+D’eles renaissent grant li flun
+Qui par les terres sont corant
+E qui en eles sont rentrant.
+Cinquante sis tant solement,
+PageV04P003
+En tant com tient le firmament,
+N’en i a plus, fors cez nomez,
+Qui aient principalitez, —
+Maint eves sont e maint ruissal,
+Qui ne sont mie principal —
+N’en i a mais cinquante sis,
+Ensi come en l’Estoire truis.
+Seisante doze isles resont,
+Si n’en a plus en tot le mont
+Dont il seit faite remembrance,
+N’ou rien vivant prenge naissance.
+Quarante pui, tot par egual,
+Resont qui seient principal :
+Plusor e maint en sont assez,
+Mais n’en est traite autoritez
+Ne n’en fu la descripcion,
+Ne mais de quarante par non.
+Les provinces furent contees
+PageV04P004
+E a seisante dis nombrees :
+Sacheiz que plus n'en i troverent
+Cil qui par tot le mont alerent.
+Es treis parties devisees
+Que ariere vos sont contees, —
+Ço est en cele d’Oriënt
+E en icele d’Occident
+E en Septentrion, — troverent
+Sis vinz e cinc genz e nombrerent.
+En la partie de Midi
+Ne pot estre seü n’oï
+Des genz nule diversité :
+Por le grant chaut desmesuré,
+Por les deserz, por les vermines
+Granz, orribles e serpentines,
+N’i oserent les piez porter;
+Onc ne lor vint nes en penser.
+N'en distrent rien ne il ne porent,
+Quar onc la verité n’en sorent.
+Se jo fusse auques leisantis,
+PageV04P005
+Dreiz fust e biens, ço m’est a vis,
+Que cestes terres vos nomasse
+E que les choses devisasse
+Dont ci est faite mencion ;
+Mais n’est or lieus ne ne poon :
+Trop grant estuide i covendreit,
+Qui de trestot parler voudreit.
+Tant par en est grant la matire
+Que, quil cotnencereit a dire,
+Ne sereit pas sempres a fin :
+Trop i covendreit parchemin.
+Ici covient que jo m’en taise,
+Mais s'aveir puis e lieu e aise,
+Tel uevre voudrai embracier
+E envaïr e comencier
+Qu’en tot le mont n’avra partie,
+Ou qu’ele seit, que jo ne die
+Quel est, com grant e corn bien tient,
+PageV04P006
+Ne qu’il i a ne qu’i avient,
+Quel nature ont li element,
+Quel les contrees, quel la gent.
+Tot en dirai, se jol comenz,
+Qu'a ço sofist bien nostre engenz.
+En la partie d’Oriënt,
+Dont jo parlai premierement,
+A sol uit mers : c’est Caspion
+E l'autre mare Persicon ;
+La tierce a non, ço m’est a vis,
+A dreit, mer Tiberiadis ;
+La quarte rapelent après
+Par non la mer Alphatenès
+E la quinte mare Rubron,
+La siste mer Arabicon ;
+La setme mer a non Caphorte
+PageV04P007
+E Poitme apelent la mer Morte.
+Icil avreit assez a faire
+Qui bien voudreit dire e retraire
+Corne eles sont e les manieres,
+Ne dont eles sont plus plenieres.
+Nuef isles ra en Oriënt :
+En totes nuef conversent gent.
+Ipopodès, la plus lointaine,
+En apelent la premeraine ;
+Taprobane, c’est Pautre après,
+Que dous itanz est graindre e mais;
+La tierce a non Elephantine :
+Mainte chiere espece a mecine
+Creist en li buene e preciose ;
+PageV04P008
+La quarte isle ra non Therose :
+Chipre, Rode, Citherea,
+Crete la grant e Carphata.
+Qui les merveilles vos direit
+Qu’es isles sont, que l’om i veit,
+A fort chose le tendriëz,
+Rien tant volentiers n’orriëz.
+Set puis i ra : c’est Caucasus,
+Sina, Cametès, Libanus,
+Armenius, monz Bodians,
+E li setmes monz Casians.
+Qui direit les descripcions,
+En queus lîeus n’en queus regions
+PageV04P009
+Il sont, ne queus flueves i cort,
+Li queus en naist, li queus en sort,
+Come il sont haut, com bien il tienent
+Ne com granz choses i avienent,
+A grant merveille vos vendreit
+Com faitement ço avendreit.
+En icez lieus Oriëntaus,
+Vint e dous flueves principaus
+A solement : ço est Gangès,
+Sigoton e Therioclès,
+Exos, Cametès, Sigota,
+Eüfratès e Carmanta ;
+Armedius, c’est li novains,
+Qui de mainte merveille est pleins;
+Suse, Cortace e Ydaspès,
+Crisoras li trezains après ;
+PageV04P010
+Diapagite e Pactolus,
+Alibota e Taxius,
+Eleüzer e Azonis,
+E li vintains a non Tigris;
+Crisos, Jordans : c’est le derier.
+Qui sor icez voudreit traitier
+E dire de queus lieus il vienent
+Ne en queus lieus il se detienent,
+Queus viles sont sor eus asises
+Ne de queus regnes sont devises;
+Qu’il a en eus ne qu’ont i prent,
+Bien sai de veir certainement
+Que volentiers i entendreient
+Cil qui retraire le m’orreient.
+En cest Oriental partie,
+De ço ne redotons nos mîe,
+PageV04P011
+A treize provinces contees :
+Oëz corne els sont devisees.
+Perse, Inde, Isaure e Azonis;
+La quinte Sine, ço m’est vis;
+La siste a non Apamena,
+L’autre Mesopotamia;
+Phenice, Assire, Commacine;
+L’onzime apelent Palestine ;
+Sire, la plus chaude, l'ardant,
+E Mede, que mout par est grant.
+Toz Oriënz trestoz entiers,
+Qui del mont est l'uns des quartiers,
+En icez choses est compris
+E des autres treis parz devis
+Dont jo ne vueil or plus traitier,
+Qu’a ço me covient repairier
+Por que j’ai de tot ço tochié.
+PageV04P012
+Ço nos recontent li Traitié
+E li grant Livre Historial,
+Qu’en la partie Oriëntal
+Est Amazoine, terre grant :
+Oëz que nos trovons lisant.
+De femmes est tote habitee :
+De tant com dure la contree,
+N’i enterra hom a nul jor.
+Mais, si com diënt li autor,
+Delez la terre près assez
+A un isle qui bien est lez :
+Seisante liuës tient al meins ;
+De precios arbres est pleins
+E d’erbes chieres speciaus.
+Plains est li isles e eguaus
+E delitos e riche e bel.
+La vont contre le tens novel.
+Bel s’atornent e richement :
+Precios sont lor vestement
+PageV04P013
+Dès qu'est li meis d’avril entrez
+Desci que juinz s'en est alez,
+I sont a joie e a sojor.
+Li home des regnes entor
+Vienent a eles : c'est lor us.
+Treis meis i sont e neient plus,
+A mout grant joie les receivent :
+Adonc empreignent e conceivent.
+Les plus beles, les plus preisiees
+N’i sont eües n'atochiees
+Se de ceus non qui ont valor
+E qui plus ont pris e honor :
+Li plus vaillant as plus vaillanz.
+Iluec aportent les enfanz
+Qui masle sont e d'eles né :
+As peres sont iluec doné,
+Que ja un sol n'en retendront
+Ne plus d’un an nel morriront;
+Les meschines, celes norrissent.
+E quant ço vient qu'il departissent,
+Tot l’an sont puis, ja de ses ieuz
+Nes verra hom, jovnes ne vieuz :
+PageV04P014
+S'en lor terre meteit les piez,
+Sempres sereit toz detrenchiez.
+D’eles i a mout grant partie
+Que ja a nul jor de lor vie
+Ne seront d’omes adesees
+Ne ja n'ierent despucelees.
+Armes portent : mout sont vaillanz
+E hardies e combatanz,
+E en toz lieus en sont preisiees.
+Avenu est maintes feiees
+Que eisseient de lor pais :
+Armes portent por aveir pris.
+# | Vingt et unième bataille ; exploits de Panthesilée.
+En icel terme e en cez anz
+Que cist sieges esteit si granz
+A Troie, esteit en lor contree
+La reine Panthesilee.
+Proz e hardie e bele e sage,
+De grant valor, de grant parage,
+Mout ert preisiee e honoree ;
+PageV04P015
+De li esteit grant renomee.
+Por Hector, que voleit veeir,
+E por pris conquerre e aveir,
+S’esmut a venir al socors.
+Mout furent riches ses ators.
+Mout amena riche compaigne
+E fiere e hardie e grifaigne :
+Mil dameiseles adurees,
+Forz, aidanz e bien armees
+Sor bons chevaus Arabiëis;
+Mout par orent riche herneis,
+Tant errerent par lor jornees,
+Tant trespasserent des contrees
+Qu’a Troie vindrent : c'ert mestiers.
+Dous meis e plus trestoz entiers
+Aveient Greu sis as portaus,
+Que n’en esteit eissu2 vassaus :
+Prianz n'i laissot porte ovrir,
+Qui les atendeit a venir.
+Quant noncié fu Panthesilee
+La dolorose destinee
+Qu'Ector ert morz, mout l'en pesa :
+PageV04P016
+Un si fait duel en demena
+Que nus ne vit onc si grant faire;
+Por poi ne se mist el repaire,
+Bien ert seü qu’ele l’amast,
+Se fust qu’en vie le trovast.
+Troïen sorent sa venue :
+Contre li est lor gent eissue,
+Li reis Prianz li fait grant joie,
+E tuit icil qui sont a Troie.
+Panthesilee grant duel fait,
+Quant li reis li dit e retrait
+Son duel e son grant desconfort,
+E com si fil esteient mort :
+« Sire, » fait la franche re'ïne,
+« Trop a ici fiere destine :
+« Onc mais tel perte ne fu faite.
+« Sacheiz de veir mout me deshaite
+« Que jo Hector ne truis en vie :
+« Toz jorz en serai mais marrie;
+« Plus l’amoë que rien vivant.
+« La perte de lui est trop grant,
+PageV04P017
+« Mais en ço n’a nul recovrier.
+« Faites voz genz apareiliier,
+« S’irons la fors as Greus parler :
+« Jusqu’a poi lor voudrai mostrer
+« Queus puceles jo meing o mei
+« Ne qu’eles valent en tornei.
+« Duel ai d’Ector sor tote rien :
+« Ancui s’en aparçevront bien.
+« Sa mort lor ferai comparer :
+« Ja ne s’en savront si guàrder. »
+Que vos ireie porloignant?
+Somondre a fait le rei Priant
+Totes ses genz, qu’uns n’i remaîgne.
+La ot atachié mainte enseigne
+E maint penon en fust plané.
+Tote s’estormist la cité :	.
+Par tôt s’armèrent comunal.
+La ot covert maint bon cheval,
+La ot eschîeles devisees :
+En unes places granz e lees,
+Delez unes tors anciënes,
+PageV04P018
+S’armèrent Amazoniënes.	;
+Un hauberc vest Panthesilee
+Plus blanc que neis desor gelee :
+Onques nus hom, ço sai de veir,
+Si bel armé ne pot veeir.
+Dous puceles mout honorees
+E de lor dame mout amees
+Li ont el chief son heaume asis :
+Riches dut estre et de grant pris,
+Quar lï cercles e li nasaus
+Fu toz a pierres préciaus
+Plus resplendissanz que n’est rai.
+Sor un cheval d’Espaigne bai,
+Plus grant, plus fort e plus vaillant
+D’autre cheval e plus corant,
+Est montée delivrement,
+Pleine d’ire e de mautalent.
+PageV04P019
+Coverz fu toz d’un drap de seie,
+Qui plus que flor de lis blancheie.
+Cent escheletes cler sonanz,
+Petites, d’or, non mie granz,
+I atachent. Senz plus targier,
+A ceint le brant forbi d’acier,
+Dont el ferra granz cous maneis.
+Un fort escu plus bIanc que neis,
+O une bocle de fin or,
+Orlé de pierres tot le bor,
+De bons robins clers e ardanz
+E d’esmeraudes verdeianz,
+Par la guige d’orfreis l'a pris,
+Si l'a al col serré e mis.
+Une lance de fust fraisnin,
+O un trenchant fer acerin,
+Li a baillié une pucele,
+0 une enseigne fresche e bele.
+Hastivement, senz demorer,
+À fait sa maisniee monter:
+Mil sont e plus, n’i a pas dis
+PageV04P020
+Que bien n’aient armez les vis,
+Les chiés, les braz e les costez.
+Sor les haubers dobliers safrez
+Ont Ior beaus crins toz destreciez,
+Si reluisanz e si peigniez
+Qu’ors esmerez semblast oscurs.
+O hardiz cuers e o seürs,
+Chevauchent dreit vers les portaus,
+Les escuz pris, sor les chevaus.
+Puis que li mondes comença,
+Ne ja mais tant corne il durra,
+N’iert mais veüe tel compaigne:
+N'i a cele qui n’ait enseigne
+E grosse lance o fer d’acier.
+Mout oïsseiz les deus preier
+As gentis dames honorees,
+Que de Ia vile esteient nees,
+Qu’il les defendissent le jor
+De mort, de perte e de doIor.
+Armez se fu Philemenis,
+Qui prochains ert de lor païs:
+PageV04P021
+Cil lor voudra estre en aïe,
+Tant com li iert el cors la vie.
+O lui sont li Paflagoneis,
+Qui onc jor n’amerent Grezeis,
+Li rei, Ii prince e li demeine.
+Chascuns de l'atorner se peine
+Com le puissent le jor si faire.
+E tant lor enemis forfaire
+Par que des portaus les desjoignent:
+Por voir vos di, mout s’en besoignent.
+Sor les murs hauz e crenelez
+Sont li arbalestier montez,
+E cil qui les granz peus aguz
+E les pesanz chaiIlous cornuz
+Geteront, si que mort seront
+Tuit cil qui d’eus s'aproismeront.
+Quos ireie lonc plait faisant?
+Establi a le rei Priant
+Liquel s’en istreient premier,
+PageV04P022
+Li quel après, li quel derrier.
+Toz premerains, ço m’est a vis,
+S’en est eissuz Philemenis
+O la soë gent honoree,
+Que mout est fiere e redotee;
+Dardanidès ont fait ovrir.
+Donc poïsseiz tomoute oïr,
+Granz sons, granz noises e granz criz
+E d'olifanz granz corneïz.
+Cil de Grece, senz demoriers,
+Resont monté sor lor destriers ;
+Tost ont lor cors d’armes guarniz
+E toz lor conreiz departiz.
+Cil qui s’en issent del portal
+Sont aduré e bon vassal.
+Enz el mi lieu del grant tas d’eus
+Les vont ferir iriez e feus,
+PageV04P023
+Que sor haubers e sor cuirieés
+Lor ont lor lances peceiees.
+Des ataïnz chiet sor le sablon
+Mainz qui ne diënt o ne non.
+Les mains ont mises as espees,
+E sin donent de teus colees
+A ceus defors que mare i virent.
+Si faitement les recoillirent
+Que bien le tierz o la meitié .
+En ont sempres deschevauchié.
+S’adonc ne fussent li archier
+E des murs li arbalestier,
+Mauvaisement lor i fust pris.
+Mout le fait bien Philemenis ;
+Mout rescot bien ses abatuz
+E chier lor a ses morz venduz :
+Seisante i a des suens rescos,
+Qui pasmé gisent en l’erbos.
+A la rescosse des premiers
+PageV04P024
+S’en eissirent mil chevaliers :
+Sor les chevaus, pris les escuz,
+O les bons espiez esmoluz,
+Envaïr vont lor enemis
+E aïdier Philemenis.
+Polidamas li proz les guie,
+Qui hautement s’enseigne escrie.
+Un rei ataint : ne failli pas,
+Mort le geta en mi le tas.
+Ici resfondrent mainte broigne,
+E si vos di que grant essoïgne
+Lor i creisseit, quant cil dedenz
+S’en eïssirent o lor granz genz,
+Dis mile e plus, serré estreit.
+Qui icele asemblee veit
+Dire puet bien qu’onc tel dolor
+Ne si desmesuré estor
+Ne vit ne ne verra ja mais.
+PageV04P025
+La trenchent des escuz les ais
+E des heaumes les coinz aguz ;
+Del sanc i est grant la paluz
+Qui de mil cors chiet e devale,
+Si que tuit en sont freit e pale.
+Icist contenz dura assez
+Enz es trenchiees des fossez,
+Tant que li proz Diomedès,
+Li dus d’Athene e Ulixès
+E Telamon e Aïaus,
+Agamennon e Menelaus
+Lor firent un envaiement,
+E si vos di certainement
+Que cil dedenz s’en rentrissient
+Mout volentiers, s’il poïssient.
+Mais de poi de gent fu l’entree
+De la porte si estopee
+Que n’en i pot le disme entrer :
+PageV04P026
+Por ço les covint a torner.
+Si firent il com por la mort :
+La fu si dotee la sort
+Qu’il n’i ot nul tant fust hardiz,
+Qui iluec ne fust esfreiz.
+Damage a grant d’ambedous parz,
+Mais o saietes e o darz
+E o quarreaus que cil lor traient,
+Qui mout en ociënt e plaient,
+Ont fait les Greus retraire en sus :
+Cinc cenz de lor homes e plus
+Laissent dedenz les granz fossez;
+Sor eus fu toz li criz levez.
+Bien s'i aident cil dedenz,
+Bien fu recovree lor genz.
+Adonc i vint Panthesilee
+O sa gent estreite e serree,
+PageV04P027
+Que mout ert fiere e combatant.
+Li brieuz des lances i est grant ;
+Haut s’escriënt a l’avenir,
+Mais soz ciel n’est rien a oïr
+Avers eles : lais de Bretons,
+Harpe, viële n’autre sons
+N'est se plors non avers lor criz.
+Sor les escuz peinz a verniz
+Vont Grezeis férir senz demore :
+Tant en abatent en poi d’ore
+Que toz en cuevre li herbeiz.
+Dès ore engroisse li torneiz :
+En mi les ventres les ataignent
+Si que des arçons les empeignent
+E si que les gros fuz planez
+Lor remainent par les costez.
+Quant les lances sont debrisiees,
+Si ont les espees sachiees,
+Dont els fierent granz cous e fiers :
+PageV04P028
+Ci ot traïn de chevaliers,
+Ci ot si fait abateïz
+E si angoissos chapleïz
+Que rien riel poüst pas sofrir.
+Ço puis bien dire senz mentir
+Que cil defors sont si branlé
+Qu’a peine sont puis aresté.
+Merveilles fait Panthesïlee :
+Ja n’i ferra coup de s’espee
+Qu’un n’en ocie. Maïs griefment
+Lï remaumetent Greu sa gent.
+O Menelau josta la bele,
+Qu’envers le mis t jus de la sele ;
+Al meins en ot le milsoudor :
+Maint en i guaaigna le jor.
+Ele e Diomedès josterent ;
+De plaïn eslais s’entrecontrerent,
+PageV04P029
+Que les lances enastelerent
+E que les escuz esfondrerent.
+L’escu lï toli la reïne :
+De cel jor n’en ot puis saisine.
+Soz lui s’enarbra son destrier ;
+Moût par fu près del trebuchier.
+Coneü a bien sa ruistece
+E sa vertu e sa proëce.
+Redotee est en petit d’ore :
+Es greignors presses lor cort sore ;
+Sovent lor fait muer estaus
+E guerpir seles e chevaus.
+Bien li aident ses puceles :
+Sanc i espandent e cerveles,
+Toz les conreiz font traire ariere,
+PageV04P030
+Si vos di bien que la poudriere
+Est del sanc vermeil destempree.
+Rei Telamon mout desagree
+Ço que il veit : nel puet sofrir ;
+Panthesilee vait ferir.
+Sorprise l'a, ne le vit pas ;
+Jus l'abati en mi le tas ;
+Puis met la main al brant d’acier,
+En mi eles se vait plongier.
+A treis en fait les chiés voler,
+Mais mout le dut chier comparer,
+Qu’abatu l'ont de son destrier ;
+Par quinze lieus li font raier
+Le sanc del cors par mi la broigne.
+Ci li dut creistre tel essoigne
+Qu’o l'aïde Philemenis
+L’en menoënt entre eles pris.
+A peine pot rescosse aveir.
+Mais par force e par estoveir
+Le lor toli Diomedès,
+PageV04P031
+Qui d'armes i sofri tel fais
+Qu’onques, puis l’ore qu’il fu nez,
+Ne fu en estor si grevez.
+Anceis que il fust departiz,
+En i ot tant des espasmiz
+Que l’om n’en sot le nombre dire.
+Onc si fait duel ne tel martire
+Ne vit rien nee de ses ieuz :
+Dès or covient baissier orguieuz.
+Panthesilee se rescrie,
+Ses puceles o sei ralie,
+Puis lor chevauche de rehiz.
+Adonc i rot grant fereïz
+E grant bataille tote jor;
+Mais, si com reconte l’Autor,
+Par l’esforz des Amazoneîses,
+PageV04P032
+Des franches puceles corteises,
+Furent Greu si estouteié
+E si laidi e si plaié,
+E tant perdirent de lor gent
+Que, senz autre recovrement,
+Lor estut la vile guerpir
+E as herberges revertir,
+Mout laidi e mout desconfit.
+Se la nuit n’en preïst respit,
+De la bataille mailestast :
+Sacheiz ja pîez n’en eschapast.
+La reïne Panthesilee
+Lor a tres bien l’ire mostree
+Qu’ele a d’Ector : comparé l'ont
+E plus, s’el puet, le comparront.
+Sacheiz, ensi com nos lisons,
+Pris les eüst es paveillons
+Morz e vencuz e detrenchiez,
+Que ja n’en eschapast uns piez,
+PageV04P033
+E des nes arses tot le plus,
+Ne fust sol li fiz Tydeüs.
+Mais il sis cors lor destoli.
+Qui grant fais d’armes i sofri :
+Ja n’avront mais o lui sojor.
+Ainz qu'il partissent de l’estor,
+Fu vespres bas e nuit prochaine :
+Assez orent travail e peine.
+Li Troïen o lor conreîz,
+Le petit pas, serrez, estreîz,
+S'en entrent enz : mout l’ont bien fait
+De trestoz fu dit e retrait
+Que la reïne, senz desdit
+Qui fust de grant ne de petit,
+Aveit le pris de cel jornal,
+Si que li dui meilior vassal
+N’aveient d’eus tant fait d’esforz
+Ne tant des lor ocis ne morz
+Com la reïne solement.
+PageV04P034
+La nuit li firent maint present,
+Mout l’ont joïe e honoree ;
+Cele nuit l’ont bien celebree
+E fait ses buens e ses talanz.
+Toz cuide estre rescos Prianz
+Par li e par la soë gent :
+Entre ses braz l’acole e prent,
+Merciz li rent, tot sei li done
+E quant qu’il a li abandone.
+Mout li fait grant pitié li vieuz,
+Quar tendrement plore des ieuz
+De ses fiz e de son damage.
+E cele, come proz e sage,
+Le conforte mout bonement.
+La nuit jurent seürement
+En la cité : mais li Grezeis
+Sont en grant crieme e en sospeis
+Qu’il ne seient l’endemain pris
+E par asaut del tot conquis.
+Esguardé ont qu’as paveillons
+Sera tant lor defensions
+Que Menelaus seit repairiez
+PageV04P035
+De la ou il ert enveiez
+E que li fiz Achillès vienge :
+N’i a un sol qui ne s’en crienge.
+Cele nuit se sont bien guarni,
+E quant li jorz fu resclarci,
+Si se rarmerent cil dedenz,
+Fors s’en eissi tote lor genz.
+Lor conreiz ont bien devisez ;
+Ainz que li soleiz fust levez,
+Furent il près des paveillons.
+Quant Greu virent les confanons
+E les compaignes avenir,
+Lor armes sont alé saisir :
+Defendront sei, o autrement
+Lor ira ja trop malement.
+Devant les tentes se rengierent,
+E cil de Troie s’aproismierent,
+Quis vont ferir senz autre esguart.
+La volent saietes e dart,
+La ot estor dur e mortal,
+PageV04P036
+La ot detrenchié maint vassal ;
+La furent Greu requis a mort,
+Mais mout se defendirent fort.
+Il perdent mout, mais nequeden
+Chier le comperent Troïen.
+Li asauz fu mout granz e fiers,
+Tant com dura li jorz entiers.
+La reïne de Femenie
+Lor i a fait mainte envaïe :
+Entre li e ses dameiseles,
+Lor font oïr freides noveles.
+Par maintes feiz les derompeient
+De la ou il se defendeient :
+Onc tel dolor gent ne sofrirent
+Ne si faite perte ne firent.
+Icest asaut, icest martire
