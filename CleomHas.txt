@@ -615,7 +615,8 @@ PageV01P017
 Et vous tiengne en la droite voie
 Des bons honnorer et servir
 Et de leur service merir."
-# |Tantost fist li rois commander
+# |
+Tantost fist li rois commander
 Que on feïst tost arréer
 Cotes de dras d'or et mantiaus
 Pour trois cens chevaliers nouviaus,
@@ -623,7 +624,8 @@ Et chascun armes et destrier
 Veut c'on leur face appareillier
 Pour amour de ce k'adouber
 Veut son fill et armes donner.
-# |Tost fu la besoigne arréée,
+# |
+Tost fu la besoigne arréée,
 Puis que li rois l'ot commandée.
 Chevalier furent au tiers jour.
 Sachiez que mainte grant honnour
@@ -634,7 +636,8 @@ Donné y ot maint riche don.
 La feste fu et bele et grant,
 Et li jours aloit aprochant
 Que la bataille estre devoit.
-# |D'ambes II pars vinrent là droit
+# |
+D'ambes II pars vinrent là droit
 Où estre devoit la bataille.
 Lacié y ot mainte ventaille
 Et mainte fort broigne endossée ;
