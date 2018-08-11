@@ -1,0 +1,1486 @@
+﻿#META#  TextURI         :: AigarB
+#META#  DEAF            :: http://www.deaf-page.de/bibl/bib99a.php#AigarB
+#META#  TL              
+#META#  FEW        		
+#META#  ARLIMA          :: https://www.arlima.net/ad/aigar_et_maurin.html
+#META#  Author          
+#META#  AuthorBorn 
+#META#	AuthorBornAmb
+#META#  AuthorDied
+#META#	AuthorDiedAmb
+#META#	AuthorFl1
+#META#	AuthorFl2
+#META#  TextTitle       :: Aigar et Maurin
+#META#  TextSubtitle	  
+#META#  TextVols        
+#META#  TextSubj        :: epic
+#META#	TextDom         :: lit
+#META#	Translation     :: false
+#META#	Collection
+#META#	CollectionNo
+#META#  TextDescARL     :: vers décasyllabiques répartis en laisses monorimes
+#META#  TextDescVers    :: 10
+#META#  TextDateARL     :: 12e s
+#META#  TextDateAdj     
+#META#	TextDateMin     :: 1100
+#META#	TextDateMax     :: 1199
+#META#  EdEditor        :: Alfred Brossmer
+#META#  EdPlace         :: 
+#META#  EdPublisher     :: Romanische Forschungen
+#META#	EdVol			:: 14
+#META#  EdYear          :: 1903
+#META#  EdPages        	:: 1-102
+#META#  MsBase         
+#META#  MsOther         
+#META#  MsNum           :: 1
+#META#	MsDateARL
+#META#	MsDateAdj
+#META#	Form            :: v
+#META#	Complete        :: true
+#META#	NoWords
+#META#	NoLines
+#META#	DialAuth		:: occitan
+#META#	DialScribe
+#META#  ScanURL         :: https://archive.org/details/romanischeforsch14franuoft
+#META#  ScanURIOther	::
+#META#  ArkID        	:: ark:/13960/t9377j81z 
+#META#  LccnID          
+#META#  OclcID         
+#META#  WebAuthor       :: David Joseph Wrisley 
+#META#  ORCIDWebAuthor  :: orcid.org/0000-0002-0355-1487
+#META#  WebReviewer     
+#META#  ORCIDReviewer    
+#META#  MiscInfo        :: 
+#META#	CCLicense		:: CC BY-NC-SA 4.0 International
+
+
+# |
+Ke d'un estais en ac dos abatus.
+Point Fortunet e venc los sais menus.
+Van s'en ferir li jovenes el canus;
+Per los blizons passe lo fers agus,
+E peills osbers se sentent as cors nus; 
+Fraignent les astes, mais non es uns mogus. 
+Maurins s'en passe e claime els confondus, 
+Ke cel sol es en sele rem asus :
+"Ai, reis Aigars, ves com es erobus:
+Oi nep, oi fils o catent t'est cregus,
+E non sai dont, k'anc plais non fo sobus; 
+Mais molt er pros quant er reconogus,
+Tos tos afars te jetera a lus."
+Lo socors broce el caples es tengus.
+# |
+Fors es li caples que tenent li baron. 
+Draugue de Saure poig al socors Folcon,
+El fils del rei fait son tor per cambon;
+K' Aimont apele amie e conpaignon,
+De Mirasvaus, lo fil al comte Aimon,
+Un soldader de ceP autre rejon:
+"Se vassaus es e fres, conquer ton don." 
+Cel venc broçant entrels rens a bandon, 
+Enmi la presse vait jostar a bandon,
+Fer le en l'escut, u a d'aur un lion, 
+K'enmei lo pis tot lo fer li repon;
+Kant l' aste fraig, nou laiere en l'arçon; 
+E lo coms Draugue ferit si lui el son 
+Ke plane s'aste l'abatet el sablon,
+Prent lo cavau balçan de Quarrion 
+E lo donet son fraire en guiardon.
+Aitant la force p ... ms el gonfanon.
+E li reiau poignent ab esporon 
+E mainent los derer el prat Frimon,
+O lor sont bornes los barres el buisson 
+E li arcer el servent el poon 
+Ke tengut n'anc cen cavaus qui son bon; 
+Mil cavaillers estre Borel Ponzon.
+K'il lor dara, s'el ven a raençon,
+Mil liures d'aur, n'i aura maint mangon. 
+El fils del rei del tornar s'essomon; 
+Renjas s'en vai o tote sa prison.
+# |
+Mauris s'en vai el prat joste el navei,
+E eil s'en vant tuit renjat e estrei.
+Ce dis Sicars: "Maurin, crees en mei: 
+Hui a trente ans que auges autal lei,
+Ke ia toses ans de vos non folei.
+Molt o fet mal vils hon d'aital agrei. 
+Perte avas fete e non sabes per kei:
+Ki fet bataille c'onsa force non vei, 
+Desconfis es per raison e per drei."
+E li reial cavalcent a esplei.
+Desos Peride al moster sant Elei 
+Es herberjas la nuit el fils del rei, 
+L'abes Guillelme lor doneit lo conrei;
+Ni trais osberc ni desçant son baldre[i] 
+Tros al matin que lo jors lor parei;
+Kel mes ... mil ... lo galei.
+E m ... del .. as ab un gonfanon frei 
+Sos Elroide passare lo rabei.
+Cil lo persiguent e cadus ... co crei.
+Li coms Maurins lor renge lo tornei;
+Er i poc far cel qui er non i fei.
+# |
+Lo rabei passent e mesclent los torneis;
+E poc i far cel qui ben es apres.
+K'a Maurin joig lo coms Tiebaus de Bles, 
+E ab Bertran Berengers li Daneis,
+E ab Draugon Manigos d'Espaneis,
+E ab Folcon Rainers de Looneis.
+Entre rens poins qui d'armes es cortes;
+Ben i estant e Normant et Frances.
+Enmi la presse, lai o sont plus espes,
+Joins a Sicar Milaves lo Galeis;
+Tant grans se donent per los escus d'Orles 
+Ke tot se trauquent los ausbers tiones.
+Lui el cavau a tot Sicar jus mes;
+Ben li estere s'el cavau non caies. 
+Fraignent los anstes e ronpont li aurfres,
+E aui dire per conte que veirs es:
+Ans que socors partis nis remanes,
+N'i ac cagus per veir LX e treis.
+Tal mil cavaus i ant canjat e pres,
+K'un sols non tome a l'estable dont es.
+# |
+Lo torneis mescle sos los vignes d'Aissent. 
+Lo coms Maurins lai cadele sa gent,
+E li arcer e borjeis e servent 
+Tenont los barres eis fossas ausiment.
+El fils del rei fai un envaïment;
+Per lo boscau intret lains poignent 
+E vait ferir Bertran qui lo deffent.
+L'escut li trauque e Posberc li concent 
+E l'aste fraig, per quei el non descent. 
+Bertrans fer lui el bon cavan movent 
+Per mei le cap que tot lo fer i fent,
+Kel gonfanons denant los iels li pent; 
+Aiço l' essorbe per quei s'en tome lent. 
+Cil feit son tor e is d'entr'eus corent,
+E a s'espade abat Milon d'Aiglent 
+E prent per fran lo ros liart d'Agent.
+El coms Maurins lo venc aconsegent;
+El bon destrer lo refer maintenant,
+Tros al boscau l'en menet enpaignent 
+E met lo Jos al derrer passament.
+Puis a Fortun s'en gäbe e s'en content: 
+"Estort vos ai d'aiqueste soradent;
+Si li legues tener un an vertent,
+Ne vos ni eu n'i aurem garriraent."
+E Fortunes, com la rason entent,
+Escot lo cap e de corre s'estent.
+El fils del rei, quant a terre se sent, 
+Montet el ros, per tant ac cor dolent, 
+De son socors non pot cobrar nient; 
+Meis jame a terre incols d'aige pendent, 
+Kel trais la sele el frain el garniment;
+Non la vol perdre por mil liure d'argent.
+Cel torne al renc e dis as seus rient:
+"Perdut i ai, mais auque m'esteut gent.
+Lo ...
+O ...
+Ben debent estre ...
+Entresaignat sont tuit e conoissent,
+E las do ...
+A las ...
+Laissent ...
+Cascune ...
+Non es ...
+# |
+Quant  ...
+Aiqui ...
+E los enso  ...
+Ab los ta  ...
+1E tant ca  ...
+Dont son  ...
+E de vois  ...
+Tant ca ...
+Cil eseisce  ...
+Ben gaaig ...
+XV cavau ...
+Non sen p ...
+Mais non sa ...
+Et fait sos ...
+E ac de los ...
+Mil cavaus ...
+Renjas s'e[n vai] ...
+Mors e nav[ras] ...
+# |
+Lo fil de[l rei] ...
+El coms Mfaurins] ...
+Al canp ...
+Noi ac gar ...
+Que seut no ...
+U frain u ...
+Arberc g ...
+E Maurins ...
+Tot lo ga ...
+La de nul ...
+Mais los a ...
+Tau cent ...
+Tos li sord[ere] ...
+E desarmen ...
+Enmi ...
+Trais a cons ...
+E don Folcon ...
+E don Draug[on]... 
+Maurin ...
+D'aikest ...
+Eu vos en ...
+O eu o el g[aaig] ... 
+Persegem ...
+Kar ben sai ...
+Ce dis Sicar[s] ... 
+Karnon a ...
+# |
+Ce dis M[aurins]... 
+Noil sen ...
+Nostre cavaus ...
+E nostre engin ...
+Ai, dis Mau[rins] ... 
+Parens al no ...
+Cui lo mo ...
+Kaus sorbre ...
+Si non li ...
+Ce dis Mau[rins] ...
+Tros does pl ...
+... us
+... us
+# |
+... ent
+... ent
+E fet son ban criar iradement
+C'om n'i remaigne de XV ans tros a cent,
+Neïs li monge non retiegnent servent,
+Ke trei cent mile sont a pie conbatent,
+E cavailler vint miller ausiment,
+El trap reiau sor la rivere estent;
+Tote l'autre os environ lui porprent.
+Quant dui message vingrent al rei corent, 
+Ki de son fil li disent son talent,
+Lo vasselage e son contenement,
+Tal iauc n'a reis que tot en trobles sent. 
+Is contre lui en un mul d'Aguilent,
+Tal mil de l'ost lai vant ab lui poignent, 
+Ke tuit sont d'els cobeitos e dolent;
+Car lor partirs de lor torniament 
+Los astes fraites, li escut d'aurpigment,
+El blanc osberc e li elme luisent,
+Frait e fendut per grans cops maintenent, 
+Et il nafrat e falsat e sanglent,
+E lor cavaus vant per lo canp murent;
+E non muert uns c'on aiqui non li rent. 
+Tal mil de l'ost n'ant pres avillament 
+Tros a tier die, ce sap mon essient,
+En perparant tant fort envaïment 
+K'en plorerant maire e fil e parent.
+El reis acol son fil aliegrament,
+Baiset los ies e la boce en rient.
+Ab sa maisnade libre el bore a prezent, 
+Ke li cavau non covinunt al vent.
+Al trap reiau lo paire el fils descent;
+Lo reis lo fai desarmar sei veient :
+"Molt as bel cors e escabit e gent,
+E t'es ben pres del premer ardiment;
+Ane tant pros hom non fo de ton jovent." 
+Ab tant Bos intre e Bernar de Clarvent.
+# |
+Bos e Bernars intrent, li conpaignon:
+"Dex vos saut, reis, e tos ceaus d'environ! 
+Vostre parens Falc vos met a rason,
+Cui vos feaes covent d'ista rejon,
+Auent II comtes qu'aici en queste ost son, 
+Mais il ja disent toi lo mal e lo bon.
+Un fil aves, e non sap dont se fon,
+Cui autrias vostre terre a bandon.
+S'il l'en consent tant longe teneison 
+E puis li quier, ben l'aura per bricon;
+Mais fai Pen drei, o vos diias que non,
+Que s'en aures desfiance e somon."
+Lo reis consire iras ans que mot son,
+Mais sos fils parle a guise de fricon: 
+"Enquer non vei son covent ni son don. 
+Tant com lo reis calcera esporon,
+Ni eu ni el n'i aurem ja mason;
+Mais el me serve e port mon gonfanon,
+El reis el creisse aisi com son baron,
+Ke s'el li bause a guise de felon,
+E eu l'encontre en plan ni en canbon,
+Tot lo reiame metrai a devison;
+En nostres lances portarem l'espison,
+C'om tot lom' lais o tot l'en port per son; 
+Ja non n'er lais d'escut ni de baston,
+Ni puis sa mort non auram contenchon.
+# |
+"Seigner", dis Bos, "nos en volem tornar 
+A don Falcon qui vos fais raisonar. 
+Respondes nos aitant con cuides far,
+K'a vostre fil non saben ren parlar,
+Ni messagers non deu en cort causar.
+Mais poisses er tornas oltre la mar,
+Pos er don Falc vos hom e vostre bar;
+E sel voles fais covens autreiar,
+Non n'i a plus mais s'anor abaissar 
+E ac tos jors servir e aiudar;
+Kar son ranc ten e sos plais afiar.
+Kant vos voldrez envers lui adreçar,
+Non pot per home faillir ne guerriar;
+Mais sel voles per cestui abaissar,
+Tant quel cuidas de sos plais enganar,
+S'el fos rix hom, pogre sei oblidar,
+Mais paubre es, ce dis, al rei causar,
+Nos lassera ja vius deseritar."
+"Bos", dis lo reis, "pos mais non uels estar, 
+Kalques noveles deis de la cort portar." 
+Trait son gant destre e fait son fil levar: 
+"Eu dons ma terre seguentre mon finar 
+E lo service que non ti aus vedar;
+E non retenc citat per coronar,
+Ni tor, ni sale, ni donjon, ni caslar,
+Ni abaïe que eu aie a gardar,
+Ni duc, ni comte, ni viscomte, ni par,
+Ee tos nos face lo saigrement jurar 
+E as prebos, que non puisse bausar."
+Cel pres lo don e baiset lo sollar.
+"Seigner," dis Bos, "nos vedem lo donar; 
+Kar aiquis plais non fai gins a celar.
+Taus mil n'a ci tos a gris e a var,
+Ki tuit entendent de Falcon mal menar.
+Nos en irem e sabrem li contar,
+Ke non voles bienestance mandar,
+Ni plait d'amor, ni per dreit enseignar,
+Ni pars ni fils qui son couent ant par,
+Dis hui enant vos pos en lui fidar.
+Irem nos em, e Damlisdex vos gar!"
+A l' uis del trat vant el cavau montar.
+# |
+Vant s'en andui per uns cemins ferras.
+Desos Peride en la ribere els pras
+Trobent Falcon com es contramontas,
+E don Maurin e Sicart sont delas.
+"Bos", dis don Falc, "los noves me dijas,
+E sans mentir, si com es la vertas."
+— "Per ma fei, segnre, non er ja mos canjas: 
+Lo paire el fil vimes ensens jostas,
+E ob graut ost e ob homes assas,
+Ben aesmas a XX mile d'armas ;
+E d'altre gent a tant lo reis mandas 
+Ke per sanblance es feire o grans marchas. 
+Nos fezem clam, mais pauc nos fo preizas;
+Lo vostres dreis lai fo ben rasonas.
+Lo meu veiant fui reiames donas,
+K'anc non remas ni casteaus ne citas,
+Ni abaïe, hi tors, ni fermetas;
+De tot ensems en fo sos fils casas.
+Cel pres lo don, e vos fus manechas 
+K'al premer loc u seres encontras 
+Ke vos ni el ja des iels vos veias,
+Tos lo reiames vos ere abandonas;
+A vostres lances er lo dreis essegas;
+U tot Taures, u tot l'aura en pas."
+E Falc respont: "Dex en sie laudas!
+Eu non sui dont del tot deseritas;
+En aventure sui del anor tornas.
+Se Dex me salve ma vie e mon solas 
+E mon ardit e mos mans e mos bras,
+Enquer n'ara tot mon dreit, se Deu plas,
+E aiquel plait qui m'en er destinas."
+Point le cavau qui vait tost e vias;
+Quatre arpens s'es de la terre eslaissas 
+E fu aliegres com ere fu iras.
+# |
+Falc tras sa resne sos l'ombre d'un albar; 
+Sicart apele per cossel demandar,
+E Sicars broce lo destrer balçan var,
+Ço es Lirons qu'aves auit nomar,
+Ki fu noris en fores sans baillar,
+Dont lo III breque lo annarent enblar; 
+E Salapans li fes lo brac nodar,
+Al rei de Nubie l'enmane per conprar, 
+Ben doze mile de bezans l'en fet dar,
+A la reigine l'enviet per amar.
+Maurins l'annet per proece acatar:
+En isle Fade, quant i venc arberjar,
+Det li la dosne, quel tenie molt car 
+Per son catenc e per s'anor cobrar;
+E el Sicart, qui nel volt puis laissar, 
+Kar lo vit grant e bon per cavaljar.
+E Bertrans poins Abstruget lo navar, 
+Tant bon cavau non auit hom nomar;
+E lo coms Draugue lo fal Roïn de Bar, 
+Neguns de corre mot non Pause sonar; 
+El proe Renelmes lo brun Eliazar, 
+Corteis cavaus e de corre e d'anblar;
+E Ascelins Cobeitos lo liar;
+Folque de Saure l'Alferrant d'oltremar, 
+Kel coms Maurins lai gaiegnet, li bar, 
+Kant a Rodans fu al tornei mesclar,
+Lo Maur de Tir en avint desraucar
+En terre sece qu'anc pos non poc levar; 
+Folcon donet quant non li pot vedar,
+Kel seus fo mors a Peride al intrar 
+De XXX lances maintenant sans lançar.
+El coms Maurins fes Fortun eslaissar;
+Ane non fo beste qui au lui pos annar, 
+Aitaus pervis es greus a ajostar:
+Quant le perdra, Maurins de mort se gar. 
+Ere sont set per lo conseil donar:
+"Segner", dis Falc, "eu voel a vos palar: 
+La desfiance ai fet araisonar 
+E dei ben mai ma guerre comenchar." 
+Folque respont: "Annem los encalchar 
+En las herberjes per terme d'abeurar,
+E nos siem cent a l'esporonar,
+E vos a mil annas vos enbuissar:
+Eels fils del rei es leus a traginar."
+— "Cenbeaus de nuis es malz a encalcar," 
+Ce dis Maurins "laissem aiço estar,
+Kel reis set ben sos os entregaitar,
+E lo matin, quant vira lo jor ciar,
+Fera per Tost tos sos graisles sonar,
+En vostres terres interra herbrejar,
+E a Peride venra per torneiar.
+Annem nos en garnir e adobar,
+Los elms brunir e los osbers brejar, 
+Toschar las lances e los astes dreçar,
+E los cavaus ab aure conredar:
+K'al premer jal lor toldrem lo manjar.
+Eu ai vegut reial rote ajostar,
+Ki venc cantant e puis plore al tornar."
+Ce dis Sicars: "Mils lo poriam far;
+Ki a celat nos sabrie guidar,
+Si poriem oltre cele ost passar,
+Lai non ac home qui puisse armes portar,
+Kel reis ac tot ab sei quant pot menar.
+Gent nos estere un castel laironar;
+A la maisnade Falcon pogues estar 
+Enmi lor terre per l'onor gueroiar."
+—	"Eu sai," dis Falc, "o podem faidiar:
+Al castel Lans non cuit que ren s'i gar,
+E es mos dreis, s'eu i podie intrar;
+Kel reis donet ma maire a mariar,
+Pos li bauset, que nol li vole laissar."
+Ce dis Sicars: "Annem los essajar,
+E el remaignent per la terre gardar.
+Fazem la coce e siem andui par;
+Ke mal deit traire pros hom per gaiegnar."
+—	"Seigner", dis Falc, "non fai mais a tarjar." Aiquest consseil ant fremat per celar.
+# |
+Lo consaus part quant solaus fu colchans,
+El coms Maurins vai erberjar abans.
+Draugues e Folques e Sicars l'Alemans
+E lor conpaigne qui sont bones e grans, 
+Mil e set cens ab elms reflambeians
+...
+E Bos los guide per los vals des Karrans.
+Al port d' Aissent las aut quant fu jau cans ; 
+Aikils passet lo ponteners Ioans.
+Del port d'Aissen d'aiqui entros al Lans 
+A doe ligues de dreis cemins errans.
+Lo Fars lo clau, une aigue perillans,
+Tot en rodont eome solaus virans,
+E entrels dos est lo vaus de Brians,
+E li Anfrun a los aces trenchans 
+E ab les lances com es levas li bans.
+Ki per bataille la debent costumans.
+Mil cavaillers a ben laïns intrans,
+Ki ant maisnades e moillers e enfans,
+Cavaus e armes e salvages talans,
+Ke lo plus vils es fers e guerroians.
+Li dui castel ant guerroiat cent ans 
+Per la costume ki es de neuf cens ans; 
+Cadune naus lor deit III cens bezans; 
+Tregues u pas non er entraus durans.
+Deman er fins ans lo soleil levans,
+K'a Falcon er justise e aclinans ;
+Rix n'ert li segnre qui aura a comans. 
+L'anor al rei pogra sa ...
+E a Peride er Maur[ins] ...
+De sobrel col les descend ...
+Ke çai vendront ...
+E lo reis n'er e iras e p[esans];
+Tos li er jauc vers ...
+Er en ert guerre d ...
+# |
+Vait s'en Sicars e ...
+E Bos los guide per ...
+Al Lans los ac en la ...
+Aiqui s'enbuissent el ver[dier] ...
+Lo castel virent qu'anc ...
+Aut siet en rauque la ...
+E jos al peu la sale el p ...
+Los canbres voltes els ...
+E la capele el bore de sa ...
+E tos es claus sans pon ...
+Jos el vermel ac maior ...
+De vavassor qui sont ...
+Ab grant solers claus d ...
+Mais en ost sont tuit per ...
+E bas lonc l'aigue el bor ...
+Ben IV mile a[tos] jor[s] ...
+L'aigue del Far los cl[au] ...
+La mars i venc III 
+Ki fait son tor del la ...
+Per kei li orne sont tuit ...
+Et al seigner vei molt ...
+Lo jors esclaire permi le ...
+Sicars demande Boson ...
+"Signer", dis Bos, "non ...
+Ke chaïns sont mei ...
+Mostre s'enseigne e en ...
+Quant la verres sus en ... 
+Intrar pores per los p ..." 
+Laïns vai Falcs e hor ...
+E sos la cape cascuns ... 
+L'osberc e l'elme e l'es[cut]... 
+Venc a la porte sl que re ... 
+Soau apele, le porter ...
+E el quant aut son verz ... 
+Olbret la porte sans ...
+E Bos quant intre permi ... 
+Manace el gendre que ... 
+Vers lau e porte ...
+Son conpalgnon apele ...
+Ki la posterne olbr[et] ...
+E Bos s'en monte sus ... 
+Gete la lance e enseg[ne] ... 
+E Sicars intre ...
+Tuit sont en terre per ...
+E tui li home ...
+Pere ni lance ...
+Ne nus l'autre non a ...
+Mais prender ...
+E Bos lor vai per ...
+"Annas, Falcon, tuit ...
+E vos, soigner, nan ...
+E sabes tuit quel reis ...
+De vostre aveir ni per ...
+... entent
+... me rendent
+... esfendent
+... [en]vaïment
+... esgarent
+... ensement
+# |
+... alques ajostas
+... li es donas
+... nus seignoras
+... seus guerrias
+... sont ensanble en pas
+... s mandas
+... si afinas
+... ment d'amistas
+... cars menbras
+... s coronas
+... ar los feltas
+... los cavals corsas
+... rei vias
+... rs es canjas
+... lor iretas
+... si lor plas
+... ans er casas
+... erem assas
+... es amas
+... [quant so]laus fu levas 
+... Sant German es pras 
+... [ce]nbels trias 
+... e d'armas 
+... rei barnas 
+... garde es montas 
+... [to]rnei aficas 
+... repairas
+... re e fossas
+... fors jetas
+... d'ardis e d'essajas 
+... coce aduras 
+... entresegnas 
+... demandas 
+... que laias 
+... trobas 
+... ndre adalmas 
+... taigne nas 
+... [tor]neis es mesclas 
+... en e en pas
+... desraucas 
+... engolas 
+... entaillas 
+... [me]ssages intras 
+... e abrievas 
+... ab unes las 
+... e contas
+... [non er ja] mos celas 
+... s vos es enblas 
+... cavaljas
+... [fu li j]ors esclairas 
+... [sus en la] tor pujas 
+... jetas
+... e forcas 
+... desiretas.
+Aut o lo reis, anc non fo tant iras. 
+Mandet son fil quis per ces desramas; 
+E cel lo fai, qui gent es ensegnas. 
+Assas i laisse des mors e des nafras; 
+Des cavaillers a des cavals selas 
+Ab grans sajetes e a dars enpenas. 
+Ki ac perdut, s'ac perdut ses juras. 
+Ke al rei es tos ses afars canjas.
+Ans que se sie une ligue eslonjas,
+A Maurin comte es messages passas, 
+Ki dis l'afar coment se sie annas,
+Sin es Maurins ab los seus alegras, 
+Kel reis saura ans que sie arbrejas.
+# |
+Vait s'ent lo reis parmi une calçade,
+Per eis harbers tome la os irade,
+E sos fils mane l'arrergarde renjade,
+Mil cavaillers de conpaigne triade.
+Trestot lo jor a s'ost contregaitade,
+Desci al seir que lor fail la jornade.
+El gaut en est l'arreregarde intrade; 
+Maurins lo sec con vit l'aure baissade 
+A escarit a V. cens de maisnade 
+K'el sap cauzis de fort conpaigne ausade, 
+Tos de Peride e d'Eissent sa contrade,
+Ki sont a Fost a mige nuit passade.
+Lai fes Maurins lo coms une bofade,
+K'en Fost al rei es intras a celade.
+V sont au lui de conpaigne privade: 
+Folque e Renelmes e Pons de Pierelade 
+E Alerans lo Baivers d'isle Fade,
+Ki vai ob els une ensegne enlachade.
+Lo trap reiau conuc a l'esclairade 
+Ke li carboncle fan entor per la prade.
+Li mil Ingles ant l'autre nuit veillade,
+Cui fu al seir la gaite comandade; 
+Endurmi sont per prat a la rosade 
+E ac cascuns s'ace las lui pausade.
+Quant Maurins vit l'eskergaite colcade,
+Al leit del rei ac sa lance lançade,
+Lo cobretor trencet e la felçade,
+Ki fo de porpre e de samit olbrade,
+El prat las lui n'a mes une braçade.
+Kant vit lo reis lonc sei l'aste passade, 
+Cuide per veir que sa mors seit parade; 
+Tos nus cobret son escut e s'espade.
+Li canberlenc saillent a la mesclade; 
+Folque feri Oelin de Belnade 
+El tos Renelmes Malet de Val Penade 
+E Pons Begon d'oltre la mar salade;
+E Alerans ac s'e[n]seigne baissade,
+El pes Beraut ac sa lance fremade,
+Mort lo crabente arrer en la coirade,
+Des canberlens ant la cambre librade, 
+Katre en ant mors, Frans de bone linade. 
+E ob aitant es lor gens adunade;
+El cap de l'ost fant lor esporonade 
+Metent lo foc a la lune colcade 
+E fant lor graisles sonar a la menade, 
+Come si fus grans bataille jurade.
+Maurins s'en is e ac sa gent jostade; 
+Corteisement l'a la nuit cadelade,
+E sans mazans c'on oie a laironade, 
+Abans que l'os se sie ramenbrade.
+Lo fils del rei ac sa broigne endossade, 
+Son elm laçat e s'enseigne fermade;
+Una conpaigne en es ab lui cobrade.
+Dreit vers Peride encalcent per l'estrade; 
+Aiquele terre ac Maurins obliade,
+Ke vers lo Lans a sa resne virade;
+Al port d'Eissent er a l'aube esclairade.
+# |
+Lo fils del rei encalce per fadie;
+Mais as seus fu e tornas e gaudie
+E sans conjat coms lo rei non desfie.
+E sunt III cent tuit en une parie;
+Cent n'i remainent qui cuident far bauzie 
+A don Ponçon, viscomte de Tubie,
+Ki ac al Lans tor e sale e lestie 
+E par las rues par tot erbergerie,
+E n'i ac home de lui casas non sie.
+Cel los retenc e sa moillers negie,
+E donet lor son aveir sans faillie;
+Destrers lor done e palefreis d'U[n]grie,
+Aur e argent e altre manantie;
+Trestote l'os es par el esbaldie.
+El coms Maurins vers por[t]d' Eissent embrie, 
+L'autre conpaigne encontre e[n] mi sa vie, 
+Non n'i ac un que non bais e non rie,
+A obs Falcon los ferme e los plaidie.
+Bertran apele qui l'escae lor devie 
+K'el trais la nuit de l'ost ab l'esclarzie.
+Aisin lo raube lor a Bertrans partie.
+Grant aveir done e pramet e afie,
+Fai los jurar sorbre sant Jeremie 
+En dreit Falcon tostens mas seignorie,
+E ab son oes se de lui de faillie.
+Lo Far lor passe lo ponteners Garsie;
+Dessos lo Lans en la prade florie 
+Sont ajostat ab altre conpaignie.
+Tote la gens es encontre els issie,
+Eis li Enfrun qui sont plan de felnie;
+Ben sont vint mile dont la vais es garnie. 
+El coms d'aveir e d'amor les convie.
+Assas ac Falsc a cui face fulie 
+De cavaillers, e sans mot de mentie 
+Ben sont III mile de fort conpaigne ardie ; 
+E cascuns d'els ac sa broigne vestie,
+Son elm laçat e s'enseigne fremie.
+Tant par se fient en lor cavaillerie 
+K'il ne redoltent c'on rien los desconfie; 
+Proc virant l'ost entros qu'a merques die.
+# |
+Al ben matin, quant l'albe pert el tron,
+Lo reis fai motes e sont ben de saison. 
+Cent graisle coment per tote l'ost en son 
+E sont cueillit li trat el pavillon,
+Auent la messe de l'abat Nevelon.
+E puis apele Galeran e Sanson;
+L'uns es sos cas e drus de la mason,
+E l'autre fils a conestable Odon.
+"Per lo reiame poignes ab esporon,
+Mon rereban fait cridar abandon
+...
+...
+# |
+...
+...
+"Anc tant grans plais non fu tant leus a far.
+Mais lo maiors devem premers menar,
+A sa niebode lo fazem essegar,
+C'on son parent non deu desiretar.
+Com eu venie per lo peril de mar,
+En isle Fade me fest Dex arribar.
+Lai li fezie mon catenc afiar,
+E baillet m'en un son dru bacelar,
+C'es Alerans qu'aves auit nomar,
+Ab taus vint mile per l'anor guerriar:
+Tos lo sorderes sab ben torneis mesclar.
+Tant com mos cor pora armes portar,
+Non aurai reis ribere ni cachar,
+Tros el reiame li face deviar 
+E par mi loc partir e meitiar,
+Comte per comte e duc per duc lassar,
+Citat per altre e castel per son par,
+E saigrement contre un autre jurar.
+E Falcon face sos covens autriar,
+Ke pos sa mort lo veiem coronar,
+E pos Bernart a Viane acuitar,
+K'a son linage lo vimes achatar.
+E de meus plais non ac mais a tarzar, 
+Bedem mon feu qu'eu li vole achatar;
+S'el m'a penac e m'a fet trabellar,
+A mos feus creistre e ab aveir donar 
+Me pot ben l'ire tote del cor getar;
+E s'aiço non, tros qu'ai sorbredurar 
+Avem la guerre c'uns non pot desmesclar: 
+Pos serem mort entre mei e Aigar,
+Vos e Bertrans en pores pro trobar."
+Lo fils del rei s'en enquet aïrar,
+Mais non o poc a sa guise menar:
+"Per Deu, Maurin, ben l'ai auit contar, 
+Que vostre orguels non poc om deportar, 
+Orgueil en guerre et orgueil en gabar;
+En tota ren vos fai orguels sorbrar;
+Ja eu non muire tros eul' face abaissar,
+Si ferai eu, si Dex o mi lais far."
+# |
+Lo fils del rei parlet com aïros:
+"Per Deu, Maurin, ben es gaillars et pros, 
+Saibes de guerre e d'afar trabillos 
+E vers lo rei fel e contralios.
+Vostres fiances ne li valent un tros,
+Non li tenges saigrement ni somos.
+Si vos per force li fais d'un roine dos, 
+Ben es de lui segner e cabaillos:
+Kar non vos menbre de n' Alaric lo ros 
+Ki ere coms rix e miravillos
+E fu pendus, kar fu trop orguillos
+E fes el rei quant en fu poderos.
+Vos es de guerre e d'ardit coboitos,
+De cavalcar fers e volenteros;
+Mais ans un an vos on vira si blos,
+K'en remandrant ist assaut perillos;
+E a Peride seres tant encombros,
+K'eu tenrai siege, e non seres escos,
+Tros a marce vos liberres a nos ;
+K'eu sui tozes e vos es plus dios,
+E seres mais pesans e nouillos."
+— "Dex", dis Maurins, "com parle ben kis tos,
+Cavailler fore, se d'avol lin non fos."
+Aitant Sicars n'aduis per l'aigue jos 
+Los pres qu'el solve en vint bateaus coitos.
+Cel los en maine e vai s'ent pesanços:
+El e Maurins non partent amoros.
+# |
+Lo fil del rei es tornas a son paire,
+L'orgueil Maurin li enquet a retraire:
+"Per ma fei, segnre, Maurins es bobenchaire, 
+De vostre anor vos cuide tot fors traire,
+E del reiame vol dos parties faire,
+Kel divisaz ab la fille ton fraire;
+E Falque er reis e non targeret gaire,
+E de Viane coms Bernars l'ordubaire.
+A tota gent l'auem cridar e braire:
+'Ki rei desfai, que ben es enperaire.'
+'A vostres comtes es taus espaventaire,
+Corne senglars entre lebrers a Paire,
+Eel plus ardis ab lui non s'auze traire;
+Tot saus los prent con Lonbars son conpaire. 
+A vos meeus es tant Falc guerroiaire 
+K'anc non tolgues ni castel ni repaire,
+Ans vos toit el lo Lans et Bel Veiaire 
+El port d'Eissent el castel de sant Caire.
+E a Peride serai puis ostejaire,
+Ke de bataille non mi er contrestaire. 
+Mandas grant ost e sias lars donaire,
+E eu serai guerries e cavalcaire.
+Fazem li blance, si li aven fet vaire,
+K'al cap de Pan non sie taus gabaire."
+# |
+Quant aut lo reis la solte de vertat,
+Molt n'a lo cor pesanços e irat,
+Mais non er ja conogut ni parlat,
+K'el non vol perdre de sos comtes lo grat: 
+"Per ma fei, fils, ben aves plaidiat 
+Quant per lor pres sont li nostre librat.
+Eu e Maurin avem molt guerroiat;
+Ane parlement non vi mais ajostat:
+Dis mile homes del mils de mon regnat 
+Erent tuit viu quant d'aiço fu mesclat,
+Ki puis sont mort, e li altre sont nat,
+De que Maurins a auques lo peçat.
+Mais si Deu plas, per vos serant venjat."
+Fait demandar lo prior e l'abat,
+E il repairent, que hui ant repairat. 
+Cascuns cavalje un cras mur sojornat,
+E cascuns porte un girfalcon mudat,
+Un palefrei ant de grudes carjat;
+Gent sont vestit e sont ben conredat, 
+Bliaus de paile, cemise de cendat, 
+Calces ben fetes dont son estreit calçat; 
+Un mantel gris ac cascuns afublat. 
+Denant lo rei sont jus jambe aterat.
+Se dis lo reis: "Tos vos es autriat, 
+Kanc k'avias quesut ni demandat;
+Ke per Maurin seres quite clamat.
+Ici vos soil, sans engin recelat,
+De quanc qu'aves ne plevit ne jurat." 
+Trais de sa borse I. besant reondat, 
+Rent li per solte, car si ere ostajat.
+E ac VII comtes qui avant autreiat 
+K'om Velavent lor aduis enselat 
+E lo vairet d'Aquillant l'abrievat.
+Lor blans osbers et lor elmes gemat 
+Lor sunt rendut, cui que fuissent donat; 
+Escus e lances, aiço lor es canjat 
+Altretant bon, que non es sordoiat.
+E il andui se sunt de joi armat;
+E quant il s'arment, sunt ades raisonat, 
+De per lo rei lo grant plait presentat: 
+"Se volias estar en ma feltat,
+Kascun de vos darie une citat
+E cent castels de cui fuissies casat."
+Ce dis Beraus: "Trop i aves tarsat,
+Kan d'oi annant estes afianchat;
+N' augras bon plait s'en auguissies parlat.
+Pos per Maurin em soit e aquitat,
+De son captenc em franc e adurat.
+Tot nostre aluet nos aves abaissat;
+Mais si nos viure podem un an passat,
+Ja non ires del gaaig al marchat."
+— "Dex", dist lo reis, "molt i fai grant foldat 
+Cil qui nurrist lo basto ab ques bat.
+Le jor quem fos rendus pres e liat,
+Vos deugras essre a las forces levat;
+Mais s'eu ja mais n'avie poestat,
+Per vostre dan m'aurias chastiat."
+Aitant montarent e vant s'ent sens conjat;
+A esporons sunt al pont avalat.
+L'autre abat ant, Francon, deschaenat,
+E tuit li monge sont fors des laz jetat:
+Lor bon cavau e lor osberc safrat 
+Lor sont rendut, mais greu sont ajostat.
+A tot s'en vant e sont aseürat 
+Desci qu'ai Lans, o ant lo port passat.
+Kant Franques vit Beraut contremontat,
+Son dreit segner e son ami privat,
+Descent a pie e venc a lui per prat,
+Rent li la croce e ac lo enclinat:
+"Ici vos rent tot quant m'aves donat,
+E rent bon grat, non i ai afolat 
+Obedience ni autre a voluntat,
+Ke en l'enclaustre tornerai al mandat,
+A Rocelaure dins le mur batellat."
+E Aulivers gorpi son priorat 
+Brun son segner, cui l'avie baillat. 
+Escos lor libre un calant enjonchat, 
+En que il sont tuit ensens assegat; 
+Al pei del Lans sont al mur arribat.
+# |
+Escos los guide en Paigue per graver 
+E torne s'en, el e seu mariner;
+E cil s'en intrent per le borc osteler 
+Dedins les murs del Lans en un verger,
+O Maurins parle ab lo son fil Garner.
+Kant vit Beraut, son abat dreiturer,
+Levet vers lui e baiset lo primer,
+E puis Brunet ab lo talent leger.
+Asses las lui e marces lor refer,
+Ke anc non forent traïtor ne baufer,
+Nels plais del rei non volgrent escolter. 
+Pello Francon tornet son consïer,
+Abat desfait Papelet per gaber:
+"Kant vos laissas traginar cell autrer,
+Erent sos vos tal VII cent cavailler,
+Ki tuit montavent per vostre messager:
+Hui non aves nis un sol conpagner,
+E es grans dels d'aital gonfanoner 
+Ki lo matin poc mandar un miller 
+E al mei di non mais son escuier."
+Trait son gant destre e a Francon profer: 
+"Menbrant vos doig sorbre l'aigue de Cler;
+La tors es aute e sunt grant li soler,
+El pans el vins e la chars el celer,
+E a to jors IV cent estager,
+Tuit bons per guerre e darmes presenter;
+Vos portas conge, mais cil en sont sorbrer,
+K'a totes coches se fan contar dobler,
+Cent per dos cens se metent volunter;
+E par la rue sont bien dez mile arcer,
+Ki servent aus de boivre e de manger,
+E per l'arberge lonc la rive de mer,
+Kar non arie forment ni destorber.
+Lai tunt mil braines, e lai mil egecer,
+E cent gorrin trestuit salvage e fer,
+E mil polan qui tuit serant corser;
+Lai se solient anar mi soldader;
+Tot vos o don quite sans encombrer,
+Ke tant servise m'aves fait bon et cer."
+— "Seigner", dis Franque, jamais once non quer 
+Ni d'altre aveir vaillant I sol dener,
+Mais sol mon cors e armes e destrer,
+K'obedir vueil l'anor de mon mester."
+L'abes levet de genois en l'onbre[r]
+E pres lo don e lo gant ab aur mer.
+Francon demande per non de bobancer.
+Ce dis Maurin: "Uimas vos cuit disner
+Per los ostaus si com es conpaigner."
+A ... pars, lai chantent cil jogler,
+E ab ... dis pe ... abler.
+... de laitras lai bruit a baratrer.
+... los dis, n'i a joc fementer,
+Tant estreit n'issent ni coignut lo desrer, 
+Frais remasent li privat conseiller.
+# |
+El verdïer sos un auliv foillut 
+Parlet Maurins, e sont ab lui soi drut. 
+"Seigner", dis el, "ben nos es avengut, 
+K'a grant dolor avem lo rei vencut 
+E grant avoir cobrat e retengut,
+K'a tos jors iermes XXX mile a escut. 
+Er cavaljem a Tubie a saubut:
+Ans que li comte sient aperchobut, 
+Podem aveir VIII jors siege tengut.
+Com m'aurias onrat e erobut 
+S'eu sos ... . aurai a fort jagut.
+Per tot tenrient li grant e li menut,
+Mei per pujat e lui per descendut.
+E s'eu fas tant que en sa terre mut,
+Lai venrant tuit mi venador barbut,
+Per la forest escoltarei mon brut,
+Ke pos ma mort sera dit e cregut.
+Kant a Tubie aurai mon trap tendut,
+Tuit li repaire mi serant sens rendut:
+Si Fauc avie, Montros e Feragut,
+Grant part aurie del regne conquesut.
+Per un bastart d'altre terre vengut 
+Cuidarent estre tuit en pas remasut,
+E per sa lance que non ant atendut 
+Nos los dotem, mais non o ant valgut,
+Con nos avem lo Lans per els perdut. 
+Anceis verram lo rei si confondut:
+Tornera s'ent en la. terre dun fut.
+Tal sunt par lui en orgueil encregut,
+Ki par mes mains en seront tuit pendut." 
+Aiquel consseil ant bien tuit entendut: 
+Auquant lo laudent e auquant n'estant mut, 
+Mais taus l'autrie cui sera car vendut.
+# |
+Seguentre lui parlet sos fils Bertrans, 
+Levet en pez e tenc plejas ses gans 
+"Aiques consels es proece e bobans 
+E es corages c'onques non fo tant grans, 
+E si ben sap que i agre tos dans 
+E ke lai perdes mil cavals alferrans;
+Per tot aiço non laissar que n'i ans,
+Kar retrait er d'ui cest jor en cent ans
+Al rei Aigart e a sos eritans,
+Kel coms Maurins, pos fu vils e ferrans, 
+Jac sorbre lui e tint sa terre a pans.
+Tu as tos tens guerroiat ab engans 
+E fais encontres e assaus perillans;
+Mais cavaljaires fos tans et guerrians 
+K'enquer en es vers tos sens redoltans,
+E deis ben essre ryc bar d'aichi enans,
+Ke faces ost e que siugues los mans,
+E pos pausar de paines e d'afans.
+Ke tant as homes e nebos e enfans;
+Si a Tubie pos esser ostoians —
+K'es set jornade chai es vergers davans — 
+Reis en er Fauques o eu tos fils Bertrans, 
+E lo plus frans, n'er iras e pesans,
+E lo reiames per tot miravillans;
+E quant ores que trametra sos mans 
+Per ajostar los Ingleis abs Normans,
+E tu t'en tornes a Peride o al Lans. 
+Garnissem nos de fais et de sanblans,
+Car si sa force nos sor e mal talans 
+Ke el nos segue, ja plus jen non demans, 
+S'el de bataille II jors i est pausans." 
+Aiquels consels non sera mais tardans,
+Si ol consent lo Baivers Alerans.
+# |
+Seguentre parle Renelmes li cortes:
+"Maurins ac dit tot aiço que mils es,
+Trop bon conseil; si trop greu non fu pres. 
+Anuit estam as ostaus des borzeis,
+E lo matin coment li graisle espes 
+E port l'e[n]segne Alerant li marces;
+E anuit sient C message trames 
+(E lo matin cornent li graisle espes 
+E port l'e[n]segne Alerans li marques,
+E anuit sient C message trames)
+Per ajostar las naus d'aiquest paies,
+E passent Guir as pors de Marmones 
+E armem nos es pras del canp Gresles. 
+Aiqui paresce qui bons cavaillers es :
+Face entresains as dras sarazines 
+E corbretures e gonfanons d'aurfres,
+Ke bons vassaus a sos armes pares,
+E port cascuns does lances u treis,
+Ke IV jors durera li torneis.
+Droit a Tubie nos en guit lo naves 
+Desos le port Garin lo Landones;
+S'i est lo reis, sie tant fort reques 
+Ke ne li vaillent ni Normant ni Engles,
+Ke per la porte intrem, mais ben li pes.
+Pos herbrejem es vergers Godafres 
+Entre le mur el valat el defeis,
+E estem lai XV jors u un meis.
+E quant virant que serant sorbrepres,
+Si manderant los Irians els Gales 
+Per nos conbatre, que iras er lo reis;
+E nos de jau conbatons nos ab eis,
+Ke sans bataille non virame conques.
+# |
+Seguentre parle Ascelines li Fris,
+La caire ac brune e ac perclar lo vis, 
+Grans per espaules e per range escabis,
+E ac vestit un bliaut de samis,
+E fun calchas estreit d'un paile bis 
+E afublas d'un tiret e de gris:
+Bon conseil done Maurins, lo coms marcis, 
+Se le segues e ja non s'en partis!
+Movem de chai ans que sie midis,
+Pos cavalcem a Tubie la cis.
+El torneis sie fors e fers e escis 
+E aempras per nos e sorbrequis.
+Pos arbrejam al moster san Eudis 
+E estem lai en ost sorbr'els set dis;
+E se Deus puis de perde nos garis,
+Del retornar sui molt volentadis:
+Ke lo reis es rix hom nominatis 
+E cobrara la gens de son païs,
+E non poc essre quel reis ja sie assis;
+Ans d'un ostau sia fort la espris 
+Er el tos temps vergoignas e onis."
+Diient li autre: "Ascelin, bien o dis."
+# |
+Seguentre lui parlet l'abes Berars,
+Dis son talant con pros e con gaillars: 
+"Cavaljar pos, Maurins, mais non o tars, 
+Ke las os sont parties per C pars,
+Manes taus geldes, si pros ies ni ausars, 
+Ke non remaigne ars ni lance ni dars; 
+Kel reis es tos fel e ros e gaignars,
+E sos fils sap de guerriar grans pars; 
+S'el s'ert retrais desci aices Lonbars 
+Ke mais a force non caces en sos jars 
+Desci el fu cregus li fils bastars.
+Cil qui nol laue de parlar es coars?
+Tuit o autreient mais lo vescomps Sicars.
+# |
+Seguentre parle Draugue l'aperçobus: 
+"Maurins, cavalge e garde non o mus: 
+Ke lo reis es mermas et confondus,
+E seu vassau ant lor cavals perdus 
+E l'autre aveir que çai es remasus.
+Abans que sie amendas e rendus,
+Ni el de ren cobras e revengus,
+Jas sorbre lui e despoille tos nus.
+En longes terres er lo blasmes sabus 
+Ke sorbrel rei jas Maurins lo canus.
+Se ben i pers, si seras erobus.
+# |
+Seguentre lui parlet Folques dos moz: 
+"Maurins, cavalge, u non sies ja pros;
+Er en pos moure grant ire e grant coros. 
+Maine ta gelde els borjois els noos,
+Ki lor enpirent e les fons et les pos,
+E tu erberges es verdïers de sos 
+E laisse corre tos fils e tos nebos,
+Ke pechoas n'ert bons castels e ros." 
+Autrias fore se fos auis per tos,
+Mais el er raus e ac pauque la vos.
+# |
+Seguentre parle Alerans li Baivers,
+Li pros, li saibes, lo bon confanoners,
+Ki anc non fo bofars ni trop pariere:
+"A don Sicart es tos mos consïers,
+K'el es de cor saibes e conseillers 
+E en bataille ardis e faisenders ;
+Croire lo deu de conseil uns enpers.
+Se lui plogues que lui non lau esters,
+Bon veder fire de Tubie els clocers 
+El torneis fos lo retors volunters;
+Ke lo reis es fors hom e bons guerrers 
+E sos fils tant de maltalant legers,
+Ke manderant de cap lor ostelers,
+E a breu jor viram los arengers.
+E nos aiqui en eis aiquel gravers 
+Siem armat a lei de cavaillers 
+E fazem rancz de geldes e d'arcers 
+Ke ja del Lans non veient los terrers, 
+Kant dins de nos aura cent es destrers." 
+Dient li autre: Ben o dist lo Baivers.
+# |
+Des quant Sicars los a tos escoltas,
+De maltalent es sus en pes levas:
+"Ahi, Maurin, com es mal conseillas, 
+De tos consaus t'ies en jovent tornas, 
+Kar tuit te dient, Maurin, car cavaljas! 
+El non se gardent si es sens o foldas; 
+Car s'eu en fuisse cregus ni escoltas, 
+Espiessem, car grans es li regnas,
+Un des rix bors o de las fors citas,
+E fuissem i ans c'om en fos selas,
+E preïssem aur e argent assas 
+E mus e mules e destrers sojornas,
+E vair e gris e bons pailes pelas,
+De quei tu fuisses rix hom e assazas:
+Una grant part de tos ambars paias;
+Kar se tu vas a Tubie e i jas,
+La o reis est, ers desconfis tornas;
+Tu l'as jurat fiances e feltas,
+E vie e menbre que ja nol prenjas,
+E si mes siege, si nos non a dannas, 
+D'aiqui enant seras sos parjuras,
+E ai pavor que Dex t'en sie iras:
+Ke non es dreis quel reis sie asejas.
+Mais tant t'esforce ta male voluntas 
+E tos orguels e tos sorbrepensas 
+Ke tu iras, ja mos non er canjas,
+E eu ab tei, ja soit ce que nom plas.
+S'eu remanie, ferie que malvas;
+Mais lent irai vers quant venrai vias:
+Ke lo reis es rix hom enpoestas,
+E cobrarant soi home de tos las,
+E er de cap sos rerebans cridas,
+Que non remaigne hom vis de feme nas;
+E sos fils es tant pros e tant menbras 
+K'ans non partra tro se sie venjas.
+E s'i perdes, ja non serai blasmas,
+Ne del gaiaig non vol esser laudas:
+Que li gramaire diient e li clerjas 
+K' orguels non chai desci qu'es aus montas; 
+Mais atant es d'omes apoderas 
+Ke tos jors n'as XXX mile d'armas.
+Ja non garras ni esteras em pas 
+Desci en sies a mesure tornas,
+A does mile qu'en as de tos casas."
+Lo consaus part, que Sicars n'es forzas.
+Tro a tierc jor en er alcuns iras.
+# |
+Li consaus part e il vant arberjar,
+E al matin fant les graisles sonar,
+E Maurins fait al Lans son ban cridar,
+E si el fai, non poc arreir restar.
+Falcon comande sa ost a cadelar 
+E a Bosun lo[s] premiers a guidar.
+Sos le castel passent al pont del Far,
+El camp Gresleis lonc la ribe de Clar. 
+Aiqui viras tant bon vassaus armar,
+Tant blanc hosberc e tant elme laçar,
+E tante jupe vestir e afublar,
+Faites de paile e de gris e de var. 
+Maurins los renge, qui es rix hom e bar; 
+Mil n'a premers escarit fet triar,
+Ei a Tubie lor irant l'assaut far;
+E Alerans fait l'ensegne portar;
+Perdreit sa dogne qui lor aut calenjar.
+V mile elmes fet seguentr'els annar 
+E sa bataille a present cavalcar.
+El fils del rei, a la maisnade Aigar,
+Estait de nuit sor la ribe de mar,
+O en las naus fet son castel fermar 
+As nautoners, que non laissent desfar 
+Ki a son siege se puisse recobrar.
+E a la lune, al premer jau cantar,
+Dreit vers Tubie s'en enquet a annar.
+Ans jor se met en les aies gesmar ...
+El reis Aigars comencet a parlar:
+"Franche maisnade, tant vos voldrai pregar 
+Ke m'aiudes ques honte a venjar.
+L'ost m'aves fait quem deves per mandar, 
+Mos soldaders vos volrai apelar P
+er mon aveir que m'annes aiudar,
+Si en vos met costume d'amendar.
+Eu serai lars de mon aveir donar.
+Tot mon tresaur vos voeil abandonar,
+L'aur e l'argent vos ferai aportar 
+El vair el gris els pailes desplejar."
+E el respondent: "Bon es a essaiar."
+Aitant venc lor Ganiel lo juglar,
+Ki vit la nuit Maurin Guire passar 
+A tant grant ost que non la pot esmar. 
+Tant a cochat son palefrei liar 
+Ke mors cadet a las noves contar.
+"Deus", dis lo reis, "tant vos dei aorar, 
+Don, per los tors que t'ai fet, non laissar 
+L'orguel Maurin ke nol face abaissar,
+E lo meu drec sabeir e demostrar."
+Atant descent corent sei adobar;
+Coche en er faite, non o quer mes celar.
+# |
+Ins en las aies de la forest d'Armite 
+Sont descendut en l'essart d'un ermite, 
+Ki lor dis messe sagrete e benedite. 
+Non i ac un s'aumosne n'i aufizte;
+Lai penitencent e parant sa carite;
+Taus s'es confes qui pert le jor la vite;
+Al rei non nuis, pos sa terre en aquite.
+# |
+Ins en las aies s'arment tuit apresente 
+Aiqui viras tant obre cobinente 
+D'osbers e d'elmes e d'altre vestimente.
+Lo reis los renge a la bone esciente;
+Ab un poncel d'une aiguete corente 
+Trais son cenbel sans gab que l'ai om sente. 
+Sos fils lai passe premers, caire riente,
+A tal ardit que ren non l'espavente,
+E sunt ab lui tuit menbrat mil e XXX;
+Ob Alerant penra ancui contente.
+E l'autre escale mane dus d'Aiguilente 
+El Landoneis el palaïn d'Artente;
+E sunt V mile ab elmes senes mente.
+E lo reis mane altre gent conessente 
+D'une conpaigne e forte e conbatente;
+Fore del bore cavaljet a parvente,
+En la ribere es d'una legue gente.
+Sai co es cause e Deus la lor consente; 
+Ensegne blance n'ert vermeille e sanglente,
+E plorera maire e sor e parente
+E de lor drus per altre ben volente.
+L'une conpaigne n'er irade e dolente,
+E l'altre rice, anorade e manente.
+# |
+El canp Gresleis, lonc la ribe de Claire, 
+Viras Maurin tant gente escale faire.
+Els primers guide Bos e Folcers lo laire,
+E Alerans los cadele, el poignaire,
+E l'autre escale Beraus e Bruns sos fraire, 
+El coms Bertrans, qu'es de coche enperaire 
+E sab de guerre e molt es debonaire;
+E a man destre vai Bec de sant Ylaire,
+A quatre cens de Monblanc lo repaire,
+Ki sont tuit blanc, li fil come li paire,
+E sunt, le jor qu'el naissent de lor maire, 
+Blanc lo caval, c'un sol non i ac vaire; 
+Ensaignes blances de porpre de Monchaire, 
+Pauque conpaigne, mais non es ja belaire, 
+Ço es aiquele qui non fuït anc gaire. 
+Franque es d'aiquels segner e capdelaire, 
+Cui los donet Maurins lo bons donaire;
+Ab lui Sicart e Enriz de sant Daire,
+Vit la bataile que non la poc desfaire,
+Kar vengut sunt a lanchar e a traire;
+Sin ac coart, molt s'en voldrie raire.
+# |
+Lo canps Gresleis non es estrans senters, 
+Ans es ribere de pras e de vergers.
+Cels dechai guide Maurins lo bons guerrers,
+El reis los altres, qui es fors bataillers. 
+Cascuns cenbels es de mil cavaliers,
+E en cascun a doe mile arcers.
+L'os Maurin guide Alerans lo Baivers,
+E de lai venc lo fils del rei premers. 
+Baissent los lances els gonfanons enters, 
+Vant se ferir per escus de quarters.
+Li cop puissent des bons gonfanoners 
+K'al fil del rei n'es sanglens li bragers 
+Del sans del pis ki devale tos clers;
+E lo sons cops fu fers e sobrancers 
+K'anc Aleran non val osbers doblers, 
+Parmi l'escine non pas oltre Pacers,
+Mort lo crabente entre paus aulivers. 
+Grans es la perte els dams els destorbers 
+Ab oes Maurin e ab tos sos maisners;
+En isle Fade n'ac grant doels e pleners 
+Per la reigine e per set C millers.
+Ivon de Besnes la jete mort Folcers,
+Dont estral rei libras grans enconbrers, 
+Non aveit ferne ni non laisse eriters,
+Mais de sos armes ere bons faisenders, 
+De cent castels ben acrec sos enpers. 
+Vant sei ferir Bos del Lans e Mivers; 
+Andui s'abatent des bons cavals corsers. 
+Sonnent li graile e mesclent li caplers: 
+Nol poc sufrir coars ni lauzengers.
+# |
+En la ribere Claire del canp Gresleis 
+Viras mesclar un fort estor espes.
+La non efange encontres ni torneis. 
+Fraignent los astes per escus quartereis, 
+Ronpent ensegnes de pailes e d'aufres, 
+Falsent las lances los osbers tiones,
+Trencent los elmes li bon brant vianes; 
+Tal cent n'i caient ab oses de corves, 
+Mort e nafrat c'ans ren non sap lo ses. 
+As vis sab hon con force lor pares. 
+L'abes Beraus, lo prios Bruns ab es,
+El coms Bertrans e Folque l'Espanes,
+E sunt V mil sans conte de bordeis;
+E de la venc Garin lo Landones 
+E d'Aguilant li pros dus, li cortes; 
+Baissent las lances e vant ferir manes: 
+Ben n'i aura que de mors que de pres.
+# |
+Entre Bertrant e lo duc d'Aguilent
+Se vant ferir andui de maltalent,
+Ke do[i se] falssent li osberc jaserent;
+E Bertrans n'a lo gonfanon sanglent,
+El dus la plage non presere nient,
+Mais aiço prese que estre grat descent.
+Folque lai joig ab lo marcis d'Artent,
+E Beraus Tabes al Landones s'atent,
+E Bruns sos fraire lo Leoneis perprent; 
+Fraignent los hastes per grans cops maintenent, 
+Ab les espades fierent espessement,
+E ab aiques n'ajostent tal VII cent 
+C'uns n'i coignuc amie ne ben voeillent.
+Ki trobe mort ni fraire ni parent,
+Nol met en plait de son confessament,
+Mais poig enant per penre venjament,
+E cascuns d'aus ab sei modes entent
+D'aital peril com eisse a gariment.
+Lo traverser los socorent poignent 
+Cil de Montblanc e li Vermeil d'Artent.
+# |
+Es canps Gresles, desos los puis pelas, 
+Ec vos los Blans els Vermels ajostas. 
+Ode el vermels a sos bornes guidas, 
+Katre cens elmes de Montvermeil jetas, 
+Tos de castel e sos homes privas,
+Ki ant vermeilles las caires e las fas, 
+Los iels vermaus e los mans e los bras, 
+E es vermaus cascuns, despos fu nas;
+E ant vermaus cavaus entresegnas, 
+Osbers vermaus e de vermeil safras, 
+Jupes vermeilles de pailes entaillas 
+Espades chaintes a pons vermals damas, 
+Escus vermels e de vermeil boclas, 
+Elmes vermels ant en lor caps lachas,
+E ensegneres vermeilles de cendas. 
+Odes, lor segnre, s'ere hui matin vanas 
+K'anc non fuï ne non fu encalchas.
+Hom ere al rei e plevis e juras,
+Mais per sa coche non sera ja mandas, 
+Non li dec os ne services taillas,
+Mais sil reis es vencus ni vergoignas 
+O ac perdut o es arrer tornas,
+Kant el lo sap, el deman es venjas,
+O per bataille quant es sos bans cridas,
+E seu mesage que ja sie renjas,
+Quant il o auent, si s'arment per palas 
+E fant socors tost e ben e en pas.
+Ja per lo rei non sera uns renjas,
+K' ab lor talent vont per canps e per pras, 
+O lor seigner los mane com lui plas,
+Odes premers de son elme enbronchas,
+E cil l'estraignent as flans e as costas.
+E de lai Franc, lo derrer des abas,
+Mane los Blans que Maurins l'ac donas. 
+Baissent las lances, els gonfanons frainjas, 
+Vant sei ferir per escus coloras;
+Andui s'abatent des destrerç sojornas,
+E li socors esporone d'ans las:
+D'aiqueste part fu Monblans escridas,
+E delai fo Montvermaus essauças.
+Cil sont vermeil come feus en fornas,
+E cist sont blanc come neis sorbre glas?.
+Ec vos los Blans ab los Vermaus jostas, 
+Aiquis estors es fors e aduras.
+# |
+Lai o s'encontrent li Blanc e li Vermeil, 
+Fraignent los astes mantenent li donzel,
+Ab lor espades adurent lo tornel 
+Ke sont trenchat elm e col e cabel;
+E kant s'abatent, partent sei per caumel, 
+Pos se conbatent sol a sol a parel.
+De son segner a cascuns ques coreil 
+Ke cent n'i morent fors Simon de Canpel;
+K'anc uns non ac ni garde ni pervel 
+Essre la lande e l'erbe et le solel 
+Ke obs lor agre uns des signors d'Orel 
+Ki lor donere a lor anemes conseil.
+# |
+Des quant s'encontrent li Vermeil e li Blanc, 
+D'aitant pauc d'omes tal estor non vis anc. 
+Andui s'abatent, Ode el Vermaus e Franc, 
+Pos se detrencent los pis, lo vente el flanc 
+E pet e poig, de coi sunt clop e manc.
+Tal cent n'i caient c'uns non es en son banc 
+Per negligence, car non es quis estanc.
+Tot lo caumil viras vermeil de sanc.
+# |
+Quant li Blanc virent que Franc es abatus 
+E li Vermeil que Odes es cagus,
+Vant sei ferir mantenant pels escus,
+E ab lor brans de lor espades nus,
+Trencent lor caires de lames e d'agus;
+Tal cent n'i caient c'uns non er raïmus. 
+Grans er li dois quant cis plais er sobus 
+De las vermeilles, que lai perdent lor drus, 
+E de las blances qui i rant molt perdus. 
+Maurins cavalje e sa bataille adus,
+E delai es lo reis Aigars vengus.
+Baissent los lances els gonfanons vosus 
+Lor blisons trencent, lor osbers n'an menus. 
+Tant fort l'enpains Maurins lo viels canus 
+K'ansdos los caingles el poitrail es ronpus, 
+E per la crope n'es lo fus descendus,
+Mais tos en pes remas en la palus,
+Ere fu tos cobras e retengus.
+Aiquest estor es molt bon conbatus :
+Non er a onte Maurins hui mais vencus.
+# |
+Quant li reial virent quel reis fu jos,
+Per sa maisnade fu durement escos;
+Lai jambe-a-terre Mile, lo dus d'Auros,
+Lo rei cobreit el liart balçant ros.
+Pos viras faire tant cop miravillos,
+Tant blanc hosberc e tant elme treros,
+E tant donzil desrocat vergoignos,
+Tant aste fraite dont vant vers cel li tros. 
+Parmi la presse vai Bertrans pesanços, 
+S'espade traite qui fo al rei n' Anfos;
+Des treis Jausbers a manes mors los dos, 
+E il n'ant mort Austreget l'engignos.
+E Sicars venc sus en Liron brios 
+E vait ferir Rater de Mont Simos,
+Un conestable de la cort cabaillos,
+Mort le crabente el prat qui fo erbos.
+Pos dis Maurin dos mos contrarios:
+"Viels beubancers, sobrancers, orguillos, 
+Ancui seres vencus e vergoignos.
+Mal o fet viels qui creit conseil de tos,
+De grant riceses n'esdevenc sofraitos.
+Ki les lor vei venir pausas e pros
