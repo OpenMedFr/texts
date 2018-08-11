@@ -1,3 +1,59 @@
+#META#  TextURI         :: JAvesnesFilleB
+#META#  DEAF            ::http://www.deaf-page.de/bibl/bib99j.php#JAvesnesFilleB
+#META#  TL              :: Fille CPontieu
+#META#  FEW        		:: JAvesnes; FillePonth
+#META#  ARLIMA          :: https://www.arlima.net/il/jean_davennes.html
+#META#  Author
+#META#  AuthorBorn
+#META#	AuthorBornAmb
+#META#  AuthorDied
+#META#	AuthorDiedAmb
+#META#	AuthorFl1
+#META#	AuthorFl2
+#META#  TextTitle       :: La Fille du Comte de Pontieu
+#META#  TextSubtitle	:: conte en prose
+#META#  TextVols        :: 1
+#META#  TextSubj        :: romance
+#META#	TextDom         :: lit
+#META#	Translation     :: false
+#META#	Collection      :: SATF
+#META#	CollectionNo    :: 66
+#META#  TextDescARL     :: prose
+#META#  TextDescVers    ::
+#META#  TextDateARL     :: Peu avant 1468
+#META#  TextDateAdj     ::
+#META#	TextDateMin     :: 1465
+#META#	TextDateMax     :: 1468
+#META#  EdEditor        :: Brunel, Clovis
+#META#  EdPlace         :: Paris
+#META#  EdPublisher     :: Champion
+#META#  EdVol           ::
+#META#  EdYear          :: 1923
+#META#  EdPages         :: 51-130
+#META#  MsBase          ::
+#META#  MsOther         ::
+#META#  MsNum           :: 4
+#META#	MsDateARL
+#META#	MsDateAdj
+#META#	Form
+#META#	Complete
+#META#	NoWords
+#META#	NoLines
+#META#	DialAuth
+#META#	DialScribe
+#META#  ScanURL         :: https://archive.org/details/LaFilleDuComteDePontieuBrunel
+#META#  ScanURIOther	  ::
+#META#  ArkID           :: ark:/13960/t3132039d
+#META#  LccnID          ::
+#META#  OclcID          ::
+#META#  WebAuthor       :: Yero Niamadio
+#META#  ORCIDWebAuthor  ::
+#META#  WebReviewer     ::
+#META#  ORCIDReviewer   ::
+#META#  MiscInfo        :: the fifteenth century version
+#META#  CCLicense       :: CC BY-NC-SA 4.0 International
+
+
 PAGEV01P51
 §Coment le conte de Ponthieu fu allié par mariage a
 la fille du conte de Boulogne, de laquelle il ot une
