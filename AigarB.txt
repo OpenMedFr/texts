@@ -22,7 +22,7 @@
 #META#  TextDescVers    :: 10
 #META#  TextDateARL     :: 12e s
 #META#  TextDateAdj     
-#META#	TextDateMin     :: 1100
+#META#	TextDateMin     :: 1166
 #META#	TextDateMax     :: 1199
 #META#  EdEditor        :: Alfred Brossmer
 #META#  EdPlace         :: 
