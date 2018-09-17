@@ -5,4 +5,8 @@ At present there is no order for the texts. File names are derivative of the [DE
 
 The categories WebAuthor and WebReviewer in the metadata attempt to assign credit for the various tasks of the project. We use the [CASRAI Credit Typology](http://dictionary.casrai.org/Contributor_Roles) here. WebAuthor most closely maps to "Data Curation" and Web Reviewer to "Writing – Review & Editing".
 
-_Takedown procedure_:  In making material available online for non-commercial, scholarly purposes, the OpenMedFr project acts in good faith. We have make a concerted effort to include only materials that are published with open licenses or are no longer under copyright. If you are concerned that you have found material that should not be available publicly, please contact us in writing with your contact details, reasonable detail about to the specific, infringing material and/or proof of rights or a statement of being a rights holder. 
+_Takedown procedure_:  In making material available online for non-commercial, scholarly purposes, the OpenMedFr project acts in good faith. We have make a concerted effort to include only materials that are published with open licenses or are no longer under copyright. If you are concerned that you have found material that should not be available publicly, please contact us in writing with your contact details, reasonable detail about to the specific, infringing material and/or proof of rights or a statement of being a rights holder.
+
+Suggested citation: 
+
+"Filename.txt" (2018). Open Medieval French. https://github.com/OpenMedFr/texts
