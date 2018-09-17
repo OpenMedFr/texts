@@ -9,4 +9,4 @@ _Takedown procedure_:  In making material available online for non-commercial, s
 
 Suggested citation: 
 
-"Filename.txt" (2018). Open Medieval French. https://github.com/OpenMedFr/texts
+"{Filename.txt}" (2018). Open Medieval French. https://github.com/OpenMedFr/texts
