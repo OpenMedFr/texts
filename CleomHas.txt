@@ -48,8 +48,8 @@
 #META#  LccnID
 #META#  OclcID
 #META#  WebAuthor        :: María Dumas (vol. 1, pp. 1-145; vol. 2 pp. 206-250)
-#META#  WebAuthor        :: Karina Fernández (vol. 2, pp. 1-140; vol. 2 pp. 251-293)
-#META#  WebAuthor        :: Gustavo Fernández Riva (vol. 2 pp. 141-205)
+#META#  WebAuthor        :: Karina Fernández (vol. 2, pp. 1-140)
+#META#  WebAuthor        :: Gustavo Fernández Riva (vol. 2 pp. 141-205/251-293)
 #META#  ORCIDWebAuthor   :: https://orcid.org/0000-0002-2202-6354
 #META#  WebAuthor        :: María Florencia Vieyra (vol. 1, pp. 146-282)
 #META#  WebReviewer      :: Gustavo Fernández Riva
@@ -16246,71 +16246,1150 @@ Ains est partout léens alez.
 N'est pas Cléomadès perdug. 
 En ce chastel est descenduz.
 PageV02P175
-
+Trestout certainement le sai, 
+Car hui en ce jour veü l'ai ; 
+Et, si n'est pas li jours moult viex, 
+Nepourquant le vi mes iex 
+Hui en ce jour puis k'ajorna. 
+Honnis soit qui plus dormira : 
+Et si vous di, à bone estrine, 
+Que ramené a Clarmondine 
+Qui li fu de Crompart emblée ; 
+Sachiez que il l'a ramenée."
+# |
+Cil qui ces nouveles ooient 
+Au plus tost qu'il onques povoient 
+Se levoient de mainte part ; 
+Et cele nouvele s'espart 
+Partout et dou Ione et dou lé. 
+Tost furent par Iéens levé. 
+La gaite pas ne s'oublia. 
+Droit en la chambre s'en ala 
+Là où la royne gisoit 
+Et ses filles que moult amoit. 
+# |
+La gaite hautement hucha 
+Si que tantost les esveilla ; 
+Car bien savoit qu'il ne povoit 
+Mesfaire, s'il les esveilloit. 
+Et, quant il les ot esveillies : 
+"Or sus, "fait il, "etsoiés lies; 
+Car nouveles dire vous sai 
+Dont chascune lie ferai, 
+Plus lies c'onques ne fussiez 
+De nouveles que seüssiez. 
+J'ai Cléomadès parlé 
+Puiscedi qu'il fu ajorné. 
+Vostre frere, que tant amés, 
+Je vous menrai, se vous voulés ; 
 PageV02P176
-
+Là je le laissai maintenant."
+# |
+Et chascune se lieve errant. 
+Quant ceste nouvele entendirent, 
+Conme dervées sus saillirent. 
+Li une sa cote saisist, 
+Et l'autre son peliçon prist. 
+Chascune premerain vestoit 
+Ce k'à main premier li venoit. 
+# |
+Done Ynabele fu levée, 
+Qui n'estoit pas la mains hastée, 
+Ains fu toute la premeraine. 
+À la gaite dist : "Or nous maine 
+Là où tu mon chier fill veïs." 
+"Je n'el ferai -pas à envis," 
+Fait la gaite, "ains vous i menrai ; 
+Droit enz el praël le laissai, 
+Entre la sale et les II tours."
+# |
+Et celes s'en vont, le grant cours, 
+Droit au lieu que dire li oient. 
+Si tost que Cléomadès voient 
+Le reconnurent maintenant. 
+Et Cléomadès, tout errant, 
+Si tost que sa mere perçoit, 
+Encontre li s'en ala droit. 
+Moult très à point la salua. 
+Et sa mere mot ne sonna ; 
+Car n'avoit de parler povoir. 
+À terre la couvint cheôir 
+Si tost que ele vit celui 
+Qu'ele amoit plus que li n'autrui ; 
+Car ses cors porter ne povoit 
+La joie que ses cuers avoit.
 PageV02P177
-
+À terre cheôir la couvint, 
+Et Cléomadès avant vint ; 
+Moult doucement l'en releva. 
+Ses sereurs qui estoient là 
+L'ont tant baisié et acolé, 
+K'à pou que ne l'ont desciré. 
+folio57v
+Tant l'ont estraint et enbracié, 
+Que ce fust à veôir pitié ; 
+Car de lui si grant joie avoient 
+K'assez conjoïr n'el povoient. 
+# |
+À Clarmondine sont venues, 
+K'à envis s'en fussent tenues. 
+Bel et à point l'ont festiie, 
+Et honnorée et conjoïe. 
+Chascune entre ses bras la tint. 
+Kan queu de joie i apartint 
+Li firent. Mais merveille avoient 
+De la grant biauté k'en li voient.
+# |
+Si très tost que done Ynabele 
+Perçut Clarmondine la bele, 
+Si tost com pot vers li ala, 
+Et Cléomadès l'adestra. 
+Quant Clarmondine l'aperçut, 
+Contre li vint. Faire le dut ; 
+Car pas à aprendre n'estoit 
+De ce que on faire devoit, 
+Ains ert de tous biens si aprise 
+Que à piece ne fust reprise 
+De riens dont ele eüst mespris, 
+Tant ot cuer sage et bien apris. 
+Done Ynabele doucement 
+Clarmondine entre ses bras prent 
+Et li dist que très bien venue 
+Soit, et à joie receüe. 
 PageV02P178
-
+Dist Clarmondine: "Douce dame, 
+Diex vous garde en cors et en ame, 
+Et vous et vos filles aussi ! 
+Dou lie[z] samblant moult vous merci 
+Que vous et eles fait m'avez." 
+Dist la royne : "O moi venez 
+En ma chambre ; car moult lassée 
+Me samblez; mais bien reposée 
+Serez ains que vous m'eschapez."
+"Dame, ainsi iert com vous vorrez,"
+Dist Clarmondine sagement. 
+Et lors la royne erranment 
+En a Clarmondine menée. 
+De joie fu riche et comblée 
+Clarmondine quant ele voit 
+Que ehaseuns liez de li estoit.  
+# |
+Qui lors veïst acoupre gens 
+De chascune part par léens 
+Bien deïst que joie i eüst 
+Qui joie connoistre seüst ; 
+Car, si très tost que il véoient 
+Cléomadès, Dieu en looient 
+Si haut, qu'il sambloient derv{• 
+De ce k'avoient retrouvé 
+Cléomadès, que tant amoient 
+Que plus amer ne le povoient. 
+# |
+Par la vile fu tost seüe 
+Ceste nouvele et espandue ; 
+Car la gaite partout couroit 
+rue en rue, et Ior nonçoit 
+Que Cléomadès revenus 
+Estoit. Mais je croi c'onques nus 
+N'oy de tel joie parler 
+Com oy partout demener. 
 PageV02P179
-
+Li premier levé esveilloient 
+Ceaus qui par la vile dormoient. 
+N'espargnoient huis ne fenestre. 
+Partout, à destre et senestre, 
+Aloient l'uns l'autre esveillant. 
+N'i (fissiez pas Dieu tonnant, 
+Tel noise et tel baudour menoient 
+De la grant joie qu'il avoient 
+De ce que Cléomadès r'ont. 
+Vers le chastel acoru sont. 
+Quant Cléomadès veôir porent, 
+Aine nule si grant joie n'orent 
+K' à cele heure qu'il le revirent. 
+À Dieu grans graces en rendirent. 
+# |
+Lors veïssiez letres escrire 
+Et en parchemin et en cire, 
+Et envoier par la contrée 
+D'Espaigne, qui est longue et lée. 
+Chascuns à son ami mandoit 
+Ce que Cléomadès estoit 
+Revenus, et qu'il l'ont veü. 
+Quant Espaignol l'ont entendu, 
+be nouveles si esjoi's 
+Ne fu onques mais li pays 
+Conme Espaigne fu à cel tans. 
+Partout fu la joie si grans, 
+Que n'i sauroie sonme metre, 
+Jà tant m'en seüsse entremetre ; 
+Car aussi qu'il fussent dervé 
+Acoroient cil dou regné 
+À Sebile veöir celui 
+Que chascuns amoit plus que lui, 
+Car à paines croire povoient 
+Que ventis fust, s'il n'el véoient. 
 PageV02P180
-
+Que vaurroit que plus vous diroie? 
+Bien oreilt raison d'avoir joie. 
+Mais de ce vous lairai ester, 
+Et si vous vorrai recorder 
+Com Cléomadès esploita. 
+# |
+Droit le secont jour qu'il vint là, 
+Sot la nouvele de son pere, 
+Qui moult li fu au cuer amere ; 
+Mais ce qu'il n'el pot amender 
+Couvint qu'il le laissast ester. 
+Et encore keurt cis usages, 
+Et entre fouls et entre sages, 
+Que ce c'on ne puet adrecier 
+Couvient souventes fois laissier. 
+Nepourquant moult le regreta 
+Et moult grant duel pour lui mena ; 
+Mais sa mere, done Ynabele, 
+Le reconfortoit, conme cele 
+Qui ert apensée tous jours, 
+Et aussi firent ses serours. 
+# |
+S'il eüst son pere trouvé 
+En vie et en bone santé, 
+Clarmondine eüst espousée 
+Tout erranment, sans demorée. 
+Mais, corn cil qui tous biens savoit, 
+Pensa que pas n'espouseroit 
+Si tost après cele nouvele ; 
+Car ne seroit pas chose bele, 
+Ains seroit chose mal séant. 
+# |
+Moult furent ses serours engrant 
+Et sa mere aussi d'aaisier 
+Clarmondine, et de festiier 
+De kanques eles faire sorent 
+De quoi en gré servir la porent. 
 PageV02P181
-
+De ehaseun fu tantost amée 
+Clarmondine ; car tant senée 
+folio58r
+Estoit, et de bone maniere, 
+Qu'il n'est nus qui ne l'eüst chiere. 
+À tous se savait faire amer. 
+Car en li n'avoit point d'amer, 
+Ne d'orgueil, ne d'outrecuidance ; 
+Mais douceur plaine d'atemprance 
+Et humilité et raison 
+Orent en li fait Ior maison 
+Et lor estage à remanant, 
+Et furent à tout son vivant, 
+Ne je ne croi k'ainc puis Iojassent 
+En lieu où eles tant amassent 
+K'en son cuer; car moult ert gentis 
+Li cuers, et à bien ententis
+# |
+Cléomadès lors s'avisa
+K'au roi Carmant envoiera, 
+Ne jusqu'à tant n'espouseroit 
+Que il nouveles resaroit 
+De lui ; car espoir venroit là 
+Puisque il sa fille i saura. 
+Et moult vorroit, s'estre povoit, 
+Que il i fust à ce point droit 
+Que il deveroit espouser ; 
+Et, pour plus la chose haster, 
+Pensa que seur son chevalet 
+I feroit aler un vallet. 
+# |
+Le vallet fist apareillier, 
+Fort et viguereus et legier, 
+Qui seur le chevalet ira. 
+Cléomadès li devisa 
+Conment iroit et revenroit 
+Et com fait chemin il tenroit
 PageV02P182
-
+Et conment il feroit aler 
+Le chevalet, et arrester. 
+Dist cil : "Or n'en soiez en soigne ; 
+Car je ferai bien la besoigne, 
+Se je ne muir, ou maladie 
+Ne me vient, qui le me detrie."
+# |
+Cléomadès au roi Carmant 
+Manda par lettres d'amour tant, 
+[Et] d'amistiez et de salus, 
+Que il n'en i couvenoit plus. 
+Kan qu'il apartint mander 
+Li manda sans riens oublier. 
+Si fist Clarmondine autressi. 
+Son pere manda tout ainsi 
+Que sa besoigne estoit alée. 
+Conme sage et bien avisée, 
+Nule riens ne mist en oubli 
+De ce que à mant aferi. 
+Tout ainsi que mandoit son pere, 
+Mandoit ele aussi à sa mere, 
+Qui morte ert, mais pas n'el savoit, 
+Pour ce lettres li envéoit ; 
+Car, s'ele de sa mort seüst, 
+Moult grant meschief de cuer eüst.
+# | 
+Cléomadès, quant devisa 
+Ses lettres, pas n'i oublia 
+Qu'il ne priast au roi Carmant 
+Que il li amenast Durbant 
+Et Sartan ; car moult les devoit 
+Amer : bien raison i avoit. 
+Moult li pria qu'il n'oubliast 
+Que il Liadès n'amenast, 
+Et Flourete et Gayete aussi. 
+Nule riens ne mist en oubli 
 PageV02P183
-
+Qui mander apart,enoit. 
+Sachiez que bien li souvenoit, 
+De Pinchonnet à cele fois. 
+Moult erl avisez et courtois. 
+En sa lettre forment prioit 
+Au roi Carmant, se tant l'amoit, 
+Que o lui venir le feist 
+Et que il l'en ressouvenist 
+Quant à Durbant envoieroit 
+Et à Sartan : moult le vouloit. 
+Bien et à point sot deviser 
+La besoigne, sans oublier 
+Riens de ce qu'il i apartint. 
+Et li messagés avant vint. 
+Lors est sor le cheval montés, 
+Quant de ce fu bien arréés
+Que à son mouvoir aferoit. 
+Et il, qui retenu avoit 
+Des chevilles l'ensaignement, 
+Prist congié, Et lors erranmeni 
+La maistre cheville torna 
+Dou cheval, et il l'enporta 
+Si tost com cil vouloit aler 
+Qui le cheval devoit mener. 
+# |
+Que vaurroit que je vous diroie 
+Conment se maintint en la voie ? 
+Sages fu et bien ensaigniez, 
+Et avisez et afaitiez ; 
+Et pour ce [que] il estoit tés 
+Li fu li chevalés livrés. 
+Ne couvenist querre plus sage, 
+Qu'il ert, pour bien faire I message, 
 PageV02P184
-
+Son cheval si à point mena 
+Et tant fist et tant esploita, 
+Que en Toscane vint tout droit 
+Là où li rois Carmans estoit 
+À I sien chastel noble et gent 
+Que on apeloit Mont Clarent 
+Au tans de lors, ce dist l'estoire 
+Qui est moult gracieuse et voire. 
+# |
+Enmi ce chastel descendi 
+Li messagés dont je vous di, 
+Moult à point et moult sagement. 
+Moult se merveillerent la gent 
+De toutes pars, quant l'ont veü. 
+Li plusour ont reconneü 
+Le cheval, s'en furent moult lié. 
+Le messagier ont festiié ; 
+Car bien pensoient qu'il venoit 
+Devers Cléomadès tout droit. 
+Et cil à point les salua 
+Et leur dist que pas III jours n'a 
+Qu'il vit Clarmondine la bele ; 
+Et, quant cil oient tel nouvele 
+Pe cele qu'il amoient tant, 
+euer furent lie[z] et joiant. 
+De toutes pars joie demainent ; 
+Devers le roi Carmant l'enmainent.
+# |
+Le cheval avoec lui portoit 
+Li messagés ; car n'el vouloit 
+Derrier lui laissier tant ne quant. 
+Devant le noble roi Carmant 
+Vint li messagés, ce me samble, 
+Et il et li chevaus ensamble. 
+Tost fu dou roi reconneüs. 
+folio58v
+Et, quant li rois le cheval voit, 
 PageV02P185
-
+Lors pensa k'à lui envoioii 
+Cléomadès, s'en fu moult liez. 
+# |
+Devant lui s'est agenoilliez 
+Li messagiers moult sagement ; 
+Salué l'a, et lors li tent 
+Les lettres k'aportées ot, 
+Com cil qui bien faire le sot, 
+Premier de par Cléomadès, 
+Et de par Clarmondine après. 
+Et li rois les lettres reçoit 
+Qui moult liez en son cuer estoit 
+Des nouveles que il entent. 
+Les lettres Iut tout erranment. 
+Sachiez k'ens es lettres trouva 
+Chose qui moult li agréa ; 
+Car bien li devoit, agréer. 
+Le messagier fist demorer 
+Là endroit tant com il li plot, 
+Et cil fist kan que li rois vot 
+Et qu'il li plot à commander. 
+# |
+lui vous lairai ore ester. 
+Dou roi et de ceaus dou pais 
+Fu honnorés et conjoïs. 
+Quant poins en fu, il retorna 
+Quant au roi Carmant agréa. 
+# |
+À Cléomadès revenrai ; 
+Car toute l'estoire vorrai 
+De point en point si deviser 
+Que je n'i cuit riens oublier. 
+# |
+Cléomadès moult honnoroit
+Sa mere, dont il avoit droit ;
+Car cil qui honneure sa mere
 PageV02P186
-
+Et qui obéist son pere, 
+Fait Dieu honneur et lui aussi. 
+Sages est qui le fait ainsi, 
+Et qui autrement le fera 
+Trop à tart s'en repentira ; 
+Car on ne puet trop honnorer 
+Pere et mere, ne trop amer. 
+Cléomadès riens ne feïst 
+chose qui apartenist 
+Que sa mere savoir deüst, 
+K'ainçois que il empris l'eüst, 
+Que à sa mere n'en parlast 
+Pour savoir que ele en loast. 
+# |
+Sa mere et ses serours conta 
+Cléomadès conment il a 
+Alé par maint divers pays 
+En requerant cele tous dis 
+Que Diex li a ore rendue. 
+Grant partie a amenteüe 
+Conment ala, ne conment vint, 
+Ne k'en la voie li avint, 
+Conment à Salerne ert venus 
+Et conment rois Meniadus 
+Ot fait Clarmondine garder. 
+"Certes s'en doit on moult loer," 
+Dist clone Ynabele, "tel roi 
+Qui si gentil euer a en soi 
+Conme li rois dont voUs parlez. 
+Bons jours li soit hui ajornez ; 
+Car moult a fait grant courtoisie. 
+Diex le gart et doinst bonne vie ; 
+Car il a fait que gentiex rois. 
+Et que sages et que courtois."
+# |
+Ses trois filles le tesmoignoient 
 PageV02P187
-
+Meniadus torment prisoient, 
+Et disoient bien que noblece 
+Et droite honnour et gentillece 
+L'avoient à ce atorné 
+Que il avoit ainsi ouvré, 
+Et que cil qui mais en orroient 
+Parler, plus prisier l'en devroient. 
+# |
+Clarmondine leur a conté 
+La grant honnour et la bonté 
+Que la mere ce roi li fist. 
+Tout leur conta et tout leur dist 
+Conme de trés douce matere 
+Trouva la fille et la mere, 
+Et conment eles l'onnoroient 
+Et de li garde se prenoient, 
+Et nuit et jour, et tempre et tart. 
+"Dame Diex les maintiengno et gart," 
+Fait Clarmondine, "et leur doinst joie 
+Si vraiement que le vorroie ! 
+Car bien le devroie voloir. 
+Se de riens avoie povoir 
+Qui leur fust besoins et mestiers, 
+Moult le feroie volentiers ; 
+Car bien l'ont vers moi desservi."
+# |
+Quant done Ynabele entendi 
+Conment Clarmondine ot parlé 
+En son cuer l'en sot moult bon gré, 
+Et ses filles moult l'en loerent 
+Et à grant bien li atornerent ; 
+Car de très grant bien li venoit 
+De ce que ele ainsi disoit. 
+Cléomadès meësmement 
+Li dist : "Bele, se Diex m'ament, 
+Pour ce que si d'aus vous loez,  
 PageV02P188
-
+Se jamais nouveles oez 
+En quoi je leur puisse valoir 
+De cuer et de cors et d'avoir, 
+À mon povoir leur aiderai, 
+Se mestiers est et je le sai." 
+Et Clarmondine l'en mercie
+À point, conme bien ensaignie.
+# |
+Les trois serours Cléomadès 
+Pensoient nuit et jour adès 
+Conment plus honnorer povoient 
+Clarmondine, cui tant amoient 
+Que plus n'el povoient amer ; 
+Car en li n'avoit point d'amer. 
+Sens, humilités et, raison 
+Ert adès en li en saison, 
+Et apensement et avis 
+Monteplioit en li tous dis, 
+De jour en jour, de plus en plus, 
+Plus que dire ne saroit nus. 
+Li biens de li et la biauté 
+Et la grant debonaireté 
+Qui en son cuer estoit manans 
+Li fist faire mains cuers amans ; 
+Car cil qui miex la connoissoient 
+C'estoient cil qui miex l'amoient.
+# |
+De ce ne vous vueil plus parler ; 
+Aincois vous vorrai deviser 
+Com Cléomadès esploita. 
+À sa mere dist qu'il vorra 
+Une feste faire arréer 
+Tele que cil puissent conter 
+folio59r
+Qui à cele feste seront 
+K'à bele feste esté aront, 
+Et que cele feste sera 
 PageV02P189
-
+Arréée quant là venra 
+Li rois Carmans qu'il ot mandé ; 
+Car moult avoit grant volenté 
+De lui recevoir noblement 
+Et d'onnorer lui et sa gent.
+# |
+"Biaus fiex," ce dist done Ynabele, 
+"Drois est que la feste soit bele, 
+Après tel perte recouvrée 
+Dont Espaigne ert si esgarée ; 
+Mais bien y a joie rendue 
+La vostpe douce revenue, 
+Et ce k'avez ci amenée 
+La plus bele qui aine fust née 
+Et fille à roi de grant value 
+Qui Ionc tans a esté perdue. 
+Bien doit on grant joie mener 
+À si grant perte recouvrer. 
+Biaus fiex, com de vous et de li 
+Onques si douce riens ne vi 
+Qu'ele est, Diex la vueille sauver ! 
+On ne la porpoit trop loer, 
+Tant y a de tous biens plenté 
+Parmi toute la grant biauté 
+Dont ele a tant, k'à fin souhait 
+Ne couvient qu'ele plus en ait. 
+Or soit si la feste arréée 
+Et de tout si bien estofée 
+Que on puist dire k'ainc nul jour 
+Ne fu feste de tel valour." 
+"Ma dame, fais en iert vos grés,"
+Fait Cléomadès, "n'en doutés." 
+# |
+À Cléomadès moult plaisoit 
+Ce que sa mere tant prisoit 
+Clarmondine, et tant l'avoit chiere,  
 PageV02P190
-
+Et tant li moustroit bele chiere. 
+Joie ot de ce que tout l'amoient 
+Pour la bonté k'en li véoient. 
+# |
+À Sebile erent assamblé 
+Li haut baron de son regné. 
+Les féautés et les homages 
+Recut de sa gent, conme sages, 
+Ainsi qu'il i apartenoit 
+Selonc le tans qui lors estoit. 
+N'ai cure de ce raconter. 
+Cléomadès a fait crier 
+La feste qu'il vorra tenir, 
+À si lonc terme que venir 
+I puist on de pluseurs contrées 
+Sans faire trop grandes jornées ; 
+K 'adonc se fera coronner 
+Et vorra sa fenme espouser, 
+Et iert sa fenme coronnée. 
+Ainsi fu la feste criéée. 
+# |
+À Sebile fust establié 
+La feste. Or est drois que vous die 
+En quel lieu cele feste fu. 
+Ainsi que je l'ai entendu 
+Me plaist k'entendre le vous face. 
+Arainne a à non cele place ; 
+À droit la vous cuit deviser. 
+Si com j'ai oy recorder, 
+Encore est ainsi apelée , 
 PageV02P191
-
+Tesmoing ceaus de cele contrée. 
+Defors les murs, près dou chastel, 
+Siet cil lieus. Moult i faisoit bel 
+Au tans dont vous m•oez parler. 
+Près de là vient li flues de mer, 
+Et si a riviere corant. 
+Place y a bele et lée et grant. 
+Là fu la grant feste tenue 
+Tele k'ainc puis ne fust veüe 
+Nule qui s'i apartenist 
+Ne de riens à li se presisi. 
+# |
+Cléomadès lors s'avisa 
+K 'à Meniadus mandera 
+Par lettres la certaineté 
+De ce que il a là esté, 
+Et que il Cléomadès fust, 
+Et que seur le cheval de fust 
+En ot Clarmondine portée 
+De Salerne, et l'avoit gardée 
+Si que il l'en savoit bon gré, 
+Et li seroit guerredonné. 
+S'il povoit jamais chose faire 
+Qui lui ne les siens deüst plaire, 
+Il ne s'en feroit pas priier, 
+Ains le feroit de cuer entier. 
+# |
+Cléomadès moult anuia 
+Que dès dont ne s'en avisa 
+Que à Chastiau Noble tramist 
+Le cheval de fust. Bien vousist 
+Qu'il s'en fust dès dont avisez ; 
+Car cil au cheval fust alez 
+Au roi Carmant et là ensamble. 
+Nonpourquant par raison li samble 
+Qu'il n'est pas drois qu'il i envoit 
 PageV02P192
-
+Le cheval, pour ce qu'il avoit 
+Par le cheval cele perdue 
+Dont il cuida faire sa drue, 
+Et croit que, se là revenoit 
+Li chevaus, et il le véoit, 
+Qu'il en aroit au euer anui. 
+Miex vient qu'il i envoit autrui ; 
+Car riens qui li deüst desplaire 
+Ne vorroit pas volentiers faire, 
+Ains le vorroit moult honnorer. 
+'A cele lettre deviser 
+Fu sa mere done Ynabele, 
+Si fu Clarmondine la bele, 
+Qui moult lie de cuer estoit 
+De ce que tel chose mandoit 
+Cléomadès Meniadus. 
+Grans amistiez et grant salus 
+Manda Clarmondine la gente 
+La royne et sa fille Argente, 
+Et le roy, bien raison y a, 
+Car bon et courtois le trouva.
+# | 
+À Meniadus a mandé 
+Cléomadès moult d'amisté 
+Et de courtoisie et d'onnour 
+Et li a fait savoir le jour 
+De la feste que tenir doit ; 
+Et moult durement li prioit 
+Qu'il i venist se il peüst, 
+Et bien certainement seüst, 
+S'il i venoit, que au sien mant 
+Venroit d'ui ce jour en avant 
+Là où il le vorroit avoir, 
+Et metroit et cors et avoir 
 PageV02P193
-
+folio59v
+En lui et en s'onnour garder, 
+Se tant le vouloit honnorer 
+Que il à sa feste venist. 
+As messagés pria et dist 
+Que il d'el aler se hastassent 
+Et que tost arrier retornassent. 
+Et cil dient qu'il le feront. 
+À tant de là parti se sont. 
+# |
+Messagiers sages et senez, 
+Chevaliers preus et alosez 
+I envoia, ne sai pas kans ; 
+Mais bien sai que l'un des conmans 
+Que Cléomadès eonmanda 
+À eaus quant partirent de là, 
+Ce fu ce qu'il amonestassent 
+Sa feste, et savoir le laissassent 
+Par tous les lieus là il venroient ; 
+Et cil dient qu'il le feroient.
+# | 
+Et lors n'i ont plus detriié. 
+Tant ont erré et chevauchié 
+Que Meniadus ont trouvé. 
+De par celui l'ont salué 
+Qui là les avoit envoiez. 
+Lors li fu presentez li briés 
+Moult à point et moult sagement. 
+Et li rois moult courtoisement 
+Les recut, et moult les honneure. 
+La royne droit à cele heure 
+Entra léens que je vous di, 
+Et Argente sa fille aussi. 
+# |
+Li messagé les saluerent 
+Et lors de là en sus alerent. 
+Et li rois sa mere apela 
 PageV02P194
-
+Et sa suer ; errant Ior moustr•a 
+Le brief que aporté li ont 
+Li messagé qui iluec sont ; 
+Et lor a nonmé de par cui 
+Le brief ont aporté à lui. 
+# |
+Quant la royne l'entendi, 
+Moult durement li abeli, 
+Et moult desiroit à savoir 
+Que il puet en ce brief avoir, 
+Ne pour quoi a là envoié 
+Cléomadès. I,ors a brisié 
+Li rois le seël, et Ieü 
+A le brief; et, quant entendu 
+Ot ce que mandé li avoit 
+Cléomadès, qui tant valoit, 
+Moult l'en sot bon gré, et pensa 
+Que il à sa feste sera 
+Au jour que il li a mande, 
+S'il puet ; ainsi l'a enpensé. 
+# |
+Une grant piece ilueques furent 
+Que de là endroit ne se murent. 
+Li uns après l'autre lisoit 
+Cele lettre, et moult Ior plaisoiC 
+Ce que en la lettre trouvoient. 
+Cléomadès moult en prisoient, 
+Et moult li savoient bon gré 
+Qu'il avoit telement ouvré 
+Et que bien ert en lui séant 
+La valour dont il avoit tant 
+Que hom n'en povoit avoir plus. 
+Lors dist li pois Meniadus 
+Que il à cele festo ira. 
+La royne erranment Ioa 
+Que il ne demeure à nul fuer
 PageV02P195
-
+Aussi fist Argente sa suer ; 
+Car moult li a fait honnour grande 
+Cléomadès, quant il li mande 
+Lui aidier si humblement 
+Vers toute maniere de gent, 
+Et que cil qui li Ioeroient 
+Qu'il n'i alast, grant mal feroient. 
+# |
+Lors a Meniadus mandé 
+Son conseil, et Ior a moustrè 
+Le brief; et, quant cil le brief oent 
+L'aler la fòste li loent. 
+'A l'aler trestout s'assentirent 
+Quant le courtois mant entendirent 
+De quoi la lettre avoit parlé. 
+Lors furent avant apelé 
+Li messagé qui moult estoient 
+Courtois, et moult de bien savoieut. 
+Li rois meïsmes dit leur a 
+K 'au mant Cléomadòs ira 
+Et que moult grant gré li savoit 
+De ce que il mandé l'avoit, 
+Et que il mouvroit temprement ; 
+Et cil l'en enclinent forment. 
+# |
+Moult leur demanda la royne 
+Conment le faisoit Clarmondine, 
+La douce, la bien ensaignie, 
+Et se ele ert saine et haitie ; 
+Et cil là respondent point 
+Et li dient : "Dame, en bon point 
+La laissames, quant nous meümes 
+De Sebile, et commarat eümes 
+De par li de vous saluer. 
+Nous n'el devons pas oublier ; 
+Car moult le commanda de cuer, 
 PageV02P196
-
+Et le roi aussi et sa suer 
+Nous dist que nous saluissiens. 
+Et vous mande bien qu'il n'est riens 
+Qu'ele peüst faire pour vous 
+Que ses cuers ne soit tous jalous 
+Qu'ele ne feïst son povoir 
+De ce qui vous porroit valoir ; 
+Car bone et loial vous trouva."
+# |
+La royne moult agréa 
+Ce que Clarmondine ot mandé 
+À li tel debonaireté. 
+As messagiers moult longuement 
+Parla, et leur moustra conment 
+Ele s'ert Iéens maintenue. 
+Dist leur c'onques ne fu veüe 
+Fenme e'on deüst miex amer 
+De li ; c'on ne porroit trouver 
+Plus bele ne miex entechie. 
+De son mant ibrment la mercie. 
+La royne courtoisement 
+Et sa fille Argente ensement 
+Moult li manderent de saluz. 
+De ce ne voUs parlerai plus. 
+# |
+Li messagier ont congié pris 
+Sagement, conme bien apris, 
+Au roi et à ceaus qui là furent 
+Là où il congié prendre durent. 
+Li rois leur fist grans dons donner, 
+Et il le vorrent refuser, 
+Mais ainc ne s'en vorrent deffendre 
+Que il ne leur couvenist prendre. 
+folio60r
+Moult liement de là sevrerent. 
+Vers Espaigne s'acheminerent, 
 PageV02P197
-
+Et Meniadus arréer 
+Fist son afair&et aprester 
+Pour aler là où il devoit 
+Si com à lui apartenoit ; 
+Car à la foste noblement 
+Veut aler, à plenté de gent 
+I)es meillours que trouver porra. 
+Son attire bien arréa. 
+Mais de lui ore me tairai. 
+À Cléomadès revenrai. 
+# |
+Le jour meiSme que nonmée, 
+Fu la feste k'ai devisée, 
+Celui meïsme jour moustra 
+Cléomadès et devisa 
+À son conseil qu'il aferroit 
+Que on feïst raison et droit 
+Melocandis et Baldigant ; 
+Car il avoit cuer et talant 
+Que il à son povoir tenroit 
+Kan que en couvenant avoit 
+Ses peres, et eaus [et] autrui, 
+N'en vorroit faillir à nului. 
+"Car tant fu loiaus et gentis, 
+C'on doit en verité ses dis 
+Tenir, et je les i tenrai, 
+Se Dieu plaist; jà n'en defaurrai."
+# | 
+Quant done Ynabele l'entent, 
+Moult li plaist, tantost s'i assent ; 
+Et moult l'en ont tout cil loé 
+À cui il avoit ce moustré. 
+# |
+Lors Cléomadés envoia 
+Versles II rois, ples n'arreesta,
+Qui ses serours avoir devoient,
 PageV02P198
-
+Et leur mande bien que il soient 
+À la feste qu'il doit tenir, 
+Et qu'il se hastent de venir. 
+Et li message s'en alerent. 
+Les rois en leur pays trouverent. 
+Premiers vinrent à Baldigant, 
+Car celui trouverent avant. 
+Conme gent avisée et sage 
+Fournirent à droit lor message ; 
+Liement furent receü. 
+Quant Baldigans a entendu 
+Ce que Cléomadès li mande, 
+Onques mais n'ot joie si grande. 
+Des messagiers fist son devoir ; 
+Car moult ot en lui de savoir. 
+Tost fist son afaire arréer 
+Pour vers Cléomadès aler, 
+Et li message n'atendirent 
+Iluec gaires. Quant lor point virent, 
+Congié prirent ; lors s'en tornerent. 
+# |
+Tant esploitierent et errerent 
+Qu'il trouverent Melocandi,s 
+À I sien chastel, ce m'est vis, 
+Qui avoit non Mont Arrousé. 
+Là ont Melocandis trouvé 
+Qui les reçut moult liement. 
+Quant il sot la raison conment 
+Il erent venu et pourquoi, 
+Onques tel joie n'oi en soi ; 
+Et il au plus tost que il pot, 
+Quant cele nouvele oye ot, 
+Fist arréer tout son afaire 
+Pour vers Espaigne erranment traire.
+Les messages tant honnora,
+Que chascuns de lui se loa.
 PageV02P199
-
+Baldigans mandé li avoit 
+En quel lieu il l'atenderoit, 
+Et il i vint au plus briément 
+Qu'il onques pot, moult liement. 
+Il et Baldigans, ce me samble 
+Murent à I jour tout ensamble 
+Pour aler là où moult amoient 
+Ce que onques veü n'avoient. 
+# |
+D'aus vous lairai I pou ester. 
+De Cléomadès vueil parler, 
+Qui durement s'esmerveilloit 
+De ce que cis ne revenoit 
+Qui deseur le cheval de fust 
+S'en ert alez ; car bien deüst 
+Estre grant pieça revenus. 
+Lors pense que il soit perdus,
+Ou que il ne set revenir, 
+Ou ne set son cheval tenir 
+Par quoi le puist faire arrester. 
+À ces poins prist moult à penser 
+# |
+Ainsi k'en cel penser estoit, 
+Cléomadès garde ; si voit 
+Le cheval qui ert revenus. 
+Droit ens ou lieu ert descendus 
+Li escuiers hui l'enmena 
+Dont il parti quant s'en ala. 
+Quant cil dou chastel l'ont seü, 
+Encontre lui sont acoru 
+De toutes pars et de tous lez. 
+Conjoïs fu et acolez. 
+Savoir povez, moult liez en fu
+Cléomadès quant l'a veü.
+# |
+Quant li vallés l'ot salué 
 PageV02P200
-
+Lors li a mot à mot conté 
+Conment fourni ot son message. 
+À très avisé et très sage 
+Le tint Cléomadès forment, 
+Quant il a entendu conment 
+II ot esploitié et erré. 
+Et lors l'a li vallés mené 
+À une part, et li conta 
+Que morte estoit, moult grant pieça, 
+La fenme le bon roi Carmant, 
+Dont ou pays sont moult dolant. 
+"Mais de ce k'avez retrouvée 
+Clarmondine, est si repueplée 
+La terre de joie en tous lieus, 
+Que, aussi me vueille aidier Dieus. 
+Que pas recorder me saroie 
+La centime part de la joie 
+Qu'il ont de ce k'avoir devez 
+Clarmondine, oil tant a biautez, 
+Cil de la terre au roi Carmant, 
+Viel et joene, petit et grant. 
+Sachiez li rois Carmans venra 
+Au plus tost qu'il onques porra. 
+Par tout son pays envéoit 
+Li rois Carmans, et si mandoit 
+Gens à tous lez ; car noblement 
+Vorra venir prochainement. 
+Le jour que de là me parti 
+Fu mandés Durbans, ce vous di, 
+Et Sartans, pour voir, ses conpains, 
+ce soiez vous tous certains. 
+Tant vous os bien dire pour voir, 
+Moult vous desirent à vëoir 
+rois et cil de son pays. 
+En la terre avez moult d'amis. 
+Pour vous ai esté honnorés 
 PageV02P201
-
+Et conjoïs de tous costés."
+# |
+Cléomadès moult abeli 
+La besoigne, quant l'entendi. 
+Dès dont la verité savoit 
+Que la royne morte estoit 
+Qu'il ot à Chastel Noble esté ; 
+Mais Clarmondine l'ot celé. 
+Lors pensa que il li diroit 
+Ains que ses peres venus soit, 
+Pour ce c'un pou eüst passé, 
+Ains son venir, de la grieté 
+Qu'ele ara d'oyr tel nouvele. 
+# |
+Vers sa mere done Ynabele 
+En a mené celui errant 
+Qui venus est dou roi Carmant. 
+Le messagier parler oïrent. 
+toutes pars grant joie firent 
+Des nouveles qu'il aportoit.
+Et lors vint Clarmondine droit 
+À lui. Moult doucement li prie 
+Que il de son pere li die 
+Et de sa mere, que il font 
+Et se il sain et haitié sont. 
+Et cil point la respondi 
+Tant com à lui en afrri, 
+Com cil qui estoit avisez. 
+Après ce est de là sevrez 
+Qu'il ot la besoigne anoncie 
+D'ainsi qu'ele li fu charchie. 
+# |
+Cléomadès lors conseilla 
+À sa mere, et conté li a 
+Que morte ert la bone royne 
+Qui estoit mere Clarmondine, 
+Et bien looit c'om li deïst  
 PageV02P202
-
+Ains que li rois Carmans venist, 
+Pour ce k'à li fust revenue 
+Un pou ains que l'eüst veiie 
+Ses peres, ne que venus soit. 
+C'ert li mieudres, ce li sambloit, 
+Et la royne s'i assent 
+Et dist que ne laira noient 
+Que ne li die après mengier ; 
+Plus longuement n'en quiert targier.
+# | 
+Done Ynabele regretoit 
+En son cuer forment et plaignoit 
+Done Clarmonde ; car souvent 
+Ot oy parler mainte gent 
+D'el honnour et des biens de li. 
+Après mengier, si com vous di, 
+En a Clarmondine menée, 
+Com cele qui ert avisée, 
+En sa chambre où ele gisoit ; 
+Car li lis Clarmondine estoit 
+Delez le sien lit Oignant. 
+IA jut tout adès jusqu'à tant 
+Que Cléomadés espousée 
+L'ot, et qu'ele fu coronnée. 
+Les trois serours Cléomadès 
+Gisoient lès li, près à près. 
+Lés son lit leur lit fait estoient ; 
+Car toute l'amour li moustroient 
+Qu'eles li povoient moustrer 
+Pour li et leur frere honnorer. 
+# |
+Done Ynabele li moustra 
+La besoigne com ele va 
+D'endroit de la mort de sa merc. 
+Au cuer li fu sure et amere, 
+Si que il l'en couvint pasmer 
 PageV02P203
-
+De duel, quant ot oy parler 
+La royne done Ynabele. 
+Moult li fu griés cele nouvele. 
+Et ses filles la confortoient 
+Et entre leur bras la tenoient ; 
+Car moult erent de bon afaire. 
+Au miex qu'eles le sorent faire 
+La confortoient telement 
+Qu'el confort ne failloit noient.
+# | 
+N'est pas merveille se duel ot 
+Clarmondine, quant ele sot 
+Que sa mere estoit trespassée. 
+Mais, conme sage et avisée, 
+Portoit le duel que ele avoit ; 
+Car s'en naturex le faisoit 
+Dont en li ot à remanant. 
+De son duel me tairai à tant. 
+À Cléomadès anuia 
+Forment ie duel qu'ele mena. 
+lie li conforter se penerent
+Entr'aus tant qu'il la ramenerent 
+En point, au plus tost que il porent, 
+Au miex que il faire le sorent. 
+# |
+Cléomadès ne detria. 
+Rois, ducs, contes, princes manda, 
+Chevaliers, dames, damoiseles ; 
+Partout fait savoir les nouveles 
+De la feste qu'il veut tenir. 
+S'avint ainsi qu'il vit venir 
+Les messages le roi Carmant, 
+Qui moult erent lie[z] et joiant 
+C'on leur avoit pieça conté 
+Seur le chemin la verité 
+De ce pour quoi meü estoient
 PageV02P204
-
+De leur pays. Et, quant il voient 
+Cléomadès, salué l'ont 
+Et li ont moustré que il sont 
+Et pour quoi il sont là venu. 
+De par le roi Carmant salu 
+Li font, à point et sagement ; 
+Et, quant Cléomadès entent 
+Leur nouveles, joie en ot grant. 
+As messagiers fist lié semblant. 
+Quant dou roi Carmant parler ot, 
+Moult en fu liez et moult li plot ; 
+Car bien set que grant joie aroit 
+Clarmondine, s'ele savoit 
+La nouvele qu'il a oīe 
+De son pere, moult seroit lie. 
+# |
+Les messagiers a honnorés 
+Et festiés et aparlés 
+Et bel et à point conjoïs, 
+Com avisez et bien apris. 
+Et cil sagement et à droit 
+Li dirent ce que li mandoit 
+Li rois Carmans, com avisé 
+Que il n'i ont riens oublié. 
+# |
+folio61r
+Moult plot Cléomadès li mans 
+Que li manda li rois Carmans, 
+Si que moult en fu esjoïs. 
+Lors a I sien vallet tramis 
+Vers sa mere done Ynabele 
+Et vers Clarmondine la bele, 
+Et leur mande que là venra 
+Et k'avoeques lui amenra 
+Les messagiers le roi Carmant 
+Qui à lui sont venu errant. 
+Et li vallés, quant l'entendi
 PageV02P205
-
+La royne, le dit ainsi 
+Que Cléomadès li rouva. 
+Quant Clarmondine entendu a 
+Ces nouveles, moult en fu lie, 
+Un granment fu rassouagie 
+Des maus qu'ot eüs pour sa mere, 
+Quant nouveles sot de son pere. 
+# |
+Cléomadès léens entra. 
+Les messagiers o lui mena 
+Droit là où Clarmondine estoit. 
+Quant Clarmondine les perçoit, 
+Si tost qu'ele les a veüs 
+Tantost les a reconneüs, 
+Et cil, si tost qu'il l'ont veüe, 
+L'ont erranment reconneüe. 
+Grant joie orent quant il la virent. 
+Devant li à genous se mirent. 
+À paines porent il parler, 
+Quant il la durent saluer, 
+De la grant joie qu'il avoient 
+ce que devant aus véoient 
+Clarmondine la debonaire, 
+Qui de tous biens ert exemplaire 
+Et de toute biauté la flour. 
+Ne peüssent joie greignour 
+Avoir qu'il orent, tant sont lié. 
+Là il erent agenoillié. 
+Les keurt Clarmondine acoler. 
+Si tost qu'ele à eus pot parler 
+De très fin cuer les festioit, 
+L'un après l'autre r'acoloit. 
+# |
+Le premier mot k'à aus parla, 
+De son pere leur demanda ; 
+Et cil li dirent que haitié 
 PageV02P206
 Le laissierent, et de cuer lié
 De ce que nouvele savoit
-# |
 Que ele retrouvée estoit ;
 Car dit li avoit Pinchonnès
 Tout ainsi que Cléomadès
@@ -16350,7 +17429,6 @@ Que il de lui moult se looit,
 Et que par son conseil estoit
 Premiers vers Salerne tornez.
 "Ne ne croi que mais assenez
-# |
 Fusse, se il esté n'eüst,
 En lieu où Clarmondine fust :
 Mais par son conseil assenai
@@ -16368,12 +17446,10 @@ Pour la grant amour k'à lui ai."
 Dist Clarmondine : "Autel vous di.
 Je le doi bien amer aussi,
 Quant par son sens me retrouvastes
-# |
 Et là où j'estoie assenastes.
 Et, se je vif, meri li iert
 Si com à tel service afiert ;
 Car de très anuieus anuis
-# |
 M'a getée li sens de lui,
 Ainsi que vous le tesmoigniez."
 "Damoisele, bien le sachiez,"
@@ -16399,13 +17475,11 @@ Et cil, si qu'il apartenoit,
 L'en dirent ce qu'il en estoit.
 # |
 Quant poins en fu, congié rouverent ;
-# |
 Car longuement demoré erent
 Selonc ce k'en couvent avoient
 Que leur voiage hasteroient
 Quant partirent dou roi Carmant.
 "Or ne vous alez si hastant,"
-# |
 Dist Cléomadès, "biau seignour ;
 Car mes mesages, l'autre jour,
 Revint de lui, si que bien set
@@ -16422,7 +17496,6 @@ Quant de Chastel Noble parti
 O sa fille que véez ci.
 Et m'a mandé que ci venra
 Pour ce, lo que vous demorés
-# |
 Ici endroit et I'atendez
 PageV02P209
 Tant que il soit ici venus ;
@@ -16463,7 +17536,7 @@ Et lui et tous ceaus qui là erent
 Se ces nouveles agreerent,
 PageV02P210
 Ce ne fait pas à demander.
-
+# |
 Je ne vous sai pas deviser
 En quel pays fu encontrés
 Li rois Carmans dont vous oés
@@ -16483,7 +17556,7 @@ Et par plaignes et par boscages,
 Par praëries, par rivages,
 O le roi et sa conpaignie,
 Trop seroit l'estoire alongie.
-
+# |
 Là endroit o le roi estoient
 Durbans et Sartans, et avoient
 As messagiers le roi parlé.
@@ -16496,7 +17569,7 @@ Des nouveles que il oïrent.
 Li messagier à Durbant dirent
 Que de Pinchonnet se looit
 Cléomadès, et moult l'amoit.
-
+# |
 Lors li recorderent conment
 PageV02P211
 De lui ot parlé bonement.
@@ -17963,3 +19036,401 @@ Les senestres coronnes lors
 Leur assist on deseur les chiés.
 Tout en autel point, ce sachiés,
 Que il au moustier venu erent,
+PageV02P251
+Tout ainsi arrier s'en r'alerent, 
+Fors tant que coronne portoit 
+Cléomadês, qui pas n'avoit 
+Coronne eue au venir là. 
+Autre difller]ence n'i a, 
+Et ce k'autre coronne avoit 
+Clarmondine, que ne souloit. 
+# |
+Se vous à ce point là fussiez, 
+Plenté d'estrumens oyssiez : 
+Vièles et sauterions, 
+Harpes, et gigues, et canons, 
+Leüs, rubebes et kitaires. 
+Et ot en pluseurs lieus nacaires 
+Qui moult très grant noise faisoient ; 
+Mais fors des routes mis estoient. 
+Cymbales, rotes, timpanons, 
+Et mandoires, et micanons 
+I ot, et cornes et douçaines, 
+Et trompes et grosses araines. 
+Cors sarrazinois et tabours 
+I avoit moult en lieus plusours. 
+Estrumens de mainte maniere 
+I ot, et avant et arriere, 
+De toutes pars et de tous lés, 
+Que je ne vous ai pas nonmés ; 
+Car de maint pays i estoient 
+Menestrel qui assez savoient 
+De ce k'afiert à menestrel, 
+Li un d'un et li autre d'el. 
+# |
+Ainsi en la place rentrerent. 
+Et lors Cléomadès menerent 
+Tout droit au lieu où arréés 
+PageV02P252
+Ert Il siege[s] où coronnés 
+Devoit estre la tierce fois. 
+Tout ce qu'il ert raisons et drois 
+Fu fait, et lui et Clarmondine. 
+Lors fu rois et ele royne, 
+Quant les tierces corones orent. 
+Ainc plus biau roi veôir ne porent 
+folio67r
+Nus ne nule, ne loing ne près, 
+Com fu li rois Cléomadès ; 
+Et de Clarmondine la bele 
+Repot on bien dire que ele 
+Fu la plus bele coronnée, 
+Qui ainc fu royne clamée. 
+# |
+Moult fu cil mariages gens 
+Et graciiés de toutes gens ; 
+Car il fu, à tesmoing l'estoire 
+Qui est tesmoignie pour voire 
+De la plus bele et du plus bel 
+Qui fussent puis le tans Abel.
+# | 
+Devisé vous ai moult briement 
+D'aus II le tiers coronnement. 
+Si ai je fait les autres II ; 
+Car longue riote n'est preus, 
+Car trop plus fu grandement faite 
+La chose que ne l'ai retraite. 
+Mais il n'est mestiers ne besoins 
+Que tous vous recorde les poins 
+Que on fist aus coronner, 
+Et pour ce le lairai ester. 
+# |
+Le roi Cléomadès leverent 
+Dou lieu là où le couronnerent, 
+Li roi, li prince, li baron, 
+Dont là avoit moult grant foison. 
+PageV02P253
+Lors le menerent asseöir 
+Au haut dois, si que bien veöir 
+Le povoit on de tous costés. 
+Clarmondine son destre lés 
+Li sist ; car la coustume estoit 
+Adont c'om ainsi le faisoit. 
+# |
+Sachiez que cele conpaignie 
+Fu de mainte gent graciie 
+Le jour, et prisie et loée. 
+Et lors fu li aigue cornée 
+En pluseurs lieus. Lors s'apresterent, 
+Pour servir, cil qui tenu erent 
+De servir à cele jornée. 
+Mainte coupe d'or ou dorée 
+Veïssiez maint baron tenir 
+Pour roi Cléomadès servir. 
+Bacins d'or et d'argent tenoient 
+Cil qui au roi donner devoient 
+L'aigue pour ses mains alaver. 
+# |
+Or vous vorrai je deviser 
+Qui à la table le roi sist ; 
+Ainsi que l'estoire le dist, 
+Vous en dirai la verité. 
+Après ce qu'il orent lavé, 
+Elyador, sa suer ainsnée , 
+A li rois lés lui apelée 
+À son senestre lés tout droit ; 
+Car à son destre lés séoit 
+Clarmondine, car raisons fu 
+Selonc ce k'avez entendu 
+Que il estoit acoustumé. 
+Li rois Carmans, au cuer sené, 
+Sist lés sa fille Clarmondine
+La très gracieuse royne.
+PageV02P254
+Et Feniadisse après sist ; 
+Li rois Carmans lés lui la prist, 
+Et rois Meniadus après. 
+Lés la serour Cléomadès, 
+Elyador, la debonaire, 
+Sist la royne Bien-doit-plaire ; 
+Après cele ne séoit nus. 
+Tout droit après Meniadus 
+Se sist Marine, et puis Argente. 
+Moult fu cele tablée gente. 
+# |
+Bien sambloit la feste roiaus. 
+Quatre haus dois i ot, si haus 
+Que cil qui à ces dois séoient 
+En pluseurs lieus veôir povoient 
+La noblece qui i estoit. 
+Done Ynabele se séoit 
+Delez le roi Melocandis 
+À I des dois que je devis, 
+Et delez le roi Baldigant. 
+Conme bonne dame et sachant, 
+Ot les autres roynes prises 
+Et les ot delez li assises. 
+La fenme au roi Bondapt le Gris 
+I sist, et la Garsianis, 
+Et la fenme au roi Agambart, 
+Qui ert dame de bonne part ; 
+Et la fenme le roi Sormant 
+I sist, qui moult ert avenant. 
+# |
+Que vous feroie je Ione conte ? 
+Roi, roynes, et duc, et conte, 
+Chevalier, dames, autre gent, 
+Sirent au mengier noblement. 
+À la feste que je devis 
+Gent: avoit de maint pays
+PageV02P255
+Moult i ot de chevalerie. 
+Mais la sonme ne sai je mie 
+Combien il en i pot avoir, 
+Ne [je] n'en diroie fors voir ; 
+N'onques de ce ne me parlerent 
+Les II dames qui me conterent 
+De ceste matere l'estoire. 
+Mais des nouviaus chevaliers, croire 
+Povez bien ce que j'en dirai. 
+La sonme vraiement en sai ; 
+Car la sonme en soi par les dames, 
+Cui Diex gart en cors et en ames, 
+Dont je vous ai devant parlé ; 
+D'eles en sai la verité : 
+Bien en i ot M et, VII cens. 
+# |
+Li jours fu biaus et Clers et gens,
+Et li airs temprés à nature. 
+Ne fist trop chaut ne trop froidure, 
+Mais si à point, k'à souhaidier 
+Servi furent à ce mengier ; 
+Si que conmunaument disoient 
+Cil qui à cele feste estoient, 
+K'ainc n'orent veü en lor vie 
+Feste si grandement servie 
+Com cele fu de trestous biens, 
+Car à nului ne faloit riens. 
+Li pois Cléomadès donna, 
+Le jour que on le couronna, 
+À Durbant une duehe[t]é 
+Et à Sartan une conté, 
+Ains qu'il s'assesist au mengier ; 
+Car rans rinces ne doit laissier 
+Que ses dons ne soit tost donnez
+Puisque dou faire est avisez
+PageV02P256
+Et que il dou faire a raison, 
+Courtement faire le doit on. 
+Durbans et Sartans sagement 
+L'en mercierent bonnement, 
+folio67v
+Et à Dieu graces en rendirent. 
+Devant Cléomadès servirent 
+Andoi ce jour moult liement 
+Et moult très afaitiement. 
+# |
+Je n'aroie à piece visé 
+Conment j'eüsse recordé 
+Com les routes erent parées 
+Et très richement estofées ; 
+À chascun més que on servoit 
+Chascuns sa route reparoit 
+De ceaus qui les routes avoient. 
+Li menestrel qui là estoient 
+N'avoient pas povoir d'entendre 
+Qu'il peüsseut tous les dons prendre 
+C'on leur offroit de tous costez. 
+De paremens ert si troussez 
+Cil qui tout le mains en avoit, 
+Que à paines aler povoit. 
+# |
+Noblement servirent ce jour 
+Cléomadès, lor bon seignour, 
+Cil qui erent tenu dou faire. 
+Après mengier, les napes traire 
+Firent, et erranment laver ; 
+Et, quant il fu poins de lever, 
+Lors se leverent erranment, 
+Car moult se hastoient forment 
+Partout li chevalier nouvel 
+Pour aler lancier au tablel. 
+Et les dames et li seignour 
+S'en alerent lors sans demour
+PageV02P257
+Seur les eschafaus asseöir. 
+De là porent à plain veöir 
+Com faitement se maintenroni 
+Cil qui au tablel lanceront. 
+# |
+Moult apartement s'arréerent 
+Cil qui par raison tenu erent 
+D'aler ces tabliaus lancier. 
+De la vile, sans detriier, 
+S'en issirent de grant randon 
+Roi, duc, conte, prince, baron, 
+Et chevalier et damoisel. 
+Maint cheval corant et isnel 
+Peüssiez veôir eslaissier, 
+Et mainte gent qui bien aidier 
+Se sorent dou cheval mener 
+Pour faire lancier et torner 
+Ou pour faire grans saus pourprendre. 
+N'en estoient pas à aprendre. 
+Assez de ceaus en i avoit. 
+Chascuns durement se penoit 
+De lui maintenir telement 
+Que on en parlast bonement ; 
+Car cil qui au tablel lançoient 
+Là endroit regardé estoient 
+En pluseurs lieus de pluseurs gens. 
+Moult est li jeus apers et gens. 
+# |
+Galdas des Mons si s'i prouva 
+Ce jour, que on moult l'en loa. 
+Aussi fist on Melocandis. 
+Baldigans et Garsianis 
+En refirent si Ior partie, 
+Que drois est que on bien en die. 
+Aussi fist li rois Agambars ;
+Ne croi que plus droit traisist ars
+PageV02P258
+Droite fleche bien enpennée, 
+Quant ele est adroit entesée, 
+Que il des javelos faisoit 
+Au tablel, quant il les lançoit. 
+Mais seur tous le pris enporta 
+Meniadus, c'on li donna 
+L'esprevier, pour le miex lançant 
+Et pour le plus bel chevauchant. 
+Cil jeus à cel tans s'estendoit 
+Plus loing qu'il ne fait orendroit. 
+Par tous pays conmunaument 
+Jouoient de ce geu souvent 
+Li chevalier, quant il vouloient 
+Moustrer l'aperté qu'il avoient. 
+# |
+En pluseurs lieus par la cité 
+Ert feste en grant autorité. 
+Danses, baus, caroles et jeu 
+Estoient veü en maint leu. 
+Parmi Sebile, en lieus plusours, 
+Reviaus et deduis et baudours 
+Erent adont si sormonté 
+Qu'il estoient roi coronné. 
+# |
+Moult se sont bel esbaniié. 
+Après ce qu'il orent lancié 
+Au tablel, et assez joué, 
+Se sont en la vile rentré. 
+Quant poins et tans et lieus en fu, 
+En la feste sont revenu. 
+# |
+Forment fu loez et prisiez 
+[Et] de toutes gens graciez 
+Meniadus, et ce qu'ot fait. 
+Mais je ne vous ai pas retrait 
+Conment Amours l'ot atorné 
+PageV02P259
+À ce qu'il ot son cuer donné 
+Tout entierement à Marine ; 
+Car perdue avoit Clarmondine. 
+Cele ne porroit recouvrer. 
+Mestiers li ert d'aillours penser, 
+Se il fenme prendre vouloit ; 
+Car cele failli avoit, 
+Et il fait bon son cuer oster 
+De ce e'on ne puet amender. 
+# |
+Moult li sambloit Marine bele, 
+Et vraiement si estoit ele. 
+Lors ne fust plus bele trouvée 
+Qu'ele ert, ne miex endoctrinée, 
+Fors que Clarmondine, sans plus ; 
+Mais à cele ne devoit nus 
+Comparer nule autre biauté, 
+Tant en par avoit grant plenté. 
+# |
+Meniadus entalenta 
+Que il Marine rouvera 
+À Cléomadès ; mais, avant, 
+En parlera au roi Carmant 
+Et à sa mere et à sa gent ; 
+Car son cuer si entierement 
+A dou tout Marine otriié, 
+K'en sa prison le tient liié 
+Amours si amiablement 
+Que il n'a vouloir ne talent 
+De cele prison eschaper, 
+Ains li plaist moult à demorer 
+En la prison que je vous di. 
+Sa mere et son conseil aussi 
+Le moustra qu'il i apartint ; 
+Et li leur consaus à ce vint, 
+Que il li loerent à prendre 
+PageV02P260
+Marine, s'ele veut entendre 
+À ce que la chose li plaise. 
+# |
+Moult fu Meniadus à aise 
+Quant d'aus tele parole entent. 
+Lors se pensa que erranment 
+Vers le roi Carmant s'en iroit, 
+Et son conseil o lui menroit, 
+Et li mousterroit la besoigne 
+Dont il avoit au cuer grant soigne 
+Conment ele fust achevée. 
+Bien-doit-plaire a o lui menée, 
+Sa mere, cui il moult amoit, 
+Et à ce bien raison avoit; 
+Car chascuns doit sa mere amer 
+Et à son povoir honnorer. 
+# |
+Devant le roi Carmant s'en vinrent. 
+D'une part à conseil le tinrent, 
+La besoigne à point li moustrerent 
+Pourquoi là endroit venu erent. 
+Au roi Carmant moult agréa, 
+Et dist que il en parlera 
+Au roi Cléomadès errant. 
+Que vous iroie je contant? 
+Li rois Carmans, sans arrester, 
+Ala cele chose moustrer 
+À Cléomadès, cui moult plot 
+La chose, quant oye l'ot. 
+Aussi fist il done Ynabele 
+Et à Clarmondine la bele ; 
+Et ceaus qui au conseil estoient 
+Le mariage moult looient, 
+Que il ne s'en descorda nus. 
+Et li rois Carmans revenus 
+Est d'iluec à l'autre partie.
+PageV02P261
+
+PageV02P262
+
+PageV02P263
+
+PageV02P264
+
+PageV02P265
+
+PageV02P266
+
+PageV02P267
+
+PageV02P268
+
+PageV02P269
+
+PageV02P270
+
+PageV02P271
+
+PageV02P272
+
+PageV02P273
+
+PageV02P274
+
+PageV02P275
