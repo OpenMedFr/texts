@@ -611,7 +611,7 @@ Et li dist que larges sera ;
 Or ne s'esmait de ce noient
 Car il li tenra bien convent.
 PageV01P017
-# |"Biaus fiex, dist-il, Diex vous en oie
+"Biaus fiex, dist-il, Diex vous en oie
 Et vous tiengne en la droite voie
 Des bons honnorer et servir
 Et de leur service merir."
@@ -717,7 +717,6 @@ Cil qui ci sont seur nous venu;
 Car seur nos droit nous deffendons,
 Por quoi Dieu en ayde avons;
 PageV01P020
-# |
 Et, en deffendant son pays,
 Doit chascuns hom valoir aus X
 Ou plus, ce vous di je por voir.
@@ -784,7 +783,6 @@ L'uns d'aus monstre l'autre et ensaigne
 La gent Marcadigas venir.
 Lors veïssiez les rens fremir.
 V batailles faites avoient ;
-# |
 PageV01P022
 Vers Marcadigas aprochoient
 Le passet rengié et serré.
@@ -821,7 +819,6 @@ Ne trouvast on en nule terre.
 # |
 La tierce bataille guia
 Galdas des Mons, qui bien cuida
-# |
 PageV01P023
 Celui jour destruire Espaignos.
 Mais on dist : "Cuidiers fu uns sos."
@@ -1142,7 +1139,6 @@ En son cuer Dieu en gracioit.
 "Castele !" escrie hautement.
 En l'estour rentra fierement.
 Lors li vint rois Galdas ; adont
-# |
 PageV01P032
 Des brans entr'acointier se vont.
 # |
@@ -1354,7 +1350,6 @@ Peureusement [il] se tenoient ;
 Car Cléomadès si menés
 Les ot, puis qu'il fu remontés,
 Qu’il estoient de toutes pars
-# |
 PageV01P038
 Brisié et derrout et espars.
 # |
@@ -1644,7 +1639,6 @@ Tel raēnçon et tel treü
 Li rendirent comme lui plot ;
 Ne tout entour la terre n'ot
 Prince ne roi ne haut baron
-# |
 PageV01P046
 Ne fust en la subjection
 De Marcadigas et de lui.
@@ -1753,7 +1747,6 @@ Au roi Marcadigas rouver
 Ses filles pour aus marier.
 Lors s'est rois Crompars avisés
 Que laidement ert figurés,
-# |
 PageV01P049
 Et pour ce envis li donroit
 Cil rois sa fille saroit droit.
@@ -5229,7 +5222,7 @@ De tout li rendi si raison
 Qu'ele n'i entent se bien non.
 Et que il Cléomadès soit
 C'est ce qu'ele vraiement croit.
-folio19r
+Folio19r
 Car il ne li a rien celé ;
 De tout li a dit verité.
 # |
@@ -5374,8 +5367,8 @@ Ce me disoient tout adès,
 K'estre femme Cléomadès ;
 Car moult forment est renommée
 Vo prouece en mainte contrée."
-folio19v
-Dist Cléomadès : — "Douce amie,
+Folio19v
+Dist Cléomadès : "Douce amie,
 PageV01P151
 Ce est tout par leur courtoisie
 Que eles dient que sui tés
@@ -5518,7 +5511,7 @@ Que vous feroie je lonc plait?
 Chascune tout son povoir fait
 De lui servir et aaisier.
 Un petit le firent mengier
-folio20r
+Folio20r
 Et Clarmondine delez lui.
 Ce fu uns mengiers sans anui,
 PageV01P155
@@ -5813,7 +5806,7 @@ N'aiez de riens au cuer anui ;
 PageV01P163
 Cur vostre fille espouserai
 Tantost k'en Espaigne venrai."
-folio21r
+Folio21r
 La royne haut regarda
 Tant que le cheval veü a
 Et sa fille qui siet desus.
@@ -5995,7 +5988,7 @@ Dist li rois: "Tart le m'avez dit;
 Cis consaus m'a pou de pourfit.
 Et, ne pourquant, mais ne cuidasse,
 Ne ne creïsse, ne pensasse,
-Qu'il deüst ceste part retraire.	*
+Qu'il deüst ceste part retraire.
 Las ! or ne sai que puisse faire,
 Tant ai au cuer ire et tristour.
 Or m'en conseilliez le meillour."
@@ -6109,7 +6102,7 @@ Qui chantent seur ces arbrissiaus
 Entour vous, de chascune part."
 # |
 Atant Cléomadès s'en part.
-folio22r
+Folio22r
 Vers le chastel s'en vait corant.
 Moult ot le cuer lie et joiant
 De ce k'à souhait li venoit
@@ -6379,7 +6372,7 @@ Biaus fiex, et moult grant joie avons
 PageV01P179
 Qu'amenée avez ici
 Tel pucele, Dieu en merci."
-folio23r
+Folio23r
 Lors fist Marcadigas savoir
 De cele besoigne le voir
 De toutes pars, et commander
@@ -6588,9 +6581,9 @@ Et il et tout cil qui sont là.
 Et lors a commencié son chant
 Cléomadès, trestout errant,
 En alant parmi la praële,
-Une chançonnete nouvele ;
+Une chançonnete nouvele :
 PageV01P185
-On doit bien aler liement
+"On doit bien aler liement
 Encontre tel pucele
 Com est Clarmondine au cors gent.
 On doit bien aler liement,
@@ -6638,7 +6631,7 @@ Où il s'estoit de li partis.
 Lors fu malement esbahis
 Quant il ne l'i a retrouvée.
 L'erbe trouverent defoulée
-folio24r
+Folio24r
 Là où Clarmondine ot laissie,
 Qui de cuer ert joians et lie
 À l'eure que de li parti.
@@ -6928,7 +6921,7 @@ Que sa fille perdue estoit.
 Lors ot Carmans le cuer destroit
 Quant perdu ot et fille et mere ;
 Moult li fu cele chose amere,
-folio25r 
+Folio25r 
 Car onques puis ne fu veüe
 Fille et mere de tel value
 Que eles erent, c'est passé,
@@ -7073,7 +7066,7 @@ Je vous en pri, ma douce amie."
 "Certes, Sire, de Lombardie ;
 À envis vous en mentiroie.
 Fille d'une ouvrière de soie
-folio 25v
+Folio25v
 Sui, et si fui née à Melan.
 Pere et mere perdi ouan.
 Despuis ce di norrie m'a
@@ -7207,7 +7200,7 @@ Cele dist celer ne li quiert.
 "Sare, fait ele, sui nommée."
 "Ce soit à bonne destinée !"
 Fait il. "Ma douce baisselete,
-"C’est moult plaisans nons que Sarete."
+C’est moult plaisans nons que Sarete."
 # |
 Li rois Crompars lors s'avisa
 C'un petit mengier la fera.
@@ -7217,7 +7210,7 @@ Qui moult ert traveillie et vaine.
 Une soupelete en fontaine
 Menja, que plus ne pot mengier.
 Et li rois Crompars, sanz targier,
-folio26r 
+Folio26r 
 La fist tout errant remonter ;
 Car là ne volt plus arrester.
 # |
@@ -7358,7 +7351,7 @@ Moult très durement souspiroit
 Clarmondine, et moult s'esmaioit
 Pour ce k'ert seule avoec celui
 Qu'ele doutoit plus que nului ;
-folio 26v 
+Folio26v 
 Car ne savoit que cil pensoit
 Ne où il mener la vouloit.
 Mais de tant moult bien li cheï
@@ -7504,7 +7497,7 @@ Ez vous le roi parmi les prez."
 Contre lui vint esperonnant.
 "Sire, fait il, par verité,
 Bien ont nostre faucon volé
-folio27r 
+Folio27r 
 C'une pucele avons trouvée
 Plus bele riens ne fu ains née.
 Sage et courtoise et bien parlant
@@ -7650,7 +7643,7 @@ Li rois vint dedens son chastel.
 Mais, cui que il soit, lait ne bel,
 Clarmondine ne desplot point,
 Que sa chose fu en tel point
-folio 27v 
+Folio27v 
 Selonc ce qu'il ert avenu.
 Fu lie que ainsi li fu.
 Fors des mains Crompart se véoit,
@@ -7794,7 +7787,7 @@ En tel point longuement durer.
 Morir le convint et finer.
 # |
 Ainsi diversement fina ;
-folio28r  
+Folio28r  
 Car ses malices l'engingna.
 On dist pieça en reprouvier
 Que tex cuide autrui engingnier
@@ -7942,7 +7935,7 @@ Clarmondine a sa suer baillie
 Qui moult de cuer l'a aaisie.
 Congié prist. Lors s'en est tornés
 D'amours estoit si atornés
-folio 28v
+Folio28v
 Qu'ele le tenoit en ses las ;
 Ce li ert deduis et soulas.
 Mais onques mais seü n'avoit
@@ -8087,7 +8080,7 @@ Plus l'amoit et plus la prisoit.
 # |
 Dist li rois : "Bele douce amie,
 Ceste parole ne siut mie
-folio29r 
+Folio29r 
 Cele que me deïstes ier ;
 Car je vous oy bien noier
 Que cil pas vos barons n'estoit,
@@ -8101,7 +8094,7 @@ Laquele parole est plus voire,
 Ou cele d'ui, ou cele d'ier."
 # |
 "Mais qu'il ne vous d[o]ie anuier,"
-Fait Clarmondine," je dirai
+Fait Clarmondine, "je dirai
 Pour quel raison ier le noiai.
 Sachiez qu'il m'avoit laidengie
 Et detirée et desachie,
@@ -8224,14 +8217,14 @@ Et sa suer Argente la bele,
 Lors les atrait à une part.
 "Moult me samble de bone part
 Geste demoiselle," fait il.
-Je sui mors et mis à essill
+"Je sui mors et mis à essill
 Se je ne l'ai. Tant vous en di
 K'ains si bele de li ne vi.
 Il n'est nus qui ne l'eüst chiere,
 Tant a gracieuse maniere.
 Onques si aie je santé
 Ne vi fenme si à mon gré.
-folio 29v
+Folio29v
 Or vueilliez dont qu'ele soit moie,
 S'il vous plaist que mariés soie ;
 Dont vous i vueilliez acorder,
@@ -8523,7 +8516,7 @@ Lors commença à regarder
 Diversement, et à parler
 Paroles ce devant derriere.
 Tost ot muée sa maniere.
-folio30v
+Folio30v
 Aussi k'en sorsaut s'est levée,
 Par deseure I lit s'est getée.
 Lors a saisi I oreillier ;
@@ -8813,7 +8806,7 @@ Où les peüsse retrouver.
 N'a lieu deçà ne delà mer,
 Tant soit ne divers ne lointains,
 Que n'i alasse ; c'est dou mains,
-folio 31v
+Folio31v
 Se je retrouver les cuidoie;
 Et, quoi que avenir m'en doie,
 Clarmondine requerre irai.
@@ -8840,7 +8833,7 @@ Qu'ele de duel pour lui morra.
 Devant lui sont agenoillies
 Ses serours, tristes et iries.
 # |
-"Biau frere, " font eles, "merci!
+"Biau frere," font eles, "merci!
 Ne nous ociez pas ainsi.
 Mortes sonmes se en alez"
 # |
@@ -8886,7 +8879,7 @@ Rois Crompars plus k'ains ne fist hom."
 # |
 Cléomadès li respondi
 En souzpirant. "N'est pas ainsi,
-"Sire," fait-il. "Com vous savés,
+Sire," fait-il. "Com vous savés,
 La coustume dou regne est tés
 De la terre le roi Crompart,
 Que il ne r'iroit cele part
@@ -8910,7 +8903,7 @@ Ains k'à bon chief le peüst traire,
 C'est que pais li couvient avoir
 Vers nous, ou par fin estouvoir ;
 Mais de sa terre sires n'iert
-"Se dedenz VII ans pais n'aquiert
+Se dedenz VII ans pais n'aquiert
 Vers ceaus cui il mesfait aura.
 Car je fusse alez tout droit là
 Si tost comme de ci meüsse,
@@ -9102,7 +9095,7 @@ Et si costoierent Touraine,
 Tant qu'il vinrent en Normendie,
 PageV01P256
 Une terre moult aaisie.
-folio 32v
+Folio32v
 Je ne sai pas comment nommées
 Estoient adont les contrées
 Dont je vous faz ci mencion ;
@@ -9380,7 +9373,7 @@ Et a envers aus guerre emprise
 Par sa mauvaise convoitise,
 Que il pas faire ne deüst
 Se il preudons et loiaus fust.
-— "Jà nous a malement grevé; 
+"Jà nous a malement grevé; 
 Mais bien avons en proposé
 K'ains i laira chascuns la vie
 K'à no tans soit Grece asservie."
@@ -9389,7 +9382,7 @@ Quant Cléomadès l'entendi,
 Pitié l'en prist. Lors respondi.
 — "Seignour," fait il, "ci sui venus,
 Mais ne sui pas si pourveüs
-folio 33v	
+Folio33v	
 Que je fusse, se je seüsse
 K'en tel point trouver vous deüsse.
 Mais, tant com valoir vous porrai,
@@ -9880,7 +9873,7 @@ Chevaliers de plus grant vertu,
 Ne qui tant peüst endurer
 De coups, ne tant de coups donner.
 "Diex le nous envoia," font il,
-Pour nous geter dou grant peril
+"Pour nous geter dou grant peril
 De servage, où mis nous eüst
 Rois Primonus, se il ne fust.
 Par son fait va nostre honnor droit,
@@ -10085,7 +10078,7 @@ PageV02P003
 Quant iluec orent tant esté
 Que il lor plot, lors sont entré
 En batiaus, et passer se font
-'A Mestre, là où leur gent sont.
+À Mestre, là où leur gent sont.
 Cis passages ne dure mie
 Plus de II milles et demie;
 Se plus y a, n'est pas granment.
@@ -10542,7 +10535,7 @@ Que, de l'aventure li die
 Qu'il dit que il doit trouver là.
 # |
 Et cil maintenant dit li a :
-K'en ce chastel est establi
+"K'en ce chastel est establi
 Que, quant chevaliers par iki
 Passoit, puis qu'il estoit armez
 Et en ce chastel ert entrez
@@ -10835,10 +10828,11 @@ Dist la dame : "Se je osoie,
 Volentiers vous demanderoie
 Vostre non, se il vous plaisoit."
 # |
-"Dame, quels que li miens nons soit, Moult volentiers le vous dirai.
+"Dame, quels que li miens nons soit,
+Moult volentiers le vous dirai.
 Mon non pas ne vous celerai ;
 Mais mes nons n'est mie plaisans.
-J'ai à non : "D’amours meschéans."
+J'ai à non : 'D’amours meschéans.'
 Or vous dirai, se vous voulez,
 Pour quoi sui ainsi apelez.
 Li nons vient de mes ancissours,
@@ -10852,7 +10846,7 @@ Dou non, ains m' i couvient tenir.
 Nepourquant volentiers auroie
 Plus plaisant non, se je povoie ;
 Mais fort seroit mais à muer
-De moi autrement apeler.
+De moi autrement apeler."
 # |
 La dame moult se merveilla
 De ce que il si fait non a.
@@ -10952,7 +10946,7 @@ Cléomadès lors s'en torna ;
 La porte et le pont trespassa.
 À merveilles fu regardez
 De tous, et prisiez et loez.
-folio39r
+Folio39r
 Tous prisierent communement
 Lui et son bel contenement.
 De lui moult grant pitié avoient
@@ -11097,7 +11091,7 @@ Cléomadès l'a presentée ;
 Que il ne li toille la vie.
 Et Cléomadès dit li a
 Que il entresait l'ocirra
-folio39v
+Folio39v
 Se il ne li a en couvent
 Que la coustume entierement
 Que il en ce chastel maintienent
@@ -11244,7 +11238,7 @@ Car en tout le pays n'avoit
 Si preu com li mains preus estoit
 D'aus II ; ce tesmoigne chascuns,
 Grant et moien, et li communs.
-folio40r
+Folio40r
 Durbans à Sartan recorda
 La convenance que il a
 À celui qui les a conquis.
@@ -11394,7 +11388,7 @@ Là endroit en saurez le voir.
 Aussi vous veut Sartans veöir ;
 Et si a trop à deviser.
 Pour ce le lairai ore ester,
-folio40v
+Folio40v
 Dusques après mengier, ainsi."
 # |
 Dist Cléomadès : "Je l'otri."
@@ -11541,7 +11535,7 @@ Que nule riens ne trespassa ;
 Et tout ainsi qu'il enporta
 Clarmondine, les iex voiant
 Clarmonde, sa mère, et Carmant.
-folio41r
+Folio41r
 Et li a conté tout ainsi
 Que Clarmondine reperdi.
 # |
@@ -11679,7 +11673,7 @@ Arréé. Et le prouveront
 Qui encontre dire verront.
 À Chastel Noble lors estoie ;
 Pour besoigne que g'i avoie
-folio41v
+Folio41v
 À faire, i estoie venus.
 Mais je ne vi onques que nus
 Enpresist nesune à deffendre
@@ -11745,7 +11739,7 @@ Se nus de lor estracion
 PageV02P051
 Ou de lor amistié venist
 Qui pour eles se pouroffrist,
-Fors vous, sans plus." - "Sire, nenil,
+Fors vous, sans plus." -"Sire, nenil,"
 Fait Sartans. "Mais en grant peril
 Sont les II, car de mainte gent
 Sont hayes. Nes lor parent
@@ -11820,7 +11814,7 @@ Se povoir de ce faire avoie."
 # |
 Et, quant cil orent ce oyt
 Que Cléomadès avoit dit,
-folio42r
+Folio42r
 Sachiez que moult lor fu plaisans
 Cele parole, et bien séans.
 Cléomadès en mercierent.
@@ -11913,7 +11907,7 @@ Devisa si tout son afaire,
 Que, pour mouvoir si temprement.
 Que il ne faille de couvent.
 Trestoute l'armeüre prist
-Cléomadès, et si la fîst
+Cléomadès, et si la fist
 Metre en ses coffres bien et bel.
 Un palefroi amblant morel
 Fist pourveöir, et commandé
@@ -11966,7 +11960,7 @@ Le quart jour après ce qu'il murent,
 À Chastel Noble venu furent.
 En la vile, sous le chastel,
 Prirent ostel et bon et bel.
-folio42v
+Folio42v
 La gent Durbant plus honnoroient
 Cléomadès, qu'il ne faisoient
 Lor droit seignour ; car commandé
@@ -11995,7 +11989,7 @@ Le lieu où cele m'otria
 S'amour, où tant avoit biauté
 Et de tous biens si grant plenté
 Qu'il n'en i peüst plus avoir ?
-"Hé ! las ! comment puis je veöir
+Hé ! las ! comment puis je veöir
 Le lieu là où je conquestai
 PageV02P058
 Si grant chose, quant perdu l'ai
@@ -12112,7 +12106,7 @@ Pour quoi il estoit esmeüs
 De son pays, et là venus.
 Dist li que loial essoigne a
 Sartans, ne venir ne porra
-folio43r
+Folio43r
 Au jour que combatre se doit ;
 Et, pour ce, là venus estoit
 Que pour lui feroit la bataille :
@@ -12149,7 +12143,7 @@ Un chevalier ai amené
 Qui dist que il a volenté
 Des III puceles aaidier
 L'une ; veut s'onnour desrainier
-"Et deffendre, ou il i morra.
+Et deffendre, ou il i morra.
 De ce ne sai k'en avenra."
 # |
 Et li rois tantost i envoie,
@@ -12260,7 +12254,7 @@ Dist Durbans : "La bataille avez ;
 De ce soiez asseürez.
 Or n'i a mais que dou bien faire ;
 Car ce sont gent de grant afaire
-folio43v
+Folio43v
 À cui combatre nous devons,
 Biau sire, et nous i penserons,
 Se Dieu plaist, en lieu et en tans,
@@ -12406,7 +12400,7 @@ Quant armé furent, monté sont.
 De là se partent. Lors s'en vont
 Au lieu où combatre devoient.
 Quant il i vindrent, jà estoient
-folio44r
+Folio44r
 Lor aversaire ou parc entré
 Et de la bataille apresté.
 Et les III puceles venues,
@@ -12550,7 +12544,7 @@ Vers Dieu, et merci li prioit.
 Cléomadès, en cel point droit,
 Il et Gados s'entr'encontrerent
 Si dur, que leur lances froerent
-folio44v
+Folio44v
 Et volerent en mains tronçons.
 Outre plus joins que nus faucons
 S'enpasserent ; plus ne forfirent,
@@ -12694,7 +12688,7 @@ Mais nus ne doit son anemi
 Aidier, ne grever son ami ;
 Car li homs qui son ami grieve
 Et qui son anemi alieve
-folio45r
+Folio45r
 Est fouls, ou il tel conseil croit
 Qui l'engingne et qui le deçoit.
 Pour ce, se doit chascuns garder
@@ -12986,7 +12980,7 @@ Moult le tint à grant courtoisie ;
 Debonairement lor otrie,
 Et dist que, se gentis ne fust
 Li chevaliers, jà n'en eüst
-folio46r
+Folio46r
 Priié, et pour l'amour de lui
 Ne li fera il nul anui.
 Et cil l'en mercient forment.
@@ -13120,7 +13114,7 @@ II ne vous faut que commander ;
 Mais commandez, et je ferai."
 "Sire, moult grant gré vous en sai,"
 Ce li a dit Cléomadès.
-Je vous requier que Pinchonnès
+"Je vous requier que Pinchonnès
 S'en viengne, par le vostre otroi,
 Se il vous plaist, avoecques moi,
 Et je le vous renvoierai
@@ -13130,11 +13124,11 @@ Pour quoi me suis mis à la voie,
 Tout tantost vers vous revenroit,
 De moi nouveles vous diroit."
 # |
-folio46v
+Folio46v
 Dist Durbans : "Sire, je l'otri :
 Mais que ce sera par I si,
 Que avoeques vous s'en iront
-"De ma gent qui vous serviront
+De ma gent qui vous serviront
 Avoeques lui, ou trois ou deus."
 Dist Cléomadès : "Trestous seus
 M'en irai, se Pinchonnet n'ai.
@@ -13275,7 +13269,7 @@ Que nus sa voie ne seüst
 Ne le point que mouvoir deüist ;
 Pour ce s'en vorroit estre alez.
 Quant il fu tous pararréés,
-folio47r
+Folio47r
 Au departir Durbant pria
 Qu'il li salut, quant la verra,
 Sa femme, que pas ne l'oublie.
@@ -13425,7 +13419,7 @@ Si est il et tous jours sera.
 L'uns des chevaliers demanda
 Durbant où ses conpains estoit.
 "Seignour," dist Durbans, "orendroit
-folio47v
+Folio47v
 S'en ala à ces chans jouer.
 Espoir revenra au souper.
 Sachiez, moult m'anuie forment
@@ -13570,7 +13564,7 @@ De trop penser, se il peüst.
 Lors pensa qu'il demanderoit
 Son seignor pour quoi tant pensoit,
 Quoi que avenir l'en deüst ;
-folio48r
+Folio48r
 Car moult très volentiers seüst
 Pour quoi estoit si enpensez.
 "Sire," fait il, "se c'ert vo grés,
@@ -13711,7 +13705,7 @@ A son hoste par la main pris.
 Demandé li a et enquis
 De ce que au cuer plus li point.
 Moult sagement et moult à point
-folio48v
+Folio48v
 Enquist tant, que nouveles sot
 Teles k'ainc si grant joie n'ot
 De chose qu'il li avenist,
@@ -13853,7 +13847,7 @@ Et le matin à vous venra
 Li rois, et vous demandera
 Nouveles, et vous li dirés
 Si faites que vous les savés.
-folio49r
+Folio49r
 Dedens la tour gerrés en nuit.
 Et, pour ce qu'il ne vous anuit,
 Vous di que vraiement sachiez
@@ -13998,7 +13992,7 @@ Li ostes à Dieu commanda
 Cléomadès, lors s'en ala
 Et li dist k'à lui revenroit
 Lendemain ains que levez soit
-folio49v
+Folio49v
 Li solaus ; or ne li anuit,
 Car tost iert passée la nuit,
 Et li dist que, se conpaignie
@@ -14145,7 +14139,7 @@ Cléomadès de son afaire.
 Moult sagement le sot atraire
 À ce que proposé avoit.
 "Sire," fait il, "à vous tout droit
-folio50r
+Folio50r
 Sui venus de lointain pays.
 Sachiez que longuement ai quis
 Ce que j'ai ci endroit trouvé;
@@ -14171,7 +14165,7 @@ Ains la garirai moult briement."
 # |
 Et, quant Meniadus l'entent,
 Ainc en sa vie n'ot tel joie.
-"Amis," fait il, "k'en mentiroie ?"
+"Amis," fait il, "k'en mentiroie ?
 Sachiez, se la povez garir,
 Que je le vous vorrai merir
 À [vo] voloir entirement ;
@@ -14290,7 +14284,7 @@ Qu'il le gardast ; pour ce, fait l'a ;
 Et li dist qu'il li bailleroit
 Le cheval tantost qu'il vorroit.
 # |
-folio50v
+Folio50v
 Sachiés que cis mos abeli
 Cléomadès, quant l'entendi,
 S'il seüst or la verité
@@ -14351,7 +14345,7 @@ Que vous la garirez briement.
 Et, se garie la véoie,
 Sachiez si le vous meriroie
 Que bien vous deveroit soufire,
-Ce vous puis je bien pour voir dire.
+Ce vous puis je bien pour voir dire."
 # |
 "Dame, la vostre grant merci,"
 Fait Cléomadès. "Or vous pri
@@ -14359,7 +14353,7 @@ K'à la pucele me menés ;
 Car bien voi que vous desirés
 Que hastéement fust garie."
 # |
-Et la royne li afîe
+Et la royne li afie
 K'erranment à li le menra.
 Argente, sa fille, apela
 Et li dist qu'ele voist savoir
@@ -14439,7 +14433,7 @@ K'à Chastel Noble trouverés."
 # |
 Et lors se dreça erranment
 Cléomadès ; car bien entent
-folio51r
+Folio51r
 Ce qu'ele dist, sans plus parler.
 Meniadus prist à moustrer
 Qu'ele n'a d'entendement point
@@ -14587,7 +14581,7 @@ Maistre qui vous puisse valoir."
 "Sire, vous dites vo vouloir,"
 Fait Cléomadès, "de ce dire.
 Ne sui li mieudres ne le pire.
-folio51v
+Folio51v
 Je m'en tieng apaié assez.
 De ce que sai soit Diex loez,
 Et que kanques envoie m'a."
@@ -14678,8 +14672,8 @@ Quant Cléomadès sui servans.
 Moult m'a Diex envoié d'onnour
 Quant j'ai servi si bon seignour.
 Plus longuement en viverai ;
-Car tous jours mais liez en serai.
-Sire," fait il, "or commandés
+Car tous jours mais liez en serai."
+"Sire," fait il, "or commandés
 Qu'il vous plaist et que vous voulés
 Que je face et que je deviengne ;
 Car, sachiez, quoi qu'il m'en aviengne,
@@ -14733,7 +14727,7 @@ Envoierai au roi Carmaut.
 Vous me saluerez Durbant,
 Et Sartan son bon conpaignon,
 Et les dames de lor maison,
-folio52r
+Folio52r
 Et lor dites, s'il m'aiment tant,
 Que il viengnent vers moi errant
 Si tost que veü vous aront.
@@ -14847,11 +14841,11 @@ Fait li rois ; "car moult me sont beles
 Que l'eure beneöite soit
 Que vous venistes ci endroit !
 PageV02P137
-"Bien croi que mais ne fust garie
+Bien croi que mais ne fust garie
 Se ne fust par vostre maistrie."
 # |
 Dist Cléomadès : "Or alons
-"En cel praël ; là parferons
+En cel praël ; là parferons
 Ce par quoi garie sera
 La pucele." Et lors se leva
 Cléomadès. Le cheval prent,
@@ -14883,7 +14877,7 @@ Fenme qui si grief mal eüst
 Que ceste a eü longuement,
 Com je la garirai briement."
 PageV02P138
-folio52v
+Folio52v
 Et lors tous asseöir les fist
 Entour le cheval, et les mist
 Au plus loing dou cheval qu'il pot.
@@ -14986,7 +14980,7 @@ Aussi com s'il fussent muel,
 Regardoit l'uns l'autre ou praël.
 Premiers parla Meniadus.
 Droit vers Pinchonnet est venus ;
-"Maistre," fait il, "vous me dirés,"
+"Maistre," fait il, "vous me dirés,
 Ains que vous de ci m'eschapés,
 Qui cis est qui de ci s'en va,
 Ne comment tel chose fait a."
@@ -14997,7 +14991,7 @@ Que par lui meïsme savez
 PageV02P141
 Qui il est, s'entendu l'avez ; 
 Car au partir pas ne cela 
-Son non. Oïant tous, se nomma 
+Son non. Oïant tous, se nomma 
 Et vous dist bien qui cele estoit 
 Qui seur le chevalet séoit, 
 Si que bien oyr le pouistes 
@@ -15028,7 +15022,7 @@ Mais, de tant com je l'ai serti,
 Si face Diex m'ame merci, 
 Ne soi qui il fu. Mais hui main 
 Me dist il primes le certain 
-folio53r
+Folio53r
 Que il Cléomadès estoit. 
 Clarmondine requise avoit,  
 PageV02P142
@@ -15168,6 +15162,7 @@ S'il a s'amie retrouvée.
 De ce k'ainsi l'avez gardée 
 Vous mande k'il vous set grant gré, 
 Et vous seroit guerredonné 
+Folio53v
 S'il povoit jamais chose faire 
 Qui vous ne les vos peüst plaire. 
 Sachiez que par cel cheval là 
@@ -15199,9 +15194,9 @@ Aurai à non tout mon vivant.
 C'est mes drois nons, de ce me vant ;
 Car je l'ai par droit desservi 
 C'onques si chaitif roi ne vi 
-Com je sui, se I)iex me consaut. 
+Com je sui, se Diex me consaut. 
 Et cil a sailli noble saut 
-Qui enpor•te ce dont j'estoie 
+Qui enporte ce dont j'estoie 
 Saisis, et que je tant amoie. 
 Or saije bien certainement 
 Que ce fu Crompars vraiement 
@@ -15291,7 +15286,7 @@ Cil qui folement ont enpris.
 PageV02P149
 Grant sens a en euprendre à point. 
 Chascuns i doit garder son point, 
-Et viel et joene, et povre et riòhe. 
+Et viel et joene, et povre et riche. 
 Cil qui ne le font font que niche. 
 Tex set bien conseillier autrui 
 Qui pas ne set conseillier lui. 
@@ -15311,7 +15306,7 @@ Argente sa suer, sans desroi.
 Mais savez vous que vous ferez? 
 Pensez à ce qui puet valoir, 
 Et metez ce en non chaloir 
-folio54r
+Folio54r
 De quoi ne vous puet bien venir. 
 À fenme ne povez faillir. 
 N'a roi ou mont ne vous donnast 
@@ -15325,7 +15320,7 @@ Fors de moi ou pendre ou noier ;
 Car je l'ai desservi si bien 
 K'en la desserte ne faut rien. 
 Se rois doit mais estre pendus, 
-Ce soit li rois Meniadus. 
+Ce soit li rois Meniadus."
 PageV02P150
 Quant Argente le roi entent, 
 Le cuer en ot triste et dolent, 
@@ -15352,7 +15347,7 @@ Si tost k'à son oste ot baillié
 Le palefroi qu'ot chevauchié 
 Cléomadès, qui commandé 
 Li ot, et il li a donné. 
-Quant de là departis se• fu, 
+Quant de là departis se fu, 
 Son droit chemin a tant tenu 
 De vile en vile, d'oste en hoste, 
 Que il vint droit à Verde Coste, 
@@ -15389,7 +15384,7 @@ Partout fu chascuns moult joians.
 # |
 Iluec n'est gaires demorez 
 Pinchonnès, ains s'en est alez 
-À Chastel Noble, au•roi Carmant. 
+À Chastel Noble, au roi Carmant. 
 Quant il vit Pinchonnet venant, 
 Demanda li qu'ert devenus 
 Li chevaliers qui combatus 
@@ -15430,7 +15425,7 @@ Ains s'assist, et puis apela
 Pinchonnet, et si l'embraça 
 Entre ses bras tout en séant. 
 Onques mais n'ot joie si grant. 
-"Ha ! Pinchonnet, "fait il, "merci ! 
+"Ha ! Pinchonnet," fait il, "merci ! 
 Garde pour Dieu qu'il soit ainsi 
 Que tu me fais ici entendre !" 
 "Sire, faites m'ardoir ou pendre 
@@ -15454,7 +15449,7 @@ De Cléomadés autressi,
 Comment de là se departi 
 Et comment amuser les sot 
 Tant que il Clarmondine r'ot, 
-folio54v
+Folio54v
 Et comment au roi se nomma 
 À l'eure qu'il parti de là. 
 Bien leur dist k'en Espaigne aloit 
@@ -15519,7 +15514,7 @@ Dont plus estoient esjoï
 M. tans que dire ne saroie. 
 Tous li pays bruioit de joie.
 # |
-Sachiez que Pinchonnês estoit 
+Sachiez que Pinchonnès estoit 
 Moult liez quant bien dire povoit. 
 C'est chose bien aferissans 
 Quant menestrex est bien disans 
@@ -15600,7 +15595,7 @@ Tous li cuers de joie li rist.
 Pinchonnès le salue, et dist 
 Que Diex santé li envoiast. 
 Lors li dist que il se hastast 
-folio55r
+Folio55r
 De garir ; car cil le mandoit 
 En cui toute bonté manoit' 
 K'à lui venist hastéement.
@@ -15746,7 +15741,7 @@ Ne puis jamais, se Diex me voie,
 Ce que pour moi quéistes voie 
 Si diverse que vous quéisets 
 Quant vous le hors dou sens feïstes. 
-folio55v
+Folio55v
 Vers moi avez loial esté ; 
 De cuer avez mainte grieté 
 Par la grant loiauté eüe 
@@ -15804,7 +15799,7 @@ Qui de tout ce est connestable.
 "Querez vostre arrestanee aillours ; 
 Ci ne sera plus vos sejours. 
 Si malement me deboutastes, 
-« Quant vous en mon lieu sejornastes, 
+Quant vous en mon lieu sejornastes, 
 Que je ne povoie trouver 
 Lieu où me pouisse arrester. 
 Trop i clamastes grant hausage, 
@@ -15892,7 +15887,7 @@ Qu'il n'en avoit povoir d'oster
 Ses iex, ne d'aillours regarder, 
 Ne il n'en avoit volenté. 
 Si oeil s'i erent acordé 
-folio56r
+Folio56r
 Si, par le conmant de son cuer, 
 K'aillours ne pensast, à nul fuer. 
 Tant li ert plaisans la façon 
@@ -15959,7 +15954,7 @@ Ce k'à Chastel Noble revint
 Et qu'il la baisa, ce avint 
 Par moi, une moult grant pitié 
 K' avoir n'el peüst esveillié 
-Si coiement que d'un baisier• ; 
+Si coiement que d'un baisier; 
 Car de noise n'avoit mestier 
 Adont, ains li ert moult contraire. 
 Pour ce m'acordai à ce faire. 
@@ -16007,7 +16002,7 @@ Dont Raisons l'a ore resté.
 Et Raisons dist bien li plairoit 
 Quant tans et lieus et poins seroit, 
 Et bien en lairoit convenir, 
-Ce dist, Hardement et I)esir ; 
+Ce dist, Hardement et Desir ; 
 Mais avoec en la conpaignie 
 Seroit, mais n'i vorroit Maistrie 
 Mener, ne ele ne Avis. 
@@ -16036,7 +16031,7 @@ Fait il ; "car rions ne me porroit
 Anuier, puisqu'il vous plairoit, 
 Ne chose ne me porroit plaire 
 Qui de riens vous deüst desplaire. 
-folio56v
+Folio56v
 Si me soit Amours en aye !"
 # |
 Et Clarmondine l'en mercie, 
@@ -16179,7 +16174,7 @@ Des meschiés dont ot eü plus
 Que dire ne vous saroit nus. 
 Près de la sale, en I praël 
 Où il faisoit moult noble et bel, 
-folio57r
+Folio57r
 Clarmondine lors deslia 
 Et jus dou cheval mise l'a ; 
 Car ne l'ot talent de laissier 
@@ -16273,7 +16268,7 @@ Si que tantost les esveilla ;
 Car bien savoit qu'il ne povoit 
 Mesfaire, s'il les esveilloit. 
 Et, quant il les ot esveillies : 
-"Or sus, "fait il, "etsoiés lies; 
+"Or sus," fait il, "etsoiés lies; 
 Car nouveles dire vous sai 
 Dont chascune lie ferai, 
 Plus lies c'onques ne fussiez 
@@ -16298,7 +16293,7 @@ Qui n'estoit pas la mains hastée,
 Ains fu toute la premeraine. 
 À la gaite dist : "Or nous maine 
 Là où tu mon chier fill veïs." 
-"Je n'el ferai -pas à envis," 
+"Je n'el ferai pas à envis," 
 Fait la gaite, "ains vous i menrai ; 
 Droit enz el praël le laissai, 
 Entre la sale et les II tours."
@@ -16313,21 +16308,21 @@ Encontre li s'en ala droit.
 Moult très à point la salua. 
 Et sa mere mot ne sonna ; 
 Car n'avoit de parler povoir. 
-À terre la couvint cheôir 
+À terre la couvint cheöir 
 Si tost que ele vit celui 
 Qu'ele amoit plus que li n'autrui ; 
 Car ses cors porter ne povoit 
 La joie que ses cuers avoit.
 PageV02P177
-À terre cheôir la couvint, 
+À terre cheöir la couvint, 
 Et Cléomadès avant vint ; 
 Moult doucement l'en releva. 
 Ses sereurs qui estoient là 
 L'ont tant baisié et acolé, 
 K'à pou que ne l'ont desciré. 
-folio57v
+Folio57v
 Tant l'ont estraint et enbracié, 
-Que ce fust à veôir pitié ; 
+Que ce fust à veöir pitié ; 
 Car de lui si grant joie avoient 
 K'assez conjoïr n'el povoient. 
 # |
@@ -16380,7 +16375,7 @@ Bien deïst que joie i eüst
 Qui joie connoistre seüst ; 
 Car, si très tost que il véoient 
 Cléomadès, Dieu en looient 
-Si haut, qu'il sambloient derv{• 
+Si haut, qu'il sambloient dervé 
 De ce k'avoient retrouvé 
 Cléomadès, que tant amoient 
 Que plus amer ne le povoient. 
@@ -16399,12 +16394,12 @@ Ceaus qui par la vile dormoient.
 N'espargnoient huis ne fenestre. 
 Partout, à destre et senestre, 
 Aloient l'uns l'autre esveillant. 
-N'i (fissiez pas Dieu tonnant, 
+N'i oïssiez pas Dieu tonnant, 
 Tel noise et tel baudour menoient 
 De la grant joie qu'il avoient 
 De ce que Cléomadès r'ont. 
 Vers le chastel acoru sont. 
-Quant Cléomadès veôir porent, 
+Quant Cléomadès veöir porent, 
 Aine nule si grant joie n'orent 
 K' à cele heure qu'il le revirent. 
 À Dieu grans graces en rendirent. 
@@ -16470,7 +16465,7 @@ De quoi en gré servir la porent.
 PageV02P181
 De ehaseun fu tantost amée 
 Clarmondine ; car tant senée 
-folio58r
+Folio58r
 Estoit, et de bone maniere, 
 Qu'il n'est nus qui ne l'eüst chiere. 
 À tous se savait faire amer. 
@@ -16612,7 +16607,7 @@ Devant le noble roi Carmant
 Vint li messagés, ce me samble, 
 Et il et li chevaus ensamble. 
 Tost fu dou roi reconneüs. 
-folio58v
+Folio58v
 Et, quant li rois le cheval voit, 
 PageV02P185
 Lors pensa k'à lui envoioii 
@@ -16759,7 +16754,7 @@ Com Cléomadès esploita.
 À sa mere dist qu'il vorra 
 Une feste faire arréer 
 Tele que cil puissent conter 
-folio59r
+Folio59r
 Qui à cele feste seront 
 K'à bele feste esté aront, 
 Et que cele feste sera 
@@ -16835,7 +16830,7 @@ PageV02P191
 Tesmoing ceaus de cele contrée. 
 Defors les murs, près dou chastel, 
 Siet cil lieus. Moult i faisoit bel 
-Au tans dont vous m•oez parler. 
+Au tans dont vous m'oez parler. 
 Près de là vient li flues de mer, 
 Et si a riviere corant. 
 Place y a bele et lée et grant. 
@@ -16879,7 +16874,7 @@ Miex vient qu'il i envoit autrui ;
 Car riens qui li deüst desplaire 
 Ne vorroit pas volentiers faire, 
 Ains le vorroit moult honnorer. 
-'A cele lettre deviser 
+À cele lettre deviser 
 Fu sa mere done Ynabele, 
 Si fu Clarmondine la bele, 
 Qui moult lie de cuer estoit 
@@ -16904,7 +16899,7 @@ Venroit d'ui ce jour en avant
 Là où il le vorroit avoir, 
 Et metroit et cors et avoir 
 PageV02P193
-folio59v
+Folio59v
 En lui et en s'onnour garder, 
 Se tant le vouloit honnorer 
 Que il à sa feste venist. 
@@ -16942,7 +16937,7 @@ Li messagé les saluerent
 Et lors de là en sus alerent. 
 Et li rois sa mere apela 
 PageV02P194
-Et sa suer ; errant Ior moustr•a 
+Et sa suer ; errant lor moustra 
 Le brief que aporté li ont 
 Li messagé qui iluec sont ; 
 Et lor a nonmé de par cui 
@@ -16990,15 +16985,15 @@ Qu'il n'i alast, grant mal feroient.
 Lors a Meniadus mandé 
 Son conseil, et Ior a moustrè 
 Le brief; et, quant cil le brief oent 
-L'aler la fòste li loent. 
-'A l'aler trestout s'assentirent 
+L'aler la feste li loent. 
+À l'aler trestout s'assentirent 
 Quant le courtois mant entendirent 
 De quoi la lettre avoit parlé. 
 Lors furent avant apelé 
 Li messagé qui moult estoient 
 Courtois, et moult de bien savoieut. 
 Li rois meïsmes dit leur a 
-K 'au mant Cléomadòs ira 
+K 'au mant Cléomadès ira 
 Et que moult grant gré li savoit 
 De ce que il mandé l'avoit, 
 Et que il mouvroit temprement ; 
@@ -17049,17 +17044,17 @@ Li rois leur fist grans dons donner,
 Et il le vorrent refuser, 
 Mais ainc ne s'en vorrent deffendre 
 Que il ne leur couvenist prendre. 
-folio60r
+Folio60r
 Moult liement de là sevrerent. 
 Vers Espaigne s'acheminerent, 
 PageV02P197
 Et Meniadus arréer 
-Fist son afair&et aprester 
+Fist son afaire et aprester 
 Pour aler là où il devoit 
 Si com à lui apartenoit ; 
 Car à la foste noblement 
 Veut aler, à plenté de gent 
-I)es meillours que trouver porra. 
+Des meillours que trouver porra. 
 Son attire bien arréa. 
 Mais de lui ore me tairai. 
 À Cléomadès revenrai. 
@@ -17192,6 +17187,7 @@ Li rois Carmans, et si mandoit
 Gens à tous lez ; car noblement 
 Vorra venir prochainement. 
 Le jour que de là me parti 
+Folio60v
 Fu mandés Durbans, ce vous di, 
 Et Sartans, pour voir, ses conpains, 
 ce soiez vous tous certains. 
@@ -17326,7 +17322,7 @@ Quant dou roi Carmant parler ot,
 Moult en fu liez et moult li plot ; 
 Car bien set que grant joie aroit 
 Clarmondine, s'ele savoit 
-La nouvele qu'il a oīe 
+La nouvele qu'il a oïe 
 De son pere, moult seroit lie. 
 # |
 Les messagiers a honnorés 
@@ -17338,7 +17334,7 @@ Li dirent ce que li mandoit
 Li rois Carmans, com avisé 
 Que il n'i ont riens oublié. 
 # |
-folio61r
+Folio61r
 Moult plot Cléomadès li mans 
 Que li manda li rois Carmans, 
 Si que moult en fu esjoïs. 
@@ -17627,7 +17623,7 @@ Tabliaus en pluseurs lieus assis
 Sor très haus sapins, qui estoient
 Li plus haut que trouver povoient.
 # |
-Folio 62r
+Folio62r
 De ces tabliaus i avoit quatre
 À quoi se devoient esbatre
 À la feste li chevalier,
@@ -17770,7 +17766,7 @@ De toutes pars à grant esploit
 Venoient à la feste droit
 Tout cil qui venir i devoient.
 Tout li chemin charchié estoient.
-Folio 62v
+Folio62v
 De toutes pars, de pluseur gent.
 Moult s'en venoient liement
 De tous pays et de tous lés.
@@ -17918,7 +17914,7 @@ Com gent de grant nobilité.
 # |
 Que vaurroit que plus vous diroie ?
 Tant d'onnour, de feste et de joie
-Folio 63r
+Folio63r
 Li firent qu'il en i couvint.
 V jours devant la feste vint
 Li rois Carmans, ne plus ne mains,
@@ -18062,7 +18058,7 @@ La maniere de lui prisoient.
 Courtois lor sambloit et sachans
 Et gracieus et avenans.
 # |
-Folio 63v
+Folio63v
 Adès par la main le tenoit
 Cléomadès, qui bien moustroit
 Samblant que il de cuer l'amast,
@@ -18209,7 +18205,7 @@ Ne plus ne mains si qu'il devoient.
 # |
 S'ainc menestrex fu bien venus,
 Ne conjoïs, ne chier tenus,
-Folio 64r
+Folio64r
 Dont fu Pinchonnès honnorés
 Et conjoïs de tous costés
 De dames et de damoiseles,
@@ -18352,7 +18348,7 @@ Les roynes qui là venoient
 En lor conpaignie amenoient
 Dames, puceles, damoiseles,
 Dont moult en i avoit de beles,
-Folio 64v
+Folio64v
 Et venoient en paremens
 Si nobles, si riches, si gens,
 Que il estoit aferissant.
@@ -18497,7 +18493,7 @@ Se fust de cele reveöir
 Qui souvent li ot fait doloir
 Le cuer, quant à Salerne fu,
 Pour le bien k'en li ot veü.
-Folio 65r
+Folio65r
 Dames avoit o li plenté
 Des plus beles de lor regné
 Et mainte pucele très gente.
@@ -18646,7 +18642,7 @@ Vers la feste prist à aler ;
 Car Cléomadès li pria
 De haster quant parti de là.
 # |
-Folio 65v
+Folio65v
 Ainsi dedens la feste entrerent.
 À merveilles les esgarderent
 Tout cil qui venir les véoient ;
@@ -18791,7 +18787,7 @@ Et maint roi en riches atours.
 Onques puis, ne là ne aillours,
 N'ot nule si noble assamblée
 Que il ot là cele jornée.
-Folio 66r
+Folio66r
 Si riches atours i avoit,
 Que chascuns s'en esmerveilloit.
 # |
@@ -18935,7 +18931,7 @@ Car, quant on voit un grant seignour
 Qui fait à un bon povre honnour,
 Aucun se painent de savoir
 Qui il est ; dont cil font savoir
-Folio 66v
+Folio66v
 Qui vuelent connoistre les boins
 Et vuelent retenir les poins
 Par quoi on puet bons devenir
@@ -19039,7 +19035,7 @@ Que il au moustier venu erent,
 PageV02P251
 Tout ainsi arrier s'en r'alerent, 
 Fors tant que coronne portoit 
-Cléomadês, qui pas n'avoit 
+Cléomadès, qui pas n'avoit 
 Coronne eue au venir là. 
 Autre difller]ence n'i a, 
 Et ce k'autre coronne avoit 
@@ -19078,8 +19074,8 @@ Tout ce qu'il ert raisons et drois
 Fu fait, et lui et Clarmondine. 
 Lors fu rois et ele royne, 
 Quant les tierces corones orent. 
-Ainc plus biau roi veôir ne porent 
-folio67r
+Ainc plus biau roi veöir ne porent 
+Folio67r
 Nus ne nule, ne loing ne près, 
 Com fu li rois Cléomadès ; 
 Et de Clarmondine la bele 
@@ -19161,7 +19157,7 @@ Moult fu cele tablée gente.
 Bien sambloit la feste roiaus. 
 Quatre haus dois i ot, si haus 
 Que cil qui à ces dois séoient 
-En pluseurs lieus veôir povoient 
+En pluseurs lieus veöir povoient 
 La noblece qui i estoit. 
 Done Ynabele se séoit 
 Delez le roi Melocandis 
@@ -19224,7 +19220,7 @@ Et que il dou faire a raison,
 Courtement faire le doit on. 
 Durbans et Sartans sagement 
 L'en mercierent bonnement, 
-folio67v
+Folio67v
 Et à Dieu graces en rendirent. 
 Devant Cléomadès servirent 
 Andoi ce jour moult liement 
@@ -19271,7 +19267,7 @@ S'en issirent de grant randon
 Roi, duc, conte, prince, baron, 
 Et chevalier et damoisel. 
 Maint cheval corant et isnel 
-Peüssiez veôir eslaissier, 
+Peüssiez veöir eslaissier, 
 Et mainte gent qui bien aidier 
 Se sorent dou cheval mener 
 Pour faire lancier et torner 
@@ -19370,6 +19366,7 @@ Et li leur consaus à ce vint,
 Que il li loerent à prendre 
 PageV02P260
 Marine, s'ele veut entendre 
+Folio68r
 À ce que la chose li plaise. 
 # |
 Moult fu Meniadus à aise 
@@ -19510,7 +19507,7 @@ Jut li rois avoec Clarmondine.
 Avoec aus jut une royne 
 C'on apele Loial Amour, 
 Qui coronnée ert de douçour. 
-folio68v
+Folio68v
 Cele royne moult amoient. 
 Par son conseil ouvré avoient,
 Et firent de là avant
@@ -19538,7 +19535,7 @@ Argente, en I lieu soufisant ;
 Et li dons que je vous demant, 
 C'est que vous vous vueilliez pener 
 De li hautement marier. 
-Ce est li dons que je vous proie.
+Ce est li dons que je vous proie."
 # | 
 Cléomadès l'ot ; s'en ot joie. 
 À Clarmondine bon gré sot 
@@ -19657,7 +19654,7 @@ Que chascuns amer la devoit ;
 N'avoit en li à amender 
 Riens nule c'on peüst viser
 # |
-folio69r
+Folio69r
 De jour en jour plus la prisoit
 Li rois Carmans, et plus l'amoit,
 PageV02P268
@@ -19680,7 +19677,7 @@ Li rois Carmans en tel point fu
 O les dames. Moult ont veü 
 Partout de joie et de revel ;
 Maint cheval corant et isnel 
-Povoient veôir eslaissier ; 
+Povoient veöir eslaissier ; 
 Maint riche baron, maint princier, 
 Maint bacheler, maint damoisel 
 Povoient veöir au tablel 
@@ -19690,7 +19687,7 @@ Moult festioient liement.
 Devant cel eschafaut avoii 
 Une estache qui soustenoit 
 Un grant bacin large d'argent. 
-Veôir povoient mainte gent 
+Veöir povoient mainte gent 
 La geline d'or qui estoit 
 En ce bacin, et com aloit 
 Par desus le bacin chantant 
@@ -19801,7 +19798,7 @@ Ainc rois à feste ne donna
 Tant de grans dons que il fist là. 
 As dames et as chevaliers 
 Chevaus, palefrois et deniers, 
-folio69r
+Folio69r
 Plenté de dras d'or et de soie, 
 Or monnéé et sans monnoie, 
 Coronnes, fermaus et joiaus 
@@ -19947,7 +19944,7 @@ Et au r'aler, et au venir,
 Fist très grandement et droit 
 Tout kan que il faire en devoit.
 # | 
-folio70r
+Folio70r
 Je ne sai pas com lonc termine 
 Done Ynabele la royne 
 Et li rois Carmans demorerent 
@@ -20049,7 +20046,7 @@ Moult durement au roi Carmant,
 Entre lui et roi Baldigant, 
 K'en leur pays vousist venir ; 
 Moult l'i vorroient conjoïr 
-'A leur povoir, et honnorer. 
+À leur povoir, et honnorer. 
 Mais il ne s'i volt acorder. 
 Non fist Cléomadès aussi, 
 Ne Meniadus. Tant vous di 
@@ -20234,7 +20231,7 @@ Done Ynable ensaignie ot
 Sa fille de ce qu'ele sot 
 Que bon à ensaignier li fu. 
 Souvent li ot amenteü 
-folio71r
+Folio71r
 Que ele son seignour amast 
 Et à son povoir l'onnorast ; 
 Et ele, tout en lermoiant, 
@@ -20381,7 +20378,7 @@ Rois de tout parfais et entiers,
 Sages et preus et droituriers 
 Fu Cléomadès, dont vous ai 
 Dit l'estoire si com la sai. 
-folio71v
+Folio71v
 Sachiez que il et ses serours 
 Orent fils et filles plusours 
 Dont moult issi nobles lignages. 
@@ -20525,7 +20522,7 @@ Qui iluec erent assamblé.
 De gent i avoit grant plenté ; 
 Car il meïsmes conmanda 
 À tous ceaus qui estoient là 
-folio72r
+Folio72r
 C'on fei'st tous les huis ouvrir, 
 Et peüssent à lui venir 
 Tout cil qui venir i vorroient, 
@@ -20546,7 +20543,7 @@ Si vraiement qu'il pardonna
 Sa mort, le jour que l'assena 
 Longis de la lance ou costé 
 Quant par lui fumes racheté. 
-Et tout cil soient beneôit 
+Et tout cil soient beneöit 
 Qui diront : "Amen Diex l'otroit!"
 # | 
 De Brabant tint la seignorie 
@@ -20579,7 +20576,7 @@ Car n'ai povoir dou desservir.
 Diex le vueille à tous ceaus merir 
 Qui m'ont fait et donné dou leur! 
 Benoit soient mi bienfaiteur! 
-I)iex gart chascun, lui et les siens, 
+Diex gart chascun, lui et les siens, 
 Et lor mire trestous les biens 
 Que il ont moi et autrui fais, 
 Et lor pardoinst tous leur mesfais, 
