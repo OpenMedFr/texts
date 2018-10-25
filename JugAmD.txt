@@ -1,0 +1,497 @@
+#META#  TextURI          :: JugAmD
+#META#  DEAF             :: http://www.deaf-page.de/bibl/bib99j.php
+#META#  TL               :: 
+#META#  FEW        	
+#META#  ARLIMA           :: https://www.arlima.net/eh/florance_et_blancheflor.html
+#META#  Author           :: 
+#META#  AuthorBorn        
+#META#	AuthorBornAmb	  
+#META#  AuthorDied      
+#META#	AuthorDiedAmb	  
+#META#	AuthorFl1	      
+#META#	AuthorFl2	      
+#META#  TextTitle        :: Jugement d’amour ou Florence et Blancheflor
+#META#  TextSubtitle  
+#META#  TextVols         :: 
+#META#  TextSubj         :: 
+#META#	TextDom          :: 
+#META#	Translation      :: 
+#META#	Collection       ::
+#META#	CollectionNo	  
+#META#  TextDescARL      :: Vers octosyllabiques à rimes plates
+#META#  TextDescVers     :: 8
+#META#  TextDateARL      :: XIIIe siècle
+#META#  TextDateAdj      :: 13
+#META#	TextDateMin	     :: 1180
+#META#	TextDateMax	     :: 1210
+#META#  EdEditor         :: Oulmont, Charles
+#META#  EdPlace          :: Paris
+#META#  EdPublisher      :: Champion
+#META#  EdVol            :: 
+#META#  EdYear           :: 1911
+#META#  EdPages          :: 122-142
+#META#  MsBase           :: Paris, BnF fr 837
+#META#  MsOther          :: Paris, BnF fr 1593
+#META#  MsOther          :: Paris, BnF fr 19152
+#META#  MsOther          :: Viena, ÖNB 2621
+#META#  MsNum            :: 4
+#META#	MsDateARL        :: 
+#META#	MsDateAdj        :: 
+#META#	Form             :: v
+#META#	Complete         :: true
+#META#	NoWords          :: 
+#META#	NoLines          :: 418
+#META#	DialAuth      
+#META#	DialScribe    
+#META#  ScanURL          :: https://archive.org/stream/lesdbatsducler00oulm#page/140/mode/2up
+#META#  ScanURIOther  
+#META#  ArkID            :: ark:/13960/t2m62cb18
+#META#  LccnID          
+#META#  OclcID          
+#META#  WebAuthor        :: Gustavo Fernández Riva
+#META#  ORCIDWebAuthor   :: https://orcid.org/0000-0002-2202-6354
+#META#  WebReviewer      :: 
+#META#  ORCIDReviewer    :: 
+#META#  MiscInfo        
+#META#  CCLicense        :: CC BY-NC-SA 4.0 International
+
+LE JUGEMENT D'AMOURS
+Page122
+De cortoisie et de barnage
+Ot cil assez en son corage
+Qui cest conte vout presenter
+Que vous m'orez ci aconter.
+En son prologue deffendi
+Cil qui parfont i entendi,
+Qui ces vers set molt bien se gart
+Qu'il ne les die a couart.
+A vilains ne a vanteors
+Ne doit on pas conter d'amors,
+Mes a clers ou a chevaliers,
+Qu'il i entendent volentiers,
+Ou a pucele debonere,
+Quar ele en a auques a fere.
+El mois de mai par .I. matin
+Page123
+Il puceles en I jardin
+Entrerent por esbanoier ;
+Forment fesoient a proisier.
+Andui furent d'un fier corage,
+D'une biauté et d'un parage.
+De II mantiaus sont affublees
+Qu'en I isle firent II fees.
+Ne furent pas ouvré de laine,
+Onques n'i ot oevre villaine.
+Li estains fu de flors de glai,
+Traime i ot de roses de mai,
+Et les panes furent de flors,
+Et les listes furent d'amors ;
+Les ataches sont bien ouvrees,
+A II besiers d'amors fermees,
+Et molt sont riche li tassel,
+Atachié sont a cri d'oisel.
+Par le vergier lez I pendant
+S'en aloient esbanoiant.
+En I val truevent I ruissel
+Qui soef cort par le praiel.
+La ont mirees lor colors
+Page124
+Qui sovent lor changent d'amors,
+Puis s'assistrent soz l'olivier,
+Qui fu plantez lez le gravier.
+L'une parla com preus et sage,
+Premiere a dit en son corage:
+"Comme avroit ore bone vie
+Li amis qui tiendroit s'amie
+Toute seule celeement,
+Sanz compaignie d'autre gent.
+S'il s'entramoient bien andui,
+Il n'i querroient ja nullui,
+Fere porroient lor valoir."
+L'autre respont: "Vous dites voir;
+Quar pleüst ore a Dieu le roi
+Que ci fussent li nostre andoi,
+Ne le besier ne l'acoler
+Ne lor porrïons nous veer,
+Mais geu qui tort a vilonie
+Ne lor soufferrïons nous mie,
+Quar il nous convient bien garder
+Qu'on ne se puis de nous gaber.
+Tant com li arbres est foilluz,
+Page125
+Est il amez et chier tenuz,
+Et quant la fueille en est cheüe,
+Molt a de sa biauté perdue.
+Ausi est il de la meschine
+Qui de sa chasteé decline,
+Ja n'ert si haut emparentee
+Ne soit en grant viuté tornee."
+L'autre respont: "Vous dites voir,
+Mielz aim hennor que trop avoir"
+Assez ont devisé le jor
+Et de savoir et de folor
+Et de quanques lor plot au cuer.
+Se l'une fust a l'autre suer,
+Ne fussent eles miex paraux,
+De compaignie et de consaus ;
+Mains ainz que prime fust sonee,
+Fu molt male la dessevree.
+Por assez petit d'achoison,
+Issirent fors de lor reson.
+L'une avoit a non Blancheflor
+Qu'ainz ne se pot tenir d'amor,
+Et l'autre avoit a non Florence
+Page126
+Qui le jor commença la tence:
+Molt doucement et par amor
+A demandé a Blancheflor:
+"Quar me dites, gentil pucele,
+Qui tant estes plesant et bele,
+De vo fin cuer leal et bon
+Qui en avez vos fait le don?
+Celui que vos devez amer
+Ne me devez vous pas celer."
+S'ele devint pale et vermeille,
+Ce ne fu mie de merveille ;
+De respondre n'est pas vilaine,
+Parla com bouche de seraine.
+Si a dit l'autre pucele :
+"Je vos dirai, ma damoisele
+A cui j'ai donee la flor
+Et de mon cuer et de m'amor.
+Un clerc cortois, jolif et bon
+Ai de m'amor doné le don ;
+Page127
+Il est molt biaus, mes sa bontez
+Vaut miex assez que sa biautez,
+Sa bonté ne sa cortoisie
+Ne sauroie raconter mie."
+L'autre respont: "Molt me merveil
+Ou vos avez pris tel conseil ;
+Je plaing molt vostre cortoisie
+Quant a un clerc estes amie,
+Quant vostre amis est au moustier,
+Torne et retorne cel sautier,
+Torne et retorne cele pel,
+Por vos ne fet autre cembel.
+Mes j'ai ami et bel et gent,
+Quant il vait au tornoiement,
+Et il abat un chevalier,
+Il me presente le destrier.
+Chevalier sont de molt haut pris
+Il ont sor tote gent le pris
+Et le los et la seignorie.
+Chetive, quar lai ta folie,
+Por qu'aimes tu cel clerc d'escole,
+Page128
+Cel chetif, cele bische fole,
+Cel bertaudé, cel haut tondu?"
+Blancheflor lui a respondu,
+Ausi com par grant felonie :
+"Damoisele, c'est vilonie,
+Quant vous le mien ami blasmez,
+Mes quant le chevalier amez,
+Assez plus fole estes de moi
+Si vous dirai reson por qoi.
+Chevalier sont molt lasche gent ;
+Quant il vont au tornoiement,
+Il n'ont pas du pain a mangier,
+Se chascuns n'i met son destrier
+Ou son escu ou son haubert.
+Je proverai tout en apert,
+Devant toutes les genz du mont,
+Page129
+Que sor toutes les genz qui sont,
+Doivent li clerc avoir amie,
+Quar plus sevent de cortoisie,
+Que autre gent, ne chevalier,
+Ne sevent vaillant un denier
+Envers clerc qui d'amors s'envoise."
+Florence cui forment en poise
+Que Blancheflor la contralie
+Si dist: "Il ne remaindra mie,
+Par mon chief, si com vous cuidiez,
+Je vos semoing que vous soiez
+D'ui en cest jor en XV jors
+Droit a la cort au Dieu d'amors,
+La irons querre jugement."
+Cele l'otroie bonement ;
+N'i ont plus paroles tenues,
+Fors du vergier s'en sont issues,
+Ne sai que vous en deïsse el,
+Chascune vait a son ostel
+Le jor vint qu'eles orent dit,
+Dont n'i ot point de contredit
+Que ne voisent au jugement ;
+Lors se lievent isnelement ;
+Page130
+Tout maintenant que sont levees 
+Richement se sont atornees 
+D'uns garnemens riches et biaus 
+Ains nus hom ne vit lor paraus; 
+Cotes orent de roses pures 
+Et de violetes ceintures, 
+Que par solaz firent amors ; 
+S'orent mantiaus de jaunes fors, 
+A deux besiers d'amors tailliez, 
+De flors de lis ont cueuvrechiez, 
+S'orent por plus soef flerier 
+Chapiaus de mugue et d'aiglentier. 
+Quant ainsi furent atornees, 
+Sor deux palefrois sont montees, 
+Qui estoient plus blanc que nois, 
+Et molt sont riche lor harnois, 
+Li frain furent d'or toz massis 
+Qui sor les palefroiz sont mis. 
+De tele oevre sont li lorain, 
+Li poitrail ne sont pas vilain, 
+Page131
+Cloches i a d'or et d'argent, 
+Qui ades par enchantement 
+Sonent d'amors un son novel ; 
+Ainz Diex ne fist tel cri d'oisel 
+El mont tant com li solaus cuevre, 
+Qui aus clochetes feist oevre 
+N'est hom tant eust maladie, 
+S'il oiSt cele melodie, 
+Que il tantost haitiez ne fust 
+Les seles ne sont pas de fust, 
+Ainz sont d'yvuire sororees 
+A eschequiers d'amors ouvrees. 
+Quant chevauchié orent assez, 
+Tant que miedis fu passez, 
+La tor virent et le palais 
+Qui n'estoit pas de pierre fais 
+Page132
+La ou tint cort li dieus d'amors. 
+Il fut couvers de blanches flors. 
+Roses i ot entremeslees, 
+Les lates resont bien ouvrees 
+A clous de girofle atachies, 
+Qui de canele sont taillies, 
+De sicamor sont li chevron 
+Et li mur qui sont environ 
+Sont li dart de quoi amors trait, 
+Et bien sachiez tout entresait 
+Que ia postiz n'i avra clos, 
+Ne ja vilains n'en ert tant os 
+Que le postiz past ne la porte 
+Se le seel d'amors n'aporte. 
+La sont les puceles venues, 
+Souz la sale sont descendues 
+Desouz un pin en un prael. 
+Du pin descendent dui oisel 
+Page133
+Qui les puceles adestrerent 
+Amont el palais les menerent, 
+La ou li diex d'amors estoit, 
+Qui en un biau lit se gisoit, 
+Qui estoit fez de flors noveles. 
+Quant il vit venir les puceles, 
+Du lit se lieve isnelement, 
+Si les reçut molt gentement, 
+Andeus les a par les mains prises 
+Dejoste soi les a assises, 
+Puis lor demande : "Est ce besoing 
+Qu'estes venues de si loing ?" 
+Blancheflor qui bien fu aprise 
+Et de l'amor au clerc esprise, 
+Li dist: "Sire, je vos dirai : 
+Avant ier par un jour de may, 
+En un vergier nous en entames, 
+De nos amors andeus parlames, 
+; Tant que par aventure dis, 
+Issi com il m'estoit avis, 
+Que Clers set plus de cortoisie 
+Et que miex doit avoir amie 
+Page134
+Que autre gent ne chevalier. 
+Cele ne le vout otroier, 
+Ainz respondi par felonie, 
+Et dist que clerc ne sevent mie 
+Vers chevaliers un tout seul as, 
+Ne de deduit ne de solas; 
+S'en venons querre jugement." 
+Li rois lor respondi briefment : 
+"J'assamblerai toz mes barons, 
+La verité vous en dirons."
+Li rois a sa Cort assamblee 
+La querele lor a contee, 
+Puis lor a dit : "Nel celez mie, 
+Liquels doit miex avoir amie, 
+Ou li Clers ou li chevaliers ?"
+Premiers parla li espreviers : 
+"Sire, fet-il, je vous dirai 
+La verité, quar bien la Sai, 
+Je sai d'amors toutes les lois ; 
+Si di qu'assez sont plus cortois 
+Li chevalier que clerc ne sont." 
+Li rousingnols lors li respont : 
+"Vous i mentez, dans espreviers, 
+Page135
+Ja ne savra tant chevaliers 
+De deduit ne de cortoisie 
+Come li Clers qui a amie."
+Li faucons s'est en piez levez : 
+"Par mon chief, fet il, vos mentez, 
+Dans rousingnols, ce ne puet estre 
+Que tant sachent ne clerc ne prestre 
+Ne autre gent com chevalier ; 
+Tout en apert os bien juger 
+Devant contes et devant rois, 
+Que chevalier sont plus cortois 
+Que clerc ne sont ne autre gent." 
+"Vous mentez trop apertement, 
+Dist l'aloe, sire faucons, 
+Je di, Oiant toz ces barons, 
+C'une haute amor seignorie 
+Seroit en clerc mieus emploie 
+Qu'en chevalier n'en duc n'en roi." 
+"Vous mentez en la moie foi, 
+Dame aloe, li gays respont, 
+Que sor toutes les genz qui sont 
+Sont chevalier preu et vaillant." 
+Page136
+Li chardonereus saut avant : 
+"Dans gays, fet il, vous i mentez, 
+Molt estes ores forsenez, 
+Fols et fels, cruels et estous 
+Qui ci mentez oiant nous tous, 
+Tuit cil du monde sevent bien 
+Que chCA•alier ne sevent rien 
+Ne de deduit ne de franchise, 
+Se il ne l'ont de clerc aprise."
+"Par mon chief, dist li orieus, 
+Vous mentez, dans chardonereus, 
+Ja n'avendra, coment qu'il praingne, 
+Que cler a chevalier se praingne 
+De deduit ne de cortoisie : 
+Clers ne doit pas avoir amie, 
+Ainz doit avoir un grant sautier 
+Ou il puist lire et verseillier, 
+Li Clers doit proier pour les ames 
+Et chevaliers doit avoir dames 
+Et puceles a son voloir. 
+Page137
+Quar il sevent tot le pooir 
+De deduit plus que autre gent." 
+"Vous mentez trop apertement, 
+Dans oriex, fet li mauvis, 
+Dehez ait li cors et li vis 
+Qui si vous aprist a jugier, 
+Ja n'avendra que chevalier 
+Sachent envers Clers nule rien, 
+De cortoisie ne de bien ; 
+Clerc sont cortois et preu et large ; 
+De chevaliers plaine une barge 
+Vaut uns clers, ce vos di je bien. 
+Nus ne se prent a eus de rien." 
+Li estorniaus s'est tost levez : 
+"Sire mauvis, tort en avez, 
+Fet il, qui si avez jugié. 
+Chevalier sont molt enseignié, 
+Sage et cortois, preu et vaillant ; 
+Clerc ne sevent vaillant un gant 
+Vers chevalier de nul deduit."
+Ainsi par la sale trestuit 
+S'entretenoient qui mieus mieus, 
+Page138
+Lors se leva li rousingneus, 
+Li rousingnols lors se leva : 
+"Seignor," dist il, "entendez ça, 
+Amors m'ont fet lor conseillier, 
+En cort roial os bien jugier. 
+Selonc ma pensee et mon sens 
+En dirai je ce que j'en pens, 
+Je di qu'il n'est nus homme el monde, 
+Tant com il dure a la reonde, 
+Qui envers clerc prendre se puist 
+Ne de solaz ne de deduit, 
+Ja n'avendra que nus praingne. 
+Nature lor done et ensaingne 
+Tout bien et toute cortoisie. 
+Chevalier ne se painent mie 
+Envers clers d'amors maintenir, 
+Et si vous di bien sans mentir 
+Qu'amors fust grant pieça perdue, 
+Se par clerc ne fust maintenue. 
+Devant vos toz l'os je bien dire, 
+Et se nus m'en voloit desdire, 
+Par bataille le proveroie 
+Et cors a cors m'en combatroie."
+Page139
+Li papegaus s'est tost levez : 
+"Seignor," dist il, "oez, oez, 
+Je di que li rousingnols ment, 
+De la bataille me present 
+Je l'en rendrai ou mort ou pris."
+Son gage tent, li rois l'a pris 
+Et li rousingnols saut avant, 
+Il a au roi baillé son gant, 
+Pour la bataille confermer, 
+Et li rois les a fait armer 
+Sans plus atendre nule chose. 
+Lor haubert sont de passe rose 
+Et lor hiaume de primevoire, 
+Et lor gambison[s] sont de voire, 
+Les ventailles orent lacies,
+A clous de girofle atachies, 
+De Hors de genoivres ouvrees 
+Et de roses orent espees ; 
+Moult parut bien aus garnemenz 
+Qu'es vassaux ot granz hardemenz. 
+Quant armé furent a delivre, 
+Li rois une sale lor livre 
+A flors painte sans nule faille, 
+Page140
+La ou il feront la bataille. 
+Quant el champ furent li vassal, 
+De fierté furent paringal, 
+Il orent les corages fiers, 
+Li rousingnols parla premiers : 
+"Dans papegaus, je vous deff, 
+Et si vous di tres bien de fi, 
+Je vos donrai un cop de pres, 
+Et se vos n'estes bien couvers 
+Je vos toudrai du cors la vie."
+Lors a s'espee fors sachie 
+Sore li cort de randonee, 
+Assise li a tel colee, 
+Sor le hiaume que tout l'estone, 
+Et cil un tel cop li redone 
+El chief amont, que d'une part 
+Li desront le cercle et depart, 
+Et bien vous di que mort l'eüst, 
+S'amors soustenu ne l'eüst, 
+Mes li rousingnols par grant ire 
+L'empaint et boute et sache et tire, 
+Si qu'a terre l'abat a force. 
+Page141
+Li papegaus souz lui s'esforce 
+Mais ne puet tant que se relieve, 
+Lors voit bien que ses tors le grieve, 
+Quant plus combatre ne se puet, 
+Lors voit bien que rendre l'estuet : 
+"Sire," fet il, "tenez m'espee, 
+La bataille avez afinee, 
+Je vos creant et reconnois 
+Que clerc sont vaillant et cortois, 
+Et que toz biens en aus abonde, 
+Plus qu'en toutes les gens du monde." 
+A tant les fet li rois lever. 
+Qui veist Florence plorer, 
+Ses chevex ront, ses poins detort : 
+"Dieus," dist ele, "la mort, la mort !" 
+Adonques s'est trois fois pasmee 
+Et a la quarte est deviee. 
+La s'assemblent li oisel tuit 
+Si l'enfueent a grant deduit, 
+En un riche sarcu l'ont mise
+Page142
+Paint a flor et bel a devise, 
+Et une pierre dessus mistrent 
+Et ces deus vers desus escristrent : 
+"Ici est Florence enfouie 
+Qui au chevalier fu amie."
+# |
+Explicit le jugement d'amors. 
