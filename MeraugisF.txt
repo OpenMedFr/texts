@@ -1,0 +1,58 @@
+#META#  TextURI          :: MeraugisF
+#META#  DEAF             :: http://www.deaf-page.de/bibl/bib99m.php#MeraugisF
+#META#  TL               :: 
+#META#  FEW        	
+#META#  ARLIMA           :: https://www.arlima.net/qt/raoul_de_houdenc.html
+#META#  Author           :: 
+#META#  AuthorBorn        
+#META#	AuthorBornAmb	  
+#META#  AuthorDied      
+#META#	AuthorDiedAmb	  
+#META#	AuthorFl1	      
+#META#	AuthorFl2	      
+#META#  TextTitle        :: Meraugin de Portlesguez
+#META#  TextSubtitle  
+#META#  TextVols         :: 
+#META#  TextSubj         :: 
+#META#	TextDom          :: 
+#META#	Translation      :: 
+#META#	Collection       ::
+#META#	CollectionNo	  
+#META#  TextDescARL      :: Vers octosyllabiques à rimes plates
+#META#  TextDescVers     :: 8
+#META#  TextDateARL      :: Entre 1225 et 1235
+#META#  TextDateAdj      :: 13
+#META#	TextDateMin	     :: 1225
+#META#	TextDateMax	     :: 1235
+#META#  EdEditor         :: Friedwagner, Mathias 
+#META#  EdPlace          :: Halle
+#META#  EdPublisher      :: Niemeyer
+#META#  EdVol            :: 
+#META#  EdYear           :: 1897
+#META#  EdPages          :: 1-227
+#META#  MsBase           :: Vat. Reg. lat. 1725 
+#META#  MsOther          :: Wien Österreichische Nationalbibliothek 2599
+#META#  MsOther          :: Torino Bibl. naz. L.IV.33
+#META#  MsOther          :: Kraków Univ. gall. qu. 48 
+#META#  MsOther          :: BN nfr. 5386 
+#META#  MsNum            :: 5
+#META#	MsDateARL        :: 
+#META#	MsDateAdj        :: 
+#META#	Form             :: v
+#META#	Complete         :: true
+#META#	NoWords          :: 
+#META#	NoLines          :: 5938
+#META#	DialAuth      
+#META#	DialScribe    
+#META#  ScanURL          :: https://archive.org/details/raoulvonhoudenc00friegoog/
+#META#  ScanURIOther  
+#META#  ArkID            :: ark:/13960/t2g73fj2r
+#META#  LccnID          
+#META#  OclcID          
+#META#  WebAuthor        :: 
+#META#  ORCIDWebAuthor   :: 
+#META#  WebReviewer      :: 
+#META#  ORCIDReviewer    :: 
+#META#  MiscInfo        
+#META#  CCLicense        :: CC BY-NC-SA 4.0 International
+
