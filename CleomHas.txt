@@ -37,7 +37,7 @@
 #META#	MsDateARL        :: Fin du XIIIe siècle
 #META#	MsDateAdj        :: f13
 #META#	Form             :: v
-#META#	Complete         :: no (thru 6106)
+#META#	Complete         :: 
 #META#	NoWords          ::
 #META#	NoLines          ::
 #META#	DialAuth
