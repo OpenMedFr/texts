@@ -1,9 +1,9 @@
 #META#  TextURI          :: JugAmD
-#META#  DEAF             :: http://www.deaf-page.de/bibl/bib99j.php
-#META#  TL               :: 
+#META#  DEAF             :: http://www.deaf-page.de/bibl/bib99j.php#JugAmD
+#META#  TL                
 #META#  FEW        	
 #META#  ARLIMA           :: https://www.arlima.net/eh/florance_et_blancheflor.html
-#META#  Author           :: 
+#META#  Author           
 #META#  AuthorBorn        
 #META#	AuthorBornAmb	  
 #META#  AuthorDied      
@@ -12,11 +12,11 @@
 #META#	AuthorFl2	      
 #META#  TextTitle        :: Jugement d’amour ou Florence et Blancheflor
 #META#  TextSubtitle  
-#META#  TextVols         :: 
-#META#  TextSubj         :: 
-#META#	TextDom          :: 
-#META#	Translation      :: 
-#META#	Collection       ::
+#META#  TextVols         
+#META#  TextSubj         
+#META#	TextDom          
+#META#	Translation       
+#META#	Collection       
 #META#	CollectionNo	  
 #META#  TextDescARL      :: Vers octosyllabiques à rimes plates
 #META#  TextDescVers     :: 8
@@ -56,7 +56,7 @@
 #META#  CCLicense        :: CC BY-NC-SA 4.0 International
 
 LE JUGEMENT D'AMOURS
-Page122
+PageV01P122
 De cortoisie et de barnage
 Ot cil assez en son corage
 Qui cest conte vout presenter
@@ -72,7 +72,7 @@ Qu'il i entendent volentiers,
 Ou a pucele debonere,
 Quar ele en a auques a fere.
 El mois de mai par .I. matin
-Page123
+PageV01P123
 Il puceles en I jardin
 Entrerent por esbanoier ;
 Forment fesoient a proisier.
@@ -95,7 +95,7 @@ S'en aloient esbanoiant.
 En I val truevent I ruissel
 Qui soef cort par le praiel.
 La ont mirees lor colors
-Page124
+PageV01P124
 Qui sovent lor changent d'amors,
 Puis s'assistrent soz l'olivier,
 Qui fu plantez lez le gravier.
@@ -118,7 +118,7 @@ Ne lor soufferrïons nous mie,
 Quar il nous convient bien garder
 Qu'on ne se puis de nous gaber.
 Tant com li arbres est foilluz,
-Page125
+PageV01P125
 Est il amez et chier tenuz,
 Et quant la fueille en est cheüe,
 Molt a de sa biauté perdue.
@@ -141,7 +141,7 @@ Issirent fors de lor reson.
 L'une avoit a non Blancheflor
 Qu'ainz ne se pot tenir d'amor,
 Et l'autre avoit a non Florence
-Page126
+PageV01P126
 Qui le jor commença la tence:
 Molt doucement et par amor
 A demandé a Blancheflor:
@@ -161,7 +161,7 @@ A cui j'ai donee la flor
 Et de mon cuer et de m'amor.
 Un clerc cortois, jolif et bon
 Ai de m'amor doné le don ;
-Page127
+PageV01P127
 Il est molt biaus, mes sa bontez
 Vaut miex assez que sa biautez,
 Sa bonté ne sa cortoisie
@@ -183,7 +183,7 @@ Il ont sor tote gent le pris
 Et le los et la seignorie.
 Chetive, quar lai ta folie,
 Por qu'aimes tu cel clerc d'escole,
-Page128
+PageV01P128
 Cel chetif, cele bische fole,
 Cel bertaudé, cel haut tondu?"
 Blancheflor lui a respondu,
@@ -200,7 +200,7 @@ Se chascuns n'i met son destrier
 Ou son escu ou son haubert.
 Je proverai tout en apert,
 Devant toutes les genz du mont,
-Page129
+PageV01P129
 Que sor toutes les genz qui sont,
 Doivent li clerc avoir amie,
 Quar plus sevent de cortoisie,
@@ -224,7 +224,7 @@ Le jor vint qu'eles orent dit,
 Dont n'i ot point de contredit
 Que ne voisent au jugement ;
 Lors se lievent isnelement ;
-Page130
+PageV01P130
 Tout maintenant que sont levees 
 Richement se sont atornees 
 D'uns garnemens riches et biaus 
@@ -245,7 +245,7 @@ Li frain furent d'or toz massis
 Qui sor les palefroiz sont mis. 
 De tele oevre sont li lorain, 
 Li poitrail ne sont pas vilain, 
-Page131
+PageV01P131
 Cloches i a d'or et d'argent, 
 Qui ades par enchantement 
 Sonent d'amors un son novel ; 
@@ -262,7 +262,7 @@ Quant chevauchié orent assez,
 Tant que miedis fu passez, 
 La tor virent et le palais 
 Qui n'estoit pas de pierre fais 
-Page132
+PageV01P132
 La ou tint cort li dieus d'amors. 
 Il fut couvers de blanches flors. 
 Roses i ot entremeslees, 
@@ -281,7 +281,7 @@ La sont les puceles venues,
 Souz la sale sont descendues 
 Desouz un pin en un prael. 
 Du pin descendent dui oisel 
-Page133
+PageV01P133
 Qui les puceles adestrerent 
 Amont el palais les menerent, 
 La ou li diex d'amors estoit, 
@@ -304,7 +304,7 @@ De nos amors andeus parlames,
 Issi com il m'estoit avis, 
 Que Clers set plus de cortoisie 
 Et que miex doit avoir amie 
-Page134
+PageV01P134
 Que autre gent ne chevalier. 
 Cele ne le vout otroier, 
 Ainz respondi par felonie, 
@@ -328,7 +328,7 @@ Si di qu'assez sont plus cortois
 Li chevalier que clerc ne sont." 
 Li rousingnols lors li respont : 
 "Vous i mentez, dans espreviers, 
-Page135
+PageV01P135
 Ja ne savra tant chevaliers 
 De deduit ne de cortoisie 
 Come li Clers qui a amie."
@@ -351,7 +351,7 @@ Qu'en chevalier n'en duc n'en roi."
 Dame aloe, li gays respont, 
 Que sor toutes les genz qui sont 
 Sont chevalier preu et vaillant." 
-Page136
+PageV01P136
 Li chardonereus saut avant : 
 "Dans gays, fet il, vous i mentez, 
 Molt estes ores forsenez, 
@@ -372,7 +372,7 @@ Ou il puist lire et verseillier,
 Li Clers doit proier pour les ames 
 Et chevaliers doit avoir dames 
 Et puceles a son voloir. 
-Page137
+PageV01P137
 Quar il sevent tot le pooir 
 De deduit plus que autre gent." 
 "Vous mentez trop apertement, 
@@ -395,7 +395,7 @@ Clerc ne sevent vaillant un gant
 Vers chevalier de nul deduit."
 Ainsi par la sale trestuit 
 S'entretenoient qui mieus mieus, 
-Page138
+PageV01P138
 Lors se leva li rousingneus, 
 Li rousingnols lors se leva : 
 "Seignor," dist il, "entendez ça, 
@@ -419,7 +419,7 @@ Devant vos toz l'os je bien dire,
 Et se nus m'en voloit desdire, 
 Par bataille le proveroie 
 Et cors a cors m'en combatroie."
-Page139
+PageV01P139
 Li papegaus s'est tost levez : 
 "Seignor," dist il, "oez, oez, 
 Je di que li rousingnols ment, 
@@ -443,7 +443,7 @@ Qu'es vassaux ot granz hardemenz.
 Quant armé furent a delivre, 
 Li rois une sale lor livre 
 A flors painte sans nule faille, 
-Page140
+PageV01P140
 La ou il feront la bataille. 
 Quant el champ furent li vassal, 
 De fierté furent paringal, 
@@ -466,7 +466,7 @@ S'amors soustenu ne l'eüst,
 Mes li rousingnols par grant ire 
 L'empaint et boute et sache et tire, 
 Si qu'a terre l'abat a force. 
-Page141
+PageV01P141
 Li papegaus souz lui s'esforce 
 Mais ne puet tant que se relieve, 
 Lors voit bien que ses tors le grieve, 
@@ -487,7 +487,7 @@ Et a la quarte est deviee.
 La s'assemblent li oisel tuit 
 Si l'enfueent a grant deduit, 
 En un riche sarcu l'ont mise
-Page142
+PageV01P142
 Paint a flor et bel a devise, 
 Et une pierre dessus mistrent 
 Et ces deus vers desus escristrent : 
