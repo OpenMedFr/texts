@@ -1,0 +1,788 @@
+#META#  TextURI          :: DancusM
+#META#  DEAF             :: http://www.deaf-page.de/bibl/bib99d.php#DancusM
+#META#  TL
+#META#  FEW
+#META#  ARLIMA           :: https://www.arlima.net/qt/roi_dancus_livre_du.html
+#META#  Author
+#META#  AuthorBorn
+#META#	AuthorBornAmb
+#META#  AuthorDied
+#META#	AuthorDiedAmb
+#META#	AuthorFl1
+#META#	AuthorFl2
+#META#  TextTitle        :: Livre du roi Dancus
+#META#  TextSubtitle
+#META#  TextVols
+#META#  TextSubj
+#META#	TextDom
+#META#	Translation      :: true
+#META#	Collection       :: Cabinet de vénerie
+#META#	CollectionNo	 :: 6
+#META#  TextDescARL
+#META#  TextDescVers
+#META#  TextDateARL      :: XIIIe siècle
+#META#  TextDateAdj      :: 13
+#META#	TextDateMin
+#META#	TextDateMax
+#META#  EdEditor         :: Martin-Dairvault, H.
+#META#  EdPlace          :: Paris
+#META#  EdPublisher      :: Librairie des Bibliophiles
+#META#  EdVol
+#META#  EdYear           :: 1883
+#META#  EdPages          :: 1-29
+#META#  MsBase           :: Paris, BnF fr 12581
+#META#  MsNum            :: 2
+#META#	MsDateARL
+#META#	MsDateAdj
+#META#	Form             :: p
+#META#	Complete         :: true
+#META#	NoWords          :: 5480
+#META#	NoLines
+#META#	DialAuth
+#META#	DialScribe
+#META#  ScanURL          :: https://archive.org/details/lelivreduroidan00albegoog
+#META#  ScanURIOther
+#META#  ArkID            :: ark:/13960/t8w958d55
+#META#  LccnID
+#META#  OclcID
+#META#  WebAuthor        :: David Joseph Wrisley
+#META#  ORCIDWebAuthor   :: orcid.org/0000-0002-0355-1487
+#META#  WebReviewer      ::
+#META#  ORCIDReviewer    ::
+#META#  MiscInfo
+#META#  CCLicense        :: CC BY-NC-SA 4.0 International
+
+PageV01P001
+LE LIVRE DU ROI DANCUS
+Uns rois fu jadis qui estoit apelez
+Dancus. I jor estoit en son
+palais. Devant lui estoient si
+desciple qui tenoient plait de lor faucons
+et pençoient commant il poissent maintenir
+lor faucons sains et haitiez ou oistours
+ou espriviers, et commant il les poissent
+faire hardiz, et commant il lor poissent
+faire panre granz oisiaus si comme grues
+et oes et autres oisiaus, et commant il
+poissent estre tenu en lors hardiment. Icil
+PageV01P002
+rois fu bons devins et vit ce qui fu et qui
+puet estre.
+# |
+Ceste chose oi li rois Galaciens et vint à
+icelui veoir et entendre, se ce estoit voirs
+que on li avoit dit en sa cité. Lors print
+herberge à l’un des chiés de la cité, et
+manda que il voloit savoir des faucons. Et,
+com Dancus li rois oi ce, si en rist, et
+moult li plust. Il le fist venir en sa chambre:
+icele chambre estoit bele et precieuse
+et de toutes honors plainne, en la
+quele li firmamenz estoit poinz, et les
+estoiles dou ciel et touz li fondemenz
+et de tant de mervoilles que moult faisoit
+à mervillier; ses liz estoit d’avoleille, et
+les cordes estoient d’une beste sauvage, et
+estoit covers d’une coverture de paile escarimant,
+sor lequel li rois Dancus gisoit.
+Li rois Galaciens se sist avec lui el lit, et
+se mervilla moult comme il vit la chambre
+einsis pointe. Lors li commança li rois
+Dancus à demander por quel cause il estoit
+venuz. Li rois Galacians li respondi sagement:
+PageV01P003
+"Je vi[n]g à toi veoir et oir se ce est
+voirs, que j’ai oi dire, que tu ies li plus
+sages que je oisse onques, que tu seis I
+art de quoi tu ies moult curieus, car tu
+fais panre I oisel à autre. Por laquel
+chose je vueil estre tes desciples. Et quant
+cil l’oi, si rist, et dist: "Il me plaist bien
+que tu soies mes desciples, vien demain
+avec moi, si verras ce que mi oisel font.»
+En l’autre jor aprés ala as chanz avec lui;
+et, quant il vit voler les oisiaus, si li plut
+moult, et dist: "Bien est voir ce que l’an
+me dist." Lors obéi moult à li. Et en
+l’autre jor li commança à demander qui li
+plaisoit, et li rois li respondi: "Ce qu’il
+vos plaist." Lors dist li rois Galacians:
+"Je vueil mander à mes homes que je vueil
+demorer avec toi et estre tes desciples."
+Adonc respondi li rois Dancus: "Je ne
+sui pas dignes que tu soies mes desciples;
+mais se tu en viaus savoir, et tu as fil,
+mande-li que il vaigtfe à moi; et je li
+apanrai, por toe amor, ce que je sai et
+PageV01P004
+que je porrai trover." De ce l’anclina moult
+li rois Galacians, et li vost chaoir as piez.
+Lors prist congié, et s’an rala en sa terre,
+et fist venir à lui Attanasien son fil. Si li
+dist: "Se tu viaus apanre de l’art des faucons,
+si va à la court le roi Danci."
+# |
+Attanasiens fut moult liez de ceste
+chose. Si li dist maintenant: "Anvoie-mi.»
+Et il si fist, car il estoit moult curieus de
+toutes choses, fors que de faucons. Li rois
+Dancus le fist moult servir, et il fu tant
+de bon cuer que il sot en I an quanque
+Dancus savoit, c’est asavoir: de la goute
+dou chief, qui est dit Surcini. De malo
+agro. De malo tergo. De la goute qui est
+dite arcetique. De la goute qui naist es
+gorges qui est dite naturaus; as rains pran
+la goute morfex. De la goute qui est dite
+silera. De la crampe. Des fievres, qui ardent
+le polmon et le foie, est née la pierre
+in magone, qui est apelez mafelon. Et
+aprés lumbrici et tinea naist en l’éle. De
+mal d’anfondeure.
+PageV01P005
+# |
+Quant vos veez que il clost les iex et le
+chief, sachiez que il a surcin. La medicine
+est tele: pran lart et poivre, et mesle ansamble,
+et li done mangier, et l’autre jor
+li done de l’aloe avec la char de geline.
+# |
+Quant vos veez que il oevre la bouche
+et li flanc li batent, sachiez que il a agrum.
+La medicine est tele: pran une aguille
+d’argent, et l’eschaufe au feu, et li cui
+les narilles en tel meniere que ele isse de
+l’autre part; aprés li oi[n]g d’oile d’olive
+ou de burre.
+# |
+Quant vos veez que il estarnue et
+giete l’iaue par les narilles, sachiez que il
+fu enroidiz. Si li faites tele medicine:
+prenez staphisagriam et III grains de
+poivre et les broie en un mortier de pierre
+ou de metail, et destranpez de fort vin
+aigre, et li anvoiez es narilles avec bombace
+et el palais; et aprés li donez char
+de geline chaude.
+# |
+Quant tu voiz le col anflé, saches que il
+est arcetiques. Si le medicine en tel maniere:
+PageV01P006
+poile son col, et pran le sanc de la
+vainne de la bouche, et li done reigne à
+mangier; et, se tu voiz quod digerat, il est
+sains.
+# |
+Quant tu voiz que la gorge li est anflée
+et il soufle, saches que il a ce mal. Si le
+medicine en tel maniere: pran le sanc
+dou paon et muscatum, et mirobalanos, et
+gariofilos et cynamomum et cunciber, de
+chascun une once, et fai novam bocones, et
+chascun jor I à tierce; et aprés à none
+done li suricium.
+# |
+Quant il a mal es rains, tu le puez
+connoistre en tel meniere: quant il ne
+puet ismartire, et tu voiz de loi[n]g que il ne
+se puet debatre, saches que il a ce mal:
+pran mumiam et le poil dou lievre et li
+done mengier avec char de gaite juque à
+VIII jors. Et, se il tient ce past, sanz doute
+il est sains.
+# |
+Le faucon qui a la goute silere puez tu
+connoistre as ongles des piez et à la cire
+dou bec, car il fait iqui blanc, saches que
+PageV01P007
+il a ce mal: si pran adonc le serpent noir,
+et tranche une paume dou chief et une
+de la coe, et oste ce dammei, et fri ice en
+I pot nuef, et pran la graisse qui en
+istra, et la fai chaude, et li done avec char
+de paon juques à IX jors; aprés l’uitisme
+jor pran porcel femele, et la poile en iaue
+chaude; si pran le tanrun dou piz avec la
+forcele, et li done mangier. Et se il tient
+bien ce past, il sera sains.
+# |
+Le faucon qui a la goute granffe tu le
+puez conoistre en tel maniere: quant il
+met un pié sor autre, et fiert son bec,
+saches que il a ce mal: oste le sanc de la
+vainne entre le pié et la granfe, et einsis
+sera sains.
+# |
+Quant tu voiz faucons pediculous, fai
+la medicine en tel maniere: pran vif argent,
+et unum baccile et le cracheron de
+l’ome et cendre, et mesle ensamble juque
+tant que li argens se muire, et aprés pran
+oignt viez, et mesle tout ensamble, et li
+oig le someril de la teste, et aprés pran fil
+PageV01P008
+jaune et li lie au col, et il se morront.
+# |
+Quant tu voiz faucon qui ait le pié
+chaut, il a fievre. La medicine est telle:
+pran aloe et la graisse de la geline, et
+mesle tout ce en fort vin aigre, et li done
+à mangier; et, se il tient bien ce past, il
+sera sains.
+# |
+Quant tu voiz que il prant la char à son
+bec et maintenant la giete fuer, donc a il
+la pierre in magone. La medicine est tele:
+pran la passe et girofles, et bat, et mesle la
+porre de girofle avec la passe, et li done
+à mangier; et, se il le tient, il est sains.
+# |
+Quant il ne puet issir fuer, il a la pierre
+ou fondement. La medicine est tele: pran
+le cuer dou porcel et la soie, et mesle avec l
+a char, et li done a mengier juqu’à III
+jors, et il sera sains.
+# |
+Quant il a la tine en l’éle, la medicine
+est tele: pran la cire rouge et muscatum
+et mirobalanos citrinos et salgenmam, et
+rue et gomme à mangier et le grain de
+PageV01P009
+froment, et mesle tout en I bacin et I
+met fort vin aigre, et le laisse par IX jors;
+et puis, met in ampulla vitrea, et leve le
+faucon tant que tu voices la corone venir;
+et aprés pran l’iaue rose, et l’an lave, et
+le met au soloil, et il sera sains. De chascun
+pran une once et de cire demie livre.
+# |
+Quant tu voiz que il ne prant le past et
+a les iex gros, sache que il a enfondeure.
+La medicine est tele: fai bone cendre de
+sarmant, et la bat, et empli la gorge juque
+tant qu’il le teigne; et aprés pran lacertam,
+et li done à mangier, et il sera sains.
+# |
+Quant tu vues faire faucons hardiz, tien
+le moult en ta main, et li done char de
+geline, une cuisse à tierce; et aprés met
+devant lui iaue en quoi il se baigne; et
+aprés met au soloil, juque il soit sechiez;
+aprés le met en oscur leu, juque a hore
+de vespres; aprés le tien en ta main, juqu’à
+hore de dormir, c’est à dire au premier
+somme; et aprés met d’une part une lumiere
+ardant devant lui par toute la nuit;
+PageV01P010
+et, quant l’ore dou matin vient, arouse icelui
+de vin; aprés le met au feu; et, quant
+il est jor, va oiseler avec IIII homes ou
+V. Et, se tu voiz qu’il a volanté de panre,
+laisse-le as oisiaus; et, se il prant, done li
+tant comme il vuet de l’oisel; et se il ne
+prent, done li d’une geline vive une éle et
+la moitié d’une cuisse, et le met en oscur
+leu. En l’autre jor, diéte-le en tel meniere:
+pran I juene poucin, et met une cuisse
+en iaue froide, et le laisse iqui jusques à
+tierce cum tribus purgatoriis, et li done
+la moitié de la cuisse avec les purgatoires,
+et aprés le met en oscur juques à vespres,
+et aprés le tien sor la main juques au premier
+somme, et aprés le met devant une
+lumière ardant par toute la nuit, et, quant
+tu orras matines, arrouse-le de vin. Au
+matin va oiseler. Et-se il prent bien les
+oisiaus tien le tout le jor; et se il ne prant,
+done li l’autre jor fort vin aigre et une
+quisse de petit pucin, cum tribus purgatoriis
+de bombace; et aprés le met en
+PageV01P011
+obscur juques à vespres, et aprés le tien
+sor ta main juque au premier some, et eschaufe
+de l’iaue et le baigne dedanz et le
+met à la clarté juque au matin; aprés l’eschaufe
+au feu et va oiseler. Ices choses
+sont li tonnent des faucons. Et regarde la
+vertu dou faucon, et selonc sa vertu tormante-le.
+# |
+Faucon sont de maintes natures. Dou
+li uns vuet oiseler gras et li autres maigres.
+Tuit faucon sont à panre granz oisiaus;
+et tu par ton sens li doiz faire panre avant
+les granz oisiaus et puis les petiz, ausis
+comme nos avons dit ci-devant. Tuit
+faucon qui ont pennes noires sont d’une
+nature, et tuit cil qui les ont blanches sont
+d’une autre nature.
+# |
+Quant tu viaus conoistre la gentillesce
+dou faucon, resgarde se il a le chief raont
+et le sommet dou chief plain et court bec
+et gros et lonc col et amplas spatulas et
+les pennes des eles soutines et cuisses longues
+et jambes courtes et grosses et les
+PageV01P012
+piez petiz et maigres, saches que il est
+gentis. Ice est la bone conoissance des
+faucons. Toute voie sont bon maint
+lanier.
+# |
+Quant tu voiz les faucons laniers estre
+bons, tu porras plus oiseler avec aus que
+avec les gentis; et doiz garder ses pennes
+que eles ne soient brisiées avec l’iaue
+chaude, et le doiz moult mediciner et li
+doiz donner à mangier avec aloe, de III
+jors en III jors; et garde que il ne siée
+sor fust, mais met le sor vive pierre.
+Garde touz faucons et oistors et espriviers que il
+n’atouchent ne n’aprochent calcinam.
+# |
+Quant tu voiz qui ont les piez anflez et
+les iex, saches que il ont podagram. La
+medicine est tele: pran une once de burre et
+une once d’uile d’olive, et une dragme de
+aloe, et mesle tot ansamble et oi[n]g ses piez
+IIII foiz le jor juque au tiers jor et le met au
+soloil et li done à mangier char de chat, et il
+sera sains. Quant tu voiz les faucons qui boichent
+lor piez et traient a els les penne de
+PageV01P013
+lor éles et de lor coes, sachiez que il
+ont gruffumum. La medicine est tele: que
+tu praignes sa fiante et la fiante de beste
+et aloe et fort vin aigre, igaument de touz,
+et met tout en I bacin d’arein et mesle
+ansamble, et le met au serein par III jors,
+et puis baigne ton faucon, et li done à
+mangier char de colomb avec miel et poivre,
+et le met en occurté, et fai ausis par IX
+jors; et, quant tu li verras bones pennes
+venir de la coe, pran iaue rose et l’en lave,
+et einsis sera sains.
+Quant aucuns vuet norrir petit faucon
+sanz vice, il le doit norrir en tel meniere:
+done li manger carnem ursinam et pecorinam;
+et se il manjue autre char il perdra la
+cuisse ou autre membre. Dou premier
+oisel qu’il prent done li à mangier tant
+comme il vorra juque au tiers oisel.
+Quant tu vues qu’il praigne autre, si le
+contraig ausi comme nos avons dit devant.
+# |
+Quand tu as faucon navré pran le blanc
+PageV01P014
+de l’uef et oile d’olive et mesle ansamble,
+et oig la où il est navrez et le garde d’aigue
+que il n’i touche iqui.
+Quant tu le viaus muer, si le leve de vin
+chaut juque il ait les cros. Se tu voiz que
+il i atouche, si i mesle de l’aloe. Et se il
+est navrez souz l’ele ou souz le piz ou es
+coste ou es la cuisse, mitte ibi stupam crossam
+et tritam bene cum cultello donec in ala
+cum cultello corrodatur. Aprés pran ensens
+et cire igaument et sepum et raxam, et destranpez
+toutes ces choses au feu et coule, et
+ce sera trait. Et, quant tu l’en viaus oindre,
+fait le chaut et oig a une penne juque il
+fait crossam; et se tu i voiz de mauvaise
+char et il n’an est delivrez, pran verde rame
+et le met iqui juque la mauvaise char soit
+arregiée. Aprés pran l’oignement blanc et
+met iqui endroit, et il sera gariz.
+# |
+Quant tu vues icelui tost muer en la
+moitié de fevrier, met le en mue et li done
+à mangier toutes chars juque emmi mars.
+Aprés met devant lui une conche plainne
+PageV01P015
+d’iaue, et li done mangier poulez; et, se tu
+voiz que il n’est muez, pran le recuit dou
+lait avec miel et oig la char et li done se
+il n’est muez: por ce pran la raigne et en
+fai poudre et met sor la char et li done, et
+einsis muera; et garde que tu ne l’oste de la
+mue juque ses pennes soient accomplies.
+Et, quant tu l’ostes de la mue, garde que
+tu ne le teignes à la chalor; aprés le pais
+de char de geline lavée en iaue, et le taignes
+moult sor ta main, et ne va oiseler
+juque à xx jors. Aprés, se tu puez, fai
+li panre I oisel; et, tu qui en ies le
+maistres, selonc ta volanté le mue que il ne
+puet estre mauvais se ce n’est par ta colpe.
+Quant tu voiz que tes faucons prant bien
+les oisiaus, si le tien ades en cele graisse; et
+se tu ne le fais en tel maniere, tu seras
+mauvais maistres; et por ce prannent tuit
+faucon mauvais vice.
+# |
+Li roi Dancus pensa et connut commant
+il poist cuire ses faucons que la goute
+ne les preist. Il fist la premiere cuiçon
+PageV01P016
+souz l’oil larmeus et profite à la vehue.
+L’autre cuiçon ou somet dou chief por la
+dolor dou chief. L’autre cuiçon sor le
+no de l’ele por la goute, l’autre es rains
+por la goute. L’autre cuiçon fai en la
+plante dou pié por la goute; et toutes
+cuiçons sont bones à faire el mois de
+mars.
+# |
+Quant tu voiz marciam corrant par les
+narilles et ne puet mangier, saches que il
+a la fertele. La medicine est tele: poile li
+le chief darrier, et li oi[n]g de graisse ou de
+burre; et aprés quier la vainne qui va as
+iex, et li tranche, et pran une aguille et la
+boute es narilles que ele isse de l’autre
+part; et pran le burre et l’an oig chascun
+jor; et le met en chaut leu jusque à IX
+jors; et einsis sera seins. Quant tu voiz le
+faucon perdre l’ongle dou pié, fai la medicine
+en tel meniere: pran la cartule de coton
+et lampran à la chandoile, et li cuis le doi
+anson dou li ongles chiet. Aprés pran
+miel et l’an oi[n]g, et le lie avec la carte de
+PageV01P017
+coton, et le laisse par VIII jors; et il sera
+sains.
+# |
+Quant tu baignes faucon, garde que tu
+ne le metes sor fust moiste, que il n’ait iqui
+venim de serpent vel de taranta, vel de
+rospo; et, se il avenoit que ces choses mordissent
+le faucon, fai en tel meniere la medicine:
+pran tyriacam et tria grana juniperi
+et li done cum petra asmina et le garde d’aigue
+jusqu’à VIII jors; et prant la raigne, et
+l'ar en I pot de terre, et en fai pourre, et
+puis en porre la char de chat, et li done;
+et il sera seins.
+# |
+Et, se aucune beste mort ton faucon,
+poile-le où la morsure est; et se ele est petite
+si la fai grant à I rasoir; et pran
+burre chaut, et l’oi[n]g iqui endroit; et puis
+fai entrait de encens et raxa et cera et sepo,
+et l’an oi[n]g iluec; et il sera sains.
+# |
+Quant tes faucons est baigniez et il se
+point, male chose est atouchier, car il a
+venimez et anflez les piez: por quoi se
+tu le viaus porter, si aies bon gant, car se
+PageV01P018
+il te pierce la main il te fera grant mal.
+# |
+Quant il est baigniez et tu vias tost oiseler,
+arrouse-le d'iaue et va oiseler: ce est
+parfaite cure des faucons.
+# |
+A autre faucon qui son apelé faucon
+mutart; sont de grant hardement et sont
+moult pervers. Nus hons ne set ices faucons
+garder ausis comme autres faucons,
+se il ne les garde en tel meniere comme
+cist livres dist. Icist faucon ne prennent
+mie petiz oisiaus mais granz, et les covient
+plus faire veillier que autres faucons. Ne
+ne les doiz faire ne trop maigres ne trop
+gras. Et se il sont malade, si les cure en
+tel meniere comme il est dessus dit, ou de
+la passe avec pipion; et aprés empli I pot
+nuef d’iaue et met au feu et la cuis moult;
+et aprés la met en conche d’erains et li
+met devant; et se il boit il sera gariz; et se
+il ne boit, si le medicine des desusdites
+medecines; et einsis les porras avoir sains.
+Et saches bien que il sont li meillor faucon
+qui soient el monde.
+PageV01P019
+Quand tu les viaus contraindre, si les
+contrai[n]gen tel maniere: escorche la geline
+et en fai tria purgatoria et lor done. Et
+se tu les viaus bien sains, si oi[n]g le gant
+cum muscato; et il seront sain. Et si ne les
+laisse pas ester fuer as chans. Et, quant tu
+le viaus giter as oisiaus, giete-le ançois
+que les autres faucons. Et se il faut que il
+ne prant, ne doute pas, car il repairera
+à ta herberge. Icil maistres ne fu mie
+mençongiers, mais voir disans; ices medicines
+sont bones et parfaites et bien esprovées.
+# |
+Guillaumes li fauconniers qui fut norriz
+en la court le roi Rogier, qui puis demora
+moult avec son fil, et ot I maistre
+qui fut bien anseigniez et sages en l’art
+des faucons, et cist Guillaumes sot toutes
+choses que cil savoit, et tant plus que il vost
+faire I livret de cest art et li commencemenz
+est tiex. Ne doutez pas mais sachiez
+certainement que nus tiex n’est el monde.
+PageV01P020
+# |
+Quant tu voiz que il a surcinum mumiam,
+done li char de porcel et l’autre jor
+done char de chat; et le tien jusque il soit
+einsis delivrez.
+# |
+Quant il a malum agrum, si pran une
+aguille d’acier et la chaufe au feu et li
+cui l’oil larmeus et darrier le chief; et
+aprés l’oi[n]g de sain de chat, et li done la
+char de chat avec encens juque à IX jors;
+et il sera sains.
+# |
+Quant il a malum prisicum, accipe muscatum
+et autant de grains de froment et le
+bat en mortier de pierre, et li met es
+oroilles, et met avec vin aigre; et li done
+carnem caprinam ablutam en medicine; et
+il sera sanez.
+# |
+Quant il a goute arcetique, si le cui enson
+le chief et le cui en la jointure dou
+pié d’une aguille d’acier, et li done à
+mangier arondelle cum cimino trito jusque
+au tiers jor; et il sera sanez.
+# |
+Quant il a la goute en la gorge, pran
+la coste dou porcel salé sanz char, et le
+PageV01P021
+met en miel bouli, et li done, et l’autre jor
+done li coulon dur; et il sera sanez.
+# |
+Quant il a la goute mortel es rains,
+pran mumiam et victi coracem, et li done
+mangier, et l’autre jor done li grasse geline;
+et il sera sanez.
+# |
+Quant il a sileram, pran herbarstrcllum
+et l'ar et en fai poudre, et en poudre la
+char lacerti, et li done juque à tiers jor, et
+aprés li done char d’ours juque il soit gras;
+et lors sera sanez.
+# |
+Quant il a la goute granffe, si li cui la
+plante dou pié d’une aguille d’arain; et il
+garra.
+# |
+Quant il a fievre, si pran muscatum et
+mesle avec graisse de geline, et li en oi[n]g
+les piez; et il garra.
+# |
+Quant il a la pierre in magone, pran la
+passe et l’oi[n]g de miel, et li done à mangier;
+et il garra.
+# |
+Quant il a la pierre ou fondement,
+pran la cornaille et li giete as piez, et li
+laisse mangier par III jors; et il sera sains.
+# |
+PageV01P022
+Quant il a lumbricos, bat la mante et
+pran le jus et le mesle avec vin aigre, et
+met la char de poule en cele medecine et
+li done mangier; et il garra.
+# |
+Quant il a la tine, pierce le cuir où la
+tine est à une aguille, et tu troveras soie
+samblable de cheval, et la trai hors, et
+garde qu’elle ne soit rompue; et puis
+oing iqui endroit de aloe, et garde qu’il
+n’i atouche de son bec, et le leve d’aigue
+rose tout se tu puez; et se tu ne puez, se
+li lave le mal; et il sanera.
+# |
+Quant il a anfondeure, pran vin chaut
+avec poivre broié et li met en la gorge
+et li fai tenir donec digerit; et il sanera.
+# |
+Quant il a podagre, si le cui en la plante
+dou pié de carte de coton et le met sor vive
+pierre, et oi[n]g la pierçe de viez oingt,
+et li done sucre; et il garra.
+# |
+Quant il a griffum, pran la fiante de la
+soriz et l’escorce de la racine d’orme et la
+fai boulir en iaue jusque l’iaue soit rouge,
+et destrampe le fiens de la soriz de cele
+PageV01P023
+iaue, et l’an leve par III jors, aprés pran
+vin blanc et sain et l’an leve par III jors;
+et il garra.
+# |
+Quant tu le viaus faire hardi, ne le porte
+pas par les rues ne par la cité, ainçois le
+tien en leu secré, et vers le soir le porte
+po sor ta main; et einsis sera hardiz; et ne
+li done mie espurgement de oie, mais de
+grue vel stardo vel achirone. De ces III li
+done la diéte, la quele tu fais de coton et
+ne li done mie chascun jor vin aigre mais
+que por l’orgoil qui art le polmon et le
+foie. Se il a orgoil, tu li en donras el mois
+juque il soit humiliez; et c’est bone diéte
+de toutes natures de faucons que nos avons
+desus dit.
+# |
+S’aucuns maistres dit que il ne prennent
+oisiaus, il ment et dit faus et ne set que il
+dit; et s’aucuns vuet que il preignent oisiaus,
+face la diéte qui est desus dite; et il
+pranront bien et seront bon et parfait. Del
+norrissement est bon ce que nos avons dit,
+toutevoie tu li puez doner char de colons
+PageV01P024
+et d'asne; et c’est bons norrissemenz.
+# |
+Quant tu le vues tost muez, chasque jor
+met li devant lui iaue; et einsis sera tost
+muez. Et li done soriz; et einsis sera mieus
+muez. Et si ne le baigne pas, mais que de
+III jors en III jors; et se tu les baignes,
+il s’anorguillissent et s’anfuient. Nus
+maistres ne seit tant de nature de faucons
+que il sache d’où il sont et d’où il issirent
+ausis com cil maistres Guillaumes qui plus
+en set que tuit autre home.
+# |
+Li faucons qui premiers apparurent au
+monde, il les quonnut. Il vindrent en Babiloine,
+en la montainne de Gilboe. Denqui
+vindrent en Esclavonie ad Palunudum
+qui est in pertincncia Policastri. Li faucon
+de Palinudi et li esprivier de Bruca et li
+oistor d’Esclavonie, icist sont tuit lo
+meillor dou monde. Li faucon blanc et rouge
+eissirent des noirs; et li faucons maasles
+des noirs fu mors, et la femele demora; et
+quant ele estoit en amor, uns oisiaus li
+apparut qui estoit diz bucalins, et la tint;
+PageV01P025
+et d’els issirent cil faucon qui ont les pennes
+blanches et sont ausis comme anoultre:
+et por ce sont einsis hardi; et cist faucon
+sont adés bon se par aucune colpe ne
+vient. Li autre faucon qui sont rouge issirent
+einsis des premiers noirs en tel meniere
+que la noire perdi son mari et s’acompaigna
+à labarello et ot compaignie à
+lui, et en sont né li rouge; et cil sont moult
+hardi, mais il sont de trop grant travail: si
+les contrain en tel meniere: done li tria
+purgatoria dou cuir de geline en iaue, et le
+met en oscur, et le laisse ester jusque à
+l’aube dou jor; et puis le chaufe au feu et
+va oiseler; et adés le tien plus maigre que
+les autres faucons.
+# |
+Le faucon noir tenras en tel meniere: ne
+trop maigre ne trop gras; et le constrain
+de purgatoires de geline et ne le met pas
+en iaue se il n’est orguilleus; et se il est
+orgueilleus, met les purgatoires en l’iaue,
+et le tien plus en ta main que autres faucons;
+et garde que il ne voie anguile, car
+PageV01P026
+aprés ne vorroit panre oisel; et garde tant
+com tu puez que nule chose n’atouche à
+ses pennes quant tu le gietes as oisiaus; et
+garde que tu ne maignes mauvaisement ta
+main, car il perdrait la volanté de panre
+se tu le gitoies mal: ice est la meillor
+conoissance à touz qui soit el monde.
+# |
+Blanc faucon sont bon; et toutevoie
+quant il sont sor, ne les porte pas oiseler
+juque il seront mué; et aprés la muance
+sont parfait.
+# |
+Tuit maistre dient que faucons qui prant
+achirorem pert la volonté de panre. Mais
+maistre Guillaumes fait içaus fauçaires et
+mançongiers en tel meniere que se il prant
+achirorem, si en manjuce tant comme il
+voudra, mais que il ne manjuce le sanc:
+car la chars que il manjue li fait panre les
+grues, ne n’an pert pas la volonté, mais
+por le sanc tant seulement: et ce esprova
+maistres Guillaumes qui plus en savoit que
+nus qui vive.
+# |
+Quant tu vues faire les laniers faucons
+PageV01P027
+gruiers, si met en une volte souz terre IIII
+faucons laniers que il ne voient clarté, mais
+que lorsqu’il les esbat sor sa main; par
+nuit et devant le jor va oiseler; et quant li
+jors est nez, anvoie-les à une grue longue.
+En icelui vas en vain as oisiaus. Done lor
+seulement la cervele de la geline, et la baigne
+en vin pur. Et fait dou feu en cele fosse
+où il demourent; et quant ele sera chaude
+si en oste le feu et les met iquilueques; et
+einsis sanz doute seront gruier de la moitié
+de joingnet juque à la moitié d’octobre.
+Et si tu les mues, ils seront meillor aprés la
+mue; et quant li froiz venra, si les laisse
+que il ne valent riens: et ce est esprové.
+# |
+Quiconques maistres vuet oiseler si ne
+voise pas moult as oes, se ce n’est par
+necessité: car il sont plus d’oes que d’autres
+oisiaus; et por ce va il as oes quant tu le
+gietes as autres oisiaus; toutevoie est bone
+chose de giter as oes, car eles les font hardiz;
+et si oisele po que tuit grant oisel le
+lassent moult.
+PageV01P028
+# |
+D’autre nature sont faucon et sont apelé
+esmerillon et sont petit et bon et parfet, et
+prannent touz oisiaus quelconques. Li esprivier
+prannent et plus volent que autre oisel.
+# |
+Li maistres qui viaut oiseler ices faucons,
+il covient que il les face oiseler dedanz
+VIII jors: car aprés sont corrompu et ne
+valent riens; mais toutevoie li bons maistres
+lor puet faire panre grues par tele
+diéte et par tele devision com'li autre faucon;
+et se tu lor vues faire panre grues il
+covient avoir xii esmerillons.
+# |
+Et quant vos verrez que vostre oisel
+seront pouilleus, c’est à dire plain de pous, si
+prenez demie livre ou plus, selonc ce que
+li oisiaus est grans, de straphisare, et la
+batez et metez en une paele plainne d’iaue
+et la faites boulir; et quant ele sera refroidiée
+si lavez l’oisel; si morront li poouil.
+# |
+Quant vostre oisel brisent aucuns de lor
+ongles ou arrachent par aventure, si prenez
+dates et li liez desus le mal à I po de cendal
+PageV01P029
+en tel meniere qu’il ne puisse cheoir;
+si li adoucira li piez, et li ongles li revenra
+tost. Et quant tu vues tost faire muer I
+faucon, si pran I grant serpent, et le cuis
+en une paële où il ait grant planté de iaue,
+et le cuis si bien que toute la char li chiée
+des os; et puis si prant dou fromant dou
+meillor que tu porras avoir, et le cuis en
+l’iaue où li serpens sera cuiz, et pran II
+gelines ou III bien granz, et les metez en
+une jaole et lor donez a mangier de cel
+blef; et eles plumeront toutes et demorront
+toutes nues por le venin qui sera ou blef
+qu’eles auront mangié. Puis prenez de ces
+gelines et en donnez a mangier à voz faucons;
+et il mueront tantost et gîteront hors
+lor pennes et revanront bones et grans.
+§ Explicit, etc. de falconibus.
