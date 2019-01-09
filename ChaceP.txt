@@ -1,4 +1,4 @@
-﻿#META#  TextURI          :: ChaceP
+#META#  TextURI          :: ChaceP
 #META#  DEAF
 #META#  TL
 #META#  FEW
@@ -611,4 +611,4 @@ Et pri qu’il i vuelleut entendre,
 Car l'en y puet moult de bien prendre.
 Nuns ne les aime qui n’en soit
 Mieudres, se il fet ce qu’il doit.
-Explicit la chasce dou cer.
+§ Explicit la chasce dou cer.
