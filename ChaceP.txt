@@ -1,0 +1,614 @@
+﻿#META#  TextURI          :: ChaceP
+#META#  DEAF
+#META#  TL
+#META#  FEW
+#META#  ARLIMA           :: https://www.arlima.net/ad/chace_dou_cerf.html
+#META#  Author
+#META#  AuthorBorn
+#META#	AuthorBornAmb
+#META#  AuthorDied
+#META#	AuthorDiedAmb
+#META#	AuthorFl1
+#META#	AuthorFl2
+#META#  TextTitle        :: La Chace dou Serf
+#META#  TextSubtitle
+#META#  TextVols
+#META#  TextSubj         :: chasse
+#META#	TextDom          :: didactique
+#META#	Translation      :: false
+#META#	Collection
+#META#	CollectionNo
+#META#  TextDescARL      :: 324 vers octosyllabiques à rimes plates
+#META#  TextDescVers
+#META#  TextDateARL      :: Milieu du XIIIe siècle
+#META#  TextDateAdj      :: m13
+#META#	TextDateMin
+#META#	TextDateMax
+#META#  EdEditor         :: Pichon, Jérôme (?)
+#META#  EdPlace          :: Paris
+#META#  EdPublisher      :: Lacrampe
+#META#  EdVol
+#META#  EdYear           :: 1840
+#META#  EdPages
+#META#  MsBase
+#META#  MsNum            :: 5
+#META#	MsDateARL
+#META#	MsDateAdj
+#META#	Form             :: v
+#META#	Complete         :: true
+#META#	NoWords          :: 3054
+#META#	NoLines          :: 324
+#META#	DialAuth
+#META#	DialScribe
+#META#  ScanURL          :: https://gallica.bnf.fr/ark:/12148/bpt6k6344042m
+#META#  ScanURIOther
+#META#  ArkID            :: ark:/12148/bpt6k6344042m
+#META#  LccnID
+#META#  OclcID
+#META#  WebAuthor        :: David Joseph Wrisley
+#META#  ORCIDWebAuthor   :: orcid.org/0000-0002-0355-1487
+#META#  WebReviewer      ::
+#META#  ORCIDReviewer    ::
+#META#  MiscInfo
+#META#  CCLicense        :: CC BY-NC-SA 4.0 International
+
+PageV01P011
+§ LA CHACE DOU CER
+Si sont aucun qui s’antremettent
+De rimer, et grant peine i mettent:
+Li un le font pour miex valoir,
+Et li autre pour miex avoir.
+D'amors se mellent li auquant:
+Maint revont au tournoiement
+Chevalier pour aus avancier:
+L’uns vuet trere, l’autre lancier.
+En plusors choses se deduit.
+Loiaus cuers, sa foiz le conduit.
+Tex i a qui aiment faucons
+Espriviers et esmerillons,
+Mes tex les porte sor son poing
+Qui au cuer en a pou de soing.
+Cil qui de deduit s’entremet
+Se il n’aime t ce que il i met
+Puet pou profitier et valoir.
+S’il estoit quil vousist savoir
+D’un deduit qui les autres passe,
+(Qui bien aprent petit se lasse)
+PageV01P012
+Je vous vuel bien faire a entendre.
+Nuns n'enpire de bien apendre.
+Li deduiz est si souverains,
+Qui n’est rois, ne cuens, ne Gaavains,
+Sil estoit vis et bien l’amoit
+Qui plus honorez n’en seroit
+De tous ciaus qui s'i entendoient.
+# |
+Biau sire se tuit le servoient
+Vaudroit-il mains quil ne fet ore?
+# |
+Certes ains vaudroit miex encore,
+Biaus dous amis, bien le sachiez.
+# |
+Dont vous pri-je que vous voilliez
+Dire devant touz quex il est.
+# |
+Certes, biaux douz amis, ce est
+Deduiz qu’on a de chiens courans.
+# |
+Sire, moult seroie joians
+S’il vous plesoit à deviser
+Comment il en convient ouvrer.
+Moult volantierz l’escouteroie
+Se vous voliez assantir
+A moi dire a coi ils courront,
+Et comment il cognoisteront
+Quel beste je vourai chascier.
+PageV01P013
+Je vous au auroie plus chier
+Et vous au voudroie servir.
+# |
+Et je n’en quier jà mentir,
+Car j’en sai bien la vérité.
+Quand il auront l’iver esté
+Au sangler, si les an retrai
+Devant karesme, et si les lai
+Bien sejorner et aasier.
+Et se tu trueves biau chacier
+Enz el karesme, et sec, et dur,
+Au lièvre, par aucun éur,
+Si gart que ni soit refusez,
+Car il en auront millors nez,
+Et l'alaine eu amenderont.
+Et quant li arbre floriront,
+Que li prins tens aprochera,
+Lors pren tes chiens, et si t’en va
+Là où tu quideras trouver
+Miex le cerf, pour aus encharner
+Et lor aie, a ton pooir,
+Du cerf a prendre et a avoir
+Et la cuiriée lor en fai
+Mengier. Ancor je te dirai
+Comment il te convient ouvrer.
+Il te convient querre et trouver
+Un lieu à corre bien séant
+Sanz change, et mettre un peine grant
+Que tu i puisses assener;
+Et puis fai tes chéaus mener
+PageV01P014
+La où tu cuides, par avis,
+Que li cerf doie estre honniz,
+Et puis trai de ten liemier,
+Et fai tes millors chiens chacier
+A force, car il est resons.
+Et sés tu que nous te disons,
+Que se tu pues que tuit ti chien
+Soient au prendre, a ce te tien.
+Se tu vues aprendre et savoir
+Dou cerf a conoistre et véoir,
+Si entens bien: quant les fumées
+Ne seront ancor pas formées
+Par le pié bien cognoisteras
+À quel cerf corre tu devras:
+Grosse esponde et large talon.
+Ce ne doit refuser nuns hom:
+Sil a gros et larges les os,
+Se tu t’en pars tu seras fos.
+Mais je te vuel faire savoir
+S'a dont pues jone cerf avoir,
+Que tu le chasces j'el te di,
+Car de l’iver sont afoibli
+Li jone plus que vielle assez:
+Et sitost comme pris aurez
+Quatre cers contre la seson,
+C'ert assez pour afaitoison.
+Et puis à ton seigneur si mande
+Que sa volanté te commande,
+Et le leu te fasce savoir
+Ou il voudra deduit avoir
+PageV01P015
+Des chiens que tu as afaitiez
+S’ensi fetes, bien le sachiez,
+Por bon vénéour vous tendra.
+# |
+Biau sire, quant il avendra
+Que mes sires m’aura mandé,
+Et aurai fait ce qu'il commandé
+M’a, nez apaié se tendra,
+Et lors primes commencera
+Li tans qu’on claime cervoisons:
+Apris m’avez d’afaitoisons,
+Or vous pri-je, se vous volés,
+Et il vous plest, que m’aprenés
+Com faitement ovrer gie doi,
+Eu la saison. De ce vous proi,
+Car grant talant ai de l’oïr:
+Don ne puet il mie faillir
+Que vous n’en sachiez par reson.
+# |
+Quant ce venra en la seson
+Que vo sires voura chacier,
+De tant vous vuel bien chastier
+Que ne soiez pas pereceus,
+Mes de matin lever soigneuz.
+Et si prenez un liemier,	.
+Car il vous aura bien mestier,
+Et entor le fort le traiés:
+Car li cers, seurs en soies.
+Se relieve et va ramboscher
+Pour ce, devez querre et tracier
+PageV01P016
+Entor le fort, pour ancontrer.
+Et si vous devez bien garder
+De quele beste ce sera
+Que voz chiens renconterra,
+Car bien s'i convient aviser.
+# |
+Sire je i pouroie muser
+Longuement, ainz que j’el séusse
+Ne que cognoistre m’i péusse,
+Se vous ne me dites comment.
+# |
+Frere je t’ai apris avant
+Dou pié, et parce le sauras:
+Et saches que il ne doit pas
+Longuement aler qu’on n’el truit
+Des fumées qui point ni nuit
+A conoistre, ansois i vaut moult
+Car par ce s'i cognoissent tuit
+Cil qui s’entendent a deduit:
+Mes tex en demaine grand bruit,
+Sachiez que petit s'i conoist.
+# |
+Or vous pri-je, se ne vous poist,
+Que me dites que je ferai
+Quant les fumées trouverai,
+Car je ne sai pas tot encor.
+# |
+Tu les metras dedans ton cor,
+Et de l’erbe l’estouperas:
+Et puis jusques au fort sieuras,
+Car là ne se puet il celer,
+PageV01P017
+Et il convient le bos porter
+As cornes qui ont grand refrait.
+Et quant tu auras tout ce fait,
+Et tu auras le bos trouvé
+Qu il aura brisié et porté
+L’un sur l'autre, si t’en retrai,
+Et sagement tes fretes fai,
+Si que tu puisses rassener.
+Et puis si t'en dois retorner
+A ton seignour. Tu dois savoir
+Ou tu li auras, dit le soir,
+Qu’il viegne et que li chien seront;
+Et si te convendra adont
+Fere brisiés au raler,
+Si que tu puisses racener
+Et mener ton seignor tot droit,
+Car tot issi faire le doit
+Li venerres, bien l’entendez:
+Et quant à lui venus serez
+Si li monterrez les fumées
+Que vous aurés aportées;
+Et s’il avient qu'il vous demant
+Que vous li faites jugement,
+Et dites li quex valent miex;
+Bien devez estre si souciex
+Que par vous li soient loueez
+Grosses et fermes et serréez.
+Et celes en torches pesans
+Ne refusent nul cognoissant.
+Et se le jone cerf avez
+PageV01P018
+Bien est reson que vous monstrez
+Les fumées qui vaines sont.
+Et puis si vous dira adont
+Vostre sire sa volanté.
+Mais je vous di, par vérité,
+Que li viex vaut miex en cel tens
+Porcequ'il est gras et pesans,
+Et à chacier c’est or tot cler.
+Se tu vois ton seignor monter
+Sur son cheval, si monte errant
+Sanz faire nul delaiement;
+Et puis si pren ton liemier,
+Car tu ne le dois pas laissier,
+Et t'en reva par tes brisiés
+Aus fretes que tu as lessiés.
+Et quant tu seras aprochiés
+Del leu ou li cers est embochiez,
+Fai tenir ton chien et descent.
+Et puis si sui tot belement
+Et, se tes sires vuet aler
+Avec toi, pour veoir trouver,
+Si met paine que il en ait
+Veu ansi comme tu as fait,
+Car li deduis l'en plera miex.
+Et si ne soiez mie eschiex
+De lui monstrer ce que tu vois,
+Mes soffle en terre et quier as dois
+Là ou tu vois que marchié a
+Pour descouvrir, miex en parra
+Et li esponde et li talons
+PageV01P019
+Et li os: pour ce le jugons.
+Et des fumées autresi
+Dois tu bien trouver, ce te di.
+Et puis iuppe ou corne un lonc mot:
+Chaucuns en a joie qui l'ot,
+Nes li chien joie en auront,
+Et li vallet les amenront
+Plus près, pour ce qu’auras iuppé.
+Et lors doivent estre escrié
+Pour ce que il ne fascent mal
+Et quil se tignent en estal
+De faire noise, au mains qu’on puet,
+Car tot issi faire l’estuet.
+Et quant tu aparcevras
+Au liemier que tu manras
+Quil ert de plus grand volanté
+De sieure que il n’a esté,
+Et, par les fuies, que il ront
+Assez la terre plus parfont,
+Et le pié verrez; ce sachiez,
+Et par le lit vous cognoissiez,
+Ausi, c’est ce qui moult i vaut;
+Mes de mon parler ne me chaut:
+Passe le lit, tant que drecié
+L'aiez; et puis fai qu’atachié
+Aiez ton chien a un rainsel
+Et puis, si corneras apel:
+Trois lons mos pour tes chiens avoir;
+Et lors vandront a lor pooirz
+Puis met la main au descoupler
+PageV01P020
+Et lesse les millors aler
+Avant, et çaus que miex crevas
+Et puis tantost si monteras.	.
+Biau parole au chiens, ce te di,
+Tant qu’il l’aient bien acoilli:
+Et puis pence de bien chacier
+Du cor, car il i a mestier,
+Et tes trois menées feras
+Trestot au mieus que tu porras;
+Parole a aus, et si met paine,
+Haut et clerc, à longue alaine,
+Et sui tost, et inellement,
+Tes chiens, et viguereusement:
+Ne redoute ne mont, ne val,
+Ne fort bois qui te fasce mal;
+Que en cheval soiez cornans,
+Et sieu la menée touz tens,
+El chasce, et corne cler et haut,
+Que retantisse li bos haut,
+Et les valées en bondissent,
+Car li chien moult s’en esbaudissent.
+Et des rainsiaus brise en courant
+Qu’en la menée vas gitant,
+Et aus voies passer ausi.
+Qui refuit volantiers sur li
+S'ariere retorner te dots
+Toute la menée; c’est drois.
+A la requeste deux menées
+Doivent estre par toi cornées.
+A l'estortoire dois monstrer
+PageV01P021
+As chiens que véu as passer
+Le cerf, plus joli en seront:
+Et fiert ta huese et bat et ront
+Se tu os c’uns chien le destorne
+De ceus a qui tes cuers s’atorne
+Et que tu crois, si hue sus
+Les autres chiens, tant com pues plus;
+Et les fai chacier et si chasce
+De cor, de bouche; et se il passe
+El leu ou de toi soit véuz
+Quatre lons mos et chasse sus
+Dois corner: et cil qui l'oiront
+Treront à toi et amenront
+Les chiens a trestot lor pooir,
+Et joie auront: sachés de voir.
+Et puis quant il seront passé
+Si corne com’ j’ai devisé.
+Et sieu tot adès la menée:
+Et gaite bien que obliée
+Ni soit ne brisiée ne fraite.
+Et s’il t’a autre ruse faite
+Si fai si com’ de la premiere,
+Tele en doit estre la meniere
+Comme j’ai devant ensaignié.
+Se tu chasses de souz-loignié
+Onques pour ce ne t’esbaubis
+Ne à tes chiens ne fai jà pis,
+Ne ne coite plus, mes soigneus
+Soies de biau parler a eus.
+Il fera chaut et sec et dur;
+PageV01P022
+Et li cers n'iert mie asséur
+S’il sieut le descouvert: si dois
+Trere au couvert, car il est drois:
+Li chien miex en asentiront.
+S’il fuit à l'iaue, trei au mont
+Et aval, il ne puet faillir
+Quil ne truissent à assentir.
+Si tret à flache, ou à vivier,
+Ou à marchais, ne dois lessier
+A trere. Ancor a ce t’atorne,
+Se tu oz c’uns chiens le destorne,
+À ciaus qui ne l’auront oï
+Dois parler, ce saches de fi,
+Et lor dois dire assez, non po,
+Ta ta ta ta ta ho ta ho
+Et si tost que sui aura
+Tant que plus fuir ne pora
+Et qu’il se fera abaier,
+Quatre lons mos et sus chacier
+Dois corner, ce saches de voir,
+Pour chiens et pour vallès avoir,
+Car, s'il le truevent en estant,
+Il en seront tuit plus joiant;
+Et li cheal l’abaieront
+Et, par droit, en amenderont.
+Lors li dois les jarrès couper;
+Ainsi en vaudroie je ouvrer,
+Se je m’en melloie, sachiez.
+Le cerf jut par les chiens sachiez:
+Et, quant abatu le verriez,
+PageV01P023
+D’un coutelet l'esmouelez
+Entre les cornes et le col.
+Et de tant t’apren et escol
+Que lors dois tu prise corner:
+Et puis dois mener abuvrer
+Les chiens qui en auront mestier.
+Et ce te vuel bien accointier
+Qu’a vallès fasses retorner
+Ton cerf, puis le fai encorner;
+Et lors dois sachier ton coutel,
+Les coulles lieve bien et bel:
+Puis va a la teste, or entent,
+Et de louc en louc le porfent,
+Et puis si le dois escorchier,
+Les neus n’i dois mie laissier,
+Et s'il avenoit que aucuns
+Passast deseure, c’est communs
+Que il doit la buffe avoir
+Sans pardon, ce sachiez pour voir:
+Et les espaules autresi
+Dois lever après, ce te di;
+La souz gorge après en levez,
+L’erbière et le josier coupez,
+Et l’erbière devez nouer,
+Ce vous vuel aprendre et loer,
+Puis lieve la hampe en sivant,
+Le foie de la pause prent,
+S’el baille a tel qui n’oblist mie
+Que il ni lasce la folie,
+Et puis en sache fors la pance
+PageV01P024
+Et commande, sans délaiance,
+Aus vallès que la mule en ostent
+Et avec les daintiez l’emportent.
+Met la bouele sus la teste
+Car li chien eu feront grant feste,
+Et puis en oste la froissure
+Mais garde, par nulle avanture,
+Que le jardel n’i obliez:
+Es daintiez mettre le devez.
+Puis l’en doit le nomble lever,
+Les cuisses n’i dois oublier,
+De l’eschine deux neus i ait,
+La queue plus bele s’en fait:
+Et puis en lieve les costés,
+L’eschine mie n'i obliés,
+La queue dois, à ton pooir,
+Bele lever: ce dois savoir.
+N’oublie pas à enciser
+Les jointes devant et derrier:
+L’os corbin mie n’obliés,
+Haut sur un aubre le metez;
+Et le cuer donnez aus mesiaus
+Car ce doit estre lor joiaus.
+L’os dou cuer n’obliez vous pas,
+A dame encainte le donras.
+# |
+Lors dois ta venoison trousser:
+La teste et le col acopler
+Emsamble, pour voir le te di:
+PageV01P025
+Et les deux espaules ausi
+Emsamble, et puis les deux costéz
+Sus un autre cheval troussez.
+La hampe et la queue sera
+Ensemble, bien i avenra;
+Et les deux hausses d’autre part.
+# |
+Lors dois haster, se il est tart,
+De faire erra ment la cuirié.
+Puis le cuevre tant que chergié
+Soit la venoison et trossée.
+Puis soit la bouele ostée
+En sus, car il en est mestier,
+Et deslie les levriers.
+Fai chascun une verge prendre
+Pour les chiens de hustin deffendre
+Et les fait touz mangier emsamble,
+Et, ausi tost que il te samble
+Que il auront mangié assez,
+Si soies moult bien avisez:
+A celi qui tient ta bouele
+Dois-tu crier: apele: apele.
+Le cuir trouse derriere toi.
+N’est pas mervoille se t’as soi:
+Se li vins si est en barils
+Bien est resons qu'il soit béus,
+Et, si tost que béu aurez,
+Dessus les chevax monterez
+Et lors devez prise corner,
+Ce n'i doit on mie oblier.
+PageV01P026
+Et, quant de l'ostel seroiz près,
+Si soiez de corner engrés
+Deux menées; cil qui t'oïront
+Et lie et joiant en seront.
+# |
+Mes je te vuel faire asavoir
+Quex drois tu doiz dou cerf avoir
+Li cuirs est tiens et li nomblès
+Et les espaules. Li vallet
+En ont le col; c'est lor droiture:
+Mais tu dois savoir, par nature,
+Que cil droit te furent lessié
+Pour ce qu’il fussent emploié
+Cortoisement et départi:
+Que garde n’avigne par ti
+Que nuns hom t'en puist à blamer
+Par la defaute d’en donner.
+# |
+Or t'ai a pris et ansaignié:
+Se le retienz, à emploié
+Tieng bien le travail que j’ai fait.
+# |
+Sire vous m’avez tant retrait
+De biens que touz jors en serai
+Vostres, et servir vous vourai
+A mon pooir, bien le sachiez.
+Mais je vous pri que me diiés
+Se je doi tot adès ouvrer
+PageV01P027
+Ensi, pour dou cerf encontrer;
+Que deviser oï vous ai.
+# |
+Biaus doux amis je vous dirai:
+Si tost com vous aurez trouvées
+Les menieres dont les fumées
+Seront changiez, c’est tot voirz,
+Lors iront les cers as fréoirz.
+Et si ert pres de la Magdelaine,
+Sachiez que c’est chose certaine.
+Par le pié et au bois porter
+Ti dois tu, touz tans, raviser,
+Et au froier cognoisteras
+Dou cerf, quant tu le trouveras:
+Car au plus gros froïr se froie
+Et avient plus haut, c’est la vraie
+Lors dois t’estortoire peler,
+Et plus matin t’estuet lever.
+Et t’an dois aler as clarriaus
+Et as landes, soies iniaus.
+Veir muser i devras
+Et as faus en conoisteras
+Et as solas, car sa pianiere
+Est de burnir a charbonnière.
+Dou liemier drecier le dois,
+Saches que c’est resons et droiz.
+Que ainsi com j’ai dit devant
+Il affiert et c'est avenant.
+Et dont venront chien et vallet:
+Au descoupler grant paine met
+PageV01P028
+Et les cueure inellement
+Et tost et viguereusement
+Et chasce en autel meniere
+Com je t’ai dit par ça darriere.
+# |
+Quant li cers as bices aront
+Alé, bien s’en apercevront
+Li millor chien et li plus haut
+Chacier ne vauront, ce ne faut,
+Ainz compisseront la menée;
+Sachiez que c’est chose provée,
+Dusqu'atant que à chaiffe sera;
+Et lors chaucuns le chacera
+Mes les jones le chaceront
+Et plus volantierz i courront
+Se tu pars les chiens; or entent:
+Une menée seulement
+Dois chacier en toutes saisons:
+C'est véritez nous te disons.
+Fai tes vallès des ars porter,
+Car nuns ne doit le cerf tuer
+D’espée, puisqu'il est froiez:
+De loing vous lo que le traiez.
+Tot adès quant vous chacerez
+Fraites et brisiées lairez
+Ansi que je vous ai apris:
+Assez tost est li tans failliz
+Que on ne devra plus chacier
+Le cerf: ce te vuel acointier.
+PageV01P029
+Or retien bien ce que dit t’ai
+Et saches bien que eslit ai
+Les paroles à mon pooir
+Qui au deduit doivent valoir;
+Mes jà, pour ce, nou laisseras
+A demander, quant tu verras
+Home qui te puist ensaignier:
+De li te lo à acointier
+Pour ce que l'en oies parler.
+Touz gentil homes vuel loer
+Et pri qu’il i vuelleut entendre,
+Car l'en y puet moult de bien prendre.
+Nuns ne les aime qui n’en soit
+Mieudres, se il fet ce qu’il doit.
+Explicit la chasce dou cer.
