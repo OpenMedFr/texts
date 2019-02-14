@@ -2,8 +2,8 @@
 #META#  DEAF             :: http://www.deaf-page.de/bibl/bib99m.php#MeraugisF
 #META#  TL               :: 
 #META#  FEW        	
-#META#  ARLIMA           :: https://www.arlima.net/qt/raoul_de_houdenc.html
-#META#  Author           :: 
+#META#  ARLIMA           :: https://www.arlima.net/qt/raoul_de_houdenc.htmll#mer
+#META#  Author           :: Raoul de Houdenc
 #META#  AuthorBorn        
 #META#	AuthorBornAmb	  
 #META#  AuthorDied      
