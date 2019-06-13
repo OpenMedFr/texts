@@ -58,6 +58,7 @@
 #META#  CCLicense        :: CC BY-NC-SA 4.0 International
 
 
+*** START
 PageV01P001
 Folio1r
 CLÉOMADÈS
@@ -20599,3 +20600,4 @@ Si m'ait Diex, je le vorroie.
 Ainsi soit il que je l'ai dit. 
 Amen, amen, et explicit. 
 EXPLICIT LI ROUMANS DE CLÉOMADÈS
+*** END
