@@ -53,6 +53,8 @@
 #META#  MiscInfo        
 #META#  CCLicense       :: CC BY-NC-SA 4.0 International
 
+
+*** START
 Folio30a
 PageV01P169
 §Ici commence le prologue en la vie saint Alexi.
@@ -1069,3 +1071,4 @@ Que nos ovec saint Alexi
 Puisson estre par sa preiére
 En vie et en joie planiére.
 Amen.
+*** END
