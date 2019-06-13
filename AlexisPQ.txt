@@ -54,6 +54,7 @@
 #META#  CCLicense       :: CC BY-NC-SA 4.0 International
 
 
+*** START
 PageV01P346
 §CY COMMENCE LA VIE SAINT ALEXIS.
 Ens en l’onneur de Dieu le pére tout puissant,
@@ -883,3 +884,4 @@ Que tes ouvrez fachon en ceste mortel vie
 Que quant l’ame sera de nos cors departie
 Avoir puissions dez angrez la saincte compaignie.
 Amen.
+*** END
