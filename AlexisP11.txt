@@ -54,6 +54,7 @@
 #META#  CCLicense       :: CC BY-NC-SA 4.0 International 
 
 
+*** START
 PageV01P139
 Bons fut li siecles al tens ancienor,
 Quer feit i ert e justise et amor,
@@ -712,3 +713,4 @@ En icest siecle nos achat pais e goie,
 Et en cel altre la plus durable glorie
 En ipse verbe. Si’n dimes Pater noster.
 Amen!
+*** END
