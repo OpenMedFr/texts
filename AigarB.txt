@@ -54,6 +54,7 @@
 #META#	CCLicense		    :: CC BY-NC-SA 4.0 International
 
 
+*** START
 # |
 Ke d'un estais en ac dos abatus.
 Point Fortunet e venc los sais menus.
@@ -1484,3 +1485,4 @@ Ancui seres vencus e vergoignos.
 Mal o fet viels qui creit conseil de tos,
 De grant riceses n'esdevenc sofraitos.
 Ki les lor vei venir pausas e pros
+*** END
