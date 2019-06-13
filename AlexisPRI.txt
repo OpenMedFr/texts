@@ -54,6 +54,7 @@
 #META#  CCLicense       :: CC BY-NC-SA 4.0 International
 
 
+*** START
 PageV01P222
 C’EST LI ROUMANS DE SAINT ALESSIN.
 # |
@@ -1591,3 +1592,4 @@ Par cel saint home devoumes ralumer.
 # |
 Tenons, signour, cel saint home en memoire,
 Çou li prions de tous mals nous asoille.
+*** END
