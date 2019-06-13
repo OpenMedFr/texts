@@ -54,6 +54,7 @@
 #META#  CCLicense       :: CC BY-NC-SA 4.0 International
 
 
+*** START
 §LI VIE SAINT ALESIN ET COMMENT IL MORUT.
 PageV01P279
 # |
@@ -1487,3 +1488,4 @@ Et le siue arme meche en saint paradis;
 Aussi les nostres et de tos nos amis,
 Par le proiiére le boin saint Alexis.
 §Chi define li romans de saint Alesin.
+*** END
