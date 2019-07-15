@@ -29,7 +29,7 @@
 #META#  EdPublisher     :: Bouserez
 #META#  EdVol           ::
 #META#  EdYear          :: 1859
-#META#  EdPages         :: 
+#META#  EdPages         :: 93-117
 #META#  MsBase          :: 
 #META#  MsOther         :: 
 #META#  MsNum           :: 1
